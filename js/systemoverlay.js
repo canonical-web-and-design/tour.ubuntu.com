@@ -1,0 +1,493 @@
+/*
+* System Overlay
+*  author: Anthony Dillon
+*/
+
+function SystemOverlay($parent){
+	 
+	var _parent = $parent;
+	var _this = this;
+	var menu_open = false;
+	var contentsWidth = 0;
+	var mediaApps;
+	var internetApps;
+	var moreApps;
+	var downloadApps;
+	this.totalApps;
+	var fileList;
+	var searching = false;
+	
+	this.init = function(){
+		downloadApps = new Array({name:'Chromium Web Browser',image:'img/software-centre/logo-chromium.png'},
+															  {name:'BEEP',image:'img/software-centre/logo-beep.png' },
+															  {name:'Inkscape Vector Graphics Editor',image:'img/software-centre/logo-inkscape.png'},
+															  {name:'World of Goo',image:'img/software-centre/logo-world-of-goo.png'},
+															  {name:'Blender', image:'img/software-centre/logo-blender.png'},
+															  {name:'Braid',image:'img/software-centre/logo-braid.png'});
+															  
+		mediaApps = new Array({name:'Banshee Media Player',image:'banshee.png'},
+															  {name:'Brasero Disc Burner',image:'brasero.png' },
+															  {name:'Movie Player',image:'movieplayer.png'},
+															  {name:'Shotwell Photo Manager',image:'shotwell.png'},
+															  {name:'PiTiVi Video Editor', image:'pitivi.png'},
+															  {name:'Sound Recorder',image:'soundrecorder.png'});
+															  
+		internetApps = new Array({name:'Empathy Internet Messageing',image:'empathy.png'},
+																  {name:'Thunderbird Mail/News',image:'thunderbird.png' },
+																  {name:'Firefox Web Browser',image:'firefox.png'},
+																  {name:'Gwibber Social Client', image:'gwibber.png'},
+																  {name:'Remote Desktop Viewer',image:'remotedesktop.png'},
+																  {name:'Terminal Server Client', image:'terminalserver.png'});
+
+		moreApps = new Array({name:'About Me',image:'aboutme.png'},
+														    {name:'Additional Drivers',image:'additionaldrivers.png' },
+														    {name:'AisleRoit Solitaire',image:'solitaire.png'},
+														    {name:'Appearance', image:'appearance.png'},
+														    {name:'Bluetooth',image:'bluetooth.png'});	
+														    
+		this.totalApps = 	mediaApps.concat(internetApps, moreApps);
+		$('#systemOverlay input').val('Search');
+		this.setupTopControl();
+	}
+	
+	this.open = function(){
+		_parent.closeTopRightDropDowns();
+		if(menu_open){
+			_this.closeOverlay();
+		}else{
+			_this.openOverlay();
+		}
+		this.resize();
+	}
+	
+	this.setupTopControl = function(){
+		$('#systemOverlay .copyDash').bind('click',function(event){
+				_this.closeOverlay();
+		});
+		
+		$('#top #top-left #dash-control-buttons .close').bind('click',function(event){
+				_this.closeOverlay();
+		});
+		
+		$('#systemOverlay input').keyup(function(){
+			_this.appSearch($(this).val());
+		});
+		
+		this.resize();
+		
+		$('#systemOverlay #shortcut-title').bind('mouseover',function(){
+			$('#systemOverlay #shortcut-title .shortcut-arrow').addClass('hover');
+		});
+		
+		$('#systemOverlay #shortcut-title').bind('mouseout',function(){
+			$('#systemOverlay #shortcut-title .shortcut-arrow').removeClass('hover');
+		});
+		
+		$('#systemOverlay #shortcut-title').bind('click',function(){
+			if($('#systemOverlay #shortcut-title p').hasClass('closed')){
+				$('#systemOverlay #shortcut-title .shortcut-arrow').removeClass('closed');
+				$('#systemOverlay #shortcuts #shortcut-contents').show();
+			}else{
+				$('#systemOverlay #shortcut-title .shortcut-arrow').addClass('closed');
+				$('#systemOverlay #shortcuts #shortcut-contents').hide();
+			}
+		});
+		
+		$('#systemOverlay #shortcuts #shortcut-contents div').bind('mouseover',function(){
+			$('div', this).addClass('hover');
+		});
+		
+		$('#systemOverlay #shortcuts #shortcut-contents div').bind('mouseout',function(){
+			$('div', this).removeClass('hover');
+		});
+		
+		$('#systemOverlay #shortcuts #shortcut-contents div').bind('mousedown',function(){
+			var theID = $(this).attr('id');
+			if(theID != undefined){
+				switch(theID){
+					case 'browse-the-web':
+						_this.closeOverlay();
+						_parent.systemMenu.handleMenuClick('firefox');
+					break;
+					case 'view-photos':
+						_this.closeOverlay();
+						_parent.systemMenu.handleMenuClick('shotwell');
+					break;
+					case 'check-email':
+						_this.closeOverlay();
+						_parent.systemMenu.handleMenuClick('email');
+					break;
+					case 'listen-to-music':
+						_this.closeOverlay();
+						_parent.errorMessage.open();
+					break;
+					case 'media-apps':
+						_this.displayApps('media');
+					break;
+					case 'internet-apps':
+						_this.displayApps('internet');
+					break;
+					case 'more-apps':
+						_this.displayApps('more');
+					break;
+					case 'find-apps':
+						_this.displayFindApps();
+					break;
+					
+				}
+			}
+		});
+		
+		$('#systemOverlay #dash-bottom-bar .bottom-wrapper div').click(function(){
+			$('#systemOverlay #dash-bottom-bar .bottom-wrapper div').removeClass('active');
+
+			switch($(this).attr('class').replace(' last','')){
+				case 'home-icon':
+					_this.reset();
+				break;
+				case 'applications-icon':
+					_this.displayApps();
+				break;
+				case 'files-icon':
+					_this.displayFindApps();
+				break;
+				case 'music-icon':
+					_this.displayMusic();
+				break;
+			}
+			$(this).addClass('active');
+			
+		});
+		
+		var search_input = $('#systemOverlay input');
+	
+		search_input.focus(function() {
+			if ($(this).val() == 'Search') {
+				$(this).val('');
+				$(this).css('font-style', 'normal');
+				$(this).css('color', '#fff');
+			}
+		});
+		search_input.blur(function() {
+			if ($(this).val() == '') {
+				$(this).val('Search');
+				$(this).css('font-style', 'italic');
+				$(this).css('color', '#666');
+				_this.reset();
+			}
+		});
+	}
+	
+	this.removeApps = function($name){
+		for(var i = 0; i < this.totalApps.length; i++){
+			if( this.totalApps[i].name == $name){
+				this.totalApps.splice(i,1);
+				break;
+			}
+		}
+	}
+	
+	this.appSearch = function($query){
+		if($query != ''){
+			var listFilesContents = '';
+			fileList = _parent.fileSystem.getFiles();
+			var listContents = '';
+			var i = this.totalApps.length;
+			var tempArray = new Array();
+			var patt1 = new RegExp($query,"gi");
+			while(i--){
+				tempArray = this.totalApps[i].name.match(patt1);
+				if(tempArray != null){
+					if(this.totalApps[i].image.substr(0,4) == 'img/'){
+						listContents += '<div><img src="'+this.totalApps[i].image+'" /><p>'+this.totalApps[i].name+'</p></div>';
+					}else{
+						listContents += '<div><img src="img/applications/'+this.totalApps[i].image+'" /><p>'+this.totalApps[i].name+'</p></div>';
+					}
+				}
+			}
+			for(var i = 0; i < fileList.length; i++){
+				tempArray = fileList[i].name().match(patt1);
+				if(tempArray != null){
+					listFilesContents += this.getDisplayIcon(fileList[i], i);
+				}
+			}
+			
+			this.hideAll();
+			$('#systemOverlay #display-search .files .app-list').html(listFilesContents);
+			$('#systemOverlay #display-search .applications .app-list').html(listContents);
+			//$('#systemOverlay input').css('background-image','url(img/overlay/cancel-logo.png)')
+			$('#systemOverlay #display-search').show();
+			$('#systemOverlay .app-container .app-list div').bind('mouseover', function(){
+				$('img',this).addClass('hover');
+			});
+			$('#systemOverlay .app-container .app-list div').bind('mouseout', function(){
+				$('img',this).removeClass('hover');
+			});
+			$('#systemOverlay .app-container .applications .app-list div').bind('click', function(){
+				var download = false;
+				if($(this).attr('data-type') == 'download'){ download = true; }
+				_this.appClicked($('img', this).attr('src'), download);
+			});
+			$('#systemOverlay .app-container .files .app-list div').bind('click', function(){
+				_this.fileClicked($(this).attr('data-id'));
+			});
+		}else{
+			this.showHome();
+		}
+	}
+	
+	this.getDisplayIcon = function($object, $i){
+		switch($object.type()){
+			case 'folder':
+				return  '<div data-id="'+$i+'"><img src="img/applications/folder.png" /><p>'+$object.name()+'</p></div>';
+			break;
+			case 'audio':
+				return  '<div data-id="'+$i+'"><img src="img/applications/audio.png" /><p>'+$object.name()+'</p></div>';
+			break;
+			case 'video':
+				return '<div data-id="'+$i+'"><img src="img/'+$object.url().replace('flv','jpg')+'" /><p>'+$object.name()+'</p></div>';
+			break;
+			case 'photo':
+				return  '<div data-id="'+$i+'"><img src="'+$object.url()+'" /><p>'+$object.name()+'</p></div>';
+			break;
+			default:
+				return  '<div data-id="'+$i+'"><img src="img/applications/unknown.png" /><p>'+$object.name()+'</p></div>'; 
+			break;
+		}
+	}
+	
+	this.hideAll = function(){
+		$('#systemOverlay #overlayContents #shortcuts').hide();
+		$('#systemOverlay #overlayContents #display-apps').hide();
+		$('#systemOverlay #overlayContents #display-find-files').hide();
+		$('#systemOverlay #overlayContents #display-search').hide();
+		$('#systemOverlay #overlayContents #display-find-music').hide();
+	}
+	
+	this.showHome = function(){
+		$('#systemOverlay #overlayContents #display-apps').hide();
+		$('#systemOverlay #overlayContents #display-find-files').hide();
+		$('#systemOverlay #overlayContents #display-search').hide();
+		$('#systemOverlay #overlayContents #display-find-music').hide();
+		$('#systemOverlay #overlayContents #shortcuts').show();
+	}
+	
+	this.displayApps = function($type){
+		this.hideAll();
+		var appArray;
+		var mostUsedArray;
+		var listContents = '';
+		var mostUsedContents = '';
+		var downloadableContents = '';
+		if($type == 'media'){
+			appArray = mediaApps;
+		}else if($type == 'internet'){
+			appArray = internetApps;
+		}else if($type == 'more'){
+			appArray = moreApps;
+		}else{
+			appArray = this.totalApps;
+		}
+		mostUsedArray = appArray.slice();
+		mostUsedArray.sort(this.randOrd);
+		downloadApps.sort(this.randOrd);
+		for(var i = 0; i < appArray.length; i++){
+			if(appArray[i].image.substr(0,4) == 'img/'){
+				listContents += '<div><img src="'+appArray[i].image+'" /><p>'+appArray[i].name+'</p></div>';
+			}else{
+				listContents += '<div><img src="img/applications/'+appArray[i].image+'" /><p>'+appArray[i].name+'</p></div>';
+			}
+		}
+		for(var i = 0; i < mostUsedArray.length; i++){
+			if(mostUsedArray[i].image.substr(0,4) == 'img/'){
+				mostUsedContents += '<div><img src="'+mostUsedArray[i].image+'" /><p>'+mostUsedArray[i].name+'</p></div>';
+			}else{
+				mostUsedContents += '<div><img src="img/applications/'+mostUsedArray[i].image+'" /><p>'+mostUsedArray[i].name+'</p></div>';
+			}
+		}
+		for(var i = 0; i < downloadApps.length; i++){
+			if(downloadApps[i].image.substr(0,4) == 'img/'){
+				downloadableContents += '<div data-type="download"><img src="'+downloadApps[i].image+'" /><p>'+downloadApps[i].name+'</p></div>';
+			}else{
+				downloadableContents += '<div data-type="download"><img src="img/applications/'+downloadApps[i].image+'" /><p>'+downloadApps[i].name+'</p></div>';
+			}
+		}
+		$('#systemOverlay #shortcuts').hide();
+		$('#systemOverlay #display-apps .available .app-list').html(downloadableContents);
+		$('#systemOverlay #display-apps .installed .app-list').html(listContents);
+		$('#systemOverlay #display-apps .frequently .app-list').html(mostUsedContents);
+		$('#systemOverlay #display-apps').show();
+		$('#systemOverlay .app-container .app-list div').bind('mouseover', function(){
+			$('img',this).addClass('hover');
+		});
+		$('#systemOverlay .app-container .app-list div').bind('mouseout', function(){
+			$('img',this).removeClass('hover');
+		});
+		$('#systemOverlay .app-container .app-list div').bind('click', function(){
+			_this.appClicked($('img', this).attr('src'), ($(this).attr('data-type') == 'download'));
+		});
+	}
+	
+	this.randOrd = function(){
+		return (Math.round(Math.random())-0.5); 
+	} 
+	
+	this.displayMusic = function(){
+		this.hideAll();
+		var songsContents = '';
+		var albumsContents = '';
+		fileList = _parent.fileSystem.getFiles();
+		for(var i = 0; i < fileList.length; i++){
+			if(fileList[i].type() == 'audio'){
+				songsContents += this.getDisplayIcon(fileList[i], i);
+			}
+		}
+		$('#systemOverlay #display-find-music .songs .app-list').html(songsContents);
+		$('#systemOverlay #display-find-music .albums  .app-list').html(albumsContents);
+		$('#systemOverlay #shortcuts').hide();
+		$('#systemOverlay #display-find-music').show();
+		$('#systemOverlay .app-container .app-list div').bind('mouseover', function(){
+			$('img',this).addClass('hover');
+		});
+		$('#systemOverlay .app-container .app-list div').bind('mouseout', function(){
+			$('img',this).removeClass('hover');
+		});
+		$('#systemOverlay .app-container .app-list div').bind('click', function(){
+			_this.appClicked($('img', this).attr('src'), ($(this).attr('data-type') == 'download'));
+		});
+	}
+	
+	this.displayFindApps = function(){
+		this.hideAll();
+		var listFilesContents = '';
+		var listFolderContents = '';
+		fileList = _parent.fileSystem.getFiles();
+		for(var i = 0; i < fileList.length; i++){
+			if(fileList[i].type() == 'folder'){
+				listFolderContents += this.getDisplayIcon(fileList[i], i);
+			}else{
+				listFilesContents += this.getDisplayIcon(fileList[i], i);
+			}
+		}
+		$('#systemOverlay #display-find-files .folders .app-list').html(listFolderContents);
+		$('#systemOverlay #display-find-files .files .app-list').html(listFilesContents);
+		$('#systemOverlay #shortcuts').hide();
+		$('#systemOverlay #display-find-files').show();
+		$('#systemOverlay .app-container .app-list div').bind('mouseover', function(){
+			$('img',this).addClass('hover');
+		});
+		$('#systemOverlay .app-container .app-list div').bind('mouseout', function(){
+			$('img',this).removeClass('hover');
+		});
+		$('#systemOverlay .app-container .app-list div').bind('click', function(){
+			_this.fileClicked($(this).attr('data-id'));
+		});
+	}
+	
+	this.fileClicked = function($fileID){
+		var fileObject = fileList[$fileID];
+		switch(fileObject.type()){
+			case 'folder':
+				_this.closeOverlay();
+				_parent.fileSystem.reset(!_parent.fileSystem.isMinified());
+				_parent.fileSystem.updateDir(fileObject.location()+'/'+fileObject.name());
+				_parent.fileSystem.open();
+			break;
+			case 'photo':
+				_this.closeOverlay();
+				_parent.shotwellSystem.selectImage(fileObject.id());
+			  	_parent.shotwellSystem.open();
+			break;
+			case 'video':
+				_this.closeOverlay();
+			  	_parent.moviePlayerSystem.open();
+			  	_parent.moviePlayerSystem.addVideo();
+			break;
+			default:
+				_this.closeOverlay();
+				_parent.errorMessage.open();
+			break;
+		}
+	}
+	
+	this.appClicked = function($appName, $download){
+		_this.closeOverlay();
+		var appName = $appName.substring($appName.lastIndexOf('/')+1, $appName.length - 4);
+		if($download){
+			appName = appName.replace('logo-','');
+			if(appName == 'world-of-goo'){ appName = 'worldofgoo'; }
+			_parent.softwareSystem.open(appName);
+		}else{
+			switch(appName){
+				case 'shotwell':
+					_parent.systemMenu.handleMenuClick('shotwell');
+				break;
+				case 'thunderbird':
+					_parent.systemMenu.handleMenuClick('email');
+				break;
+				case 'firefox':
+					_parent.systemMenu.handleMenuClick('firefox');
+				break;
+				case 'movieplayer':
+					_parent.moviePlayerSystem.open();
+				break;
+				default:
+					_parent.errorMessage.open();
+				break;
+			}
+		}
+		
+	}
+	
+	this.reset = function(){
+		$('#systemOverlay input').val('Search');
+		$('#systemOverlay input').css('font-style', 'italic');
+		$('#systemOverlay input').css('color', '#666');
+		this.hideAll();
+		$('#systemOverlay #shortcuts').show();
+		$('#systemOverlay #dash-bottom-bar .bottom-wrapper div').removeClass('active');
+		$('#systemOverlay #dash-bottom-bar .bottom-wrapper .home-icon').addClass('active');
+	}
+	
+	this.hide = function(){
+		_parent.unblurWindows();
+		$('#systemOverlay').hide();
+		_this.reset();
+	}
+	
+	this.openOverlay = function(){
+		$('#top').addClass('dashOpen');
+		$('#menu').addClass('dashOpen');
+		$('#top').removeClass('dropShadow');
+		menu_open = true;
+		_parent.lockOpenMenu();
+		$('#top #top-button-bg').addClass('open');
+		$('#systemOverlay').fadeTo(300, 1, _parent.blurWindows);
+		$('#systemOverlay input').focus();
+	}
+	
+	this.closeOverlay = function(){
+		$('#top').removeClass('dashOpen');
+		$('#menu').removeClass('dashOpen');
+		$('#top').addClass('dropShadow');
+		menu_open = false;
+		if(_parent.systemSettings.fullscreenCount() > 0){
+			_parent.lockCloseMenu();
+		}
+		$('#top #top-button-bg').removeClass('open');
+		$('#systemOverlay').fadeTo(300, 0, function(){
+			_this.hide();
+		});
+		 $('#systemOverlay .app-container .app-list div').unbind('mouseover');
+		 $('#systemOverlay .app-container .app-list div').unbind('mouseout');
+		 $('#systemOverlay .app-container .app-list div').unbind('click');
+	}
+	
+	this.resize = function(){
+		var shortcutsHalfWidth = $('#systemOverlay #shortcuts #shortcut-contents').width() / 2;
+		var appsLeft = ($(document).width() / 2) - shortcutsHalfWidth - 90;
+		$('#systemOverlay #shortcuts #shortcut-contents').css('left',appsLeft);
+		$('#systemOverlay  .bottom-wrapper').css('left',appsLeft + shortcutsHalfWidth);
+		$('#systemOverlay').css('height',$(document).height() - 50);
+	}
+}

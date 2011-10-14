@@ -1,0 +1,657 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Ubuntu online tour</title>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+	<meta name="description" content="Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Take Ubuntu for a test drive with our online tour and download when you're ready!" />
+	<meta name="keywords" content="ubuntu, ubuntu online, ubuntu tour" /> 
+	<link rel="stylesheet" href="css/loader.css" type="text/css" />
+	<link rel="stylesheet" href="css/error.css" type="text/css" />
+	<link rel="stylesheet" href="css/base.css" type="text/css" />
+	<link rel="stylesheet" href="css/folder.css" type="text/css" />
+	<link rel="stylesheet" href="css/firefox.css" type="text/css" />
+	<link rel="stylesheet" href="css/email.css" type="text/css" />
+	<link rel="stylesheet" href="css/systemoverlay.css" type="text/css" />
+	<link rel="stylesheet" href="css/ubuntuone.css" type="text/css" />
+	<link rel="stylesheet" href="css/shotwell.css" type="text/css" />
+	<link rel="stylesheet" href="css/tourguide.css" type="text/css" />
+	<link rel="stylesheet" href="css/welcome.css" type="text/css" />
+	<link rel="stylesheet" href="css/shutdown.css" type="text/css" />
+	<link rel="stylesheet" href="css/movieplayer.css" type="text/css" />
+	<link rel="stylesheet" href="css/libre.css" type="text/css" />
+	<link rel="stylesheet" href="css/notification.css" type="text/css" />
+	<link rel="stylesheet" href="css/software-centre.css" type="text/css" />
+	<!--[if IE 8]>
+		<link rel="stylesheet" href="css/iefix.css" type="text/css" />
+	<![endif]-->
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700' rel='stylesheet' type='text/css'>
+	<script type="text/javascript">
+	   WebFontConfig = {
+	     google: { families: [ 'Ubuntu:400,700:latin' ] }
+	   };
+	   (function() {
+	     var wf = document.createElement('script');
+	     wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+	       '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+	     wf.type = 'text/javascript';
+	     wf.async = 'true';
+	     var s = document.getElementsByTagName('script')[0];
+	     s.parentNode.insertBefore(wf, s);
+	   })(); 
+	 </script>
+</head>
+<body>
+	<div id="loader">
+		<div id="dot-container"><noscript><p>This demo uses JavaScript. Either your browser doesn't support JavaScript, or it's currently switched off.<br/><br/>Don't panic. We've got <a href="/ubuntu/take-the-tour-gallery">a non-JavaScript version</a> of the online tour you can view instead. :)</p></noscript></div>
+	</div>
+	<div id="top" class="dropShadow">
+		<div id="top-left">
+			<div id="control-buttons">
+				<div id="close">	</div>
+				<div id="min"></div>
+				<div id="max"></div>
+			</div>
+			<div id="dash-control-buttons">
+				<div class="close">	</div>
+				<div class="min"></div>
+				<div class="max"></div>
+			</div>
+			<div id="title">
+			</div>
+		</div>
+		
+		<div id="top-right">
+			<div id="bluetooth"><img src="img/top/bluetooth.png" alt=""/><ul class="drop-down">
+					<li class="disabled bluetooth">Bluetooth On</li>
+					<li>Turn Off Bluetooth</li>
+					<li class="divider"></li>
+					<li class="disabled BtOn">Visible</li>
+					<li class="divider BtOn"></li>
+					<li class="disabled BtOn">Send files to device&#8230;</li>
+					<li class="disabled BtOn">Browse files on device&#8230;</li>
+					<li class="divider"></li>
+					<li class="disabled BtOn">Setup new device&#8230;</li>
+					<li class="divider BtOn"></li>
+					<li class="disabled">Preferences</li>
+				</ul></div>
+			<div id="connection"><img src="img/top/connection.png" alt=""/><ul class="drop-down">
+					<li class="disabled">Auto eth0</li>
+					<li class="disabled">Disconnect</li>
+					<li class="divider"></li>
+					<!--<li class="disabled"><img src="img/top/wireless-icon.png" alt=""/> My Wireless Connection</li>
+					<li class="disabled">Disconnect</li>
+					<li class="divider"></li>-->
+					<li class="disabled">Connection Information</li>
+					<li class="disabled">Edit Connections&#8230;</li>
+				</ul></div>
+			<div id="message"><img src="img/top/nomessage.jpg" class="message-logo" alt="" /><ul class="drop-down">
+					<li class="disabled"><img src="img/top/available.jpg" alt=""/> Available</li>
+					<li class="disabled"><img src="img/top/away.jpg" alt=""/> Away</li>
+					<li class="disabled"><img src="img/top/busy.jpg" alt=""/> Busy</li>
+					<li class="disabled"><img src="img/top/invisible.jpg" alt=""/> Invisible</li>
+					<li class="disabled"><img src="img/top/offline.jpg" alt=""/> Offline</li>
+					<li class="divider"></li>
+					<li class="disabled"><img src="img/top/chat.png" alt=""/> Chat</li>
+					<li class="divider"></li>
+					<li class="disabled"><img src="img/top/broadcast.png" alt=""/> Set Up Broadcast Account&#8230;</li>
+					<li class="divider"></li>
+					<li class="disabled"><img src="img/top/mail.png" alt=""/> Set Up Mail&#8230;</li>
+					<li class="divider"></li>
+					<li class="disabled"><img src="img/top/uone.png" alt=""/> Ubuntu One</li>
+					<li class="divider"></li>
+					<li class="disabled">Clear</li>
+				</ul></div>
+			<div id="speakers"><img src="img/top/speakers3.png" class="speakers-logo"  alt=""/><ul class="drop-down">
+					<li>Mute</li>
+					<li class="system-volume"><div class="large-icon"></div><div class="small-icon"></div><div class="slider"></div><div class="slider-active"></div></li>
+					<li class="divider"></li>
+					<li class="disabled"><img src="img/top/banshee.png" alt=""/> Banshee</li>
+					<li class="banshee"><div class="banshee-rewind"></div><div class="banshee-forward"></div><div class="banshee-play"></div></li>
+					<li class="divider"></li>
+					<li class="disabled">Sound Settings&#8230;</li>
+					</ul>
+				</div>
+			<div id="time"><p></p>
+				<ul class="drop-down">
+					<li class="disabled">Available</li>
+					<li class="system-calendar"></li>
+					<li class="divider"></li>
+					<li class="disabled">Add Event&#8230;</li>
+					<li class="divider"></li>
+					<li class="disabled">TIme &amp; Date Settings&#8230;</li>
+				</ul></div>
+			<div id="power"><img src="img/top/power.png"  alt=""/>
+				<ul class="drop-down">
+					<li class="disabled">System Settings&#8230;</li>
+					<li class="disabled">Displays&#8230;</li>
+					<li class="disabled">Startup Applications&#8230;</li>
+					<li class="disabled">Software Up to Date</li>
+					<li class="divider"></li>
+					<li class="disabled">Attached Devices</li>
+					<li class="disabled">Printers</li>
+					<li class="disabled">Webcam</li>
+					<li class="divider"></li>
+					<li class="disabled">Lock Screen</li>
+					<li class="disabled">Log Out&#8230;</li>
+					<li class="disabled">Suspend</li>
+					<li class="disabled">Hibernate</li>
+					<li>Shut Down&#8230;</li>
+					<li class="divider"></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+		<div id="tooltip">
+				<div class="arrow-right"></div>
+				<div id="tooltip-text"></div>
+		</div>
+	<div id="menu">
+		<ul>
+			<li class="dash"><span>Dash home</span></li>
+			<li class="home"><img src="img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Home Folder</span><img src="img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/></li>
+			<li class="firefox"><img src="img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Firefox Web Browser</span><img src="img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/></li>
+			<li class="software"><img src="img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Ubuntu Software Centre</span><img src="img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/></li>
+			<li class="writer"><img src="img/menu/open-arrow.png" class="open-arrow" alt=""/><span>LibreOffice Writer</span><img src="img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/></li>
+			<li class="impress"><img src="img/menu/open-arrow.png" class="open-arrow" alt=""/><span>LibreOffice Impress</span><img src="img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/></li>
+			<li class="calc"><img src="img/menu/open-arrow.png" class="open-arrow" alt=""/><span>LibreOffice Calc</span><img src="img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/></li>
+			<li class="uone"><img src="img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Ubuntu One</span><img src="img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/></li>
+			<li class="email"><img src="img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Thunderbird Mail/News</span><img src="img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/></li>
+			<li class="shotwell temp"><img src="img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Shotwell Photo Manager</span><img src="img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/></li>
+			<li class="movieplayer temp"><img src="img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Movie Player</span><img src="img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/></li>
+			<!--<li class="workspace"><span>Workspace Switcher</span></li>-->
+			<li class="rubbish bottom"><span>Rubbish bin</span></li>
+		</ul>
+	</div>
+	
+	<div id="systemOverlay">
+		<div class="copyDash"></div>
+		<div id="overlayContents">
+			<input type="text" name="search" value="Search"/>
+			<div id="shortcuts">
+				<div id="shortcut-title"><img src="img/overlay/shortcuts-logo.png" alt=""/> Shortcuts <p class="shortcut-arrow"></p></div>
+				<div id="shortcut-contents">
+					<div id="media-apps" class="first"><div></div><div class="dashClear"></div><span>Media Apps</span></div>
+					<div id="internet-apps"><div></div><div class="dashClear"></div><span>Internet Apps</span></div>
+					<div id="more-apps"><div></div><div class="dashClear"></div><span>More Apps</span></div>
+					<div id="find-apps"><div></div><div class="dashClear"></div><span>Find Files</span></div>
+					<div id="browse-the-web" class="first"><div></div><div class="dashClear"></div><span>Browse the Web</span></div>
+					<div id="view-photos"><div></div><div class="dashClear"></div><span>View Photos</span></div>
+					<div id="check-email"><div></div><div class="dashClear"></div><span>Check Email</span></div>
+					<div id="listen-to-music"><div></div><div class="dashClear"></div><span>LIsten to Music</span></div>
+				</div>
+			</div>
+			<div id="display-apps" class="app-container">
+				<div class="frequently bottom"><img src="img/overlay/mostfrequently.png" alt=""/> Most Frequently Used <div class="app-list"></div></div>
+				<div class="installed bottom"><img src="img/overlay/installed.png" alt=""/> Installed<div class="app-list"></div></div>
+				<div class="available"><img src="img/overlay/available.png" alt=""/> App Available for Download<div class="app-list"></div></div>
+			</div>
+			<div id="display-find-files" class="app-container">
+				<div class="folders bottom"><img src="img/overlay/folders.png" alt=""/> Folders<div class="app-list"></div></div>
+				<div class="files"><img src="img/overlay/folders.png" alt=""/> Files<div class="app-list"></div></div>
+			</div>
+			<div id="display-find-music" class="app-container">
+				<div class="songs bottom"><img src="img/overlay/folders.png" alt=""/> Songs<div class="app-list"></div></div>
+				<div class="albums"><img src="img/overlay/folders.png" alt=""/> Albums<div class="app-list"></div></div>
+			</div>
+			<div id="display-search" class="app-container">
+				<div class="applications bottom"><img src="img/overlay/search-apps-logo.jpg" alt=""/> Applications<div class="app-list"></div></div>
+				<div class="files"><img src="img/overlay/search-files-logo.jpg" alt=""/> Files &amp; Folders<div class="app-list"></div></div>
+			</div>
+		</div>
+		<div id="dash-bottom-bar">
+			<div class="bottom-wrapper">
+				<div class="home-icon active"></div>
+				<div class="applications-icon"></div>
+				<div class="files-icon"></div>
+				<div class="music-icon last"></div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="ubuntuone-window" class="uone window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="window-title">Ubuntu One Control Panel</div>
+		</div>
+		<div class="content">
+			<div class="header"></div>
+			<div class="body">
+				<h1>The Power of Your Personal Cloud</h1>
+				<div class="features">
+					<div class="files-anywhere">
+						<span class="logo"></span>
+						<div>
+							<h3>Files Anywhere</h3>
+							<p>Backup and access your files from Ubuntu, Windows, Web or Mobile</p>
+						</div>
+					</div>
+					<div class="rock-out">
+						<span class="logo"></span>
+						<div>
+							<h3>Rock Out</h3>
+							<p>Your entire collection follows you around with music streaming to Android and iPhone</p>
+						</div>
+					</div>
+					<div class="keep-connected">
+						<span class="logo"></span>
+						<div>
+							<h3>Keep Connected</h3>
+							<p>Unify you contacts across Desktop, Mobile and Web</p>
+						</div>
+					</div>
+					<div class="stay-productive">
+						<span class="logo"></span>
+						<div>
+							<h3>Stay Productive</h3>
+							<p>Keep you firefox bookmarks and Tomboy notes synced</p>
+						</div>
+					</div>
+				</div>
+				<div class="ubuntuone-buttons">
+					<div class="learn-more"><img src="img/ubuntuone/ubuntuone-logo.jpg" width="47" height="48" alt=""/><div>Learn More</div></div>
+					<div class="join-now"><h2>Join now</h2></div>
+					<div class="have-account">I already have an account!</div>
+				</div>
+			</div>
+		</div>	
+	</div>
+	
+	<div id="libreoffice-calc-window" class="calc window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="window-title">Untitled 1 - LibreOffice Calc</div>
+		</div>
+		<div class="content"></div>	
+	</div>
+	
+	<div id="libreoffice-writer-window" class="writer window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="window-title">Untitled 1 - LibreOffice Writer</div>
+		</div>
+		<div class="content"></div>
+	</div>
+	
+	<div id="libreoffice-impress-window" class="impress window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="window-title">Untitled 1 - LibreOffice Impress</div>
+		</div>
+		<div class="content"></div>
+	</div>
+	
+	<div class="error-window window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="window-title"></div>
+		</div>
+		<div class="error-container">
+			<h1>Thanks for exploring Ubuntu!</h1>
+			<a class="download"  href="http://www.ubuntu.com/download/ubuntu/download#tour" target="_blank">Download Ubuntu</a>
+			<h2>Remember, this is just a demo. You'll have  to download it to enjoy the real thing!</h2>
+		</div>
+	</div>
+	
+	<!--<div id="error-window" class="error-window window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="window-title"></div>
+		</div>
+		<div class="content">
+			<img src="img/error/warning.jpg"/>
+			<div class="message">
+				<p>Thanks for exploring Ubuntu</p>
+				<p>Remember, this is just a demo. You'll have  to download it to enjoy the real thing!</p>
+			</div>
+			<div class="error-buttons"><div class="download highlight">Download Ubuntu</div></div>
+		</div>
+	</div>-->
+	
+	<!--<div id="workspaces">
+		<div id="void">
+		<div id="workspace-container">
+			<div id="workspace1"><div class="fadedOverlay"></div></div>
+			<div id="workspace2"><div class="fadedOverlay"></div></div>
+			<div id="workspace3"><div class="fadedOverlay"></div></div>
+			<div id="workspace4"><div class="fadedOverlay"></div></div>
+			<div class="reflection" style="clear:both;"></div>
+			<div class="reflection"></div>
+		</div>
+		</div>
+	</div>-->
+	
+	<div id="email-window" class="email-window window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="min"></div>
+			<div class="max"></div>
+			<div class="window-title">Email</div>
+		</div>
+		<div class="buttons">
+			<div class="email-get-mail"></div>
+			<div class="email-divider"></div>
+			<div class="email-write"></div>
+			<!--<div class="email-address-book"></div>
+			<div class="email-divider"></div>
+			<div class="email-tag"></div>
+			<div class="email-search"><input type="text" name="submitEmailSearch" id="submitEmailSearch"/></div>-->
+		</div>
+		<div style="clear:both;"></div>
+		<div class="email-content">
+			<div class="folder-list">
+				<div class="bottom-buttons">
+					All Folders
+				</div>
+				<div style="clear:both;"></div>
+				<div class="list">
+					<div id="folder-inbox" class="selected"><img src="img/email/inbox.png" alt=""/> Inbox</div>
+					<div id="folder-draft"><img src="img/email/drafts.png" alt=""/> Draft</div>
+					<div id="folder-sent"><img src="img/email/sent.png" alt=""/> Sent</div>
+					<div id="folder-archive"><img src="img/email/archive-logo.png" alt=""/> Archive</div>
+					<div id="folder-trash"><img src="img/email/trash.png" alt=""/> Trash</div>
+				</div>
+			</div>
+			<div class="email-contents">
+				<div class="email-categories">
+					<div><img src="img/email/t.png" alt=""/></div>
+					<div><img src="img/email/star.png" alt=""/></div>
+					<div><img src="img/email/clip.png" alt=""/></div>
+					<div class="subject">Subject</div>
+					<div><img src="img/email/glasses.png" alt=""/></div>
+					<div class="from">From</div>
+					<div><img src="img/email/fire.png" alt=""/></div>
+					<div class="date">Date</div>
+				</div>
+				<div style="clear:both;"></div>
+				<div class="email-list"></div>
+				<div class="email-body">
+					<div class="message-header">
+						<div class="email-buttons">
+							<div>
+								<span class="message-reply"></span>
+								<span class="message-forward"></span>
+								<span class="message-archive"></span>
+								<span class="message-junk"></span>
+								<span class="message-delete"></span>
+							</div>
+						</div>
+						<div style="clear:both;"></div>
+						<div class="date"></div>
+						<dl class="from"><dt>from</dt><dd></dd></dl>
+						<dl class="subject"><dt>subject</dt><dd></dd></dl>
+						<dl class="to"><dt>to</dt><dd></dd></dl>
+						<dl class="cc"><dt>cc</dt><dd></dd></dl>
+					</div>
+					<div class="junk-mail-banner"><img src="img/email/large-fire.jpg" alt=""/> Junk Mail <div class="not-junk"></div></div>
+					<div class="message-body"></div>
+				</div>
+			</div>
+			<div style="clear:both;"></div>
+			<div class="emails-info"><div>Unread: <span id="details-unread">1</span> Total: <span id="details-total">1</span></div></div>
+		</div>
+	</div>
+	
+	<div id="email-write" class="email-write window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="min"></div>
+			<div class="max"></div>
+			<div class="window-title">Write: (no subject)</div>
+		</div>
+		<div class="buttons">
+			<div id="write-send"></div>
+			<div class="email-divider"></div>
+			<div id="write-attach"></div>
+		</div>
+		<div style="clear:both;"></div>
+		<div id="write-from"><div>From:</div> <input type="text" name="from" value="You"/></div>
+		<div id="write-to"><div>To:</div>  <input type="text" name="to"/></div>
+		<div id="write-subject"><div>Subject:</div> <input type="text" name="subject"/></div>
+		<div><img src="img/email/disabled-format-buttons.jpg" width="853" height="32" alt=""/></div>
+		<div id="write-body"><textarea name="body"></textarea></div>
+		<div class="loading-bar"><div class="progress"></div></div>
+	</div>
+	
+	<div id="software-centre" class="software window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="min"></div>
+			<div class="max"></div>
+			<div class="window-title">Ubuntu Software Centre</div>
+		</div>
+		<div class="top-panel">
+			<div class="back disabled"></div>
+			<div class="forward disabled"></div>
+			<div class="all-software selected"><img src="img/software-centre/all-software.png" alt=""/>All Software</div>
+			<div class="installed"><img src="img/software-centre/installed.png" alt=""/>Installed</div>
+			<div class="history"><img src="img/software-centre/history.png" alt=""/>History</div>
+		</div>
+		<div class="container detailed">
+			<div class="title"><img src="img/software-centre/visolate.png" class="app-image" width="100" alt=""/><h1>Visolate</h1><p class="subheading">PCB CNC converter</p><p class="rating"><img src="img/software-centre/rating.jpg" alt="" /> (91 Ratings)</p></div>
+			<div class="price"><span class="theprice">Free</span><span class="button">Install</span><div class="loading-bar"><div class="progress"></div></div></div>
+			<div class="description-container">
+				<div class="description-image"><img src="img/software-centre/screenshot-blender.jpg" alt="" /></div>
+				<div class="description"><img src="img/software-centre/screenshot-blender.jpg" alt="" />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi nulla. </div>
+				<div style="clear:both;"></div>
+			</div>
+			
+		</div>
+		<div class="container home">
+		<div class="header-image"></div>
+			<div class="navigation">
+				<ul>
+					<li>Accessories</li>
+					<li>Developer Tools</li>
+					<li>Education</li>
+					<li>Fonts</li>
+					<li>Games</li>
+					<li>Graphics</li>
+					<li>Internet</li>
+					<li>Office</li>
+					<li>Science &amp; Engineering</li>
+					<li>Sound &amp; Video</li>
+					<li>System</li>
+					<li>Themes &amp; Tweaks</li>
+				</ul>
+			</div>
+			<div class="whats-new">
+				<h2> What's New</h2>
+				<div class="app-container">
+					<div class="chromium"><h3>Chromium</h3><p>Internet</p><p class="cost">Free</p></div>
+					<div class="beep"><h3>BEEP</h3><p>Games</p><p class="cost">&#36;9.99</p></div>
+					<div class="inkscape"><h3>Inkscape</h3><p>Graphics</p><p class="cost">Free</p></div>
+					<div class="worldofgoo"><h3>World of Goo</h3><p>Games</p><p class="cost">&#36;19.99</p></div>
+					<div class="blender"><h3>Blender</h3><p>Graphics</p><p class="cost">Free</p></div>
+					<div class="braid"><h3>Braid</h3><p>Games</p><p class="cost">&#36;9.99</p></div>
+				</div>
+			</div>
+			<div class="whats-new">
+				<h2> Top Rated</h2>
+				<div class="app-container">
+					<div class="beep"><h3>BEEP</h3><p>Games</p><p class="cost">&#36;9.99</p></div>
+					<div class="chromium"><h3>Chromium</h3><p>Internet</p><p class="cost">Free</p></div>
+					<div class="worldofgoo"><h3>World of Goo</h3><p>Games</p><p class="cost">&#36;19.99</p></div>
+					<div class="braid"><h3>Braid</h3><p>Games</p><p class="cost">&#36;9.99</p></div>
+					<div class="inkscape"><h3>Inkscape</h3><p>Graphics</p><p class="cost">Free</p></div>
+					<div class="blender"><h3>Blender</h3><p>Graphics</p><p class="cost">Free</p></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="shotwell" class="shotwell window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="min"></div>
+			<div class="max"></div>
+			<div class="window-title">Shotwell</div>
+		</div>
+		<div class="sidebar">
+			<div class="nav">
+				<ul>
+					<li class="library">Library</li>
+				</ul>
+			</div>
+			<div class="details">
+				<div class="overall">
+					<div>Items: <span class="items"></span></div>
+					<div>From: <span class="from">Fri 26 Oct, 2001</span></div>
+					<div>To: <span class="to">Mon 11 October, 2010</span></div>
+				</div>
+				<div class="single">
+					<div>Title: <span class="title"></span></div>
+					<div>Date: <span class="date"></span></div>
+					<div>Size: <span class="size"></span></div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="images"></div>
+			<div class="tools">
+				<div class="jump-image"><div class="next"></div><div class="prev"></div></div>
+				<div class="slider-container"><div class="small-icon"></div><div class="slider"></div><div class="slider-active"></div><div class="large-icon"></div></div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="movieplayer" class="movieplayer window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="min"></div>
+			<div class="max"></div>
+			<div class="window-title">Movie Player</div>
+		</div>
+		<div class="container">
+			<div class="video"></div>
+		</div>
+	</div>
+	
+	<div id="firefox-window" class="firefox-window window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="min"></div>
+			<div class="max"></div>
+			<div class="window-title">Browse the web</div>
+		</div>
+		<div class="buttons">
+			<div class="firefox-back"></div>
+			<div class="firefox-forward"></div>
+			<div class="firefox-url"><input type="text" name="submitURL" id="submitURL" value="http://www.ubuntu.com"/></div>
+			<div class="firefox-search"><input type="text" name="submitSearch" id="submitSearch" value="Google" class="fade-text"/></div>
+		</div>
+		<div style="clear:both;"></div>
+		<div class="firefox-internet">
+			<div class="web-overlay-tran"></div>
+			<div class="theIframe"><iframe src="http://www.ubuntu.com" id="firefoxInternet" >
+			  <p>Your browser does not support iframes.</p>
+			</iframe></div>
+		</div>	
+	</div>
+	
+	<div id="shutdown-window" class="window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="window-title">Shut Down</div>
+		</div>
+		<div class="content">
+			<img src="img/powerwarning.jpg" alt=""/>
+			<div class="message">
+				<p>Are you sure you want to close all programs and shutdown the computer?</p>
+			</div>
+			<div class="shutdown-buttons"><div class="shutdown highlight">Shut Down</div><div class="cancel">Cancel</div></div>
+		</div>
+	</div>
+	
+	<div id="folder-window" class="folder window">
+		<div class="control">
+			<div class="close"></div>
+			<div class="min"></div>
+			<div class="max"></div>
+			<div class="window-title"></div>
+		</div>
+		
+		<div style="clear:both;"></div>
+		<div class="folder-list">
+			<div class="list">
+				<p>Computer</p>
+				<ul>
+					<li class="home selected" data-folder="home"><img src="img/folder/home-icon.png" alt=""/> Home</li>
+					<li class="desktop" data-folder="5"><img src="img/folder/desktop-icon.png"  alt=""/> Desktop</li>
+					<li class="documents" data-folder="0"><img src="img/folder/documents-icon.png"  alt=""/> Documents</li>
+					<li class="downloads" data-folder="1"><img src="img/folder/downloads-icon.png"  alt=""/> Downloads</li>
+					<li class="music" data-folder="2"><img src="img/folder/music-icon.png"  alt=""/> Music</li>
+					<li class="pictures" data-folder="4"><img src="img/folder/pictures-icon.png"  alt=""/> Pictures</li>
+					<li class="videos" data-folder="3"><img src="img/folder/videos-icon.png"  alt=""/> Videos</li>
+					<li class="rubbish" data-folder="bin"><img src="img/folder/rubbish-icon.png"  alt=""/> Rubbish bin</li>
+				</ul>
+			</div>
+		</div>
+		<div class="folder-contents">
+			<div class="buttons">
+				<div class="folder-back"></div>
+				<div class="folder-forward"></div>
+			</div>
+			<div class="bottom-buttons"></div>
+			<div style="clear:both;"></div>
+			<div class="contents"></div>
+		</div>
+	</div>
+	
+	<div id="welcome">
+		<div id="welcome-screen">
+			<div class="close"></div>
+			<h1>Welcome to the Ubuntu online tour!</h1>
+			<h2>Take Ubuntu for a test drive with our online demo.</h2>
+			<ul>
+				<li><a class="browse-files" href="#browse-files">Browse files</a></li>
+				<li><a class="surf-the-web" href="#surf-the-web">Surf the web</a></li>
+				<li><a class="check-email" href="#check-email">Check email</a></li>
+				<li><a class="view-photos" href="#view-photos">View photos</a></li>
+				<li><a class="find-apps" href="#find-apps">Find apps</a></li>
+				<li><a class="create-documents" href="#create-documents">Create documents</a></li>
+				<li><a class="create-spreadsheets" href="#create-spreadsheets">Create spreadsheets</a></li>
+				<li><a class="create-presentations" href="#create-presentations">Create presentations</a></li>
+			</ul>
+			<a class="explore-mode primary" href="#">Show yourself around</a>
+			<a class="tour-mode" href="#">Take the guided tour</a>
+		</div>
+	</div>
+	
+	<div id="tour-guide">
+		<div class="next-button"><img src="img/tourguide/arrow-next.png" alt="" ></div>
+		<div class="prev-button"><img src="img/tourguide/arrow-prev.png" alt="" /></div>
+		<div class="guide-container">
+			<div class="guide-logo"></div>
+			<h3></h3>
+			<p></p>
+		</div>
+		<div class="explore-tooltip">Download</div>
+		<div class="explore-to-welcome"></div>
+		<div class="explore-to-download"></div>
+	</div>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.14/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="js/scripts.js"></script>
+	<script type="text/javascript" src="js/welcomesystem.js"></script>
+	<script type="text/javascript" src="js/guidedtoursystem.js"></script>
+	<script type="text/javascript" src="js/filesystem.js"></script>
+	<script type="text/javascript" src="js/folders.js"></script>
+	<script type="text/javascript" src="js/systemoverlay.js"></script>
+	<script type="text/javascript" src="js/systemmenu.js"></script>
+	<script type="text/javascript" src="js/internetsystem.js"></script>
+	<script type="text/javascript" src="js/emailsystem.js"></script>
+	<script type="text/javascript" src="js/systemsettings.js"></script>
+	<script type="text/javascript" src="js/email.js"></script>
+	<script type="text/javascript" src="js/errormessage.js"></script>
+	<!--<script type="text/javascript" src="js/workspaces.js"></script>-->
+	<script type="text/javascript" src="js/ubuntuonesystem.js"></script>
+	<script type="text/javascript" src="js/file.js"></script>
+	<script type="text/javascript" src="js/shotwellsystem.js"></script>
+	<script type="text/javascript" src="js/shutdownSystem.js"></script>
+	<script type="text/javascript" src="js/movieplayersystem.js"></script>
+	<script type="text/javascript" src="js/libresystem.js"></script>
+	<script type="text/javascript" src="js/softwaresystem.js"></script>
+	<script type="text/javascript" src="js/notificationsystem.js"></script>
+	<script type="text/javascript" src="js/analytics.js"></script>
+</body>
+</html>

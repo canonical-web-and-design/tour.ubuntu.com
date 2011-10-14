@@ -1,0 +1,352 @@
+/*
+* File system
+*  author: Anthony Dillon
+*/
+
+function FileSystem($parent, $startingDir){
+	
+	var _parent = $parent;
+	var home = '/Home';
+	if($startingDir == undefined){ $startingDir = home; }
+	var current_dir = $startingDir;
+	var list_of_files = new Array();
+	var dir_history = new Array();
+	var history_index = -1;
+	var folderContents = '';
+	var _this = this;
+	var itemCount = 0;
+	var folder_index = -1;
+	var minified = false;
+	var maximised = false;
+	var dragging = false;
+	var name = 'Home';
+	var _isOpen = false;
+	var list_type = 'display-icon';
+	
+	var folderContentsHeight = 0;
+	var folderContentsWidth = 0;
+	
+	this.init = function(){
+		
+		list_of_files.push(new Folder('Documents'));
+		list_of_files.push(new Folder('Downloads'));
+		list_of_files.push(new Folder('Music'));
+		list_of_files.push(new Folder('Videos'));
+		list_of_files.push(new Folder('Pictures'));
+		list_of_files.push(new Folder('Desktop'));
+		
+		
+		list_of_files.push(new Folder('Canonical', '/\Home/\Documents'));
+		list_of_files.push(new Folder('Backup', '/\Home/\Documents'));
+		list_of_files.push(new Folder('Local', '/\Home/\Documents'));
+		
+		list_of_files.push(new Folder('work', '/\Home/\Documents/Canonical'));
+		list_of_files.push(new Folder('branches', '/\Home/\Documents/Canonical'));
+		
+		list_of_files = list_of_files.concat(_parent.fileLibrary);
+		
+		this.setupControl();
+	}
+	
+	this.setupControl = function(){
+		$('.folder .control .close').click(function(){
+			_this.close();
+		});
+		$('.folder .control .min').click(function(){
+			if(maximised){ _parent.systemSettings.decreaseFullscreen(); }
+			$('.folder').hide();
+			_parent.systemMenu.wiggle('home');
+			minified = true;
+		});
+		
+		$('.folder .control .max').click(function(){
+			if(maximised){
+				maximised = false;
+				$('.folder').removeClass('fullsize');
+				_parent.systemSettings.decreaseFullscreen();
+			}else{
+				maximised = true;
+				$('.folder').addClass('fullsize');
+				_parent.systemSettings.increaseFullscreen();
+			}
+			_this.resize();
+			_this.center();
+		});
+		
+		$('#folder-window .folder-list .list ul li').click(function(){
+			var fresh = true;
+			 var index = $(this).attr('data-folder');
+			 var newDir = '';
+			 if(index == 'home'){
+			 	newDir = '/Home';
+			 }else if(index == 'bin'){
+			 	newDir = '/Rubbish Bin';
+			 	fresh = false;
+			 }else{
+		  		newDir = list_of_files[index].location()+'/'+list_of_files[index].name();
+		  	}
+	  		_this.clickedNewFolder(newDir);
+		 	_this.updateDir(newDir,fresh);
+		});
+		
+		this.updateDir(current_dir);
+		this.center();
+	}
+	
+	this.reset = function($full){
+		if($full){
+			current_dir = '/Home';
+			dir_history = new Array();
+			history_index = -1;
+			folderContents = '';
+			itemCount = 0;
+			folder_index = -1;
+			minified = false;
+		}
+		this.updateDir(current_dir);
+	}
+	
+	this.open = function(){
+		$('.folder').show();
+		_isOpen = true;
+		if($('css3-container').length > 0){
+        	$('.folder').prev().css('top', $('.folder').css('top'));
+        	$('.folder').prev().css('left', $('.folder').css('left'));
+        }
+	}
+	
+	this.isMinified = function(){ return minified; }
+	
+	this.isMaximised = function(){
+	   	return maximised;
+	}
+	
+	this.in_bin = function (){ return _in_bin; };
+	
+	this.close = function(){
+		if(_isOpen){
+			_parent.openWindows['folder-window'] = false;
+			if(maximised){ _parent.systemSettings.decreaseFullscreen(); }
+			$('.folder').hide();
+			_parent.systemMenu.closeWindow('home');
+			$('.folder').removeClass('fullsize');
+			_this.resize();
+			_this.center();
+			_isOpen = false;
+			minified = false;
+			maximised = false;
+		}
+	}
+	
+	this.isOpen = function(){
+		return _isOpen;
+	}
+	
+	this.setupFolderControl = function(){
+		$('.folder-contents .contents div').mouseover(function() {
+		  	$(this).addClass("over");
+		});
+		
+		$('.folder-contents .contents div').draggable({ 
+			revert: true, 
+			opacity: 0.35, 
+			zIndex: 2700, 
+			start: function(event, ui) { 
+				//_parent.lockOpenMenu();
+		 	},
+		 	end: function(event, ui) { 
+				//_parent.lockCloseMenu();
+		 	}
+		 });
+		
+		$('.folder-contents .contents div').mouseout(function() {
+			$(this).removeClass("over");
+		});
+		
+		$('.folder-contents .contents').mousedown(function(){
+			$('.folder-contents .contents div').removeClass("selected");
+		 });
+			 
+		$('.folder-contents .contents div').mousedown(function(event) {
+			event.stopPropagation();
+			$('.folder-contents .contents div').removeClass("selected");
+		  	$(this).addClass("selected");
+		  	var index = parseInt($(this).attr('data-id'));
+		  	$('.file-details').text('"'+list_of_files[index].name()+'" selected, Free space: 6.2 GB');
+		});
+		
+		$('.folder-contents .contents div').dblclick(function() {
+			  var index = $(this).attr('data-id');
+			  switch($(this).attr('data-type')){
+			  	case 'folder':
+			  		var newDir = current_dir+'/'+list_of_files[index].name();
+			  		_this.clickedNewFolder(newDir);
+				 	_this.updateDir(newDir);
+			  	break;
+			  	case 'photo':
+			  		_parent.shotwellSystem.selectImage(list_of_files[$(this).attr('data-id')].id());
+			  		_parent.shotwellSystem.open();
+			  	break;
+			  	case 'video':
+			  		//_parent.shotwellSystem.selectImage(list_of_files[$(this).attr('data-id')].id());
+			  		_parent.moviePlayerSystem.open();
+			  		_parent.moviePlayerSystem.addVideo();
+			  	break;
+			  	case 'audio':
+			  		_parent.errorMessage.open();
+			  	break;
+			  	default:
+					_parent.errorMessage.open();
+			  	break;
+			  }
+		 
+	 	 });
+	}
+	
+	this.setupBreadcrumbControl = function(){
+		$('.folder-contents .bottom-buttons div').bind('click',function() {
+		  	$(this).addClass("selected");
+		  	var index = $(this).attr('data-id');
+		  	_this.history_index = index;
+			_this.updateDir(dir_history[index]);
+		});
+	}
+	
+	this.clickedNewFolder = function(){
+		var dirExists = $.inArray(current_dir, dir_history);
+		if(dirExists > -1){
+			var i = (dir_history.length - 1) - dirExists;
+			while(i--){ dir_history.pop()  }
+		}
+	}
+	
+	this.refresh = function (){
+		itemCount = 0;
+		$('.folder-contents .contents').html('');
+		folderContents = '';
+		var i = list_of_files.length;
+		while(i--){
+			if(list_of_files[i].location() == current_dir){
+				folderContents +=  list_of_files[i].drawIcon(i,list_type);
+				itemCount++;
+			}
+		}
+		
+		$('.folder-contents .contents').html(folderContents);
+		$('.folder-contents .bottom-buttons div').unbind('click');
+		var breadcrumb = '';
+		for(i = 0; i < dir_history.length; i++ ){
+			var dir_name = dir_history[i].split('/');
+			dir_name = dir_name[dir_name.length-1];
+			if(i == history_index){
+				breadcrumb += '<div data-id="'+i+'" class="selected">'+dir_name+'</div>';
+			}else{
+				breadcrumb += '<div data-id="'+i+'">'+dir_name+'</div>';
+			}
+		}
+		dir_name = dir_history[history_index].split('/');
+		dir_name = dir_name[dir_name.length-1];
+		$('.folder-contents .bottom-buttons').html(breadcrumb);
+		$('.file-details').text(itemCount+' items, Free space: 6.2 GB');
+		$('.folder .window-title').text(dir_name);
+		this.setupBreadcrumbControl();
+		this.setupFolderControl();
+	}
+	
+	this.getFiles = function(){
+		return list_of_files;
+	}
+	
+	this.backDir = function(){
+		history_index--;
+		this.updateDir(dir_history[history_index]);
+	}
+	
+	this.forwardDir = function(){
+		history_index++;
+		this.updateDir(dir_history[history_index]);
+	}
+	
+	this.updateDir = function($newDIr, $sidebar){
+		var tempArray = $newDIr.split('/');
+		var sidebarName = tempArray[tempArray.length - 1].toLowerCase();
+		if(sidebarName == 'rubbish bin'){ sidebarName = 'rubbish' };
+		$('#folder-window .folder-list .list ul li').removeClass('selected');
+		$('#folder-window .folder-list .list ul li.'+sidebarName).addClass('selected');
+		current_dir = $newDIr;
+		if($sidebar == undefined){ $sidebar = false; }
+		var dirExists = $.inArray($newDIr, dir_history);
+		
+		if(dirExists > -1){
+			history_index = dirExists;
+		} else{
+			if($sidebar){
+				history_index = 1;
+				dir_history = new Array('/Home', $newDIr);
+			}else{
+				if(current_dir.split('/').length > 2){
+					history_index++;
+					dir_history.push($newDIr);
+				}else{
+					history_index = 0;
+					dir_history = new Array();
+					dir_history.push($newDIr);
+				}
+			}
+		}
+		if(history_index > 0){
+			this.backButton(true);
+		}else{
+			this.backButton(false);
+		}
+		if(history_index < dir_history.length -1){
+			this.forwardButton(true);
+		}else{
+			this.forwardButton(false);
+		}
+		this.refresh();
+	}
+		
+	this.backButton = function($enable){
+		if($enable){
+			if($('.buttons .folder-back').hasClass('disabled')){
+				$('.buttons .folder-back').bind('click',function() { _this.backDir(); });
+				$('.buttons .folder-back').removeClass('disabled');
+			}
+		}else{
+			if(!$('.buttons .folder-back').hasClass('disabled')){
+				$('.buttons .folder-back').unbind('click');
+				$('.buttons .folder-back').addClass('disabled');
+			}
+		}
+	}
+	this.forwardButton = function($enable){
+		if($enable){
+			if($('.buttons .folder-forward').hasClass('disabled')){
+				$('.buttons .folder-forward').bind('click',function() { _this.forwardDir(); });
+				$('.buttons .folder-forward').removeClass('disabled');
+			}
+		}else{
+			if(!$('.buttons .folder-forward').hasClass('disabled')){
+				$('.buttons .folder-forward').unbind('click');
+				$('.buttons .folder-forward').addClass('disabled');
+			}
+		}
+	}
+	
+	this.center = function(){
+	    	var left = ($(document).width() / 2) - ($('.folder').width() / 2);
+			var top = ($(document).height() / 2) - ($('.folder').height() / 2);
+			$('.folder').css('left',left);
+			$('.folder').css('top',top);
+	    }
+	
+	this.resize = function(){
+		folderContentsWidth = $('.folder').width() - 146;
+		folderListHeight = $('.folder').height() - 51;
+		$('.folder .folder-list .list').css('height',folderListHeight);
+		$('.folder .folder-contents .contents').css('height',folderListHeight - 20);
+		$('.folder .folder-contents .contents').css('width',folderContentsWidth);
+	}
+}
+
