@@ -13,6 +13,12 @@ LEVELS = (logging.ERROR,
           logging.DEBUG,
           )
 
+try:
+    import polib
+except ImportError:
+    sys.stderr.write('You need the Python Polib library to run this ' + 
+                     'script.\nYou can install it by running:\n\t' + 
+                     '$ sudo apt-get install python-polib')
 import codecs
 #import re
 import subprocess
@@ -26,11 +32,11 @@ BOM = u'\ufeff'
 # FIXME: hardcoded for now
 TEST_FILE = '../index.html'
 # FIXME: hardcoded for now
-TEST_TRANSLATED_FILE = '../index.ca.html'
+TEST_TRANSLATED_FILE = '../index.zh-cn.html'
 # FIXME: hardcoded for now
 TEST_POT_FILE = '../po/ubuntu-online-tour.pot'
 # FIXME: hardcoded for now
-TEST_PO_FILE = '../po/ca.po'
+TEST_PO_FILE = '../po/zh_CN.po'
 
 
 class SubprocessCaller:
@@ -160,13 +166,6 @@ def main():
         options.logging_level = 3
     logging.basicConfig(level=LEVELS[options.logging_level],
                         format='%(asctime)s %(levelname)s %(message)s')
-
-    try:
-        import polib
-    except ImportError:
-        sys.stderr.write('You need the Python Polib library to run this ' + 
-                         'script.\nYou can install it by running:\n\t' + 
-                         '$ sudo apt-get install python-polib')
 
     if options.extract_mode:
         with codecs.open(TEST_FILE, 'r', 'utf-8') as f:
