@@ -1,0 +1,560 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2007-10-18 14:00+0100\n"
+"PO-Revision-Date: 2011-10-21 15:41+0200\n"
+"Last-Translator: ZhengPeng Hou <zhengpeng-hou@ubuntu.com>\n"
+"Language-Team: Ubuntu Simplified Chinese Translators <ubuntu-l10n-admins@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Firefox Web Browser"
+msgstr "Firefox 网络浏览器"
+
+msgid "Show yourself around"
+msgstr ""
+
+msgid "Desktop"
+msgstr "桌面"
+
+msgid "Internet"
+msgstr "互联网"
+
+msgid "Find apps"
+msgstr "寻找程序"
+
+msgid "Files"
+msgstr "文件"
+
+msgid "Are you sure you want to close all programs and shutdown the computer?"
+msgstr "您确定要关闭所有程序并关闭计算机？"
+
+msgid "Untitled 1 - LibreOffice Impress"
+msgstr "未命名 1"
+
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+msgid "Download Ubuntu"
+msgstr "下载 Ubuntu"
+
+msgid "Join now"
+msgstr "现在就加入"
+
+msgid "Applications"
+msgstr "应用程序"
+
+msgid "History"
+msgstr "历史记录"
+
+msgid "PCB CNC converter"
+msgstr ""
+
+msgid "Webcam"
+msgstr "摄像头"
+
+msgid "to"
+msgstr "浏览网络"
+
+msgid "Surf the web"
+msgstr ""
+
+msgid "Graphics"
+msgstr "图形"
+
+msgid "Keep Connected"
+msgstr "保持连接"
+
+msgid "Top Rated"
+msgstr "最高评分"
+
+msgid "Banshee"
+msgstr "Banshee"
+
+msgid "Dash home"
+msgstr "主面板"
+
+msgid "From"
+msgstr ""
+
+msgid "Auto eth0"
+msgstr ""
+
+msgid "Thanks for exploring Ubuntu!"
+msgstr "感谢探寻Ubuntu"
+
+msgid "Send files to device…"
+msgstr "发送文件到设备..."
+
+msgid "(91 Ratings)"
+msgstr ""
+
+msgid "$9.99"
+msgstr ""
+
+msgid "Mute"
+msgstr "静音"
+
+msgid "All Software"
+msgstr "所有软件"
+
+msgid "Date Settings…"
+msgstr "数据设定..."
+
+msgid "Accessories"
+msgstr "辅助程序"
+
+msgid "Create spreadsheets"
+msgstr "创建表格"
+
+msgid "Themes"
+msgstr "主题"
+
+msgid "Shut Down"
+msgstr "关机"
+
+msgid "Music"
+msgstr "音乐"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Shotwell"
+msgstr ""
+
+msgid "Documents"
+msgstr "文档"
+
+msgid "Disconnect"
+msgstr "断开"
+
+msgid "Preferences"
+msgstr "偏好设置"
+
+msgid "Browse files"
+msgstr "浏览文件"
+
+msgid "Date:"
+msgstr "日期:"
+
+msgid "System"
+msgstr "系统"
+
+msgid "Take Ubuntu for a test drive with our online demo."
+msgstr "用我们的在线演示来尝试Ubuntu"
+
+msgid "Create presentations"
+msgstr "创建演示文稿"
+
+msgid "Printers"
+msgstr "打印机"
+
+msgid "Connection Information"
+msgstr "连接信息"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Sent"
+msgstr "已发送"
+
+msgid "subject"
+msgstr "主题"
+
+msgid "Available"
+msgstr "可用版本"
+
+msgid "All Folders"
+msgstr "全部文件夹"
+
+msgid "Fri 26 Oct, 2001"
+msgstr ""
+
+msgid "Hibernate"
+msgstr "休眠"
+
+msgid "Downloads"
+msgstr "下载"
+
+msgid "World of Goo"
+msgstr ""
+
+msgid "Video"
+msgstr "视频"
+
+msgid "Set Up Mail…"
+msgstr "设定电子邮件"
+
+msgid "Turn Off Bluetooth"
+msgstr "关闭蓝牙"
+
+msgid "$19.99"
+msgstr ""
+
+msgid "Log Out…"
+msgstr "注销..."
+
+msgid "LibreOffice Calc"
+msgstr "LibreOffice 表格"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Startup Applications…"
+msgstr "启动应用程序…"
+
+msgid "from"
+msgstr ""
+
+msgid "LibreOffice Impress"
+msgstr "LibreOffice 演示"
+
+msgid "Songs"
+msgstr "曲目"
+
+msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
+msgstr "在Ubuntu, Windows, 网页和手机上备份以及访问您的文件"
+
+msgid "Title:"
+msgstr "标题："
+
+msgid "Setup new device…"
+msgstr "设定新设备…"
+
+msgid "Videos"
+msgstr "视频"
+
+msgid "Braid"
+msgstr ""
+
+msgid "Unread:"
+msgstr "未读:"
+
+msgid "Write: (no subject)"
+msgstr "撰写"
+
+msgid "Installed"
+msgstr "已安装"
+
+msgid "BEEP"
+msgstr ""
+
+msgid "Visible"
+msgstr "可见"
+
+msgid "Learn More"
+msgstr "了解更多"
+
+msgid "Chat"
+msgstr "聊天"
+
+msgid "Archive"
+msgstr "存档"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Home"
+msgstr "主目录"
+
+msgid "Developer Tools"
+msgstr "开发工具"
+
+msgid "Inkscape"
+msgstr "Inkscape 图形编辑器"
+
+msgid "Take the guided tour"
+msgstr ""
+
+msgid "cc"
+msgstr ""
+
+msgid "Pictures"
+msgstr "图片"
+
+msgid "Away"
+msgstr "离开"
+
+msgid "Size:"
+msgstr "大小："
+
+msgid "Draft"
+msgstr "草稿"
+
+msgid "Free"
+msgstr "空闲"
+
+msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgstr "同步您的firefox书签和Tomboy的笔记"
+
+msgid "Thunderbird Mail/News"
+msgstr "Thunderbird 邮件/新闻"
+
+msgid "Displays…"
+msgstr "显示…"
+
+msgid "Software Up to Date"
+msgstr "软件更新"
+
+msgid "Browse the web"
+msgstr "浏览网络"
+
+msgid "More Apps"
+msgstr "更多程序"
+
+msgid "Find Files"
+msgstr "查找文件"
+
+msgid "View photos"
+msgstr "观看照片"
+
+msgid "Ubuntu One Control Panel"
+msgstr "Ubuntu One 控制面包"
+
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr "您的所有收藏都跟随您传送到您的 Android或者 iPhone手机上去"
+
+msgid "&"
+msgstr ""
+
+msgid "Your browser does not support iframes."
+msgstr "您的浏览器不支持 iframes"
+
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr "请注意：这个仅仅是个演示。您需要下载后方可享用真实的功能"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Browse the Web"
+msgstr "浏览网络"
+
+msgid "To:"
+msgstr ""
+
+msgid "Set Up Broadcast Account…"
+msgstr "设定社交网络帐号"
+
+msgid "Check email"
+msgstr "检查邮件"
+
+msgid "Total:"
+msgstr "总计："
+
+msgid "Science"
+msgstr "科学"
+
+msgid "Ubuntu Software Centre"
+msgstr "Ubuntu软件中心"
+
+msgid "Untitled 1 - LibreOffice Calc"
+msgstr "未命名 1 - LibreOffice Calc"
+
+msgid "I already have an account!"
+msgstr "我已经有一个账户"
+
+msgid "Mon 11 October, 2010"
+msgstr ""
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Items:"
+msgstr "条目："
+
+msgid "Subject:"
+msgstr "主题："
+
+msgid "The Power of Your Personal Cloud"
+msgstr "您个人云的力量"
+
+msgid "Home Folder"
+msgstr "主目录"
+
+msgid "Welcome to the Ubuntu online tour!"
+msgstr "欢迎尝试Ubuntu 在线漫游"
+
+msgid "Office"
+msgstr "办公"
+
+msgid "Shortcuts"
+msgstr "快捷方式"
+
+msgid "Check Email"
+msgstr "检查邮件"
+
+msgid "Internet Apps"
+msgstr "互联网程序"
+
+msgid "Library"
+msgstr "库"
+
+msgid "Engineering"
+msgstr "工程"
+
+msgid "Unify you contacts across Desktop, Mobile and Web"
+msgstr "在桌面，手机和网页上统一您的联络人"
+
+msgid "TIme"
+msgstr "时间"
+
+msgid "System Settings…"
+msgstr "系统设置…"
+
+msgid "Chromium"
+msgstr "Chromium 网页浏览器"
+
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "未命名 - LibreOffice Writer"
+
+msgid "Sound"
+msgstr "声音"
+
+msgid "Busy"
+msgstr "忙碌"
+
+msgid "Edit Connections…"
+msgstr "编辑链接..."
+
+msgid "Rock Out"
+msgstr ""
+
+msgid "Sound Settings…"
+msgstr "声音设定..."
+
+msgid "LIsten to Music"
+msgstr "聆听音乐"
+
+msgid "Add Event…"
+msgstr "添加事件..."
+
+msgid "Ubuntu online tour"
+msgstr "Ubuntu在线教程"
+
+msgid "Offline"
+msgstr "离线"
+
+msgid "Trash"
+msgstr "垃圾箱"
+
+msgid "Shotwell Photo Manager"
+msgstr "Shotwell  照片管理器"
+
+msgid "Lock Screen"
+msgstr "锁定屏幕"
+
+msgid "Media Apps"
+msgstr "多媒体程序"
+
+msgid "Most Frequently Used"
+msgstr "最常用"
+
+msgid "Browse files on device…"
+msgstr "浏览设备上的文件..."
+
+msgid "Junk Mail"
+msgstr "垃圾邮件"
+
+msgid "1"
+msgstr ""
+
+msgid "Tweaks"
+msgstr ""
+
+msgid "Computer"
+msgstr ""
+
+msgid "What's New"
+msgstr ""
+
+msgid "App Available for Download"
+msgstr ""
+
+msgid "Movie Player"
+msgstr ""
+
+msgid "Invisible"
+msgstr ""
+
+msgid "Albums"
+msgstr ""
+
+msgid "LibreOffice Writer"
+msgstr ""
+
+msgid "From:"
+msgstr ""
+
+msgid "Folders"
+msgstr "文件夹"
+
+msgid "Shut Down…"
+msgstr "关机..."
+
+msgid "Fonts"
+msgstr "字体"
+
+msgid "Bluetooth On"
+msgstr "打开蓝牙"
+
+msgid "Clear"
+msgstr "清空"
+
+msgid "Games"
+msgstr "游戏"
+
+msgid "Visolate"
+msgstr ""
+
+msgid "Attached Devices"
+msgstr "已连接的设备"
+
+msgid "Suspend"
+msgstr "待机"
+
+msgid "View Photos"
+msgstr "查看照片"
+
+msgid "Rubbish bin"
+msgstr ""
+
+msgid "Create documents"
+msgstr "创建文档"
+
+msgid "Inbox"
+msgstr "收件箱"
+
+msgid "Files Anywhere"
+msgstr "到处都可以访问您的文件"
+
+msgid "Stay Productive"
+msgstr ""
+
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus"
+" imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae"
+" et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+msgstr ""
+
+msgid "Blender"
+msgstr ""
