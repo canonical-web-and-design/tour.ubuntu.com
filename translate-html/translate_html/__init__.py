@@ -13,7 +13,6 @@ LEVELS = (logging.ERROR,
           logging.DEBUG,
           )
 
-import polib
 import codecs
 #import re
 import subprocess
@@ -146,11 +145,12 @@ def main():
     # exemple of silly CLI option
     parser.add_option("-x", "--extract", action="store_true",
         dest="extract_mode",
-        help=_("Extract the strings from the original HTML file"))
+        help=_("Extract mode: extract the strings from the original " +
+               "HTML file"))
     parser.add_option("-r", "--translate", action="store_true",
         dest="translate_mode",
-        help=_("Get the translations from PO files and write them to a new" +
-               " translated HTML file"))
+        help=_("Translate mode: get the translations from PO files and " + 
+               "write them to a new translated HTML file"))
     parser.set_defaults(logging_level=0, extract_mode=False,
                         translate_mode = False)
     (options, args) = parser.parse_args()
@@ -160,6 +160,13 @@ def main():
         options.logging_level = 3
     logging.basicConfig(level=LEVELS[options.logging_level],
                         format='%(asctime)s %(levelname)s %(message)s')
+
+    try:
+        import polib
+    except ImportError:
+        sys.stderr.write('You need the Python Polib library to run this ' + 
+                         'script.\nYou can install it by running:\n\t' + 
+                         '$ sudo apt-get install python-polib')
 
     if options.extract_mode:
         with codecs.open(TEST_FILE, 'r', 'utf-8') as f:
@@ -198,7 +205,7 @@ def main():
             #    fd.write(html_file)
 
     else:
-        print "You must specify a mode"
+        sys.stderr.write("You must specify a mode\n")
         parser.print_help()
 
 if __name__ == "__main__":
