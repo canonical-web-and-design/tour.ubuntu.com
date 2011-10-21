@@ -1,0 +1,561 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2007-10-18 14:00+0100\n"
+"PO-Revision-Date: 2011-10-21 10:54+0200\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: English <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Firefox Web Browser"
+msgstr "Navegador web Firefox"
+
+msgid "Show yourself around"
+msgstr "Passeu i doneu-hi un tomb"
+
+msgid "Desktop"
+msgstr "Escriptori"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Find apps"
+msgstr "Cerca aplicacions"
+
+msgid "Files"
+msgstr "Fitxers"
+
+msgid "Are you sure you want to close all programs and shutdown the computer?"
+msgstr "Segur que voleu tancar tots els programes i aturar l'ordinador?"
+
+msgid "Untitled 1 - LibreOffice Impress"
+msgstr "Sense títol 1 - LibreOffice Impress"
+
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+msgid "Download Ubuntu"
+msgstr "Baixa l'Ubuntu"
+
+msgid "Join now"
+msgstr "Subscriviu-vos-hi ara"
+
+msgid "Applications"
+msgstr "Aplicacions"
+
+msgid "History"
+msgstr "Historial"
+
+msgid "PCB CNC converter"
+msgstr "Convertidor a format CNC de PCB"
+
+msgid "Webcam"
+msgstr "Càmera web"
+
+msgid "to"
+msgstr "a"
+
+msgid "Surf the web"
+msgstr "Navegueu per la web"
+
+msgid "Graphics"
+msgstr "Gràfics"
+
+msgid "Keep Connected"
+msgstr "Mantingueu-vos en contacte"
+
+msgid "Top Rated"
+msgstr "Les més valorades"
+
+msgid "Banshee"
+msgstr "Banshee"
+
+msgid "Dash home"
+msgstr "Tauler"
+
+msgid "From"
+msgstr "De"
+
+msgid "Auto eth0"
+msgstr "Auto eth0"
+
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Us agraïm que hàgiu explorat l'Ubuntu!"
+
+msgid "Send files to device…"
+msgstr "Envia fitxers al dispositiu…"
+
+msgid "(91 Ratings)"
+msgstr "(91 ressenyes)"
+
+msgid "$9.99"
+msgstr "$9.99"
+
+msgid "Mute"
+msgstr "Silenci"
+
+msgid "All Software"
+msgstr "Tot el programari"
+
+msgid "Date Settings…"
+msgstr "Paràmetres de la data…"
+
+msgid "Accessories"
+msgstr "Accessoris"
+
+msgid "Create spreadsheets"
+msgstr "Crea fulls de càlcul"
+
+msgid "Themes"
+msgstr "Temes"
+
+msgid "Shut Down"
+msgstr "Atura"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "Education"
+msgstr "Educació"
+
+msgid "Subject"
+msgstr "Assumpte"
+
+msgid "Shotwell"
+msgstr "Shotwell"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Disconnect"
+msgstr "Desconnecta"
+
+msgid "Preferences"
+msgstr "Preferències"
+
+msgid "Browse files"
+msgstr "Navega pels fitxers"
+
+msgid "Date:"
+msgstr "Data:"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Take Ubuntu for a test drive with our online demo."
+msgstr "Proveu l'Ubuntu amb la demostració en línia"
+
+msgid "Create presentations"
+msgstr "Crea presentacions"
+
+msgid "Printers"
+msgstr "Impressores"
+
+msgid "Connection Information"
+msgstr "Informació de la connexió"
+
+msgid "Email"
+msgstr "Correu"
+
+msgid "Sent"
+msgstr "Enviat"
+
+msgid "subject"
+msgstr "assumpte"
+
+msgid "Available"
+msgstr "Disponible"
+
+msgid "All Folders"
+msgstr "Totes les carpetes"
+
+msgid "Fri 26 Oct, 2001"
+msgstr "Div 26 Oct, 2001"
+
+msgid "Hibernate"
+msgstr "Hiberna"
+
+msgid "Downloads"
+msgstr "Baixades"
+
+msgid "World of Goo"
+msgstr "World of Goo"
+
+msgid "Video"
+msgstr "Vídeo"
+
+msgid "Set Up Mail…"
+msgstr "Configura el correu…"
+
+msgid "Turn Off Bluetooth"
+msgstr "Apaga el Bluetooth"
+
+msgid "$19.99"
+msgstr "$19.99"
+
+msgid "Log Out…"
+msgstr "Surt…"
+
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+msgid "Cancel"
+msgstr "Cancel·la"
+
+msgid "Startup Applications…"
+msgstr "Aplicacions d'inici…"
+
+msgid "from"
+msgstr "de"
+
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
+
+msgid "Songs"
+msgstr "Cançons"
+
+msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
+msgstr "Feu una còpia de seguretat i accediu als fitxers des de l'Ubuntu, el Windows, la web o el mòbil"
+
+msgid "Title:"
+msgstr "Títol:"
+
+msgid "Setup new device…"
+msgstr "Configura un dispositiu nou…"
+
+msgid "Videos"
+msgstr "Vídeos"
+
+msgid "Braid"
+msgstr "Braid"
+
+msgid "Unread:"
+msgstr "Per llegir:"
+
+msgid "Write: (no subject)"
+msgstr "Escriviu: (sense assumpte)"
+
+msgid "Installed"
+msgstr "Instal·lats"
+
+msgid "BEEP"
+msgstr "BEEP"
+
+msgid "Visible"
+msgstr "Visible"
+
+msgid "Learn More"
+msgstr "Apreneu-ne més"
+
+msgid "Chat"
+msgstr "Xat"
+
+msgid "Archive"
+msgstr "Arxiu"
+
+msgid "Download"
+msgstr "Baixa"
+
+msgid "Home"
+msgstr "Inici"
+
+msgid "Developer Tools"
+msgstr "Eines de desenvolupament"
+
+msgid "Inkscape"
+msgstr "Inkscape"
+
+msgid "Take the guided tour"
+msgstr "Feu la visita guiada"
+
+msgid "cc"
+msgstr "cc"
+
+msgid "Pictures"
+msgstr "Imatges"
+
+msgid "Away"
+msgstr "Absent"
+
+msgid "Size:"
+msgstr "Mida:"
+
+msgid "Draft"
+msgstr "Esborrany"
+
+msgid "Free"
+msgstr "Gratuït"
+
+msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgstr "Manteniu les adreces d'interès i notes del Tomboy sincronitzades"
+
+msgid "Thunderbird Mail/News"
+msgstr "Client de correu Thunderbird"
+
+msgid "Displays…"
+msgstr "Monitors…"
+
+msgid "Software Up to Date"
+msgstr "Programari actualitzat"
+
+msgid "Browse the web"
+msgstr "Navegueu per la web"
+
+msgid "More Apps"
+msgstr "Més aplicacions"
+
+msgid "Find Files"
+msgstr "Cerca fitxers"
+
+msgid "View photos"
+msgstr "Visualitza fotografies"
+
+msgid "Ubuntu One Control Panel"
+msgstr "Tauler de control de l'Ubuntu One"
+
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr "La vostra col·lecció de música us acompanya a tot arreu en flux amb l'Androis i l'iPhone"
+
+msgid "&"
+msgstr "&"
+
+msgid "Your browser does not support iframes."
+msgstr ""
+
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Recordeu que això és només una demostració. L'haureu de baixar per provar l'autèntic!"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Browse the Web"
+msgstr "Navegueu per la web"
+
+msgid "To:"
+msgstr "A:"
+
+msgid "Set Up Broadcast Account…"
+msgstr "Configura un compte de difusió…"
+
+msgid "Check email"
+msgstr "Comprova el correu"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Science"
+msgstr "Ciència"
+
+msgid "Ubuntu Software Centre"
+msgstr "Centre de programari de l'Ubuntu"
+
+msgid "Untitled 1 - LibreOffice Calc"
+msgstr "Sense títol 1 - LibreOffice Calc"
+
+msgid "I already have an account!"
+msgstr "Ja tinc un compte"
+
+msgid "Mon 11 October, 2010"
+msgstr "Dll 11 Octubre, 2010"
+
+msgid "Install"
+msgstr "Instal·la"
+
+msgid "Items:"
+msgstr "Elements:"
+
+msgid "Subject:"
+msgstr "Assumpte:"
+
+msgid "The Power of Your Personal Cloud"
+msgstr "El poder del núvol personal"
+
+msgid "Home Folder"
+msgstr "Carpeta d'usuari"
+
+msgid "Welcome to the Ubuntu online tour!"
+msgstr "Us donem la benvinguda a la visita guiada en línia de l'Ubuntu"
+
+msgid "Office"
+msgstr "Oficina"
+
+msgid "Shortcuts"
+msgstr "Dreceres"
+
+msgid "Check Email"
+msgstr "Comprova el correu"
+
+msgid "Internet Apps"
+msgstr "Aplicacions d'Internet"
+
+msgid "Library"
+msgstr "Biblioteca"
+
+msgid "Engineering"
+msgstr "Enginyeria"
+
+msgid "Unify you contacts across Desktop, Mobile and Web"
+msgstr "Unifiqueu els contactes a l'escriptori, al mòbil i a la web"
+
+msgid "TIme"
+msgstr "Hora"
+
+msgid "System Settings…"
+msgstr "Paràmetres del sistema…"
+
+msgid "Chromium"
+msgstr "Chromium"
+
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "Sense títol - LibreOffice Writer"
+
+msgid "Sound"
+msgstr "So"
+
+msgid "Busy"
+msgstr "Ocupat"
+
+msgid "Edit Connections…"
+msgstr "Edita les connexions…"
+
+msgid "Rock Out"
+msgstr "Gaudiu"
+
+msgid "Sound Settings…"
+msgstr "Parüametres de so…"
+
+msgid "LIsten to Music"
+msgstr "Escolteu música"
+
+msgid "Add Event…"
+msgstr "Afegeix un esdeveniment…"
+
+msgid "Ubuntu online tour"
+msgstr "Visita guiada en línia de l'Ubuntu"
+
+msgid "Offline"
+msgstr "Fora de línia"
+
+msgid "Trash"
+msgstr "Paperera"
+
+msgid "Shotwell Photo Manager"
+msgstr "Gestor de fotografies Shotwell"
+
+msgid "Lock Screen"
+msgstr "Bloca la pantalla"
+
+msgid "Media Apps"
+msgstr "Aplicacions multimèdia"
+
+msgid "Most Frequently Used"
+msgstr "El més utilitzat"
+
+msgid "Browse files on device…"
+msgstr "Navega pels fitxers d'un dispositiu…"
+
+msgid "Junk Mail"
+msgstr "Correu brossa"
+
+msgid "1"
+msgstr "1"
+
+msgid "Tweaks"
+msgstr "Ajustaments"
+
+msgid "Computer"
+msgstr "Ordinador"
+
+msgid "What's New"
+msgstr "Novetats"
+
+msgid "App Available for Download"
+msgstr "Aplicació disponible per baixar"
+
+msgid "Movie Player"
+msgstr "Reproductor de pel·lícules"
+
+msgid "Invisible"
+msgstr "Invisible"
+
+msgid "Albums"
+msgstr "Àlbums"
+
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
+
+msgid "From:"
+msgstr "De:"
+
+msgid "Folders"
+msgstr "Carpetes"
+
+msgid "Shut Down…"
+msgstr "Atura…"
+
+msgid "Fonts"
+msgstr "Tipus de lletra"
+
+msgid "Bluetooth On"
+msgstr "Bluetooth engegat"
+
+msgid "Clear"
+msgstr "Neteja"
+
+msgid "Games"
+msgstr "Jocs"
+
+msgid "Visolate"
+msgstr "Visolate"
+
+msgid "Attached Devices"
+msgstr "Dispositius connectats"
+
+msgid "Suspend"
+msgstr "Atura temporalment"
+
+msgid "View Photos"
+msgstr "Visualitza fotografies"
+
+msgid "Rubbish bin"
+msgstr "Paperera"
+
+msgid "Create documents"
+msgstr "Crea documents"
+
+msgid "Inbox"
+msgstr "Safata d'entrada"
+
+msgid "Files Anywhere"
+msgstr "Fitxers a tot arreu"
+
+msgid "Stay Productive"
+msgstr "Sigueu productiu"
+
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus"
+" imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae"
+" et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+msgstr ""
+
+msgid "Blender"
+msgstr "Blender"

@@ -1,0 +1,560 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2007-10-18 14:00+0100\n"
+"PO-Revision-Date: 2007-10-18 14:00+0100\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: English <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Firefox Web Browser"
+msgstr ""
+
+msgid "Show yourself around"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Internet"
+msgstr ""
+
+msgid "Find apps"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Are you sure you want to close all programs and shutdown the computer?"
+msgstr ""
+
+msgid "Untitled 1 - LibreOffice Impress"
+msgstr ""
+
+msgid "Ubuntu One"
+msgstr ""
+
+msgid "Download Ubuntu"
+msgstr ""
+
+msgid "Join now"
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "PCB CNC converter"
+msgstr ""
+
+msgid "Webcam"
+msgstr ""
+
+msgid "to"
+msgstr ""
+
+msgid "Surf the web"
+msgstr ""
+
+msgid "Graphics"
+msgstr ""
+
+msgid "Keep Connected"
+msgstr ""
+
+msgid "Top Rated"
+msgstr ""
+
+msgid "Banshee"
+msgstr ""
+
+msgid "Dash home"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Auto eth0"
+msgstr ""
+
+msgid "Thanks for exploring Ubuntu!"
+msgstr ""
+
+msgid "Send files to device…"
+msgstr ""
+
+msgid "(91 Ratings)"
+msgstr ""
+
+msgid "$9.99"
+msgstr ""
+
+msgid "Mute"
+msgstr ""
+
+msgid "All Software"
+msgstr ""
+
+msgid "Date Settings…"
+msgstr ""
+
+msgid "Accessories"
+msgstr ""
+
+msgid "Create spreadsheets"
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+msgid "Shut Down"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Shotwell"
+msgstr ""
+
+msgid "Documents"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Browse files"
+msgstr ""
+
+msgid "Date:"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "Take Ubuntu for a test drive with our online demo."
+msgstr ""
+
+msgid "Create presentations"
+msgstr ""
+
+msgid "Printers"
+msgstr ""
+
+msgid "Connection Information"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Sent"
+msgstr ""
+
+msgid "subject"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "All Folders"
+msgstr ""
+
+msgid "Fri 26 Oct, 2001"
+msgstr ""
+
+msgid "Hibernate"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "World of Goo"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Set Up Mail…"
+msgstr ""
+
+msgid "Turn Off Bluetooth"
+msgstr ""
+
+msgid "$19.99"
+msgstr ""
+
+msgid "Log Out…"
+msgstr ""
+
+msgid "LibreOffice Calc"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Startup Applications…"
+msgstr ""
+
+msgid "from"
+msgstr ""
+
+msgid "LibreOffice Impress"
+msgstr ""
+
+msgid "Songs"
+msgstr ""
+
+msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Setup new device…"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "Braid"
+msgstr ""
+
+msgid "Unread:"
+msgstr ""
+
+msgid "Write: (no subject)"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "BEEP"
+msgstr ""
+
+msgid "Visible"
+msgstr ""
+
+msgid "Learn More"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+msgid "Archive"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Developer Tools"
+msgstr ""
+
+msgid "Inkscape"
+msgstr ""
+
+msgid "Take the guided tour"
+msgstr ""
+
+msgid "cc"
+msgstr ""
+
+msgid "Pictures"
+msgstr ""
+
+msgid "Away"
+msgstr ""
+
+msgid "Size:"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgstr ""
+
+msgid "Thunderbird Mail/News"
+msgstr ""
+
+msgid "Displays…"
+msgstr ""
+
+msgid "Software Up to Date"
+msgstr ""
+
+msgid "Browse the web"
+msgstr ""
+
+msgid "More Apps"
+msgstr ""
+
+msgid "Find Files"
+msgstr ""
+
+msgid "View photos"
+msgstr ""
+
+msgid "Ubuntu One Control Panel"
+msgstr ""
+
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
+
+msgid "&"
+msgstr ""
+
+msgid "Your browser does not support iframes."
+msgstr ""
+
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Browse the Web"
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Set Up Broadcast Account…"
+msgstr ""
+
+msgid "Check email"
+msgstr ""
+
+msgid "Total:"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Ubuntu Software Centre"
+msgstr ""
+
+msgid "Untitled 1 - LibreOffice Calc"
+msgstr ""
+
+msgid "I already have an account!"
+msgstr ""
+
+msgid "Mon 11 October, 2010"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Items:"
+msgstr ""
+
+msgid "Subject:"
+msgstr ""
+
+msgid "The Power of Your Personal Cloud"
+msgstr ""
+
+msgid "Home Folder"
+msgstr ""
+
+msgid "Welcome to the Ubuntu online tour!"
+msgstr ""
+
+msgid "Office"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Check Email"
+msgstr ""
+
+msgid "Internet Apps"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Unify you contacts across Desktop, Mobile and Web"
+msgstr ""
+
+msgid "TIme"
+msgstr ""
+
+msgid "System Settings…"
+msgstr ""
+
+msgid "Chromium"
+msgstr ""
+
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr ""
+
+msgid "Sound"
+msgstr ""
+
+msgid "Busy"
+msgstr ""
+
+msgid "Edit Connections…"
+msgstr ""
+
+msgid "Rock Out"
+msgstr ""
+
+msgid "Sound Settings…"
+msgstr ""
+
+msgid "LIsten to Music"
+msgstr ""
+
+msgid "Add Event…"
+msgstr ""
+
+msgid "Ubuntu online tour"
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Shotwell Photo Manager"
+msgstr ""
+
+msgid "Lock Screen"
+msgstr ""
+
+msgid "Media Apps"
+msgstr ""
+
+msgid "Most Frequently Used"
+msgstr ""
+
+msgid "Browse files on device…"
+msgstr ""
+
+msgid "Junk Mail"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "Tweaks"
+msgstr ""
+
+msgid "Computer"
+msgstr ""
+
+msgid "What's New"
+msgstr ""
+
+msgid "App Available for Download"
+msgstr ""
+
+msgid "Movie Player"
+msgstr ""
+
+msgid "Invisible"
+msgstr ""
+
+msgid "Albums"
+msgstr ""
+
+msgid "LibreOffice Writer"
+msgstr ""
+
+msgid "From:"
+msgstr ""
+
+msgid "Folders"
+msgstr ""
+
+msgid "Shut Down…"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Bluetooth On"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Games"
+msgstr ""
+
+msgid "Visolate"
+msgstr ""
+
+msgid "Attached Devices"
+msgstr ""
+
+msgid "Suspend"
+msgstr ""
+
+msgid "View Photos"
+msgstr ""
+
+msgid "Rubbish bin"
+msgstr ""
+
+msgid "Create documents"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Files Anywhere"
+msgstr ""
+
+msgid "Stay Productive"
+msgstr ""
+
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus"
+" imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae"
+" et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+msgstr ""
+
+msgid "Blender"
+msgstr ""
