@@ -13,6 +13,7 @@ LEVELS = (logging.ERROR,
           logging.DEBUG,
           )
 
+import sys
 try:
     import polib
 except ImportError:
@@ -22,7 +23,6 @@ except ImportError:
 import codecs
 #import re
 import subprocess
-import sys
 from HTMLParser import HTMLParser
 from re import sub
 from sys import stderr
