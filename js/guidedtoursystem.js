@@ -34,7 +34,7 @@ function GuidedTourSystem($parent){
 		createdocumentsGuide = {system:'writer',icon:'img/tourguide/document-small.png', title:'Create documents', desc:'LibreOffice Writer makes it easy to draft professional documents.', hash: 'create-documents'};
 		createspreadsheets  = {system:'calc',icon:'img/tourguide/calc-small.png', title:'Create spreadsheets', desc:'LibreOffice Calc has everything you need to create clear and accurate spreadsheets.', hash: 'create-spreadsheets'};
 		createpresentation = {system:'impress',icon:'img/tourguide/impress-small.png', title:'Create presentations', desc:'Make a good impression with the intuitive LibreOffice Impress presentation tool.', hash: 'create-presentations'};
-	
+		
 		guides = new Array(browserfilesGuide, surfthewebGuide, checkemailGuide, viewphotosGuide, findappsGuide, createdocumentsGuide, createspreadsheets, createpresentation);
 		guideCount = guides.length;
 		$('#tour-guide .next-button').bind('click',function(){
@@ -114,7 +114,21 @@ function GuidedTourSystem($parent){
 	}
 	
 	this.update = function(){
+		$('#tour-guide .guide-container').hide();
+		
 		if(currentIndex == -1){
+			$('#tour-guide .prev-button').hide();
+			$('#tour-guide .next-button').hide();
+			$('#tour-guide .welcome').show();
+		}else{
+			$('#tour-guide .'+guides[currentIndex].system).show();
+			$('#tour-guide .prev-button').show();
+			$('#tour-guide .next-button').show();
+		}
+		
+		
+		
+		/*if(currentIndex == -1){
 			$('#tour-guide .guide-container .guide-logo').hide();
 			$('#tour-guide .prev-button').hide();
 			$('#tour-guide .next-button').hide();
@@ -130,7 +144,7 @@ function GuidedTourSystem($parent){
 			$('#tour-guide .guide-container .guide-logo').css('background','url('+guides[currentIndex].icon+')');
 			$('#tour-guide .guide-container h3').text(guides[currentIndex].title);
 			$('#tour-guide .guide-container p').text(guides[currentIndex].desc);
-		}
+		}*/
 	}
 
 	this.updateHash = function() {

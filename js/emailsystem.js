@@ -23,17 +23,17 @@ function EmailSystem($parent){
 	var writeType = '';
 	
 	this.init = function(){
-		emails.push(new Email(0,'inbox', 'Accessible', 'Accessibility is central to the Ubuntu philosophy. We believe that computing is for everyone regardless of nationality, race, gender or disability. Fully translated into 25 languages, Ubuntu also includes essential assistive technologies, which are, of course, completely free.', 'Inayaili de Leon', 'You'));
-		emails.push(new Email(1,'inbox','Fast','Ubuntu loads quickly on any computer, but it\'s super-fast on newer machines. With no unnecessary programs and trial software slowing things down, booting up and opening a browser takes seconds. Unlike other operating systems that leave you staring at the screen, waiting to get online. And Ubuntu won’t grow sluggish over time. It’s fast. And it stays fast.','John Oxton', 'You'));
-		emails.push(new Email(2,'inbox','Compatible','Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 player, camera or printer and you’ll be up and running straight away. No installation CDs. No fuss. And it’s compatible with Windows too! So you can open, edit and share Microsoft Office documents stress-free.','Ellen Arnold', 'You'));
-		emails.push(new Email(3,'inbox','Secure','You can surf in safety with Ubuntu – confident that your files and data will stay protected. A built-in firewall and virus protection come as standard. And if a potential threat appears, we provide automatic updates which you can install in a single click. You get added security with AppArmor, which protects your important applications so attackers can’t access your system. And thanks to Firefox and gnome-keyring, Ubuntu helps you keep your private information private. So whether it’s accessing your bank account or sharing sensitive data with friends or colleagues, you’ll have peace of mind when you need it the most.','Steve Edwards', 'You'));
-		emails.push(new Email(4,'inbox','Your Ubuntu, your way','Enjoy the simplicity of Ubuntu\'s stylish, intuitive interface. Fast, secure and with thousands of apps to choose from, Ubuntu gives you a clean and streamlined experience that you can really make your own. ','Anthony Dillon', 'You'));
+		emails.push(new Email(0,'inbox', _email_1_title_, _email_1_body_, 'Inayaili de Leon', 'You'));
+		emails.push(new Email(1,'inbox',_email_2_title_,_email_2_body_,'John Oxton', 'You'));
+		emails.push(new Email(2,'inbox',_email_3_title_,_email_3_body_,'Ellen Arnold', 'You'));
+		emails.push(new Email(3,'inbox',_email_4_title_,_email_4_body_,'Steve Edwards', 'You'));
+		emails.push(new Email(4,'inbox',_email_5_title_,_email_5_body_,'Anthony Dillon', 'You'));
 		
-		randomReplies.push('Thanks for exploring Ubuntu! Remember, this is just a demo. You\'ll have to download it to enjoy the real thing! <br/><br/><a href="http://www.ubuntu.com/download/ubuntu/download" target="_blank">Download Ubuntu</a>');
+		randomReplies.push(_random_reply_);
 		
 		randomEmails.push(new Email(emails.length,'inbox','Hiya there again','Just checking how you are? Been along time...\n\nRegards,\nJoe','Joe Bloggs <joe@bloggs.com>'));
 		randomEmails.push(new Email(emails.length,'inbox','Hiya there again','Great ... Sounds good! Lets meet for lunch tomorrow to talk it over! What you think?\n\nThanks,\nSue','Sue  White <suewhite@googlemail.com>'));
-		randomEmails.push(new Email(emails.length,'inbox','Hiya there again','DId you catch the game last night! What a goal... fancy coming over next time?','Jack Smith <j_swan@gmail.com>'));
+		randomEmails.push(new Email(emails.length,'inbox','Hiya there again','Did you catch the game last night! What a goal... fancy coming over next time?','Jack Smith <j_swan@gmail.com>'));
 		randomEmails.push(new Email(emails.length,'inbox','Hiya there again','Ok, ill do my best but no promises. It will take some time so let you know when its done./\n/\nThanks,/\nPaul','Paul Swan <paul@hotmail.com>'));
 		
 		this.setupControl();
@@ -49,9 +49,9 @@ function EmailSystem($parent){
 		$('#email-write #write-subject input[name=subject]').keyup(function(){
 			var subjectText = $(this).val();
 			if(subjectText != ''){
-				$('#email-write  .window-title').text('Write: '+subjectText);
+				$('#email-write  .window-title').text(_write_+': '+subjectText);
 			}else{
-				$('#email-write  .window-title').text('Write: (no subject)');
+				$('#email-write  .window-title').text(_write_+': ('+_no_subject_+')');
 			}
 		});
 		
@@ -198,18 +198,18 @@ function EmailSystem($parent){
 			 var messageSubject = theWriteEmail.subject();
 			if(messageSubject.substr(0, 3) != 'Re:'){ messageSubject = 'Re: '+messageSubject; }
 			if(writeType == 'reply'){
-				$('#email-write  .window-title').text('Write: '+messageSubject);
+				$('#email-write  .window-title').text(_write_+': '+messageSubject);
 				$('#email-write  #write-from  input[name=from]').val('You');
 				$('#email-write  #write-subject  input[name=subject]').val(messageSubject);
 				$('#email-write  #write-to  input[name=to]').val(theWriteEmail.from());
 				$('#email-write #write-body textarea[name=body]').val('\n\nOn '+theWriteEmail.date()+', '+theWriteEmail.from()+' wrote: \n\n'+theWriteEmail.body());
 			}else if(writeType == 'forward'){
-				$('#email-write  .window-title').text('Write: Fwd: '+theWriteEmail.subject());
+				$('#email-write  .window-title').text(_write_+': Fwd: '+theWriteEmail.subject());
 				$('#email-write  #write-subject  input[name=subject]').val('Fwd: '+theWriteEmail.subject());
 				$('#email-write  #write-to  input[name=to]').val('');
 				$('#email-write #write-body textarea[name=body]').val('\n\n-------- Original Message --------\n\n'+theWriteEmail.body());
 			}else if(writeType == 'sentreply'){
-				$('#email-write  .window-title').text('Write: '+messageSubject);
+				$('#email-write  .window-title').text(_write_+': '+messageSubject);
 				$('#email-write  #write-from  input[name=from]').val('You');
 				$('#email-write  #write-subject  input[name=subject]').val(messageSubject);
 				$('#email-write  #write-to  input[name=to]').val(theWriteEmail.to());
@@ -258,6 +258,7 @@ function EmailSystem($parent){
 			_parent.systemMenu.closeWindow('email');
 			$('.email-window').removeClass('fullsize');
 			writeMaximised = writeMinified = maximised = maximised = false;
+			$('#folder-inbox').trigger('click');
 			this.resize();
 			this.center();
 		}
@@ -381,9 +382,9 @@ function EmailSystem($parent){
 		currentFolder = $folder;
 		selectedID = -1;
 		if(currentFolder == 'sent'){
-			$('.email-window .email-content .email-contents .email-categories .from').text('Recipient');
+			$('.email-window .email-content .email-contents .email-categories .from').text(_recipient_);
 		}else{
-			$('.email-window .email-content .email-contents .email-categories .from').text('From');
+			$('.email-window .email-content .email-contents .email-categories .from').text(_from_);
 		}
 		this.updateDisplay();
 		this.updateMessage();
@@ -413,7 +414,7 @@ function EmailSystem($parent){
 	
 	this.resetMessage = function(){
 		$('#email-write').hide();
-		$('#email-write  .window-title').text('Write: (no subject)');
+		$('#email-write  .window-title').text(_write_+': ('+_no_subject_+')');
 		$('#email-write  #write-subject  input[name=subject]').val('');
 		$('#email-write  #write-to  input[name=to]').val('');
 		$('#email-write #write-body textarea[name=body]').val('');
