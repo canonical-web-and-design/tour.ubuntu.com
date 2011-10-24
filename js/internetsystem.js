@@ -11,7 +11,7 @@ function FirefoxSystem($parent){
 	var firefoxHeight = 0;
 	var urlWidth = 0;
 	var maximised = false;
-	var homePage = 'http://www.google.com';
+	var homePage = 'http://www.ubuntu.com';
 	var internalClick = true;
 	var name = 'Browse the internet';
 	var _isOpen = false;
@@ -63,7 +63,7 @@ function FirefoxSystem($parent){
 	    
 	    $('#submitSearch ').keypress(function(e){
 	    	if(e.keyCode == 13){
-	    		var inputURL = 'http://www.google.com/search?q='+$('#submitSearch ').val().replace(' ','+');
+	    		var inputURL = 'http://www.wikipedia.org/w/index.php?title=Special%3ASearch&search='+$('#submitSearch ').val().replace(' ','+');
 	    		forwardHistory = new Array();
 	    		backHistory.push(inputURL);
 	    		internalClick = true;
@@ -109,14 +109,14 @@ function FirefoxSystem($parent){
 	    }
 	    
 	     $('#submitSearch').focus(function() {
-				if ($(this).val() == 'Google') {
+				if ($(this).val() == 'Wikipedia') {
 					$(this).val('');
 					$(this).removeClass('fade-text');
 				}
 			});
 			 $('#submitSearch').blur(function() {
 				if ($(this).val() == '') {
-					$(this).val('Google');
+					$(this).val('Wikipedia');
 					$(this).addClass('fade-text');
 				}
 			});
