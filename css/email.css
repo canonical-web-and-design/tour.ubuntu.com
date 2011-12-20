@@ -12,16 +12,22 @@
 }
 
 #email-window .email-get-mail{
-	height:35px;
-	width:108px;
-	overflow:hidden;
 	background:url(../img/email/get-mail.jpg) no-repeat;
+	font-size: 15px;
+    height: 26px;
+    overflow: hidden;
+    padding-left: 31px;
+    padding-top: 9px;
+    width: 77px;
 }
 #email-window .email-write{
-	height:35px;
-	width:76px;
+	height:26px;
+	width:45px;
 	overflow:hidden;
 	background:url(../img/email/write.jpg) no-repeat;
+	font-size: 15px;
+	padding-left: 31px;
+    padding-top: 9px;
 }
 #email-window .email-address-book{
 	height:35px;
@@ -50,7 +56,7 @@
 }
 
 #email-window .buttons div, #email-write  .buttons div{
-	float:left; 
+	float:left;
 }
 
 #email-window .buttons div:hover{
@@ -307,9 +313,14 @@
 	float:right;
 }
 
+
+
 #email-window .email-contents .email-body .message-header .email-buttons div span{
-	height:29px;
+	height:24px;
 	float:left;
+	padding-left:26px;
+	font-size: 15px;
+	padding-top: 5px;
 }
 
 #email-window .email-contents .email-body .message-header .email-buttons span:hover{
@@ -318,23 +329,23 @@
 
 #email-window .email-contents .email-body .message-header .email-buttons .message-reply{
 	background:url(../img/email/reply.jpg) no-repeat;
-	width:66px;
+	width:40px;
 }
 #email-window .email-contents .email-body .message-header .email-buttons .message-forward{
 	background:url(../img/email/forward.jpg) no-repeat;
-	width:87px;
+	width:61px;
 }
 #email-window .email-contents .email-body .message-header .email-buttons .message-archive{
 	background:url(../img/email/archive.jpg) no-repeat;
-	width:80px;
+	width:54px;
 }
 #email-window .email-contents .email-body .message-header .email-buttons .message-junk{
 	background:url(../img/email/junk.jpg) no-repeat;
-	width:60px;
+	width:34px;
 }
 #email-window .email-contents .email-body .message-header .email-buttons .message-delete{
 	background:url(../img/email/delete.jpg) no-repeat;
-	width:75px;
+	width:49px;
 }
 
 #email-window .email-contents .email-body .message-header .date{
@@ -358,10 +369,12 @@
 #email-window .email-contents .junk-mail-banner .not-junk{
 	float:right;
 	background:url(../img/email/not-junk.jpg) no-repeat;
-	width:92px;
-	height:29px;
+	width:76px;
+	height:23px;
 	overflow:hidden;
 	margin-right:10px;
+	color:#4C4C4C;
+	padding:6px 0 0 16px;
 }
 #email-window .email-contents .junk-mail-banner .not-junk:hover{
 	background-position: 0px -29px;
@@ -405,15 +418,19 @@
 }
 
 #email-write #write-send{
-	height:36px;
-	width:69px;
+	padding-left: 31px;
+    padding-top: 9px;
+	height:27px;
+	width:38px;
 	overflow:hidden;
 	background:url(../img/email/write-send.jpg) no-repeat;
 }
 
 #email-write #write-attach{
-	height:35px;
-	width:81px;
+	padding-left: 31px;
+    padding-top: 9px;
+	height:26px;
+	width:50px;
 	overflow:hidden;
 	background:url(../img/email/attach.jpg) no-repeat;
 }
