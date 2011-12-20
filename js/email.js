@@ -5,8 +5,8 @@
 
 function Email($id, $folder, $subject, $body, $from, $to, $date, $cc){ 
 	if ($subject==undefined) { $subject='Untitled Message';}
-	if ($from==undefined) { $from='Welcome <welcome@webuntu.com>';}
-	if ($to==undefined) { $to='Anthony Dillon <anthony.dillon@canonical.com>';}
+	if ($from==undefined) { $from='Welcome <welcome@ubuntu.com>';}
+	if ($to==undefined) { $to='Me <me@canonical.com>';}
 	if ($cc==undefined) { $cc=false;}
 	if($body==undefined){ $body = 'There is no body for message '+$subject; }
 	if ($date==undefined) { 
