@@ -6,7 +6,7 @@
 function FileSystem($parent, $startingDir){
 	
 	var _parent = $parent;
-	var home = '/Home';
+	var home = '/'+_home_folder_;
 	if($startingDir == undefined){ $startingDir = home; }
 	var current_dir = $startingDir;
 	var list_of_files = new Array();
@@ -19,29 +19,30 @@ function FileSystem($parent, $startingDir){
 	var minified = false;
 	var maximised = false;
 	var dragging = false;
-	var name = 'Home';
+	var name = _home_folder_;
 	var _isOpen = false;
 	var list_type = 'display-icon';
+	var openedID = -1;
 	
 	var folderContentsHeight = 0;
 	var folderContentsWidth = 0;
 	
 	this.init = function(){
 		
-		list_of_files.push(new Folder('Documents'));
-		list_of_files.push(new Folder('Downloads'));
-		list_of_files.push(new Folder('Music'));
-		list_of_files.push(new Folder('Videos'));
-		list_of_files.push(new Folder('Pictures'));
-		list_of_files.push(new Folder('Desktop'));
+		list_of_files.push(new Folder(_documents_folder_, '/'+_home_folder_));
+		list_of_files.push(new Folder(_downloads_folder_, '/'+_home_folder_));
+		list_of_files.push(new Folder(_music_folder_, '/'+_home_folder_));
+		list_of_files.push(new Folder(_videos_folder_, '/'+_home_folder_));
+		list_of_files.push(new Folder(_pictures_folder_, '/'+_home_folder_));
+		list_of_files.push(new Folder(_desktop_folder_, '/'+_home_folder_));
 		
 		
-		list_of_files.push(new Folder('Canonical', '/\Home/\Documents'));
-		list_of_files.push(new Folder('Backup', '/\Home/\Documents'));
-		list_of_files.push(new Folder('Local', '/\Home/\Documents'));
+		list_of_files.push(new Folder(_canonical_folder_, '/'+_home_folder_+'/'+_documents_folder_));
+		list_of_files.push(new Folder(_backup_folder_, '/'+_home_folder_+'/'+_documents_folder_));
+		list_of_files.push(new Folder(_local_folder_, '/'+_home_folder_+'/'+_documents_folder_));
 		
-		list_of_files.push(new Folder('work', '/\Home/\Documents/Canonical'));
-		list_of_files.push(new Folder('branches', '/\Home/\Documents/Canonical'));
+		list_of_files.push(new Folder(_work_folder_, '/'+_home_folder_+'/'+_documents_folder_+'/'+_canonical_folder_));
+		list_of_files.push(new Folder(_branches_folder_, '/'+_home_folder_+'/'+_documents_folder_+'/'+_canonical_folder_));
 		
 		list_of_files = list_of_files.concat(_parent.fileLibrary);
 		
@@ -74,13 +75,15 @@ function FileSystem($parent, $startingDir){
 		});
 		
 		$('#folder-window .folder-list .list ul li').click(function(){
+			$('#folder-window .folder-list .list ul li').removeClass('selected');
+			$(this).addClass('selected');
 			var fresh = true;
 			 var index = $(this).attr('data-folder');
 			 var newDir = '';
 			 if(index == 'home'){
-			 	newDir = '/Home';
+			 	newDir = '/'+_home_folder_;
 			 }else if(index == 'bin'){
-			 	newDir = '/Rubbish Bin';
+			 	newDir = '/'+_rubbish_bin_folder_;
 			 	fresh = false;
 			 }else{
 		  		newDir = list_of_files[index].location()+'/'+list_of_files[index].name();
@@ -95,7 +98,7 @@ function FileSystem($parent, $startingDir){
 	
 	this.reset = function($full){
 		if($full){
-			current_dir = '/Home';
+			current_dir = '/'+_home_folder_;
 			dir_history = new Array();
 			history_index = -1;
 			folderContents = '';
@@ -176,10 +179,10 @@ function FileSystem($parent, $startingDir){
 		});
 		
 		$('.folder-contents .contents div').dblclick(function() {
-			  var index = $(this).attr('data-id');
+			  openedID = $(this).attr('data-id');
 			  switch($(this).attr('data-type')){
 			  	case 'folder':
-			  		var newDir = current_dir+'/'+list_of_files[index].name();
+			  		var newDir = current_dir+'/'+list_of_files[openedID].name();
 			  		_this.clickedNewFolder(newDir);
 				 	_this.updateDir(newDir);
 			  	break;
@@ -247,7 +250,6 @@ function FileSystem($parent, $startingDir){
 		dir_name = dir_history[history_index].split('/');
 		dir_name = dir_name[dir_name.length-1];
 		$('.folder-contents .bottom-buttons').html(breadcrumb);
-		$('.file-details').text(itemCount+' items, Free space: 6.2 GB');
 		$('.folder .window-title').text(dir_name);
 		this.setupBreadcrumbControl();
 		this.setupFolderControl();
@@ -271,8 +273,12 @@ function FileSystem($parent, $startingDir){
 		var tempArray = $newDIr.split('/');
 		var sidebarName = tempArray[tempArray.length - 1].toLowerCase();
 		if(sidebarName == 'rubbish bin'){ sidebarName = 'rubbish' };
-		$('#folder-window .folder-list .list ul li').removeClass('selected');
-		$('#folder-window .folder-list .list ul li.'+sidebarName).addClass('selected');
+		if($sidebar == undefined){
+			$('#folder-window .folder-list .list ul li').removeClass('selected');
+			$('#folder-window .folder-list .list ul li[data-folder="'+openedID+'"]').addClass('selected');
+		}
+		
+		
 		current_dir = $newDIr;
 		if($sidebar == undefined){ $sidebar = false; }
 		var dirExists = $.inArray($newDIr, dir_history);
@@ -282,7 +288,7 @@ function FileSystem($parent, $startingDir){
 		} else{
 			if($sidebar){
 				history_index = 1;
-				dir_history = new Array('/Home', $newDIr);
+				dir_history = new Array('/'+_home_folder_, $newDIr);
 			}else{
 				if(current_dir.split('/').length > 2){
 					history_index++;
@@ -336,7 +342,7 @@ function FileSystem($parent, $startingDir){
 	
 	this.center = function(){
 	    	var left = ($(document).width() / 2) - ($('.folder').width() / 2);
-			var top = ($(document).height() / 2) - ($('.folder').height() / 2);
+			var top = Math.max(24,($(document).height() / 2) - ($('.folder').height() / 2));
 			$('.folder').css('left',left);
 			$('.folder').css('top',top);
 	    }

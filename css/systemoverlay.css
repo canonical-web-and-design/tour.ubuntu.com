@@ -177,6 +177,7 @@
 }
 #systemOverlay #shortcuts #shortcut-contents div span{
 	display:block;
+	height: 40px;
 }
 
 #systemOverlay #shortcuts #shortcut-contents div.first{

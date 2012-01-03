@@ -101,20 +101,16 @@ function WelcomeSystem($parent){
 			_this.open();
 		});
 		$('#tour-guide .explore-to-welcome').bind('mouseover',function(){
-			$('#tour-guide .explore-tooltip').text('Welcome Screen');
-			$('#tour-guide .explore-tooltip').show();
-			$('#tour-guide .explore-tooltip').css('right','40px');
+			$('#tour-guide .explore-tooltip-welcome').show();
 		});
 		$('#tour-guide .explore-to-welcome').bind('mouseout',function(){
-			$('#tour-guide .explore-tooltip').hide();
+			$('#tour-guide .explore-tooltip-welcome').hide();
 		});
 		$('#tour-guide .explore-to-download').bind('mouseover',function(){
-			$('#tour-guide .explore-tooltip').css('right','10px');
-			$('#tour-guide .explore-tooltip').text('Download');
-			$('#tour-guide .explore-tooltip').show();
+			$('#tour-guide .explore-tooltip-download').show();
 		});
 		$('#tour-guide .explore-to-download').bind('mouseout',function(){
-			$('#tour-guide .explore-tooltip').hide();
+			$('#tour-guide .explore-tooltip-download').hide();
 		});
 		$('#tour-guide .explore-to-download').bind('click',function(){
 			_parent.errorMessage.open();
