@@ -29,7 +29,7 @@ function EmailSystem($parent){
 		emails.push(new Email(3,'inbox',_email_4_title_,_email_4_body_,'Steve Edwards', 'You'));
 		emails.push(new Email(4,'inbox',_email_5_title_,_email_5_body_,'Anthony Dillon', 'You'));
 		
-		randomReplies.push(_random_reply_);
+		randomReplies.push(_random_reply_+' <br/><br/><a href="http://www.ubuntu.com/download/ubuntu/download" target="_blank">'+_download_ubuntu_+'</a>');
 		
 		randomEmails.push(new Email(emails.length,'inbox','Hiya there again','Just checking how you are? Been along time...\n\nRegards,\nJoe','Joe Bloggs <joe@bloggs.com>'));
 		randomEmails.push(new Email(emails.length,'inbox','Hiya there again','Great ... Sounds good! Lets meet for lunch tomorrow to talk it over! What you think?\n\nThanks,\nSue','Sue  White <suewhite@googlemail.com>'));
