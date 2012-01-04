@@ -31,24 +31,26 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Ubuntu能在各种计算机上迅速的加载，但在比较新的机器上会更快。没有非必须的或者"
+"试用软件导致系统变慢，启动时间拉长，抑或花更多时间打开浏览器。也不像其它操作"
+"系统经常显示一个屏幕给你，让你一直等待知道连接上网。Ubuntu不会越用越慢，一直"
+"都会很快。"
 
 #: ../index.html
-#, fuzzy
 msgid "no subject"
-msgstr "主题"
+msgstr "无主题"
 
 #: ../index.html
 msgid "Show yourself around"
-msgstr ""
+msgstr "四处看看"
 
 #: ../index.html
 msgid "Desktop"
 msgstr "桌面"
 
 #: ../index.html
-#, fuzzy
 msgid "Get Mail"
-msgstr "设定电子邮件"
+msgstr "获取邮件"
 
 #: ../index.html
 msgid "Junk Mail"
@@ -59,7 +61,6 @@ msgid "Internet"
 msgstr "互联网"
 
 #: ../index.html
-#, fuzzy
 msgid "Science &amp; Engineering"
 msgstr "工程"
 
@@ -81,6 +82,8 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
+"BEEP已经从遥远的时空旅行了几千年来探索银河系。和BEEP号一起穿越了一个陌生的星"
+"系并发送了机器人到达星球的表面"
 
 #: ../index.html
 msgid "Are you sure you want to close all programs and shutdown the computer?"
@@ -101,6 +104,9 @@ msgid ""
 "translated into 38 languages, Ubuntu also includes essential assistive "
 "technologies, which are, of course, completely free."
 msgstr ""
+"易用性是Ubuntu哲学之中心。我们相信计算机是给所有人使用的，不分民族种族、性"
+"别，抑或残障。Ubuntu已被完整的翻译成38种语言，也同时包含必须的辅助技术，所有"
+"这些都是完全免费的."
 
 #: ../index.html
 msgid "Download Ubuntu"
@@ -116,15 +122,15 @@ msgstr "应用程序"
 
 #: ../index.html
 msgid "Physics based puzzle/construction game"
-msgstr ""
+msgstr "基于物理的拼图游戏"
 
 #: ../index.html
 msgid "Remote Desktop Viewer"
-msgstr ""
+msgstr "远程桌面查看器"
 
 #: ../index.html
 msgid "Gwibber Social Client"
-msgstr ""
+msgstr "硅博社交网络客户端"
 
 #: ../index.html
 msgid "History"
@@ -132,7 +138,7 @@ msgstr "历史记录"
 
 #: ../index.html
 msgid "PCB CNC converter"
-msgstr ""
+msgstr "PCB CNC 转换器"
 
 #: ../index.html
 msgid "Webcam"
@@ -140,11 +146,11 @@ msgstr "摄像头"
 
 #: ../index.html
 msgid "Surf the web"
-msgstr ""
+msgstr "浏览网络"
 
 #: ../index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
-msgstr ""
+msgstr "基于2D的射击游戏"
 
 #: ../index.html
 msgid "Graphics"
@@ -164,7 +170,7 @@ msgstr "Banshee"
 
 #: ../index.html
 msgid "Compatible"
-msgstr ""
+msgstr "兼容的"
 
 #: ../index.html
 msgid "Dash home"
@@ -172,7 +178,7 @@ msgstr "主面板"
 
 #: ../index.html
 msgid "From"
-msgstr ""
+msgstr "来自"
 
 #: ../index.html
 msgid "Auto eth0"
@@ -196,7 +202,7 @@ msgstr ""
 
 #: ../index.html
 msgid "This package contains the Chromium browser"
-msgstr ""
+msgstr "此软件包含有 Chromium浏览器"
 
 #: ../index.html
 msgid "$9.99"
@@ -204,7 +210,7 @@ msgstr ""
 
 #: ../index.html
 msgid "Secure"
-msgstr ""
+msgstr "安全"
 
 #: ../index.html
 msgid "Mute"
@@ -216,11 +222,11 @@ msgstr "所有软件"
 
 #: ../index.html
 msgid "Ready to download?"
-msgstr ""
+msgstr "准备好下载了吗？"
 
 #: ../index.html
 msgid "Additional Drivers"
-msgstr ""
+msgstr "附加的驱动"
 
 #: ../index.html
 msgid "Accessories"
@@ -231,9 +237,8 @@ msgid "Create spreadsheets"
 msgstr "创建表格"
 
 #: ../index.html
-#, fuzzy
 msgid "Bluetooth"
-msgstr "打开蓝牙"
+msgstr "蓝牙"
 
 #: ../index.html
 msgid "Shut Down"
@@ -249,15 +254,15 @@ msgstr "教育"
 
 #: ../index.html
 msgid "Brasero Disc Burner"
-msgstr ""
+msgstr "刻录软件"
 
 #: ../index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
-msgstr ""
+msgstr "使用雷鸟来读、写和发送邮件，将会简便快捷。"
 
 #: ../index.html
 msgid "wrote"
-msgstr ""
+msgstr "已写"
 
 #: ../index.html
 msgid "Subject"
@@ -289,20 +294,19 @@ msgstr "日期:"
 
 #: ../index.html
 msgid "junk"
-msgstr ""
+msgstr "垃圾"
 
 #: ../index.html
 msgid "Send"
-msgstr ""
+msgstr "发送"
 
 #: ../index.html
-#, fuzzy
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "欢迎尝试Ubuntu 在线漫游"
+msgstr "希望您已经尝试了Ubuntu 在线漫游"
 
 #: ../index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr ""
+msgstr "Inkscape 矢量图形编辑器"
 
 #: ../index.html
 msgid "Create presentations"
@@ -310,7 +314,7 @@ msgstr "创建演示文稿"
 
 #: ../index.html
 msgid "Original Message"
-msgstr ""
+msgstr "原始信息"
 
 #: ../index.html
 msgid "AisleRoit Solitaire"
@@ -329,6 +333,8 @@ msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
+"Chromium是一个开源的浏览器项目，其主旨在于提供一个更安全、更快速以及更稳定的"
+"途径，让更多的互联网用更好的体验网络"
 
 #: ../index.html
 msgid "Email"
@@ -360,24 +366,23 @@ msgstr "休眠"
 
 #: ../index.html
 msgid "Your Ubuntu, your way"
-msgstr ""
+msgstr "你的Ubuntu, 你做主"
 
 #: ../index.html
 msgid "Local"
-msgstr ""
+msgstr "本地"
 
 #: ../index.html
-#, fuzzy
 msgid "Time &amp; Date Settings…"
 msgstr "数据设定..."
 
 #: ../index.html
 msgid "PiTiVi Video Editor"
-msgstr ""
+msgstr "PiTiVi 视频编辑器"
 
 #: ../index.html
 msgid "Unmute"
-msgstr ""
+msgstr "取消静音"
 
 #: ../index.html
 msgid ""
@@ -386,19 +391,21 @@ msgid ""
 "installation CDs. No fuss. And it’s compatible with Windows too! So you can "
 "open, edit and share Microsoft Office documents stress-free."
 msgstr ""
+"很多设备都可以很好的在Ubuntu下工作。只需将您的Mp3播放器、相机或者打印机连接到"
+"计算机上，您就可以直接使用。无需驱动程序安装光盘。不用大惊小怪。同时还和"
+"Windows兼容，所以您可以轻松的打开、编辑和分享微软Office的文档。"
 
 #: ../index.html
 msgid "World of Goo"
 msgstr ""
 
 #: ../index.html
-#, fuzzy
 msgid "Welcome Screen"
 msgstr "锁定屏幕"
 
 #: ../index.html
 msgid "reply"
-msgstr ""
+msgstr "回复"
 
 #: ../index.html
 msgid "Set Up Mail…"
@@ -406,7 +413,7 @@ msgstr "设定电子邮件"
 
 #: ../index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
-msgstr ""
+msgstr "快速从Ubuntu软件中心搜需和下载应用。"
 
 #: ../index.html
 msgid "Turn Off Bluetooth"
@@ -425,18 +432,20 @@ msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
+"其它使用ruby, libxme-xql-perl, python-numpy和python-lxml的插件。为了让这些插"
+"件和特效工作，您需要安装这些软件包。"
 
 #: ../index.html
 msgid "Fwd"
-msgstr ""
+msgstr "转发"
 
 #: ../index.html
 msgid "Terminal Server Client"
-msgstr ""
+msgstr "终端服务客户端"
 
 #: ../index.html
 msgid "Appearance"
-msgstr ""
+msgstr "外观"
 
 #: ../index.html
 msgid "LibreOffice Calc"
@@ -452,7 +461,7 @@ msgstr "启动应用程序…"
 
 #: ../index.html
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: ../index.html
 msgid ""
@@ -462,7 +471,7 @@ msgstr ""
 
 #: ../index.html
 msgid "from"
-msgstr ""
+msgstr "来自"
 
 #: ../index.html
 msgid "LibreOffice Impress"
@@ -479,7 +488,6 @@ msgid "Songs"
 msgstr "曲目"
 
 #: ../index.html
-#, fuzzy
 msgid "Accessible"
 msgstr "辅助程序"
 
@@ -510,7 +518,6 @@ msgid ""
 msgstr ""
 
 #: ../index.html
-#, fuzzy
 msgid ""
 "Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
 "download it to enjoy the real thing!"
@@ -522,7 +529,7 @@ msgstr "未读:"
 
 #: ../index.html
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "Banshee 媒体播放器"
 
 #: ../index.html
 msgid ""
@@ -538,9 +545,8 @@ msgid ""
 msgstr ""
 
 #: ../index.html
-#, fuzzy
 msgid "Files &amp; Folders"
-msgstr "全部文件夹"
+msgstr "文件和文件夹..."
 
 #: ../index.html
 msgid "Installed"
@@ -591,7 +597,7 @@ msgstr "开发工具"
 
 #: ../index.html
 msgid "or"
-msgstr ""
+msgstr "或"
 
 #: ../index.html
 msgid "Inkscape"
@@ -599,15 +605,15 @@ msgstr "Inkscape 图形编辑器"
 
 #: ../index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "访问互联网"
 
 #: ../index.html
 msgid "Take the guided tour"
-msgstr ""
+msgstr "观看此向导"
 
 #: ../index.html
 msgid "cc"
-msgstr ""
+msgstr "抄送"
 
 #: ../index.html
 msgid "Pictures"
@@ -658,6 +664,8 @@ msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
+"如果您要使用拼写检查，您需要安装 aspell 和相应的语言支持。例如: aspell-en 或"
+"者 aspell-de。"
 
 #: ../index.html
 msgid "Find Files"
@@ -669,11 +677,11 @@ msgstr "观看照片"
 
 #: ../index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
-msgstr ""
+msgstr "您可以使用 Shotwell 上传、组织、编写和共享您的照片。"
 
 #: ../index.html
 msgid "Ubuntu One Control Panel"
-msgstr "Ubuntu One 控制面包"
+msgstr "Ubuntu One 控制面板"
 
 #: ../index.html
 msgid ""
@@ -683,7 +691,7 @@ msgstr "您的所有收藏都跟随您传送到您的 Android或者 iPhone手机
 
 #: ../index.html
 msgid "to"
-msgstr "浏览网络"
+msgstr "至"
 
 #: ../index.html
 msgid ""
@@ -706,13 +714,13 @@ msgstr "您的浏览器不支持 iframes"
 msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
-msgstr ""
+msgstr "使用直观的 LibreOffice 演示 来创建一个良好的影响"
 
 #: ../index.html
 msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
-msgstr ""
+msgstr "您可以轻松快捷的从Ubuntu的家目录访问您的文件和文件夹。"
 
 #: ../index.html
 msgid ""
@@ -734,7 +742,7 @@ msgstr ""
 #: ../index.html
 #, fuzzy
 msgid "Chromium Web Browser"
-msgstr "Firefox 网络浏览器"
+msgstr "Chromium 网络浏览器"
 
 #: ../index.html
 msgid "Browse the Web"
@@ -742,19 +750,19 @@ msgstr "浏览网络"
 
 #: ../index.html
 msgid "Recipient"
-msgstr ""
+msgstr "收件人"
 
 #: ../index.html
 msgid "Fast"
-msgstr ""
+msgstr "快速"
 
 #: ../index.html
 msgid "Not Junk"
-msgstr ""
+msgstr "非垃圾"
 
 #: ../index.html
 msgid "To:"
-msgstr ""
+msgstr "至:"
 
 #: ../index.html
 msgid "Set Up Broadcast Account…"
@@ -797,19 +805,21 @@ msgstr "系统"
 
 #: ../index.html
 msgid "forward"
-msgstr ""
+msgstr "转发"
 
 #: ../index.html
 msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
-msgstr ""
+msgstr "LibreOffice 表格提供了一切创建清晰精确表格之所需。"
 
 #: ../index.html
 msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
+"通过一些软件如dia, libwmf-bin, pstoedit skencil, imagemagick和perlmagick, 提"
+"供了导入和导出的特性 "
 
 #: ../index.html
 msgid "Take Ubuntu for a test drive with our online demo."
@@ -828,13 +838,12 @@ msgid "Subject:"
 msgstr "主题："
 
 #: ../index.html
-#, fuzzy
 msgid "Turn On Bluetooth"
-msgstr "关闭蓝牙"
+msgstr "打开蓝牙"
 
 #: ../index.html
 msgid "Backup"
-msgstr ""
+msgstr "备份"
 
 #: ../index.html
 msgid "The Power of Your Personal Cloud"
@@ -854,7 +863,7 @@ msgstr "办公"
 
 #: ../index.html
 msgid "Themes &amp; Tweaks"
-msgstr ""
+msgstr "主题和设置..."
 
 #: ../index.html
 msgid "Shortcuts"
@@ -874,7 +883,7 @@ msgstr "库"
 
 #: ../index.html
 msgid "work"
-msgstr ""
+msgstr "工作"
 
 #: ../index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
@@ -890,6 +899,8 @@ msgid ""
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
 msgstr ""
+"Chromium提供了Google Chrome的主要功能，只是名称和表示不同，同时也去除了使用跟"
+"踪和自动升级系统。"
 
 #: ../index.html
 msgid "Chromium"
@@ -901,7 +912,7 @@ msgstr "未命名 - LibreOffice Writer"
 
 #: ../index.html
 msgid "delete"
-msgstr ""
+msgstr "删除"
 
 #: ../index.html
 msgid "Busy"
@@ -925,7 +936,7 @@ msgstr "声音设定..."
 
 #: ../index.html
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: ../index.html
 msgid ""
@@ -940,11 +951,11 @@ msgstr "添加事件..."
 
 #: ../index.html
 msgid "Write"
-msgstr ""
+msgstr "撰写"
 
 #: ../index.html
 msgid "Attach"
-msgstr ""
+msgstr "附加"
 
 #: ../index.html
 msgid "Write: (no subject)"
@@ -952,7 +963,7 @@ msgstr "撰写"
 
 #: ../index.html
 msgid "Ubuntu online tour"
-msgstr "Ubuntu在线教程"
+msgstr "Ubuntu在线漫游"
 
 #: ../index.html
 msgid ""
@@ -971,7 +982,6 @@ msgid "Trash"
 msgstr "垃圾箱"
 
 #: ../index.html
-#, fuzzy
 msgid "archive"
 msgstr "存档"
 
@@ -985,7 +995,7 @@ msgstr "锁定屏幕"
 
 #: ../index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr ""
+msgstr "使用Ubuntu 和 Firefox可以安全快速的浏览网络。"
 
 #: ../index.html
 msgid "Media Apps"
@@ -1000,51 +1010,52 @@ msgid "Browse files on device…"
 msgstr "浏览设备上的文件..."
 
 #: ../index.html
-#, fuzzy
 msgid "Listen to Music"
 msgstr "聆听音乐"
 
 #: ../index.html
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../index.html
 msgid "Computer"
-msgstr ""
+msgstr "计算机"
 
 #: ../index.html
 msgid "What's New"
-msgstr ""
+msgstr "更新"
 
 #: ../index.html
 msgid "App Available for Download"
-msgstr ""
+msgstr "可供下载的应用"
 
 #: ../index.html
 msgid "Movie Player"
-msgstr ""
+msgstr "电影播放机"
 
 #: ../index.html
 msgid "Invisible"
-msgstr ""
+msgstr "隐藏的"
 
 #: ../index.html
 msgid "Albums"
-msgstr ""
+msgstr "专辑"
 
 #: ../index.html
 msgid ""
 "Inkscape supports multiple opened files and multiple views per file. "
 "Graphics can be printed and exported to png bitmaps."
 msgstr ""
+"Inkscape 支持同时打开多个文件，以及每个文件多个查看器。图片了一打印或导出为"
+"png位图。"
 
 #: ../index.html
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice 文稿"
 
 #: ../index.html
 msgid "From:"
-msgstr ""
+msgstr "来自:"
 
 #: ../index.html
 msgid "Folders"
@@ -1067,17 +1078,16 @@ msgid "Clear"
 msgstr "清空"
 
 #: ../index.html
-#, fuzzy
 msgid "Installing"
-msgstr "安装"
+msgstr "安装中"
 
 #: ../index.html
 msgid "back to the site"
-msgstr ""
+msgstr "返回网站"
 
 #: ../index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
-msgstr ""
+msgstr "LibreOffice 文稿 让撰写专业文档变得更简单。"
 
 #: ../index.html
 msgid "Games"
@@ -1089,7 +1099,7 @@ msgstr ""
 
 #: ../index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
+msgstr "创建和编辑矢量图形"
 
 #: ../index.html
 msgid "Attached Devices"
@@ -1097,7 +1107,7 @@ msgstr "已连接的设备"
 
 #: ../index.html
 msgid "Sound Recorder"
-msgstr ""
+msgstr "录音机"
 
 #: ../index.html
 msgid "Suspend"
@@ -1132,15 +1142,15 @@ msgstr ""
 
 #: ../index.html
 msgid "Rubbish bin"
-msgstr ""
+msgstr "回收站"
 
 #: ../index.html
 msgid "Sound &amp; Video"
-msgstr ""
+msgstr "声音和视频..."
 
 #: ../index.html
 msgid "Create and edit 3D models and animations"
-msgstr ""
+msgstr "创建和编辑3D模型及动画"
 
 #: ../index.html
 msgid "Inbox"
@@ -1152,11 +1162,11 @@ msgstr "到处都可以访问您的文件"
 
 #: ../index.html
 msgid "Stay Productive"
-msgstr ""
+msgstr "保持效率"
 
 #: ../index.html
 msgid "Empathy Internet Messageing"
-msgstr ""
+msgstr "Empathy即时通讯"
 
 #: ../index.html
 msgid ""
@@ -1181,11 +1191,11 @@ msgstr "下载"
 
 #: ../index.html
 msgid "You"
-msgstr ""
+msgstr "您"
 
 #: ../index.html
 msgid "Blender"
-msgstr ""
+msgstr "Blender"
 
 #~ msgid "Themes"
 #~ msgstr "主题"
