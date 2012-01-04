@@ -11,535 +11,749 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: ../index.html
 msgid "Firefox Web Browser"
 msgstr ""
 
+#: ../index.html
 msgid "Show yourself around"
 msgstr ""
 
+#: ../index.html
 msgid "Desktop"
 msgstr ""
 
+#: ../index.html
+msgid "Junk Mail"
+msgstr ""
+
+#: ../index.html
 msgid "Internet"
 msgstr ""
 
+#: ../index.html
+msgid "Science &amp; Engineering"
+msgstr ""
+
+#: ../index.html
 msgid "Find apps"
 msgstr ""
 
+#: ../index.html
 msgid "Files"
 msgstr ""
 
+#: ../index.html
 msgid "Are you sure you want to close all programs and shutdown the computer?"
 msgstr ""
 
+#: ../index.html
 msgid "Untitled 1 - LibreOffice Impress"
 msgstr ""
 
+#: ../index.html
 msgid "Ubuntu One"
 msgstr ""
 
+#: ../index.html
 msgid "Download Ubuntu"
 msgstr ""
 
+#: ../index.html
 msgid "Join now"
 msgstr ""
 
+#: ../index.html
 msgid "Applications"
 msgstr ""
 
+#: ../index.html
 msgid "History"
 msgstr ""
 
+#: ../index.html
 msgid "PCB CNC converter"
 msgstr ""
 
+#: ../index.html
 msgid "Webcam"
 msgstr ""
 
-msgid "to"
-msgstr ""
-
+#: ../index.html
 msgid "Surf the web"
 msgstr ""
 
+#: ../index.html
 msgid "Graphics"
 msgstr ""
 
+#: ../index.html
 msgid "Keep Connected"
 msgstr ""
 
+#: ../index.html
 msgid "Top Rated"
 msgstr ""
 
+#: ../index.html
 msgid "Banshee"
 msgstr ""
 
+#: ../index.html
 msgid "Dash home"
 msgstr ""
 
+#: ../index.html
 msgid "From"
 msgstr ""
 
+#: ../index.html
 msgid "Auto eth0"
 msgstr ""
 
+#: ../index.html
 msgid "Thanks for exploring Ubuntu!"
 msgstr ""
 
+#: ../index.html
 msgid "Send files to device…"
 msgstr ""
 
+#: ../index.html
+msgid "Create documents"
+msgstr ""
+
+#: ../index.html
 msgid "(91 Ratings)"
 msgstr ""
 
+#: ../index.html
 msgid "$9.99"
 msgstr ""
 
+#: ../index.html
 msgid "Mute"
 msgstr ""
 
+#: ../index.html
 msgid "All Software"
 msgstr ""
 
-msgid "Date Settings…"
+#: ../index.html
+msgid "Ready to download?"
 msgstr ""
 
+#: ../index.html
 msgid "Accessories"
 msgstr ""
 
+#: ../index.html
 msgid "Create spreadsheets"
 msgstr ""
 
-msgid "Themes"
-msgstr ""
-
+#: ../index.html
 msgid "Shut Down"
 msgstr ""
 
+#: ../index.html
 msgid "Music"
 msgstr ""
 
+#: ../index.html
 msgid "Education"
 msgstr ""
 
+#: ../index.html
+msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
+msgstr ""
+
+#: ../index.html
 msgid "Subject"
 msgstr ""
 
+#: ../index.html
 msgid "Shotwell"
 msgstr ""
 
+#: ../index.html
 msgid "Documents"
 msgstr ""
 
+#: ../index.html
 msgid "Disconnect"
 msgstr ""
 
+#: ../index.html
 msgid "Preferences"
 msgstr ""
 
+#: ../index.html
 msgid "Browse files"
 msgstr ""
 
+#: ../index.html
 msgid "Date:"
 msgstr ""
 
+#: ../index.html
 msgid "System"
 msgstr ""
 
+#: ../index.html
 msgid "Take Ubuntu for a test drive with our online demo."
 msgstr ""
 
+#: ../index.html
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr ""
+
+#: ../index.html
 msgid "Create presentations"
 msgstr ""
 
+#: ../index.html
 msgid "Printers"
 msgstr ""
 
+#: ../index.html
 msgid "Connection Information"
 msgstr ""
 
+#: ../index.html
 msgid "Email"
 msgstr ""
 
+#: ../index.html
 msgid "Sent"
 msgstr ""
 
+#: ../index.html
 msgid "subject"
 msgstr ""
 
+#: ../index.html
 msgid "Available"
 msgstr ""
 
+#: ../index.html
 msgid "All Folders"
 msgstr ""
 
+#: ../index.html
 msgid "Fri 26 Oct, 2001"
 msgstr ""
 
+#: ../index.html
 msgid "Hibernate"
 msgstr ""
 
-msgid "Downloads"
+#: ../index.html
+msgid "Time &amp; Date Settings…"
 msgstr ""
 
+#: ../index.html
 msgid "World of Goo"
 msgstr ""
 
-msgid "Video"
+#: ../index.html
+msgid "Welcome Screen"
 msgstr ""
 
+#: ../index.html
 msgid "Set Up Mail…"
 msgstr ""
 
+#: ../index.html
+msgid "Search and download apps fast from the Ubuntu Software Centre."
+msgstr ""
+
+#: ../index.html
 msgid "Turn Off Bluetooth"
 msgstr ""
 
+#: ../index.html
 msgid "$19.99"
 msgstr ""
 
+#: ../index.html
 msgid "Log Out…"
 msgstr ""
 
+#: ../index.html
 msgid "LibreOffice Calc"
 msgstr ""
 
+#: ../index.html
 msgid "Cancel"
 msgstr ""
 
+#: ../index.html
 msgid "Startup Applications…"
 msgstr ""
 
+#: ../index.html
 msgid "from"
 msgstr ""
 
+#: ../index.html
 msgid "LibreOffice Impress"
 msgstr ""
 
+#: ../index.html
 msgid "Songs"
 msgstr ""
 
+#: ../index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
 
+#: ../index.html
 msgid "Title:"
 msgstr ""
 
+#: ../index.html
 msgid "Setup new device…"
 msgstr ""
 
+#: ../index.html
 msgid "Videos"
 msgstr ""
 
+#: ../index.html
 msgid "Braid"
 msgstr ""
 
+#: ../index.html
 msgid "Unread:"
 msgstr ""
 
-msgid "Write: (no subject)"
+#: ../index.html
+msgid "Files &amp; Folders"
 msgstr ""
 
+#: ../index.html
 msgid "Installed"
 msgstr ""
 
+#: ../index.html
 msgid "BEEP"
 msgstr ""
 
+#: ../index.html
 msgid "Visible"
 msgstr ""
 
+#: ../index.html
 msgid "Learn More"
 msgstr ""
 
+#: ../index.html
 msgid "Chat"
 msgstr ""
 
+#: ../index.html
 msgid "Archive"
 msgstr ""
 
+#: ../index.html
 msgid "Download"
 msgstr ""
 
+#: ../index.html
 msgid "Home"
 msgstr ""
 
+#: ../index.html
 msgid "Developer Tools"
 msgstr ""
 
+#: ../index.html
+msgid "or"
+msgstr ""
+
+#: ../index.html
 msgid "Inkscape"
 msgstr ""
 
+#: ../index.html
 msgid "Take the guided tour"
 msgstr ""
 
+#: ../index.html
 msgid "cc"
 msgstr ""
 
+#: ../index.html
 msgid "Pictures"
 msgstr ""
 
+#: ../index.html
 msgid "Away"
 msgstr ""
 
+#: ../index.html
 msgid "Size:"
 msgstr ""
 
+#: ../index.html
 msgid "Draft"
 msgstr ""
 
+#: ../index.html
 msgid "Free"
 msgstr ""
 
+#: ../index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
 msgstr ""
 
+#: ../index.html
 msgid "Thunderbird Mail/News"
 msgstr ""
 
+#: ../index.html
 msgid "Displays…"
 msgstr ""
 
+#: ../index.html
 msgid "Software Up to Date"
 msgstr ""
 
+#: ../index.html
 msgid "Browse the web"
 msgstr ""
 
+#: ../index.html
 msgid "More Apps"
 msgstr ""
 
+#: ../index.html
 msgid "Find Files"
 msgstr ""
 
+#: ../index.html
 msgid "View photos"
 msgstr ""
 
+#: ../index.html
+msgid "You can upload, organise, edit and share your photos with Shotwell."
+msgstr ""
+
+#: ../index.html
 msgid "Ubuntu One Control Panel"
 msgstr ""
 
+#: ../index.html
 msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
 
-msgid "&"
+#: ../index.html
+msgid "to"
 msgstr ""
 
+#: ../index.html
 msgid "Your browser does not support iframes."
 msgstr ""
 
+#: ../index.html
+msgid ""
+"Make a good impression with the intuitive LibreOffice Impress presentation "
+"tool."
+msgstr ""
+
+#: ../index.html
+msgid ""
+"It’s quick and easy to access your folders and files from Ubuntu’s home "
+"folder."
+msgstr ""
+
+#: ../index.html
 msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
 msgstr ""
 
+#: ../index.html
 msgid "Date"
 msgstr ""
 
+#: ../index.html
 msgid "Browse the Web"
 msgstr ""
 
+#: ../index.html
 msgid "To:"
 msgstr ""
 
+#: ../index.html
 msgid "Set Up Broadcast Account…"
 msgstr ""
 
+#: ../index.html
 msgid "Check email"
 msgstr ""
 
+#: ../index.html
 msgid "Total:"
 msgstr ""
 
-msgid "Science"
-msgstr ""
-
+#: ../index.html
 msgid "Ubuntu Software Centre"
 msgstr ""
 
+#: ../index.html
 msgid "Untitled 1 - LibreOffice Calc"
 msgstr ""
 
+#: ../index.html
 msgid "I already have an account!"
 msgstr ""
 
+#: ../index.html
 msgid "Mon 11 October, 2010"
 msgstr ""
 
+#: ../index.html
+msgid ""
+"LibreOffice Calc has everything you need to create clear and accurate "
+"spreadsheets."
+msgstr ""
+
+#: ../index.html
 msgid "Install"
 msgstr ""
 
+#: ../index.html
 msgid "Items:"
 msgstr ""
 
+#: ../index.html
 msgid "Subject:"
 msgstr ""
 
+#: ../index.html
 msgid "The Power of Your Personal Cloud"
 msgstr ""
 
+#: ../index.html
 msgid "Home Folder"
 msgstr ""
 
+#: ../index.html
 msgid "Welcome to the Ubuntu online tour!"
 msgstr ""
 
+#: ../index.html
 msgid "Office"
 msgstr ""
 
+#: ../index.html
+msgid "Themes &amp; Tweaks"
+msgstr ""
+
+#: ../index.html
 msgid "Shortcuts"
 msgstr ""
 
+#: ../index.html
 msgid "Check Email"
 msgstr ""
 
+#: ../index.html
 msgid "Internet Apps"
 msgstr ""
 
+#: ../index.html
 msgid "Library"
 msgstr ""
 
-msgid "Engineering"
-msgstr ""
-
+#: ../index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr ""
 
-msgid "TIme"
-msgstr ""
-
+#: ../index.html
 msgid "System Settings…"
 msgstr ""
 
+#: ../index.html
 msgid "Chromium"
 msgstr ""
 
+#: ../index.html
 msgid "Untitled 1 - LibreOffice Writer"
 msgstr ""
 
-msgid "Sound"
-msgstr ""
-
+#: ../index.html
 msgid "Busy"
 msgstr ""
 
+#: ../index.html
 msgid "Edit Connections…"
 msgstr ""
 
+#: ../index.html
 msgid "Rock Out"
 msgstr ""
 
+#: ../index.html
 msgid "Sound Settings…"
 msgstr ""
 
-msgid "LIsten to Music"
-msgstr ""
-
+#: ../index.html
 msgid "Add Event…"
 msgstr ""
 
+#: ../index.html
+msgid "Write: (no subject)"
+msgstr ""
+
+#: ../index.html
 msgid "Ubuntu online tour"
 msgstr ""
 
+#: ../index.html
 msgid "Offline"
 msgstr ""
 
+#: ../index.html
 msgid "Trash"
 msgstr ""
 
+#: ../index.html
 msgid "Shotwell Photo Manager"
 msgstr ""
 
+#: ../index.html
 msgid "Lock Screen"
 msgstr ""
 
+#: ../index.html
+msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
+msgstr ""
+
+#: ../index.html
 msgid "Media Apps"
 msgstr ""
 
+#: ../index.html
 msgid "Most Frequently Used"
 msgstr ""
 
+#: ../index.html
 msgid "Browse files on device…"
 msgstr ""
 
-msgid "Junk Mail"
+#: ../index.html
+msgid "Listen to Music"
 msgstr ""
 
+#: ../index.html
 msgid "1"
 msgstr ""
 
-msgid "Tweaks"
-msgstr ""
-
+#: ../index.html
 msgid "Computer"
 msgstr ""
 
+#: ../index.html
 msgid "What's New"
 msgstr ""
 
+#: ../index.html
 msgid "App Available for Download"
 msgstr ""
 
+#: ../index.html
 msgid "Movie Player"
 msgstr ""
 
+#: ../index.html
 msgid "Invisible"
 msgstr ""
 
+#: ../index.html
 msgid "Albums"
 msgstr ""
 
+#: ../index.html
 msgid "LibreOffice Writer"
 msgstr ""
 
+#: ../index.html
 msgid "From:"
 msgstr ""
 
+#: ../index.html
 msgid "Folders"
 msgstr ""
 
+#: ../index.html
 msgid "Shut Down…"
 msgstr ""
 
+#: ../index.html
 msgid "Fonts"
 msgstr ""
 
+#: ../index.html
 msgid "Bluetooth On"
 msgstr ""
 
+#: ../index.html
 msgid "Clear"
 msgstr ""
 
+#: ../index.html
+msgid "back to the site"
+msgstr ""
+
+#: ../index.html
+msgid "LibreOffice Writer makes it easy to draft professional documents."
+msgstr ""
+
+#: ../index.html
 msgid "Games"
 msgstr ""
 
+#: ../index.html
 msgid "Visolate"
 msgstr ""
 
+#: ../index.html
 msgid "Attached Devices"
 msgstr ""
 
+#: ../index.html
 msgid "Suspend"
 msgstr ""
 
+#: ../index.html
 msgid "View Photos"
 msgstr ""
 
+#: ../index.html
 msgid "Rubbish bin"
 msgstr ""
 
-msgid "Create documents"
+#: ../index.html
+msgid "Sound &amp; Video"
 msgstr ""
 
+#: ../index.html
 msgid "Inbox"
 msgstr ""
 
+#: ../index.html
 msgid "Files Anywhere"
 msgstr ""
 
+#: ../index.html
 msgid "Stay Productive"
 msgstr ""
 
+#: ../index.html
 msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
 "augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
@@ -556,5 +770,10 @@ msgid ""
 "nulla."
 msgstr ""
 
+#: ../index.html
+msgid "Downloads"
+msgstr ""
+
+#: ../index.html
 msgid "Blender"
 msgstr ""
