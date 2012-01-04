@@ -1,0 +1,4 @@
+project = translate-html
+version = 11.10
+template = ubuntu-cli
+version_ubuntu-application = 11.10
