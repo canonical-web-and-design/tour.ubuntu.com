@@ -91,6 +91,10 @@
 			font-family:"Ubuntu","Ubuntu Beta",UbuntuBeta,Ubuntu;
 	    }
 	    
+	    #Translation-Strings{
+	    	display:none;
+	    }
+	    
 		#menu{
 			background:url(../img/black-bg-40.png);
 			background:rgba(0,0,0,0.4);
