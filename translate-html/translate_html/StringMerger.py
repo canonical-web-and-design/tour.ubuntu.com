@@ -36,9 +36,10 @@ JS_FILE = ('application/javascript', None)
 
 class StringMerger(object):
 
-    def __init__(self):
+    def __init__(self, test_mode):
         self.translations = self._load_translations()
         self.files = self._load_files()
+        self.test_mode = test_mode
 
     def _load_files(self):
         with open(translate_htmlconfig.get_source_file('po',
@@ -63,17 +64,18 @@ class StringMerger(object):
     def merge(self):
         for translation in self.translations:
             for file_to_merge in self.files:
-                merger = getMerger(translation, file_to_merge)
+                merger = getMerger(self.test_mode, translation, file_to_merge)
                 merger.merge()
 
 
 class StringMergerHtml(object):
 
-    def __init__(self, langcode, htmlfile):
+    def __init__(self, test_mode, langcode, htmlfile):
         self.langcode = langcode
         self.pofile = os.path.join(translate_htmlconfig.get_sources_path(),
                               'po', langcode + '.po')
         self.htmlfile = htmlfile
+        self.test_mode = test_mode
 
     def merge(self):
         htmlfile_rel = self.htmlfile.replace(
@@ -90,7 +92,13 @@ class StringMergerHtml(object):
                 po = polib.pofile(self.pofile)
 
                 html_file_translated = html_file
-                for entry in po.translated_entries():
+
+                if self.test_mode:
+                    entry_list = po
+                else:
+                    entry_list = po.translated_entries()
+
+                for entry in entry_list:
                     if (htmlfile_rel, '') in entry.occurrences:
                         # Note that we preserve the leading and trailing space
                         # to cater for words or sentences that have been split
@@ -98,12 +106,29 @@ class StringMergerHtml(object):
                         # one single space for now.
                         regex = re.compile(r'>( ?)' +
                                            re.escape(entry.msgid) + r'( ?)<')
-                        replacement = r'>\g<1>' + entry.msgstr + r'\g<2><'
+                        msgstr = self._mangle_po_entry(entry)
+                        replacement = r'>\g<1>' + msgstr + '\g<2><'
 
                         html_file_translated = re.sub(regex, replacement,
                                                       html_file_translated)
 
                 fd.write(html_file_translated)
+
+    def _mangle_po_entry(self, po_entry):
+
+        if self.test_mode and self._is_po_entry_untranslated(po_entry):
+                po_entry = po_entry.msgid[::-1]
+        else:
+            po_entry = po_entry.msgstr
+
+        return po_entry
+
+    def _is_po_entry_untranslated(self, po_entry):
+        is_untranslated = False
+        if not po_entry.translated() and not po_entry.obsolete and \
+            not 'fuzzy' in po_entry.flags:
+            is_untranslated = True
+        return is_untranslated
 
 
 class StringMergerJs(object):
@@ -124,7 +149,7 @@ class StringMergerNone(object):
         pass
 
 
-def getMerger(pofile, path):
+def getMerger(test_mode, pofile, path):
     """Factory-like function to guess the type of file to merge translations
     into by its MIME type, and return the appropriate merger class to
     handle it.
@@ -135,8 +160,8 @@ def getMerger(pofile, path):
 
     # Return the appropriate merger class to handle the type
     if (filetype, encoding) == HTML_FILE:
-        return StringMergerHtml(pofile, path)
+        return StringMergerHtml(test_mode, pofile, path)
     elif (filetype, encoding) == JS_FILE:
-        return StringMergerJs(pofile, path)
+        return StringMergerJs(test_mode, pofile, path)
     else:
-        return StringMergerNone(pofile, path)
+        return StringMergerNone(test_mode, pofile, path)
