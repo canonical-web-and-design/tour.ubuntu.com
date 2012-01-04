@@ -24,6 +24,7 @@ from sys import stderr
 from translate_html import translate_htmlconfig
 from re import sub
 import sys
+from datetime import datetime
 
 try:
     import polib
@@ -75,8 +76,6 @@ class HTMLStringParser(HTMLParser):
         if name == 'amp':
             self.handle_data('&' + name + ';')
             self.entityseen = True
-        #import htmlentitydefs
-        #self.handle_data(htmlentitydefs.entitydefs[name])
 
     def text(self):
         return set(self._text)
@@ -87,11 +86,12 @@ class StringExtractor(object):
     def __init__(self):
         self.files = self._load_files()
         self.potfile = polib.POFile()
+        time_str = datetime.now().isoformat(' ')
         self.potfile.metadata = {
             'Project-Id-Version': '1.0',
             'Report-Msgid-Bugs-To': 'you@example.com',
-            'POT-Creation-Date': '2007-10-18 14:00+0100',
-            'PO-Revision-Date': '2007-10-18 14:00+0100',
+            'POT-Creation-Date': time_str,
+            'PO-Revision-Date': time_str,
             'Last-Translator': 'you <you@example.com>',
             'Language-Team': 'English <yourteam@example.com>',
             'MIME-Version': '1.0',
@@ -173,9 +173,6 @@ class StringExtractorHtml(object):
                         msgid = message,
                         msgstr = u'')
                     self.potfile.append(entry)
-
-                #po.save(TEST_POT_FILE)
-
         except:
             print_exc(file = stderr)
 

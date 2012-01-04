@@ -38,6 +38,18 @@ class StringMerger(object):
 
     def __init__(self):
         self.translations = self._load_translations()
+        self.files = self._load_files()
+
+    def _load_files(self):
+        with open(translate_htmlconfig.get_source_file('po',
+                                                       'POTFILES.in')) as fp:
+            file_list = []
+            for line in fp.readlines():
+                if not line.startswith('#'):
+                    line = os.path.join(
+                        translate_htmlconfig.get_sources_path(), line)
+                    file_list.append(line.strip())
+            return file_list
 
     def _load_translations(self):
         po_dir = os.path.join(translate_htmlconfig.get_sources_path(), 'po')
@@ -49,12 +61,10 @@ class StringMerger(object):
         return translations
 
     def merge(self):
-        HTML_FILE = os.path.join(translate_htmlconfig.get_sources_path(),
-                                 'index.html')
-
         for translation in self.translations:
-            merger = StringMergerHtml(translation, HTML_FILE)
-            merger.merge()
+            for file_to_merge in self.files:
+                merger = getMerger(translation, file_to_merge)
+                merger.merge()
 
 
 class StringMergerHtml(object):
@@ -66,6 +76,8 @@ class StringMergerHtml(object):
         self.htmlfile = htmlfile
 
     def merge(self):
+        htmlfile_rel = self.htmlfile.replace(
+                            translate_htmlconfig.get_sources_path(), '..')
         with codecs.open(self.htmlfile, 'r', 'utf-8') as f:
             html_file = f.read()
 
@@ -79,14 +91,17 @@ class StringMergerHtml(object):
 
                 html_file_translated = html_file
                 for entry in po.translated_entries():
-                    regex = re.compile(r'>( ?)' +
-                                       re.escape(entry.msgid) + r'( ?)<')
-                    replacement = r'>\g<1>' + entry.msgstr + r'\g<2><'
+                    if (htmlfile_rel, '') in entry.occurrences:
+                        # Note that we preserve the leading and trailing space
+                        # to cater for words or sentences that have been split
+                        # and are part of a larger sentence. We limit them to
+                        # one single space for now.
+                        regex = re.compile(r'>( ?)' +
+                                           re.escape(entry.msgid) + r'( ?)<')
+                        replacement = r'>\g<1>' + entry.msgstr + r'\g<2><'
 
-                    if entry.msgid.startswith('Remember'):
-                        print entry.msgid, regex.pattern, replacement
-                    html_file_translated = re.sub(regex, replacement,
-                                                  html_file_translated)
+                        html_file_translated = re.sub(regex, replacement,
+                                                      html_file_translated)
 
                 fd.write(html_file_translated)
 
@@ -109,7 +124,7 @@ class StringMergerNone(object):
         pass
 
 
-def getMerger(potfile, path):
+def getMerger(pofile, path):
     """Factory-like function to guess the type of file to merge translations
     into by its MIME type, and return the appropriate merger class to
     handle it.
@@ -118,10 +133,10 @@ def getMerger(potfile, path):
     # Guess the type of the given file
     filetype, encoding = mimetypes.guess_type(path)
 
-    # Return the appropriate extractor class to handle the type
+    # Return the appropriate merger class to handle the type
     if (filetype, encoding) == HTML_FILE:
-        return StringMergerHtml(potfile, path)
+        return StringMergerHtml(pofile, path)
     elif (filetype, encoding) == JS_FILE:
-        return StringMergerJs(potfile, path)
+        return StringMergerJs(pofile, path)
     else:
-        return StringMergerNone(potfile, path)
+        return StringMergerNone(pofile, path)

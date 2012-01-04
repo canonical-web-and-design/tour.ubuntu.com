@@ -63,7 +63,6 @@ def main():
       po/zh_CN.po     <- translation done by translators
       po/ca.po        <- another translation - named after <ISO 639-2 code>.po
 
-    Note: this program currently only works with a single HTML file.
     ''')
     parser = optparse.OptionParser(version="%%prog %s" % version, usage=usage)
     parser.add_option('-d', '--debug', dest='debug_mode', action='store_true',
@@ -98,7 +97,7 @@ def main():
         string_merger.merge()
 
     else:
-        sys.stderr.write("You must specify a mode\n")
+        sys.stderr.write("ERROR: You must specify a mode\n\n")
         parser.print_help()
 
 if __name__ == "__main__":
