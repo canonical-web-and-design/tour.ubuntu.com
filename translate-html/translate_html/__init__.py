@@ -37,7 +37,34 @@ def main():
     version = translate_htmlconfig.__version__
 
     # Support for command line options.
-    usage = _("translate-html {--extract|--translate} [options]")
+    usage = _('''translate-html {--extract|--translate} [options]
+
+    This script can be used to prepare translatable messages in HTML files
+    and expose them to translators and to subsequently use those translations
+    to build localized HTML files based on the original in English.
+
+    It works in one of two modes:
+
+    - Extract mode: extracts translatable strings from the file specified
+      in the 'po/POTFILES.in' file and puts them into a .pot file into the
+      'po' folder, ready to give it to translators.
+    - Translate mode: fetches the translations in the form of .po files in the
+      'po' folder and builds localized files based on the original. The
+      localized files are named
+        <original-filename>.<ISO-639-2-lang-code>.<original-fileext>
+      E.g.
+        index.html       <- original file
+        index.zh_CN.html <- Simplified Chinese translation
+
+    Structure of the 'po' folder:
+
+      po/template.pot <- translation template created in extract mode
+      po/POTFILES.in  <- files to extract strings from are specified here
+      po/zh_CN.po     <- translation done by translators
+      po/ca.po        <- another translation - named after <ISO 639-2 code>.po
+
+    Note: this program currently only works with a single HTML file.
+    ''')
     parser = optparse.OptionParser(version="%%prog %s" % version, usage=usage)
     parser.add_option('-d', '--debug', dest='debug_mode', action='store_true',
         help=_('Print the maximum debugging info (implies -vv)'))
