@@ -23,11 +23,11 @@ function EmailSystem($parent){
 	var writeType = '';
 	
 	this.init = function(){
-		emails.push(new Email(0,'inbox', _email_1_title_, _email_1_body_, 'Inayaili de Leon', 'You'));
-		emails.push(new Email(1,'inbox',_email_2_title_,_email_2_body_,'John Oxton', 'You'));
-		emails.push(new Email(2,'inbox',_email_3_title_,_email_3_body_,'Ellen Arnold', 'You'));
-		emails.push(new Email(3,'inbox',_email_4_title_,_email_4_body_,'Steve Edwards', 'You'));
-		emails.push(new Email(4,'inbox',_email_5_title_,_email_5_body_,'Anthony Dillon', 'You'));
+		emails.push(new Email(0,'inbox', _email_1_title_, _email_1_body_, 'Inayaili de Leon', _you_));
+		emails.push(new Email(1,'inbox',_email_2_title_,_email_2_body_,'John Oxton', _you_));
+		emails.push(new Email(2,'inbox',_email_3_title_,_email_3_body_,'Ellen Arnold', _you_));
+		emails.push(new Email(3,'inbox',_email_4_title_,_email_4_body_,'Steve Edwards', _you_));
+		emails.push(new Email(4,'inbox',_email_5_title_,_email_5_body_,'Anthony Dillon', _you_));
 		
 		randomReplies.push(_random_reply_);
 		
@@ -199,21 +199,21 @@ function EmailSystem($parent){
 			if(messageSubject.substr(0, 3) != 'Re:'){ messageSubject = 'Re: '+messageSubject; }
 			if(writeType == 'reply'){
 				$('#email-write  .window-title').text(_write_+': '+messageSubject);
-				$('#email-write  #write-from  input[name=from]').val('You');
+				$('#email-write  #write-from  input[name=from]').val(_you_);
 				$('#email-write  #write-subject  input[name=subject]').val(messageSubject);
 				$('#email-write  #write-to  input[name=to]').val(theWriteEmail.from());
-				$('#email-write #write-body textarea[name=body]').val('\n\nOn '+theWriteEmail.date()+', '+theWriteEmail.from()+' wrote: \n\n'+theWriteEmail.body());
+				$('#email-write #write-body textarea[name=body]').val('\n\n'+_on_+' '+theWriteEmail.date()+', '+theWriteEmail.from()+' '+_wrote_+': \n\n'+theWriteEmail.body());
 			}else if(writeType == 'forward'){
 				$('#email-write  .window-title').text(_write_+': Fwd: '+theWriteEmail.subject());
-				$('#email-write  #write-subject  input[name=subject]').val('Fwd: '+theWriteEmail.subject());
+				$('#email-write  #write-subject  input[name=subject]').val(_fwd_+': '+theWriteEmail.subject());
 				$('#email-write  #write-to  input[name=to]').val('');
-				$('#email-write #write-body textarea[name=body]').val('\n\n-------- Original Message --------\n\n'+theWriteEmail.body());
+				$('#email-write #write-body textarea[name=body]').val('\n\n-------- '+_original_message_+' --------\n\n'+theWriteEmail.body());
 			}else if(writeType == 'sentreply'){
 				$('#email-write  .window-title').text(_write_+': '+messageSubject);
-				$('#email-write  #write-from  input[name=from]').val('You');
+				$('#email-write  #write-from  input[name=from]').val(_you_);
 				$('#email-write  #write-subject  input[name=subject]').val(messageSubject);
 				$('#email-write  #write-to  input[name=to]').val(theWriteEmail.to());
-				$('#email-write #write-body textarea[name=body]').val('\n\nOn '+theWriteEmail.date()+', '+theWriteEmail.from()+' wrote: \n\n'+theWriteEmail.body());
+				$('#email-write #write-body textarea[name=body]').val('\n\n'+_on_+' '+theWriteEmail.date()+', '+theWriteEmail.from()+' '+_wrote_+': \n\n'+theWriteEmail.body());
 			}
 		}
 		$('#email-write').show();
@@ -424,7 +424,7 @@ function EmailSystem($parent){
 	this.sendEmail = function(){
 		var subject = $('#email-write #write-subject input[name=subject]').val();
 		var body = $('#email-write #write-body textarea[name=body]').val();
-		var from = 'You';
+		var from = _you_;
 		var to = $('#email-write #write-to input[name=to]').val();
 		var currentTime = new Date();
 		var minutes = currentTime.getMinutes();
@@ -457,10 +457,10 @@ function EmailSystem($parent){
 	
 	this.setupRandomReply = function($email){
 		var randomIndex = Math.floor(Math.random() * randomReplies.length);
-		var body = randomReplies[randomIndex]+'\n\nOn '+$email.date()+', '+$email.from()+' wrote: \n\n'+$email.body();
+		var body = randomReplies[randomIndex]+'\n\n'+_on_+' '+$email.date()+', '+$email.from()+' '+_fwd_+' '+_wrote_+': \n\n'+$email.body();
 		var messageSubject = $email.subject();
 		if(messageSubject.substr(0, 3) != 'Re:'){ messageSubject = 'Re: '+messageSubject; }
-		emails.push(new Email(emails.length, 'inbox', messageSubject, body,$email.to(), 'You'));
+		emails.push(new Email(emails.length, 'inbox', messageSubject, body,$email.to(), _you_));
 		var randomTime = (Math.random()*2000) + 2000;
 		setTimeout ( "recieveMessage()", randomTime );
 	}

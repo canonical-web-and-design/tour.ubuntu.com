@@ -1,0 +1,1203 @@
+# Chinese (Simplified) translation for ubuntu-online-tour
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the ubuntu-online-tour package.
+# ZhengPeng Hou <zhengpeng-hou@ubuntu.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-online-tour\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2012-01-04 13:19:06.203144\n"
+"PO-Revision-Date: 2011-10-21 13:42+0000\n"
+"Last-Translator: ZhengPeng Hou <zhengpeng-hou@ubuntu.com>\n"
+"Language-Team: Ubuntu Simplified Chinese Translators <ubuntu-l10n-"
+"admins@googlegroups.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-10-21 15:08+0000\n"
+"X-Generator: Launchpad (build 14170)\n"
+
+#: ../index.html
+msgid "Firefox Web Browser"
+msgstr "Firefox 网络浏览器"
+
+#: ../index.html
+msgid ""
+"Ubuntu loads quickly on any computer, but it's super-fast on newer machines. "
+"With no unnecessary programs and trial software slowing things down, booting "
+"up and opening a browser takes seconds. Unlike other operating systems that "
+"leave you staring at the screen, waiting to get online. And Ubuntu won’t "
+"grow sluggish over time. It’s fast. And it stays fast."
+msgstr ""
+
+#: ../index.html
+#, fuzzy
+msgid "no subject"
+msgstr "主题"
+
+#: ../index.html
+msgid "Show yourself around"
+msgstr ""
+
+#: ../index.html
+msgid "Desktop"
+msgstr "桌面"
+
+#: ../index.html
+#, fuzzy
+msgid "Get Mail"
+msgstr "设定电子邮件"
+
+#: ../index.html
+msgid "Junk Mail"
+msgstr "垃圾邮件"
+
+#: ../index.html
+msgid "Internet"
+msgstr "互联网"
+
+#: ../index.html
+#, fuzzy
+msgid "Science &amp; Engineering"
+msgstr "工程"
+
+#: ../index.html
+msgid "Find apps"
+msgstr "寻找程序"
+
+#: ../index.html
+msgid "Files"
+msgstr "文件"
+
+#: ../index.html
+msgid "About Me"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"BEEP has traveled for thousands of years through deep space to explore the "
+"Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
+"the surface of the planets."
+msgstr ""
+
+#: ../index.html
+msgid "Are you sure you want to close all programs and shutdown the computer?"
+msgstr "您确定要关闭所有程序并关闭计算机？"
+
+#: ../index.html
+msgid "Untitled 1 - LibreOffice Impress"
+msgstr "未命名 1"
+
+#: ../index.html
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+#: ../index.html
+msgid ""
+"Accessibility is central to the Ubuntu philosophy. We believe that computing "
+"is for everyone regardless of nationality, race, gender or disability. Fully "
+"translated into 38 languages, Ubuntu also includes essential assistive "
+"technologies, which are, of course, completely free."
+msgstr ""
+
+#: ../index.html
+msgid "Download Ubuntu"
+msgstr "下载 Ubuntu"
+
+#: ../index.html
+msgid "Join now"
+msgstr "现在就加入"
+
+#: ../index.html
+msgid "Applications"
+msgstr "应用程序"
+
+#: ../index.html
+msgid "Physics based puzzle/construction game"
+msgstr ""
+
+#: ../index.html
+msgid "Remote Desktop Viewer"
+msgstr ""
+
+#: ../index.html
+msgid "Gwibber Social Client"
+msgstr ""
+
+#: ../index.html
+msgid "History"
+msgstr "历史记录"
+
+#: ../index.html
+msgid "PCB CNC converter"
+msgstr ""
+
+#: ../index.html
+msgid "Webcam"
+msgstr "摄像头"
+
+#: ../index.html
+msgid "Surf the web"
+msgstr ""
+
+#: ../index.html
+msgid "A 2D platformer/shooter game with physics-based puzzles"
+msgstr ""
+
+#: ../index.html
+msgid "Graphics"
+msgstr "图形"
+
+#: ../index.html
+msgid "Keep Connected"
+msgstr "保持连接"
+
+#: ../index.html
+msgid "Top Rated"
+msgstr "最高评分"
+
+#: ../index.html
+msgid "Banshee"
+msgstr "Banshee"
+
+#: ../index.html
+msgid "Compatible"
+msgstr ""
+
+#: ../index.html
+msgid "Dash home"
+msgstr "主面板"
+
+#: ../index.html
+msgid "From"
+msgstr ""
+
+#: ../index.html
+msgid "Auto eth0"
+msgstr ""
+
+#: ../index.html
+msgid "Thanks for exploring Ubuntu!"
+msgstr "感谢探寻Ubuntu"
+
+#: ../index.html
+msgid "Send files to device…"
+msgstr "发送文件到设备..."
+
+#: ../index.html
+msgid "Create documents"
+msgstr "创建文档"
+
+#: ../index.html
+msgid "(91 Ratings)"
+msgstr ""
+
+#: ../index.html
+msgid "This package contains the Chromium browser"
+msgstr ""
+
+#: ../index.html
+msgid "$9.99"
+msgstr ""
+
+#: ../index.html
+msgid "Secure"
+msgstr ""
+
+#: ../index.html
+msgid "Mute"
+msgstr "静音"
+
+#: ../index.html
+msgid "All Software"
+msgstr "所有软件"
+
+#: ../index.html
+msgid "Ready to download?"
+msgstr ""
+
+#: ../index.html
+msgid "Additional Drivers"
+msgstr ""
+
+#: ../index.html
+msgid "Accessories"
+msgstr "辅助程序"
+
+#: ../index.html
+msgid "Create spreadsheets"
+msgstr "创建表格"
+
+#: ../index.html
+#, fuzzy
+msgid "Bluetooth"
+msgstr "打开蓝牙"
+
+#: ../index.html
+msgid "Shut Down"
+msgstr "关机"
+
+#: ../index.html
+msgid "Music"
+msgstr "音乐"
+
+#: ../index.html
+msgid "Education"
+msgstr "教育"
+
+#: ../index.html
+msgid "Brasero Disc Burner"
+msgstr ""
+
+#: ../index.html
+msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
+msgstr ""
+
+#: ../index.html
+msgid "wrote"
+msgstr ""
+
+#: ../index.html
+msgid "Subject"
+msgstr "主题"
+
+#: ../index.html
+msgid "Shotwell"
+msgstr ""
+
+#: ../index.html
+msgid "Documents"
+msgstr "文档"
+
+#: ../index.html
+msgid "Disconnect"
+msgstr "断开"
+
+#: ../index.html
+msgid "Preferences"
+msgstr "偏好设置"
+
+#: ../index.html
+msgid "Browse files"
+msgstr "浏览文件"
+
+#: ../index.html
+msgid "Date:"
+msgstr "日期:"
+
+#: ../index.html
+msgid "junk"
+msgstr ""
+
+#: ../index.html
+msgid "Send"
+msgstr ""
+
+#: ../index.html
+#, fuzzy
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "欢迎尝试Ubuntu 在线漫游"
+
+#: ../index.html
+msgid "Inkscape Vector Graphics Editor"
+msgstr ""
+
+#: ../index.html
+msgid "Create presentations"
+msgstr "创建演示文稿"
+
+#: ../index.html
+msgid "Original Message"
+msgstr ""
+
+#: ../index.html
+msgid "AisleRoit Solitaire"
+msgstr ""
+
+#: ../index.html
+msgid "Printers"
+msgstr "打印机"
+
+#: ../index.html
+msgid "Connection Information"
+msgstr "连接信息"
+
+#: ../index.html
+msgid ""
+"Chromium is an open-source browser project that aims to build a safer, "
+"faster, and more stable way for all Internet users to experience the web."
+msgstr ""
+
+#: ../index.html
+msgid "Email"
+msgstr "电子邮件"
+
+#: ../index.html
+msgid "Sent"
+msgstr "已发送"
+
+#: ../index.html
+msgid "subject"
+msgstr "主题"
+
+#: ../index.html
+msgid "Available"
+msgstr "可用版本"
+
+#: ../index.html
+msgid "All Folders"
+msgstr "全部文件夹"
+
+#: ../index.html
+msgid "Fri 26 Oct, 2001"
+msgstr ""
+
+#: ../index.html
+msgid "Hibernate"
+msgstr "休眠"
+
+#: ../index.html
+msgid "Your Ubuntu, your way"
+msgstr ""
+
+#: ../index.html
+msgid "Local"
+msgstr ""
+
+#: ../index.html
+#, fuzzy
+msgid "Time &amp; Date Settings…"
+msgstr "数据设定..."
+
+#: ../index.html
+msgid "PiTiVi Video Editor"
+msgstr ""
+
+#: ../index.html
+msgid "Unmute"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
+"player, camera or printer and you’ll be up and running straight away. No "
+"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
+"open, edit and share Microsoft Office documents stress-free."
+msgstr ""
+
+#: ../index.html
+msgid "World of Goo"
+msgstr ""
+
+#: ../index.html
+#, fuzzy
+msgid "Welcome Screen"
+msgstr "锁定屏幕"
+
+#: ../index.html
+msgid "reply"
+msgstr ""
+
+#: ../index.html
+msgid "Set Up Mail…"
+msgstr "设定电子邮件"
+
+#: ../index.html
+msgid "Search and download apps fast from the Ubuntu Software Centre."
+msgstr ""
+
+#: ../index.html
+msgid "Turn Off Bluetooth"
+msgstr "关闭蓝牙"
+
+#: ../index.html
+msgid "$19.99"
+msgstr ""
+
+#: ../index.html
+msgid "Log Out…"
+msgstr "注销..."
+
+#: ../index.html
+msgid ""
+"Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
+"You must have these packages to make full use of all extensions and effects."
+msgstr ""
+
+#: ../index.html
+msgid "Fwd"
+msgstr ""
+
+#: ../index.html
+msgid "Terminal Server Client"
+msgstr ""
+
+#: ../index.html
+msgid "Appearance"
+msgstr ""
+
+#: ../index.html
+msgid "LibreOffice Calc"
+msgstr "LibreOffice 表格"
+
+#: ../index.html
+msgid "Cancel"
+msgstr "取消"
+
+#: ../index.html
+msgid "Startup Applications…"
+msgstr "启动应用程序…"
+
+#: ../index.html
+msgid "Remove"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Braid treats your time and attention as precious, and it does everything it "
+"can to give you a mind-expanding experience."
+msgstr ""
+
+#: ../index.html
+msgid "from"
+msgstr ""
+
+#: ../index.html
+msgid "LibreOffice Impress"
+msgstr "LibreOffice 演示"
+
+#: ../index.html
+msgid ""
+"All gameplay is based on time manipulation. Journey into worlds where time "
+"behaves strangely; observe, learn from, and then master these worlds."
+msgstr ""
+
+#: ../index.html
+msgid "Songs"
+msgstr "曲目"
+
+#: ../index.html
+#, fuzzy
+msgid "Accessible"
+msgstr "辅助程序"
+
+#: ../index.html
+msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
+msgstr "在Ubuntu, Windows, 网页和手机上备份以及访问您的文件"
+
+#: ../index.html
+msgid "Title:"
+msgstr "标题："
+
+#: ../index.html
+msgid "Setup new device…"
+msgstr "设定新设备…"
+
+#: ../index.html
+msgid "Videos"
+msgstr "视频"
+
+#: ../index.html
+msgid "Braid"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
+"format, a standard maintained by the WWW consortium."
+msgstr ""
+
+#: ../index.html
+#, fuzzy
+msgid ""
+"Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
+"download it to enjoy the real thing!"
+msgstr "请注意：这个仅仅是个演示。您需要下载后方可享用真实的功能"
+
+#: ../index.html
+msgid "Unread:"
+msgstr "未读:"
+
+#: ../index.html
+msgid "Banshee Media Player"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"You can surf in safety with Ubuntu – confident that your files and data will "
+"stay protected. A built-in firewall and virus protection come as standard. "
+"And if a potential threat appears, we provide automatic updates which you "
+"can install in a single click. You get added security with AppArmor, which "
+"protects your important applications so attackers can’t access your system. "
+"And thanks to Firefox and gnome-keyring, Ubuntu helps you keep your private "
+"information private. So whether it’s accessing your bank account or sharing "
+"sensitive data with friends or colleagues, you’ll have peace of mind when "
+"you need it the most."
+msgstr ""
+
+#: ../index.html
+#, fuzzy
+msgid "Files &amp; Folders"
+msgstr "全部文件夹"
+
+#: ../index.html
+msgid "Installed"
+msgstr "已安装"
+
+#: ../index.html
+msgid "BEEP"
+msgstr ""
+
+#: ../index.html
+msgid "Visible"
+msgstr "可见"
+
+#: ../index.html
+msgid "Learn More"
+msgstr "了解更多"
+
+#: ../index.html
+msgid ""
+"Use BEEP’s anti-gravity device to directly manipulate the physics-based "
+"environments. The anti-gravity device is both a tool and a weapon. Use it to "
+"smash enemy robots, build towers and solve puzzles."
+msgstr ""
+
+#: ../index.html
+msgid "Chat"
+msgstr "聊天"
+
+#: ../index.html
+msgid "Archive"
+msgstr "存档"
+
+#: ../index.html
+msgid "Download"
+msgstr "下载"
+
+#: ../index.html
+msgid "Home"
+msgstr "主目录"
+
+#: ../index.html
+msgid "Canonical"
+msgstr ""
+
+#: ../index.html
+msgid "Developer Tools"
+msgstr "开发工具"
+
+#: ../index.html
+msgid "or"
+msgstr ""
+
+#: ../index.html
+msgid "Inkscape"
+msgstr "Inkscape 图形编辑器"
+
+#: ../index.html
+msgid "Access the Internet"
+msgstr ""
+
+#: ../index.html
+msgid "Take the guided tour"
+msgstr ""
+
+#: ../index.html
+msgid "cc"
+msgstr ""
+
+#: ../index.html
+msgid "Pictures"
+msgstr "图片"
+
+#: ../index.html
+msgid "Away"
+msgstr "离开"
+
+#: ../index.html
+msgid "Size:"
+msgstr "大小："
+
+#: ../index.html
+msgid "Draft"
+msgstr "草稿"
+
+#: ../index.html
+msgid "Free"
+msgstr "空闲"
+
+#: ../index.html
+msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgstr "同步您的firefox书签和Tomboy的笔记"
+
+#: ../index.html
+msgid "Thunderbird Mail/News"
+msgstr "Thunderbird 邮件/新闻"
+
+#: ../index.html
+msgid "Displays…"
+msgstr "显示…"
+
+#: ../index.html
+msgid "Software Up to Date"
+msgstr "软件更新"
+
+#: ../index.html
+msgid "Browse the web"
+msgstr "浏览网络"
+
+#: ../index.html
+msgid "More Apps"
+msgstr "更多程序"
+
+#: ../index.html
+msgid ""
+"If you want to use the spellchecker, you have to install aspell and the "
+"respective language-pack, e.g. aspell-en or aspell-de."
+msgstr ""
+
+#: ../index.html
+msgid "Find Files"
+msgstr "查找文件"
+
+#: ../index.html
+msgid "View photos"
+msgstr "观看照片"
+
+#: ../index.html
+msgid "You can upload, organise, edit and share your photos with Shotwell."
+msgstr ""
+
+#: ../index.html
+msgid "Ubuntu One Control Panel"
+msgstr "Ubuntu One 控制面包"
+
+#: ../index.html
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr "您的所有收藏都跟随您传送到您的 Android或者 iPhone手机上去"
+
+#: ../index.html
+msgid "to"
+msgstr "浏览网络"
+
+#: ../index.html
+msgid ""
+"Blender is an integrated 3d suite for modelling, animation, rendering, post-"
+"production, interactive creation and playback (games). Blender has its own "
+"particular user interface, which is implemented entirely in OpenGL and "
+"designed with speed in mind. Python bindings are available for scripting; "
+"import/export features for popular file formats like 3D Studio and Wavefront "
+"Obj are implemented as scripts by the community. Stills, animations, models "
+"for games or other third party engines and interactive content in the form "
+"of a standalone binary and/or a web plug-in are common products of Blender "
+"use."
+msgstr ""
+
+#: ../index.html
+msgid "Your browser does not support iframes."
+msgstr "您的浏览器不支持 iframes"
+
+#: ../index.html
+msgid ""
+"Make a good impression with the intuitive LibreOffice Impress presentation "
+"tool."
+msgstr ""
+
+#: ../index.html
+msgid ""
+"It’s quick and easy to access your folders and files from Ubuntu’s home "
+"folder."
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr "请注意：这个仅仅是个演示。您需要下载后方可享用真实的功能"
+
+#: ../index.html
+msgid "Date"
+msgstr "日期"
+
+#: ../index.html
+msgid ""
+"Drag and drop living, squirming, talking globs of goo to build structures, "
+"bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
+"goo balls that live in the beautiful World of Goo are curious to explore."
+msgstr ""
+
+#: ../index.html
+#, fuzzy
+msgid "Chromium Web Browser"
+msgstr "Firefox 网络浏览器"
+
+#: ../index.html
+msgid "Browse the Web"
+msgstr "浏览网络"
+
+#: ../index.html
+msgid "Recipient"
+msgstr ""
+
+#: ../index.html
+msgid "Fast"
+msgstr ""
+
+#: ../index.html
+msgid "Not Junk"
+msgstr ""
+
+#: ../index.html
+msgid "To:"
+msgstr ""
+
+#: ../index.html
+msgid "Set Up Broadcast Account…"
+msgstr "设定社交网络帐号"
+
+#: ../index.html
+msgid "Check email"
+msgstr "检查邮件"
+
+#: ../index.html
+msgid ""
+"Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Fast, secure "
+"and with thousands of apps to choose from, Ubuntu gives you a clean and "
+"streamlined experience that you can really make your own."
+msgstr ""
+
+#: ../index.html
+msgid "Total:"
+msgstr "总计："
+
+#: ../index.html
+msgid "Manipulate the flow of time to solve puzzels"
+msgstr ""
+
+#: ../index.html
+msgid "Ubuntu Software Centre"
+msgstr "Ubuntu软件中心"
+
+#: ../index.html
+msgid "Untitled 1 - LibreOffice Calc"
+msgstr "未命名 1 - LibreOffice Calc"
+
+#: ../index.html
+msgid "I already have an account!"
+msgstr "我已经有一个账户"
+
+#: ../index.html
+msgid "System"
+msgstr "系统"
+
+#: ../index.html
+msgid "forward"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"LibreOffice Calc has everything you need to create clear and accurate "
+"spreadsheets."
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+
+#: ../index.html
+msgid "Take Ubuntu for a test drive with our online demo."
+msgstr "用我们的在线演示来尝试Ubuntu"
+
+#: ../index.html
+msgid "Install"
+msgstr "安装"
+
+#: ../index.html
+msgid "Items:"
+msgstr "条目："
+
+#: ../index.html
+msgid "Subject:"
+msgstr "主题："
+
+#: ../index.html
+#, fuzzy
+msgid "Turn On Bluetooth"
+msgstr "关闭蓝牙"
+
+#: ../index.html
+msgid "Backup"
+msgstr ""
+
+#: ../index.html
+msgid "The Power of Your Personal Cloud"
+msgstr "您个人云的力量"
+
+#: ../index.html
+msgid "Home Folder"
+msgstr "主目录"
+
+#: ../index.html
+msgid "Welcome to the Ubuntu online tour!"
+msgstr "欢迎尝试Ubuntu 在线漫游"
+
+#: ../index.html
+msgid "Office"
+msgstr "办公"
+
+#: ../index.html
+msgid "Themes &amp; Tweaks"
+msgstr ""
+
+#: ../index.html
+msgid "Shortcuts"
+msgstr "快捷方式"
+
+#: ../index.html
+msgid "Check Email"
+msgstr "检查邮件"
+
+#: ../index.html
+msgid "Internet Apps"
+msgstr "互联网程序"
+
+#: ../index.html
+msgid "Library"
+msgstr "库"
+
+#: ../index.html
+msgid "work"
+msgstr ""
+
+#: ../index.html
+msgid "Unify you contacts across Desktop, Mobile and Web"
+msgstr "在桌面，手机和网页上统一您的联络人"
+
+#: ../index.html
+msgid "System Settings…"
+msgstr "系统设置…"
+
+#: ../index.html
+msgid ""
+"Chromium serves as a base for Google Chrome, which is Chromium rebranded "
+"(name and logo) with very few additions such as usage tracking and an auto-"
+"updater system."
+msgstr ""
+
+#: ../index.html
+msgid "Chromium"
+msgstr "Chromium 网页浏览器"
+
+#: ../index.html
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "未命名 - LibreOffice Writer"
+
+#: ../index.html
+msgid "delete"
+msgstr ""
+
+#: ../index.html
+msgid "Busy"
+msgstr "忙碌"
+
+#: ../index.html
+msgid "On"
+msgstr ""
+
+#: ../index.html
+msgid "Edit Connections…"
+msgstr "编辑链接..."
+
+#: ../index.html
+msgid "Rock Out"
+msgstr ""
+
+#: ../index.html
+msgid "Sound Settings…"
+msgstr "声音设定..."
+
+#: ../index.html
+msgid "Search"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"But they dont know that they are in a game, or that they are extremely "
+"delicious. The most addicting and awe-inspiring puzzle game will set you on "
+"an adventure that youll never forget!"
+msgstr ""
+
+#: ../index.html
+msgid "Add Event…"
+msgstr "添加事件..."
+
+#: ../index.html
+msgid "Write"
+msgstr ""
+
+#: ../index.html
+msgid "Attach"
+msgstr ""
+
+#: ../index.html
+msgid "Write: (no subject)"
+msgstr "撰写"
+
+#: ../index.html
+msgid "Ubuntu online tour"
+msgstr "Ubuntu在线教程"
+
+#: ../index.html
+msgid ""
+"BEEP is a 2D side-scrolling platformer with physics-based gameplay. You "
+"control a small robot equipped with an anti-gravity device, a jet-pack and a "
+"gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
+"across 6 unique environments."
+msgstr ""
+
+#: ../index.html
+msgid "Offline"
+msgstr "离线"
+
+#: ../index.html
+msgid "Trash"
+msgstr "垃圾箱"
+
+#: ../index.html
+#, fuzzy
+msgid "archive"
+msgstr "存档"
+
+#: ../index.html
+msgid "Shotwell Photo Manager"
+msgstr "Shotwell  照片管理器"
+
+#: ../index.html
+msgid "Lock Screen"
+msgstr "锁定屏幕"
+
+#: ../index.html
+msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
+msgstr ""
+
+#: ../index.html
+msgid "Media Apps"
+msgstr "多媒体程序"
+
+#: ../index.html
+msgid "Most Frequently Used"
+msgstr "最常用"
+
+#: ../index.html
+msgid "Browse files on device…"
+msgstr "浏览设备上的文件..."
+
+#: ../index.html
+#, fuzzy
+msgid "Listen to Music"
+msgstr "聆听音乐"
+
+#: ../index.html
+msgid "1"
+msgstr ""
+
+#: ../index.html
+msgid "Computer"
+msgstr ""
+
+#: ../index.html
+msgid "What's New"
+msgstr ""
+
+#: ../index.html
+msgid "App Available for Download"
+msgstr ""
+
+#: ../index.html
+msgid "Movie Player"
+msgstr ""
+
+#: ../index.html
+msgid "Invisible"
+msgstr ""
+
+#: ../index.html
+msgid "Albums"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+
+#: ../index.html
+msgid "LibreOffice Writer"
+msgstr ""
+
+#: ../index.html
+msgid "From:"
+msgstr ""
+
+#: ../index.html
+msgid "Folders"
+msgstr "文件夹"
+
+#: ../index.html
+msgid "Shut Down…"
+msgstr "关机..."
+
+#: ../index.html
+msgid "Fonts"
+msgstr "字体"
+
+#: ../index.html
+msgid "Bluetooth On"
+msgstr "打开蓝牙"
+
+#: ../index.html
+msgid "Clear"
+msgstr "清空"
+
+#: ../index.html
+#, fuzzy
+msgid "Installing"
+msgstr "安装"
+
+#: ../index.html
+msgid "back to the site"
+msgstr ""
+
+#: ../index.html
+msgid "LibreOffice Writer makes it easy to draft professional documents."
+msgstr ""
+
+#: ../index.html
+msgid "Games"
+msgstr "游戏"
+
+#: ../index.html
+msgid "Visolate"
+msgstr ""
+
+#: ../index.html
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr ""
+
+#: ../index.html
+msgid "Attached Devices"
+msgstr "已连接的设备"
+
+#: ../index.html
+msgid "Sound Recorder"
+msgstr ""
+
+#: ../index.html
+msgid "Suspend"
+msgstr "待机"
+
+#: ../index.html
+msgid "branches"
+msgstr ""
+
+#: ../index.html
+msgid "View Photos"
+msgstr "查看照片"
+
+#: ../index.html
+msgid ""
+"Manipulate the flow of time to solve puzzles Braid is a platform game in "
+"painterly style where you manipulate the flow of time to solve puzzles. "
+"Every puzzle in Braid is unique; there is no filler."
+msgstr ""
+
+#: ../index.html
+msgid "Mon 11 October, 2010"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+
+#: ../index.html
+msgid "Rubbish bin"
+msgstr ""
+
+#: ../index.html
+msgid "Sound &amp; Video"
+msgstr ""
+
+#: ../index.html
+msgid "Create and edit 3D models and animations"
+msgstr ""
+
+#: ../index.html
+msgid "Inbox"
+msgstr "收件箱"
+
+#: ../index.html
+msgid "Files Anywhere"
+msgstr "到处都可以访问您的文件"
+
+#: ../index.html
+msgid "Stay Productive"
+msgstr ""
+
+#: ../index.html
+msgid "Empathy Internet Messageing"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+msgstr ""
+
+#: ../index.html
+msgid "Downloads"
+msgstr "下载"
+
+#: ../index.html
+msgid "You"
+msgstr ""
+
+#: ../index.html
+msgid "Blender"
+msgstr ""
+
+#~ msgid "Themes"
+#~ msgstr "主题"
+
+#~ msgid "Video"
+#~ msgstr "视频"
+
+#~ msgid "Science"
+#~ msgstr "科学"
+
+#~ msgid "TIme"
+#~ msgstr "时间"
+
+#~ msgid "Sound"
+#~ msgstr "声音"
