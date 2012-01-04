@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2012-01-04 10:43:23.077047\n"
-"PO-Revision-Date: 2012-01-04 10:43:23.077047\n"
+"POT-Creation-Date: 2012-01-04 13:19:06.203144\n"
+"PO-Revision-Date: 2012-01-04 13:19:06.203144\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: English <yourteam@example.com>\n"
 "MIME-Version: 1.0\n"
@@ -16,11 +16,28 @@ msgid "Firefox Web Browser"
 msgstr ""
 
 #: ../index.html
+msgid ""
+"Ubuntu loads quickly on any computer, but it's super-fast on newer machines."
+" With no unnecessary programs and trial software slowing things down, "
+"booting up and opening a browser takes seconds. Unlike other operating "
+"systems that leave you staring at the screen, waiting to get online. And "
+"Ubuntu won’t grow sluggish over time. It’s fast. And it stays fast."
+msgstr ""
+
+#: ../index.html
+msgid "no subject"
+msgstr ""
+
+#: ../index.html
 msgid "Show yourself around"
 msgstr ""
 
 #: ../index.html
 msgid "Desktop"
+msgstr ""
+
+#: ../index.html
+msgid "Get Mail"
 msgstr ""
 
 #: ../index.html
@@ -44,6 +61,17 @@ msgid "Files"
 msgstr ""
 
 #: ../index.html
+msgid "About Me"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"BEEP has traveled for thousands of years through deep space to explore the "
+"Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to"
+" the surface of the planets."
+msgstr ""
+
+#: ../index.html
 msgid "Are you sure you want to close all programs and shutdown the computer?"
 msgstr ""
 
@@ -56,6 +84,14 @@ msgid "Ubuntu One"
 msgstr ""
 
 #: ../index.html
+msgid ""
+"Accessibility is central to the Ubuntu philosophy. We believe that computing"
+" is for everyone regardless of nationality, race, gender or disability. "
+"Fully translated into 38 languages, Ubuntu also includes essential assistive"
+" technologies, which are, of course, completely free."
+msgstr ""
+
+#: ../index.html
 msgid "Download Ubuntu"
 msgstr ""
 
@@ -65,6 +101,18 @@ msgstr ""
 
 #: ../index.html
 msgid "Applications"
+msgstr ""
+
+#: ../index.html
+msgid "Physics based puzzle/construction game"
+msgstr ""
+
+#: ../index.html
+msgid "Remote Desktop Viewer"
+msgstr ""
+
+#: ../index.html
+msgid "Gwibber Social Client"
 msgstr ""
 
 #: ../index.html
@@ -84,6 +132,10 @@ msgid "Surf the web"
 msgstr ""
 
 #: ../index.html
+msgid "A 2D platformer/shooter game with physics-based puzzles"
+msgstr ""
+
+#: ../index.html
 msgid "Graphics"
 msgstr ""
 
@@ -97,6 +149,10 @@ msgstr ""
 
 #: ../index.html
 msgid "Banshee"
+msgstr ""
+
+#: ../index.html
+msgid "Compatible"
 msgstr ""
 
 #: ../index.html
@@ -128,7 +184,15 @@ msgid "(91 Ratings)"
 msgstr ""
 
 #: ../index.html
+msgid "This package contains the Chromium browser"
+msgstr ""
+
+#: ../index.html
 msgid "$9.99"
+msgstr ""
+
+#: ../index.html
+msgid "Secure"
 msgstr ""
 
 #: ../index.html
@@ -144,11 +208,19 @@ msgid "Ready to download?"
 msgstr ""
 
 #: ../index.html
+msgid "Additional Drivers"
+msgstr ""
+
+#: ../index.html
 msgid "Accessories"
 msgstr ""
 
 #: ../index.html
 msgid "Create spreadsheets"
+msgstr ""
+
+#: ../index.html
+msgid "Bluetooth"
 msgstr ""
 
 #: ../index.html
@@ -164,7 +236,15 @@ msgid "Education"
 msgstr ""
 
 #: ../index.html
+msgid "Brasero Disc Burner"
+msgstr ""
+
+#: ../index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
+msgstr ""
+
+#: ../index.html
+msgid "wrote"
 msgstr ""
 
 #: ../index.html
@@ -196,11 +276,11 @@ msgid "Date:"
 msgstr ""
 
 #: ../index.html
-msgid "System"
+msgid "junk"
 msgstr ""
 
 #: ../index.html
-msgid "Take Ubuntu for a test drive with our online demo."
+msgid "Send"
 msgstr ""
 
 #: ../index.html
@@ -208,7 +288,19 @@ msgid "We hope you've enjoyed the Ubuntu online tour."
 msgstr ""
 
 #: ../index.html
+msgid "Inkscape Vector Graphics Editor"
+msgstr ""
+
+#: ../index.html
 msgid "Create presentations"
+msgstr ""
+
+#: ../index.html
+msgid "Original Message"
+msgstr ""
+
+#: ../index.html
+msgid "AisleRoit Solitaire"
 msgstr ""
 
 #: ../index.html
@@ -217,6 +309,12 @@ msgstr ""
 
 #: ../index.html
 msgid "Connection Information"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Chromium is an open-source browser project that aims to build a safer, "
+"faster, and more stable way for all Internet users to experience the web."
 msgstr ""
 
 #: ../index.html
@@ -248,7 +346,31 @@ msgid "Hibernate"
 msgstr ""
 
 #: ../index.html
+msgid "Your Ubuntu, your way"
+msgstr ""
+
+#: ../index.html
+msgid "Local"
+msgstr ""
+
+#: ../index.html
 msgid "Time &amp; Date Settings…"
+msgstr ""
+
+#: ../index.html
+msgid "PiTiVi Video Editor"
+msgstr ""
+
+#: ../index.html
+msgid "Unmute"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
+"player, camera or printer and you’ll be up and running straight away. No "
+"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
+"open, edit and share Microsoft Office documents stress-free."
 msgstr ""
 
 #: ../index.html
@@ -257,6 +379,10 @@ msgstr ""
 
 #: ../index.html
 msgid "Welcome Screen"
+msgstr ""
+
+#: ../index.html
+msgid "reply"
 msgstr ""
 
 #: ../index.html
@@ -280,6 +406,24 @@ msgid "Log Out…"
 msgstr ""
 
 #: ../index.html
+msgid ""
+"Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
+"You must have these packages to make full use of all extensions and effects."
+msgstr ""
+
+#: ../index.html
+msgid "Fwd"
+msgstr ""
+
+#: ../index.html
+msgid "Terminal Server Client"
+msgstr ""
+
+#: ../index.html
+msgid "Appearance"
+msgstr ""
+
+#: ../index.html
 msgid "LibreOffice Calc"
 msgstr ""
 
@@ -292,6 +436,16 @@ msgid "Startup Applications…"
 msgstr ""
 
 #: ../index.html
+msgid "Remove"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Braid treats your time and attention as precious, and it does everything it "
+"can to give you a mind-expanding experience."
+msgstr ""
+
+#: ../index.html
 msgid "from"
 msgstr ""
 
@@ -300,7 +454,17 @@ msgid "LibreOffice Impress"
 msgstr ""
 
 #: ../index.html
+msgid ""
+"All gameplay is based on time manipulation. Journey into worlds where time "
+"behaves strangely; observe, learn from, and then master these worlds."
+msgstr ""
+
+#: ../index.html
 msgid "Songs"
+msgstr ""
+
+#: ../index.html
+msgid "Accessible"
 msgstr ""
 
 #: ../index.html
@@ -324,7 +488,36 @@ msgid "Braid"
 msgstr ""
 
 #: ../index.html
+msgid ""
+"Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
+"format, a standard maintained by the WWW consortium."
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
+"download it to enjoy the real thing!"
+msgstr ""
+
+#: ../index.html
 msgid "Unread:"
+msgstr ""
+
+#: ../index.html
+msgid "Banshee Media Player"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"You can surf in safety with Ubuntu – confident that your files and data will"
+" stay protected. A built-in firewall and virus protection come as standard. "
+"And if a potential threat appears, we provide automatic updates which you "
+"can install in a single click. You get added security with AppArmor, which "
+"protects your important applications so attackers can’t access your system. "
+"And thanks to Firefox and gnome-keyring, Ubuntu helps you keep your private "
+"information private. So whether it’s accessing your bank account or sharing "
+"sensitive data with friends or colleagues, you’ll have peace of mind when "
+"you need it the most."
 msgstr ""
 
 #: ../index.html
@@ -348,6 +541,13 @@ msgid "Learn More"
 msgstr ""
 
 #: ../index.html
+msgid ""
+"Use BEEP’s anti-gravity device to directly manipulate the physics-based "
+"environments. The anti-gravity device is both a tool and a weapon. Use it to"
+" smash enemy robots, build towers and solve puzzles."
+msgstr ""
+
+#: ../index.html
 msgid "Chat"
 msgstr ""
 
@@ -364,6 +564,10 @@ msgid "Home"
 msgstr ""
 
 #: ../index.html
+msgid "Canonical"
+msgstr ""
+
+#: ../index.html
 msgid "Developer Tools"
 msgstr ""
 
@@ -373,6 +577,10 @@ msgstr ""
 
 #: ../index.html
 msgid "Inkscape"
+msgstr ""
+
+#: ../index.html
+msgid "Access the Internet"
 msgstr ""
 
 #: ../index.html
@@ -428,6 +636,12 @@ msgid "More Apps"
 msgstr ""
 
 #: ../index.html
+msgid ""
+"If you want to use the spellchecker, you have to install aspell and the "
+"respective language-pack, e.g. aspell-en or aspell-de."
+msgstr ""
+
+#: ../index.html
 msgid "Find Files"
 msgstr ""
 
@@ -451,6 +665,19 @@ msgstr ""
 
 #: ../index.html
 msgid "to"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Blender is an integrated 3d suite for modelling, animation, rendering, post-"
+"production, interactive creation and playback (games). Blender has its own "
+"particular user interface, which is implemented entirely in OpenGL and "
+"designed with speed in mind. Python bindings are available for scripting; "
+"import/export features for popular file formats like 3D Studio and Wavefront"
+" Obj are implemented as scripts by the community. Stills, animations, models"
+" for games or other third party engines and interactive content in the form "
+"of a standalone binary and/or a web plug-in are common products of Blender "
+"use."
 msgstr ""
 
 #: ../index.html
@@ -480,7 +707,30 @@ msgid "Date"
 msgstr ""
 
 #: ../index.html
+msgid ""
+"Drag and drop living, squirming, talking globs of goo to build structures, "
+"bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent"
+" goo balls that live in the beautiful World of Goo are curious to explore."
+msgstr ""
+
+#: ../index.html
+msgid "Chromium Web Browser"
+msgstr ""
+
+#: ../index.html
 msgid "Browse the Web"
+msgstr ""
+
+#: ../index.html
+msgid "Recipient"
+msgstr ""
+
+#: ../index.html
+msgid "Fast"
+msgstr ""
+
+#: ../index.html
+msgid "Not Junk"
 msgstr ""
 
 #: ../index.html
@@ -496,7 +746,18 @@ msgid "Check email"
 msgstr ""
 
 #: ../index.html
+msgid ""
+"Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Fast, secure "
+"and with thousands of apps to choose from, Ubuntu gives you a clean and "
+"streamlined experience that you can really make your own."
+msgstr ""
+
+#: ../index.html
 msgid "Total:"
+msgstr ""
+
+#: ../index.html
+msgid "Manipulate the flow of time to solve puzzels"
 msgstr ""
 
 #: ../index.html
@@ -512,13 +773,27 @@ msgid "I already have an account!"
 msgstr ""
 
 #: ../index.html
-msgid "Mon 11 October, 2010"
+msgid "System"
+msgstr ""
+
+#: ../index.html
+msgid "forward"
 msgstr ""
 
 #: ../index.html
 msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+
+#: ../index.html
+msgid "Take Ubuntu for a test drive with our online demo."
 msgstr ""
 
 #: ../index.html
@@ -531,6 +806,14 @@ msgstr ""
 
 #: ../index.html
 msgid "Subject:"
+msgstr ""
+
+#: ../index.html
+msgid "Turn On Bluetooth"
+msgstr ""
+
+#: ../index.html
+msgid "Backup"
 msgstr ""
 
 #: ../index.html
@@ -570,11 +853,22 @@ msgid "Library"
 msgstr ""
 
 #: ../index.html
+msgid "work"
+msgstr ""
+
+#: ../index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr ""
 
 #: ../index.html
 msgid "System Settings…"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Chromium serves as a base for Google Chrome, which is Chromium rebranded "
+"(name and logo) with very few additions such as usage tracking and an auto-"
+"updater system."
 msgstr ""
 
 #: ../index.html
@@ -586,7 +880,15 @@ msgid "Untitled 1 - LibreOffice Writer"
 msgstr ""
 
 #: ../index.html
+msgid "delete"
+msgstr ""
+
+#: ../index.html
 msgid "Busy"
+msgstr ""
+
+#: ../index.html
+msgid "On"
 msgstr ""
 
 #: ../index.html
@@ -602,7 +904,26 @@ msgid "Sound Settings…"
 msgstr ""
 
 #: ../index.html
+msgid "Search"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"But they dont know that they are in a game, or that they are extremely "
+"delicious. The most addicting and awe-inspiring puzzle game will set you on "
+"an adventure that youll never forget!"
+msgstr ""
+
+#: ../index.html
 msgid "Add Event…"
+msgstr ""
+
+#: ../index.html
+msgid "Write"
+msgstr ""
+
+#: ../index.html
+msgid "Attach"
 msgstr ""
 
 #: ../index.html
@@ -614,11 +935,23 @@ msgid "Ubuntu online tour"
 msgstr ""
 
 #: ../index.html
+msgid ""
+"BEEP is a 2D side-scrolling platformer with physics-based gameplay. You "
+"control a small robot equipped with an anti-gravity device, a jet-pack and a"
+" gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
+"across 6 unique environments."
+msgstr ""
+
+#: ../index.html
 msgid "Offline"
 msgstr ""
 
 #: ../index.html
 msgid "Trash"
+msgstr ""
+
+#: ../index.html
+msgid "archive"
 msgstr ""
 
 #: ../index.html
@@ -678,6 +1011,12 @@ msgid "Albums"
 msgstr ""
 
 #: ../index.html
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+
+#: ../index.html
 msgid "LibreOffice Writer"
 msgstr ""
 
@@ -706,6 +1045,10 @@ msgid "Clear"
 msgstr ""
 
 #: ../index.html
+msgid "Installing"
+msgstr ""
+
+#: ../index.html
 msgid "back to the site"
 msgstr ""
 
@@ -722,7 +1065,15 @@ msgid "Visolate"
 msgstr ""
 
 #: ../index.html
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr ""
+
+#: ../index.html
 msgid "Attached Devices"
+msgstr ""
+
+#: ../index.html
+msgid "Sound Recorder"
 msgstr ""
 
 #: ../index.html
@@ -730,7 +1081,30 @@ msgid "Suspend"
 msgstr ""
 
 #: ../index.html
+msgid "branches"
+msgstr ""
+
+#: ../index.html
 msgid "View Photos"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Manipulate the flow of time to solve puzzles Braid is a platform game in "
+"painterly style where you manipulate the flow of time to solve puzzles. "
+"Every puzzle in Braid is unique; there is no filler."
+msgstr ""
+
+#: ../index.html
+msgid "Mon 11 October, 2010"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
 msgstr ""
 
 #: ../index.html
@@ -739,6 +1113,10 @@ msgstr ""
 
 #: ../index.html
 msgid "Sound &amp; Video"
+msgstr ""
+
+#: ../index.html
+msgid "Create and edit 3D models and animations"
 msgstr ""
 
 #: ../index.html
@@ -751,6 +1129,10 @@ msgstr ""
 
 #: ../index.html
 msgid "Stay Productive"
+msgstr ""
+
+#: ../index.html
+msgid "Empathy Internet Messageing"
 msgstr ""
 
 #: ../index.html
@@ -772,6 +1154,10 @@ msgstr ""
 
 #: ../index.html
 msgid "Downloads"
+msgstr ""
+
+#: ../index.html
+msgid "You"
 msgstr ""
 
 #: ../index.html

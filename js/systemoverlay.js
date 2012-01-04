@@ -18,35 +18,35 @@ function SystemOverlay($parent){
 	var searching = false;
 	
 	this.init = function(){
-		downloadApps = new Array({name:'Chromium Web Browser',image:'img/software-centre/logo-chromium.png'},
-															  {name:'BEEP',image:'img/software-centre/logo-beep.png' },
-															  {name:'Inkscape Vector Graphics Editor',image:'img/software-centre/logo-inkscape.png'},
-															  {name:'World of Goo',image:'img/software-centre/logo-world-of-goo.png'},
-															  {name:'Blender', image:'img/software-centre/logo-blender.png'},
-															  {name:'Braid',image:'img/software-centre/logo-braid.png'});
+		downloadApps = new Array({name:_chromium_app_,image:'img/software-centre/logo-chromium.png'},
+															  {name:_beep_app_,image:'img/software-centre/logo-beep.png' },
+															  {name:_inkscape_app_,image:'img/software-centre/logo-inkscape.png'},
+															  {name:_world_of_goo_app_,image:'img/software-centre/logo-world-of-goo.png'},
+															  {name:_blender_app_, image:'img/software-centre/logo-blender.png'},
+															  {name:_braid_app_,image:'img/software-centre/logo-braid.png'});
 															  
-		mediaApps = new Array({name:'Banshee Media Player',image:'banshee.png'},
-															  {name:'Brasero Disc Burner',image:'brasero.png' },
-															  {name:'Movie Player',image:'movieplayer.png'},
-															  {name:'Shotwell Photo Manager',image:'shotwell.png'},
-															  {name:'PiTiVi Video Editor', image:'pitivi.png'},
-															  {name:'Sound Recorder',image:'soundrecorder.png'});
+		mediaApps = new Array({name:_banshee_app_,image:'banshee.png'},
+															  {name:_brasero_app_,image:'brasero.png' },
+															  {name:_movie_player_app_,image:'movieplayer.png'},
+															  {name:_shotwell_app_,image:'shotwell.png'},
+															  {name:_pitivi_app_, image:'pitivi.png'},
+															  {name:_sound_recorder_app_,image:'soundrecorder.png'});
 															  
-		internetApps = new Array({name:'Empathy Internet Messageing',image:'empathy.png'},
-																  {name:'Thunderbird Mail/News',image:'thunderbird.png' },
-																  {name:'Firefox Web Browser',image:'firefox.png'},
-																  {name:'Gwibber Social Client', image:'gwibber.png'},
-																  {name:'Remote Desktop Viewer',image:'remotedesktop.png'},
-																  {name:'Terminal Server Client', image:'terminalserver.png'});
+		internetApps = new Array({name:_empathy_app_,image:'empathy.png'},
+																  {name:_thunderbird_app_,image:'thunderbird.png' },
+																  {name:_firefox_app_,image:'firefox.png'},
+																  {name:_gwibber_app_, image:'gwibber.png'},
+																  {name:_remote_desktop_app_,image:'remotedesktop.png'},
+																  {name:_terminal_app_, image:'terminalserver.png'});
 
-		moreApps = new Array({name:'About Me',image:'aboutme.png'},
-														    {name:'Additional Drivers',image:'additionaldrivers.png' },
-														    {name:'AisleRoit Solitaire',image:'solitaire.png'},
-														    {name:'Appearance', image:'appearance.png'},
-														    {name:'Bluetooth',image:'bluetooth.png'});	
+		moreApps = new Array({name:_about_me_app_,image:'aboutme.png'},
+														    {name:_additional_drivers_app_,image:'additionaldrivers.png' },
+														    {name:_aisleroit_app_,image:'solitaire.png'},
+														    {name:_appearance_app_, image:'appearance.png'},
+														    {name:_bluetooth_app_,image:'bluetooth.png'});	
 														    
 		this.totalApps = 	mediaApps.concat(internetApps, moreApps);
-		$('#systemOverlay input').val('Search');
+		$('#systemOverlay input').val(_search_);
 		this.setupTopControl();
 	}
 	
@@ -162,7 +162,7 @@ function SystemOverlay($parent){
 		var search_input = $('#systemOverlay input');
 	
 		search_input.focus(function() {
-			if ($(this).val() == 'Search') {
+			if ($(this).val() == _search_) {
 				$(this).val('');
 				$(this).css('font-style', 'normal');
 				$(this).css('color', '#fff');
@@ -170,7 +170,7 @@ function SystemOverlay($parent){
 		});
 		search_input.blur(function() {
 			if ($(this).val() == '') {
-				$(this).val('Search');
+				$(this).val(_search_);
 				$(this).css('font-style', 'italic');
 				$(this).css('color', '#666');
 				_this.reset();
@@ -440,7 +440,7 @@ function SystemOverlay($parent){
 	}
 	
 	this.reset = function(){
-		$('#systemOverlay input').val('Search');
+		$('#systemOverlay input').val(_search_);
 		$('#systemOverlay input').css('font-style', 'italic');
 		$('#systemOverlay input').css('color', '#666');
 		this.hideAll();
