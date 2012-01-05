@@ -191,16 +191,16 @@ function SystemMenu($parent){
 				var div = $('.folder');
 				 if(!div.is(':visible')){
 					if(_parent.fileSystem == null){
-						_parent.fileSystem = new FileSystem(this,'/Rubbish Bin');
+						_parent.fileSystem = new FileSystem(this,'/'+_rubbish_bin_folder_);
 						_parent.fileSystem.init();
 					}else{
 						//_parent.fileSystem.reset(!_parent.fileSystem.isMinified());
-						_parent.fileSystem.updateDir('/Rubbish Bin');
+						_parent.fileSystem.updateDir('/'+_rubbish_bin_folder_);
 					}
 					$('.folder').show();
 					$("#menu ul li.home img").show();
 				}else{
-					_parent.fileSystem.updateDir('/Rubbish Bin');
+					_parent.fileSystem.updateDir('/'+_rubbish_bin_folder_);
 				}
 				_parent.fileSystem.open();
 				$('.folder ').trigger('mousedown');
