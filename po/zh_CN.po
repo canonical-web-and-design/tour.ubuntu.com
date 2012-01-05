@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2012-01-05 15:41:13.719059\n"
-"PO-Revision-Date: 2012-01-05 09:54+0100\n"
+"PO-Revision-Date: 2012-01-05 16:49+0100\n"
 "Last-Translator: ZhengPeng Hou <zhengpeng-hou@ubuntu.com>\n"
 "Language-Team: Ubuntu Simplified Chinese Translators <ubuntu-l10n-"
 "admins@googlegroups.com>\n"
@@ -319,7 +319,7 @@ msgstr "浏览文件"
 
 #: ../index.html
 msgid "Come and explore our favourites"
-msgstr ""
+msgstr "来看看我们喜欢的"
 
 #: ../index.html
 msgid "junk"
@@ -818,7 +818,7 @@ msgstr "您可以轻松快捷的从Ubuntu的家目录访问您的文件和文件
 
 #: ../index.html
 msgid "Our star apps"
-msgstr ""
+msgstr "金牌应用程序"
 
 #: ../index.html
 msgid ""
@@ -1199,13 +1199,12 @@ msgid "Fonts"
 msgstr "字体"
 
 #: ../index.html
-#, fuzzy
 msgid "File"
 msgstr "文件"
 
 #: ../index.html
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: ../index.html
 msgid "Bluetooth On"
@@ -1284,7 +1283,7 @@ msgstr ""
 
 #: ../index.html
 msgid "Format"
-msgstr ""
+msgstr "格式"
 
 #: ../index.html
 msgid "Rubbish bin"
