@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-01-04 13:19+0000\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2012-01-05 15:41:13.719059\n"
 "PO-Revision-Date: 2012-01-05 09:54+0100\n"
 "Last-Translator: ZhengPeng Hou <zhengpeng-hou@ubuntu.com>\n"
 "Language-Team: Ubuntu Simplified Chinese Translators <ubuntu-l10n-"
@@ -69,6 +69,14 @@ msgid "Find apps"
 msgstr "寻找程序"
 
 #: ../index.html
+msgid "Not Alone"
+msgstr ""
+
+#: ../index.html
+msgid "Momiji Dream"
+msgstr ""
+
+#: ../index.html
 msgid "Files"
 msgstr "文件"
 
@@ -121,6 +129,11 @@ msgid "Applications"
 msgstr "应用程序"
 
 #: ../index.html
+#, fuzzy
+msgid "Weds 14 October, 2010"
+msgstr "2010年10月11日星期一"
+
+#: ../index.html
 msgid "Physics based puzzle/construction game"
 msgstr "基于物理的拼图游戏"
 
@@ -135,6 +148,14 @@ msgstr "硅博社交网络客户端"
 #: ../index.html
 msgid "History"
 msgstr "历史记录"
+
+#: ../index.html
+msgid "Happyness"
+msgstr ""
+
+#: ../index.html
+msgid "15.2KB"
+msgstr ""
 
 #: ../index.html
 msgid "PCB CNC converter"
@@ -201,6 +222,10 @@ msgid "(91 Ratings)"
 msgstr "(91 次打分)"
 
 #: ../index.html
+msgid "Secure"
+msgstr "安全"
+
+#: ../index.html
 msgid "This package contains the Chromium browser"
 msgstr "此软件包含有 Chromium浏览器"
 
@@ -209,8 +234,8 @@ msgid "$9.99"
 msgstr "$9.99"
 
 #: ../index.html
-msgid "Secure"
-msgstr "安全"
+msgid "Help"
+msgstr ""
 
 #: ../index.html
 msgid "Mute"
@@ -285,12 +310,16 @@ msgid "Preferences"
 msgstr "偏好设置"
 
 #: ../index.html
+msgid "Sound Recorder"
+msgstr "录音机"
+
+#: ../index.html
 msgid "Browse files"
 msgstr "浏览文件"
 
 #: ../index.html
-msgid "Date:"
-msgstr "日期:"
+msgid "Come and explore our favourites"
+msgstr ""
 
 #: ../index.html
 msgid "junk"
@@ -299,6 +328,10 @@ msgstr "垃圾"
 #: ../index.html
 msgid "Send"
 msgstr "发送"
+
+#: ../index.html
+msgid "Darkening Clockwork"
+msgstr ""
 
 #: ../index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
@@ -365,6 +398,10 @@ msgid "Hibernate"
 msgstr "休眠"
 
 #: ../index.html
+msgid "Langelinie Alle"
+msgstr ""
+
+#: ../index.html
 msgid "Your Ubuntu, your way"
 msgstr "你的Ubuntu, 你做主"
 
@@ -383,6 +420,10 @@ msgstr "PiTiVi 视频编辑器"
 #: ../index.html
 msgid "Unmute"
 msgstr "取消静音"
+
+#: ../index.html
+msgid "Jardin Polar"
+msgstr ""
 
 #: ../index.html
 msgid ""
@@ -404,6 +445,10 @@ msgid "Welcome Screen"
 msgstr "锁定屏幕"
 
 #: ../index.html
+msgid "3.3MB"
+msgstr ""
+
+#: ../index.html
 msgid "reply"
 msgstr "回复"
 
@@ -422,6 +467,10 @@ msgstr "关闭蓝牙"
 #: ../index.html
 msgid "$19.99"
 msgstr "$19.99"
+
+#: ../index.html
+msgid "Dybbølsbro Station"
+msgstr ""
 
 #: ../index.html
 msgid "Log Out…"
@@ -452,6 +501,14 @@ msgid "LibreOffice Calc"
 msgstr "LibreOffice 表格"
 
 #: ../index.html
+msgid "Buck Off"
+msgstr ""
+
+#: ../index.html
+msgid "Stalking Ocelot"
+msgstr ""
+
+#: ../index.html
 msgid "Cancel"
 msgstr "取消"
 
@@ -470,6 +527,10 @@ msgid ""
 msgstr ""
 
 #: ../index.html
+msgid "Purple Dancers"
+msgstr ""
+
+#: ../index.html
 msgid "from"
 msgstr "来自"
 
@@ -481,6 +542,10 @@ msgstr "LibreOffice 演示"
 msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
+msgstr ""
+
+#: ../index.html
+msgid "Mount Snowdon"
 msgstr ""
 
 #: ../index.html
@@ -504,6 +569,10 @@ msgid "Setup new device…"
 msgstr "设定新设备…"
 
 #: ../index.html
+msgid "Introduction Ubuntu"
+msgstr ""
+
+#: ../index.html
 msgid "Videos"
 msgstr "视频"
 
@@ -516,7 +585,8 @@ msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
-"Inkscape 读取并保存 SVG (可缩放矢量图形)标准的一部分，SVG 是 WWW consortium 所维护的标准。"
+"Inkscape 读取并保存 SVG (可缩放矢量图形)标准的一部分，SVG 是 WWW consortium "
+"所维护的标准。"
 
 #: ../index.html
 msgid ""
@@ -544,10 +614,11 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
-"您可以安全地使用 Ubuntu 上网冲浪 - 我们自信您的文件和数据一直在保护之下。Ubuntu "
-"内置防火墙和病毒防护功能。如果出现可能的危险，您只需轻点鼠标即可获得我们为您提供的自动更新。通过使用 "
-"AppArmor，您的重要应用程序皆处于保护之下，使攻击者无法闯入系统。Firefox 和 gnome-keyring 则让 Ubuntu "
-"能保护您的隐私信息不被泄漏。无论您是访问银行账户，还是与同事和朋友共享敏感信息，您都可以高枕无忧。"
+"您可以安全地使用 Ubuntu 上网冲浪 - 我们自信您的文件和数据一直在保护之下。"
+"Ubuntu 内置防火墙和病毒防护功能。如果出现可能的危险，您只需轻点鼠标即可获得我"
+"们为您提供的自动更新。通过使用 AppArmor，您的重要应用程序皆处于保护之下，使攻"
+"击者无法闯入系统。Firefox 和 gnome-keyring 则让 Ubuntu 能保护您的隐私信息不被"
+"泄漏。无论您是访问银行账户，还是与同事和朋友共享敏感信息，您都可以高枕无忧。"
 
 #: ../index.html
 msgid "Files &amp; Folders"
@@ -613,6 +684,10 @@ msgid "Access the Internet"
 msgstr "访问互联网"
 
 #: ../index.html
+msgid "5.3MB"
+msgstr ""
+
+#: ../index.html
 msgid "Take the guided tour"
 msgstr "观看此向导"
 
@@ -627,6 +702,10 @@ msgstr "图片"
 #: ../index.html
 msgid "Away"
 msgstr "离开"
+
+#: ../index.html
+msgid "Check email"
+msgstr "检查邮件"
 
 #: ../index.html
 msgid "Size:"
@@ -685,6 +764,10 @@ msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr "您可以使用 Shotwell 上传、组织、编写和共享您的照片。"
 
 #: ../index.html
+msgid "Sand Maze"
+msgstr ""
+
+#: ../index.html
 msgid "Ubuntu One Control Panel"
 msgstr "Ubuntu One 控制面板"
 
@@ -710,7 +793,12 @@ msgid ""
 "of a standalone binary and/or a web plug-in are common products of Blender "
 "use."
 msgstr ""
-"Blender 是一个集成 3D 套件，提供的功能包括但不限于：建模、动画、渲染、后 期制作、交互式创作和回放。Blender 拥有一个完全用 OpenGL 实现并针对速度 优化的界面。其具有 Python 绑定功能，可用于编写脚本。例如，对 3D Studio 和 Wavefront OBJ 这些流行的文件格式的导入导出功能就是由社区使用脚本实现 的。此外，Blender 可以完全正常地使用动画、游戏模型或其他以二进制格式或浏 览器插件实现的第三方引擎和交互内容。"
+"Blender 是一个集成 3D 套件，提供的功能包括但不限于：建模、动画、渲染、后 期制"
+"作、交互式创作和回放。Blender 拥有一个完全用 OpenGL 实现并针对速度 优化的界"
+"面。其具有 Python 绑定功能，可用于编写脚本。例如，对 3D Studio 和 Wavefront "
+"OBJ 这些流行的文件格式的导入导出功能就是由社区使用脚本实现 的。此外，Blender "
+"可以完全正常地使用动画、游戏模型或其他以二进制格式或浏 览器插件实现的第三方引"
+"擎和交互内容。"
 
 #: ../index.html
 msgid "Your browser does not support iframes."
@@ -727,6 +815,10 @@ msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr "您可以轻松快捷的从Ubuntu的家目录访问您的文件和文件夹。"
+
+#: ../index.html
+msgid "Our star apps"
+msgstr ""
 
 #: ../index.html
 msgid ""
@@ -774,15 +866,17 @@ msgid "Set Up Broadcast Account…"
 msgstr "设定社交网络帐号"
 
 #: ../index.html
-msgid "Check email"
-msgstr "检查邮件"
+msgid "Date:"
+msgstr "日期:"
 
 #: ../index.html
 msgid ""
 "Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Fast, secure "
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
-msgstr "享受 Ubuntu 独具风格的直观界面。Ubuntu 快速、安全、拥有数千款应用可供选择，这是为您量身定制的简洁、连续的使用体验。"
+msgstr ""
+"享受 Ubuntu 独具风格的直观界面。Ubuntu 快速、安全、拥有数千款应用可供选择，这"
+"是为您量身定制的简洁、连续的使用体验。"
 
 #: ../index.html
 msgid "Total:"
@@ -819,12 +913,8 @@ msgid ""
 msgstr "LibreOffice 表格提供了一切创建清晰精确表格之所需。"
 
 #: ../index.html
-msgid ""
-"Some of the import and export features are provided using the packages dia, "
-"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
-msgstr ""
-"通过一些软件如dia, libwmf-bin, pstoedit skencil, imagemagick和perlmagick, 提"
-"供了导入和导出的特性 "
+msgid "Folders"
+msgstr "文件夹"
 
 #: ../index.html
 msgid "Take Ubuntu for a test drive with our online demo."
@@ -837,6 +927,10 @@ msgstr "安装"
 #: ../index.html
 msgid "Items:"
 msgstr "条目："
+
+#: ../index.html
+msgid "WildWheat"
+msgstr ""
 
 #: ../index.html
 msgid "Subject:"
@@ -853,6 +947,19 @@ msgstr "备份"
 #: ../index.html
 msgid "The Power of Your Personal Cloud"
 msgstr "您个人云的力量"
+
+#: ../index.html
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+"通过一些软件如dia, libwmf-bin, pstoedit skencil, imagemagick和perlmagick, 提"
+"供了导入和导出的特性 "
+
+#: ../index.html
+#, fuzzy
+msgid "16 Photos"
+msgstr "查看照片"
 
 #: ../index.html
 msgid "Home Folder"
@@ -928,6 +1035,11 @@ msgid "On"
 msgstr ""
 
 #: ../index.html
+#, fuzzy
+msgid "Small Flowers"
+msgstr "全部文件夹"
+
+#: ../index.html
 msgid "Edit Connections…"
 msgstr "编辑链接..."
 
@@ -963,12 +1075,20 @@ msgid "Attach"
 msgstr "附加"
 
 #: ../index.html
+msgid "Window"
+msgstr ""
+
+#: ../index.html
 msgid "Write: (no subject)"
 msgstr "撰写"
 
 #: ../index.html
 msgid "Ubuntu online tour"
 msgstr "Ubuntu在线漫游"
+
+#: ../index.html
+msgid "Federica Miglio"
+msgstr ""
 
 #: ../index.html
 msgid ""
@@ -989,6 +1109,10 @@ msgstr "垃圾箱"
 #: ../index.html
 msgid "archive"
 msgstr "存档"
+
+#: ../index.html
+msgid "Power Of Words"
+msgstr ""
 
 #: ../index.html
 msgid "Shotwell Photo Manager"
@@ -1063,8 +1187,8 @@ msgid "From:"
 msgstr "来自:"
 
 #: ../index.html
-msgid "Folders"
-msgstr "文件夹"
+msgid "Insert"
+msgstr ""
 
 #: ../index.html
 msgid "Shut Down…"
@@ -1073,6 +1197,15 @@ msgstr "关机..."
 #: ../index.html
 msgid "Fonts"
 msgstr "字体"
+
+#: ../index.html
+#, fuzzy
+msgid "File"
+msgstr "文件"
+
+#: ../index.html
+msgid "Edit"
+msgstr ""
 
 #: ../index.html
 msgid "Bluetooth On"
@@ -1103,6 +1236,10 @@ msgid "Visolate"
 msgstr "Visolate"
 
 #: ../index.html
+msgid "Empathy Internet Messageing"
+msgstr "Empathy即时通讯"
+
+#: ../index.html
 msgid "Create and edit Scalable Vector Graphics images"
 msgstr "创建和编辑矢量图形"
 
@@ -1111,8 +1248,8 @@ msgid "Attached Devices"
 msgstr "已连接的设备"
 
 #: ../index.html
-msgid "Sound Recorder"
-msgstr "录音机"
+msgid "View"
+msgstr ""
 
 #: ../index.html
 msgid "Suspend"
@@ -1146,12 +1283,20 @@ msgid ""
 msgstr ""
 
 #: ../index.html
+msgid "Format"
+msgstr ""
+
+#: ../index.html
 msgid "Rubbish bin"
 msgstr "回收站"
 
 #: ../index.html
 msgid "Sound &amp; Video"
 msgstr "声音和视频..."
+
+#: ../index.html
+msgid "The Grass Aint Greener"
+msgstr ""
 
 #: ../index.html
 msgid "Create and edit 3D models and animations"
@@ -1170,8 +1315,8 @@ msgid "Stay Productive"
 msgstr "保持效率"
 
 #: ../index.html
-msgid "Empathy Internet Messageing"
-msgstr "Empathy即时通讯"
+msgid "Table"
+msgstr ""
 
 #: ../index.html
 msgid ""
@@ -1202,6 +1347,10 @@ msgstr ""
 "gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
+
+#: ../index.html
+msgid "Tools"
+msgstr ""
 
 #: ../index.html
 msgid "Downloads"

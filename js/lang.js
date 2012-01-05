@@ -109,5 +109,38 @@ var _mute_ = hiddenTranslation.find('._mute_').text();
 var _unmute_ = hiddenTranslation.find('._unmute_').text();
 var _shut_down_ = hiddenTranslation.find('._shut_down_').text();
 
-
+/*
+ * Files Details - Images
+ */
+var _photo_size_ = hiddenTranslation.find('._photo_size_').text();
+var _photo_date_ = hiddenTranslation.find('._photo_date_').text();
+var _buck_off_title_ = hiddenTranslation.find('._buck_off_title_').text();
+var _darkening_clockwork_title_ = hiddenTranslation.find('._darkening_clockwork_title_').text();
+var _darkening_clockwork_size_ = hiddenTranslation.find('._darkening_clockwork_size_').text();
+var _dybbølsbro_station_title_ = hiddenTranslation.find('._dybbølsbro_station_title_').text();
+var _federica_miglio_title_ = hiddenTranslation.find('._federica_miglio_title_').text();
+var _jardin_polar_title_ = hiddenTranslation.find('._jardin_polar_title_').text();
+var _langelinie_alle_title_ = hiddenTranslation.find('._langelinie_alle_title_').text();
+var _momiji_dream_title_ = hiddenTranslation.find('._momiji_dream_title_').text();
+var _mount_snowdon_title_ = hiddenTranslation.find('._mount_snowdon_title_').text();
+var _not_alone_title_ = hiddenTranslation.find('._not_alone_title_').text();
+var _power_of_words_title_ = hiddenTranslation.find('._power_of_words_title_').text();
+var _purple_dancers_title_ = hiddenTranslation.find('._purple_dancers_title_').text();
+var _sand_maze_title_ = hiddenTranslation.find('._sand_maze_title_').text();
+var _small_flowers_title_ = hiddenTranslation.find('._small_flowers_title_').text();
+var _stalking_ocelot_title_ = hiddenTranslation.find('._stalking_ocelot_title_').text();
+var _the_grass_aint_greener_title_ = hiddenTranslation.find('._the_grass_aint_greener_title_').text();
+var _wildWheat_title_ = hiddenTranslation.find('._wildWheat_title_').text();
+/*
+ * Files Details - Video
+ */
+var _introduction_ubuntu_title_ = hiddenTranslation.find('._introduction_ubuntu_title_').text();
+var _video_size_ = hiddenTranslation.find('._video_size_').text();
+var _video_date_ = hiddenTranslation.find('._video_date_').text();
+/*
+ * Files Details - Music
+ */
+var _happyness_title_ = hiddenTranslation.find('._happyness_title_').text();
+var _music_size_ = hiddenTranslation.find('._music_size_').text();
+var _music_date_ = hiddenTranslation.find('._music_date_').text();
 

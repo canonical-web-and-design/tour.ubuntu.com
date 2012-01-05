@@ -11,7 +11,7 @@ function FirefoxSystem($parent){
 	var firefoxHeight = 0;
 	var urlWidth = 0;
 	var maximised = false;
-	var homePage = 'http://www.ubuntu.com';
+	var homePage = 'http://start.ubuntu.com';
 	var internalClick = true;
 	var name = 'Browse the internet';
 	var _isOpen = false;
