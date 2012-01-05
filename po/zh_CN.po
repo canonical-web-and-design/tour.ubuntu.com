@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
-"Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2012-01-04 13:19:06.203144\n"
-"PO-Revision-Date: 2011-10-21 13:42+0000\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-01-04 13:19+0000\n"
+"PO-Revision-Date: 2012-01-05 09:54+0100\n"
 "Last-Translator: ZhengPeng Hou <zhengpeng-hou@ubuntu.com>\n"
 "Language-Team: Ubuntu Simplified Chinese Translators <ubuntu-l10n-"
 "admins@googlegroups.com>\n"
@@ -16,8 +16,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-21 15:08+0000\n"
-"X-Generator: Launchpad (build 14170)\n"
+"X-Launchpad-Export-Date: 2012-01-05 08:08+0000\n"
+"X-Generator: Launchpad (build 14625)\n"
 
 #: ../index.html
 msgid "Firefox Web Browser"
@@ -182,7 +182,7 @@ msgstr "来自"
 
 #: ../index.html
 msgid "Auto eth0"
-msgstr ""
+msgstr "自动 eth0"
 
 #: ../index.html
 msgid "Thanks for exploring Ubuntu!"
@@ -198,7 +198,7 @@ msgstr "创建文档"
 
 #: ../index.html
 msgid "(91 Ratings)"
-msgstr ""
+msgstr "(91 次打分)"
 
 #: ../index.html
 msgid "This package contains the Chromium browser"
@@ -206,7 +206,7 @@ msgstr "此软件包含有 Chromium浏览器"
 
 #: ../index.html
 msgid "$9.99"
-msgstr ""
+msgstr "$9.99"
 
 #: ../index.html
 msgid "Secure"
@@ -270,7 +270,7 @@ msgstr "主题"
 
 #: ../index.html
 msgid "Shotwell"
-msgstr ""
+msgstr "Shotwell"
 
 #: ../index.html
 msgid "Documents"
@@ -318,7 +318,7 @@ msgstr "原始信息"
 
 #: ../index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "纸牌王"
 
 #: ../index.html
 msgid "Printers"
@@ -358,7 +358,7 @@ msgstr "全部文件夹"
 
 #: ../index.html
 msgid "Fri 26 Oct, 2001"
-msgstr ""
+msgstr "2001年10月26日星期五"
 
 #: ../index.html
 msgid "Hibernate"
@@ -397,7 +397,7 @@ msgstr ""
 
 #: ../index.html
 msgid "World of Goo"
-msgstr ""
+msgstr "World of Goo"
 
 #: ../index.html
 msgid "Welcome Screen"
@@ -409,7 +409,7 @@ msgstr "回复"
 
 #: ../index.html
 msgid "Set Up Mail…"
-msgstr "设定电子邮件"
+msgstr "设置电子邮件…"
 
 #: ../index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
@@ -421,7 +421,7 @@ msgstr "关闭蓝牙"
 
 #: ../index.html
 msgid "$19.99"
-msgstr ""
+msgstr "$19.99"
 
 #: ../index.html
 msgid "Log Out…"
@@ -509,13 +509,14 @@ msgstr "视频"
 
 #: ../index.html
 msgid "Braid"
-msgstr ""
+msgstr "Braid"
 
 #: ../index.html
 msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
+"Inkscape 读取并保存 SVG (可缩放矢量图形)标准的一部分，SVG 是 WWW consortium 所维护的标准。"
 
 #: ../index.html
 msgid ""
@@ -543,6 +544,10 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
+"您可以安全地使用 Ubuntu 上网冲浪 - 我们自信您的文件和数据一直在保护之下。Ubuntu "
+"内置防火墙和病毒防护功能。如果出现可能的危险，您只需轻点鼠标即可获得我们为您提供的自动更新。通过使用 "
+"AppArmor，您的重要应用程序皆处于保护之下，使攻击者无法闯入系统。Firefox 和 gnome-keyring 则让 Ubuntu "
+"能保护您的隐私信息不被泄漏。无论您是访问银行账户，还是与同事和朋友共享敏感信息，您都可以高枕无忧。"
 
 #: ../index.html
 msgid "Files &amp; Folders"
@@ -554,7 +559,7 @@ msgstr "已安装"
 
 #: ../index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../index.html
 msgid "Visible"
@@ -589,7 +594,7 @@ msgstr "主目录"
 
 #: ../index.html
 msgid "Canonical"
-msgstr ""
+msgstr "Canonical"
 
 #: ../index.html
 msgid "Developer Tools"
@@ -637,7 +642,7 @@ msgstr "空闲"
 
 #: ../index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr "同步您的firefox书签和Tomboy的笔记"
+msgstr "同步您的 Firefox 书签和 Tomboy 笔记"
 
 #: ../index.html
 msgid "Thunderbird Mail/News"
@@ -705,6 +710,7 @@ msgid ""
 "of a standalone binary and/or a web plug-in are common products of Blender "
 "use."
 msgstr ""
+"Blender 是一个集成 3D 套件，提供的功能包括但不限于：建模、动画、渲染、后 期制作、交互式创作和回放。Blender 拥有一个完全用 OpenGL 实现并针对速度 优化的界面。其具有 Python 绑定功能，可用于编写脚本。例如，对 3D Studio 和 Wavefront OBJ 这些流行的文件格式的导入导出功能就是由社区使用脚本实现 的。此外，Blender 可以完全正常地使用动画、游戏模型或其他以二进制格式或浏 览器插件实现的第三方引擎和交互内容。"
 
 #: ../index.html
 msgid "Your browser does not support iframes."
@@ -740,9 +746,8 @@ msgid ""
 msgstr ""
 
 #: ../index.html
-#, fuzzy
 msgid "Chromium Web Browser"
-msgstr "Chromium 网络浏览器"
+msgstr "Chromium 网页浏览器"
 
 #: ../index.html
 msgid "Browse the Web"
@@ -777,7 +782,7 @@ msgid ""
 "Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Fast, secure "
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
-msgstr ""
+msgstr "享受 Ubuntu 独具风格的直观界面。Ubuntu 快速、安全、拥有数千款应用可供选择，这是为您量身定制的简洁、连续的使用体验。"
 
 #: ../index.html
 msgid "Total:"
@@ -928,7 +933,7 @@ msgstr "编辑链接..."
 
 #: ../index.html
 msgid "Rock Out"
-msgstr ""
+msgstr "随处聆听"
 
 #: ../index.html
 msgid "Sound Settings…"
@@ -1095,7 +1100,7 @@ msgstr "游戏"
 
 #: ../index.html
 msgid "Visolate"
-msgstr ""
+msgstr "Visolate"
 
 #: ../index.html
 msgid "Create and edit Scalable Vector Graphics images"
@@ -1115,7 +1120,7 @@ msgstr "待机"
 
 #: ../index.html
 msgid "branches"
-msgstr ""
+msgstr "分支"
 
 #: ../index.html
 msgid "View Photos"
@@ -1130,7 +1135,7 @@ msgstr ""
 
 #: ../index.html
 msgid "Mon 11 October, 2010"
-msgstr ""
+msgstr "2010年10月11日星期一"
 
 #: ../index.html
 msgid ""
@@ -1184,6 +1189,19 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
 
 #: ../index.html
 msgid "Downloads"
