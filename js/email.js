@@ -13,7 +13,7 @@ function Email($id, $folder, $subject, $body, $from, $to, $date, $cc){
 		var currentTime = new Date();
 		var minutes = currentTime.getMinutes();
 		var date = currentTime.getDate();
-		var month = currentTime.getMonth();
+		var month = currentTime.getMonth() + 1;
 		var year = ''+currentTime.getFullYear();
 		year = year.substr(2,2);
 		if (minutes < 10){ minutes = "0" + minutes; }
