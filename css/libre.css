@@ -45,6 +45,17 @@
     background-position: 0 -19px;
 }
 
+#libreoffice-writer-window .content span, 
+#libreoffice-calc-window .content span, 
+#libreoffice-impress-window .content span{
+	color: #B3B4A6;
+    font-size: 15px;
+    margin-right: 13px;
+    position: relative;
+    top: 5px;
+    left:10px;
+}
+
 #libreoffice-impress-window{
 	left:431px;
 	top:88px;
