@@ -102,10 +102,9 @@ class StringMergerHtml(object):
                     if (htmlfile_rel, '') in entry.occurrences:
                         # Note that we preserve the leading and trailing space
                         # to cater for words or sentences that have been split
-                        # and are part of a larger sentence. We limit them to
-                        # one single space for now.
-                        regex = re.compile(r'>( ?)' +
-                                           re.escape(entry.msgid) + r'( ?)<')
+                        # and are part of a larger sentence.
+                        regex = re.compile(r'>(\s*)' +
+                                           re.escape(entry.msgid) + r'(\s*)<')
                         msgstr = self._mangle_po_entry(entry)
                         replacement = r'>\g<1>' + msgstr + '\g<2><'
 
