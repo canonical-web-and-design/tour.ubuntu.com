@@ -72,8 +72,9 @@ class StringMergerHtml(object):
 
     def __init__(self, test_mode, langcode, htmlfile):
         self.langcode = langcode
+        self.ietf_langcode = langcode_glib_to_ietf(langcode)
         self.pofile = os.path.join(translate_htmlconfig.get_sources_path(),
-                              'po', langcode + '.po')
+                              'po', self.langcode + '.po')
         self.htmlfile = htmlfile
         self.test_mode = test_mode
 
@@ -84,11 +85,10 @@ class StringMergerHtml(object):
             html_file = f.read()
 
             fname, fext = os.path.splitext(self.htmlfile)
-            html_file_translated = fname + '.' + self.langcode + fext
+            html_file_translated = fname + '.' + self.ietf_langcode + fext
             print html_file_translated
             with codecs.open(html_file_translated,
                              'w+', 'utf-8') as fd:
-
                 po = polib.pofile(self.pofile)
 
                 html_file_translated = html_file
@@ -111,6 +111,9 @@ class StringMergerHtml(object):
                         html_file_translated = re.sub(regex, replacement,
                                                       html_file_translated)
 
+                html_file_translated = self.add_html_language(
+                                                        self.ietf_langcode,
+                                                        html_file_translated)
                 fd.write(html_file_translated)
 
     def _mangle_po_entry(self, po_entry):
@@ -128,6 +131,20 @@ class StringMergerHtml(object):
             not 'fuzzy' in po_entry.flags:
             is_untranslated = True
         return is_untranslated
+
+    def add_html_language(self, ietf_langcode, html_str):
+        rtl_langs = ['he', 'ps', 'ar', 'ur']
+        lang_dir = 'ltr'
+
+        if ietf_langcode.split('-')[0] in rtl_langs:
+            lang_dir = 'rtl'
+
+        regex = re.compile('(<html)(.*?)(>)')
+        repl = r'\1 lang="{0}" dir="{1}"\3'.format(ietf_langcode, lang_dir)
+
+        html_str = re.sub(regex, repl, html_str)
+
+        return html_str
 
 
 class StringMergerJs(object):
@@ -164,3 +181,7 @@ def getMerger(test_mode, pofile, path):
         return StringMergerJs(test_mode, pofile, path)
     else:
         return StringMergerNone(test_mode, pofile, path)
+
+
+def langcode_glib_to_ietf(glib_langcode):
+    return re.sub('[_@]', '-', glib_langcode)
