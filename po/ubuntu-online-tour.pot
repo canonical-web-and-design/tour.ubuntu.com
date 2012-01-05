@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2012-01-04 13:19:06.203144\n"
-"PO-Revision-Date: 2012-01-04 13:19:06.203144\n"
+"POT-Creation-Date: 2012-01-05 15:41:13.719059\n"
+"PO-Revision-Date: 2012-01-05 15:41:13.719059\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: English <yourteam@example.com>\n"
 "MIME-Version: 1.0\n"
@@ -57,6 +57,14 @@ msgid "Find apps"
 msgstr ""
 
 #: ../index.html
+msgid "Not Alone"
+msgstr ""
+
+#: ../index.html
+msgid "Momiji Dream"
+msgstr ""
+
+#: ../index.html
 msgid "Files"
 msgstr ""
 
@@ -104,6 +112,10 @@ msgid "Applications"
 msgstr ""
 
 #: ../index.html
+msgid "Weds 14 October, 2010"
+msgstr ""
+
+#: ../index.html
 msgid "Physics based puzzle/construction game"
 msgstr ""
 
@@ -117,6 +129,14 @@ msgstr ""
 
 #: ../index.html
 msgid "History"
+msgstr ""
+
+#: ../index.html
+msgid "Happyness"
+msgstr ""
+
+#: ../index.html
+msgid "15.2KB"
 msgstr ""
 
 #: ../index.html
@@ -184,6 +204,10 @@ msgid "(91 Ratings)"
 msgstr ""
 
 #: ../index.html
+msgid "Secure"
+msgstr ""
+
+#: ../index.html
 msgid "This package contains the Chromium browser"
 msgstr ""
 
@@ -192,7 +216,7 @@ msgid "$9.99"
 msgstr ""
 
 #: ../index.html
-msgid "Secure"
+msgid "Help"
 msgstr ""
 
 #: ../index.html
@@ -268,11 +292,15 @@ msgid "Preferences"
 msgstr ""
 
 #: ../index.html
+msgid "Sound Recorder"
+msgstr ""
+
+#: ../index.html
 msgid "Browse files"
 msgstr ""
 
 #: ../index.html
-msgid "Date:"
+msgid "Come and explore our favourites"
 msgstr ""
 
 #: ../index.html
@@ -281,6 +309,10 @@ msgstr ""
 
 #: ../index.html
 msgid "Send"
+msgstr ""
+
+#: ../index.html
+msgid "Darkening Clockwork"
 msgstr ""
 
 #: ../index.html
@@ -346,6 +378,10 @@ msgid "Hibernate"
 msgstr ""
 
 #: ../index.html
+msgid "Langelinie Alle"
+msgstr ""
+
+#: ../index.html
 msgid "Your Ubuntu, your way"
 msgstr ""
 
@@ -366,6 +402,10 @@ msgid "Unmute"
 msgstr ""
 
 #: ../index.html
+msgid "Jardin Polar"
+msgstr ""
+
+#: ../index.html
 msgid ""
 "Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
 "player, camera or printer and you’ll be up and running straight away. No "
@@ -379,6 +419,10 @@ msgstr ""
 
 #: ../index.html
 msgid "Welcome Screen"
+msgstr ""
+
+#: ../index.html
+msgid "3.3MB"
 msgstr ""
 
 #: ../index.html
@@ -399,6 +443,10 @@ msgstr ""
 
 #: ../index.html
 msgid "$19.99"
+msgstr ""
+
+#: ../index.html
+msgid "Dybbølsbro Station"
 msgstr ""
 
 #: ../index.html
@@ -428,6 +476,14 @@ msgid "LibreOffice Calc"
 msgstr ""
 
 #: ../index.html
+msgid "Buck Off"
+msgstr ""
+
+#: ../index.html
+msgid "Stalking Ocelot"
+msgstr ""
+
+#: ../index.html
 msgid "Cancel"
 msgstr ""
 
@@ -446,6 +502,10 @@ msgid ""
 msgstr ""
 
 #: ../index.html
+msgid "Purple Dancers"
+msgstr ""
+
+#: ../index.html
 msgid "from"
 msgstr ""
 
@@ -457,6 +517,10 @@ msgstr ""
 msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
+msgstr ""
+
+#: ../index.html
+msgid "Mount Snowdon"
 msgstr ""
 
 #: ../index.html
@@ -477,6 +541,10 @@ msgstr ""
 
 #: ../index.html
 msgid "Setup new device…"
+msgstr ""
+
+#: ../index.html
+msgid "Introduction Ubuntu"
 msgstr ""
 
 #: ../index.html
@@ -584,6 +652,10 @@ msgid "Access the Internet"
 msgstr ""
 
 #: ../index.html
+msgid "5.3MB"
+msgstr ""
+
+#: ../index.html
 msgid "Take the guided tour"
 msgstr ""
 
@@ -597,6 +669,10 @@ msgstr ""
 
 #: ../index.html
 msgid "Away"
+msgstr ""
+
+#: ../index.html
+msgid "Check email"
 msgstr ""
 
 #: ../index.html
@@ -654,6 +730,10 @@ msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
 
 #: ../index.html
+msgid "Sand Maze"
+msgstr ""
+
+#: ../index.html
 msgid "Ubuntu One Control Panel"
 msgstr ""
 
@@ -694,6 +774,10 @@ msgstr ""
 msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
+msgstr ""
+
+#: ../index.html
+msgid "Our star apps"
 msgstr ""
 
 #: ../index.html
@@ -742,7 +826,7 @@ msgid "Set Up Broadcast Account…"
 msgstr ""
 
 #: ../index.html
-msgid "Check email"
+msgid "Date:"
 msgstr ""
 
 #: ../index.html
@@ -787,9 +871,7 @@ msgid ""
 msgstr ""
 
 #: ../index.html
-msgid ""
-"Some of the import and export features are provided using the packages dia, "
-"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgid "Folders"
 msgstr ""
 
 #: ../index.html
@@ -802,6 +884,10 @@ msgstr ""
 
 #: ../index.html
 msgid "Items:"
+msgstr ""
+
+#: ../index.html
+msgid "WildWheat"
 msgstr ""
 
 #: ../index.html
@@ -818,6 +904,16 @@ msgstr ""
 
 #: ../index.html
 msgid "The Power of Your Personal Cloud"
+msgstr ""
+
+#: ../index.html
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+
+#: ../index.html
+msgid "16 Photos"
 msgstr ""
 
 #: ../index.html
@@ -892,6 +988,10 @@ msgid "On"
 msgstr ""
 
 #: ../index.html
+msgid "Small Flowers"
+msgstr ""
+
+#: ../index.html
 msgid "Edit Connections…"
 msgstr ""
 
@@ -927,11 +1027,19 @@ msgid "Attach"
 msgstr ""
 
 #: ../index.html
+msgid "Window"
+msgstr ""
+
+#: ../index.html
 msgid "Write: (no subject)"
 msgstr ""
 
 #: ../index.html
 msgid "Ubuntu online tour"
+msgstr ""
+
+#: ../index.html
+msgid "Federica Miglio"
 msgstr ""
 
 #: ../index.html
@@ -952,6 +1060,10 @@ msgstr ""
 
 #: ../index.html
 msgid "archive"
+msgstr ""
+
+#: ../index.html
+msgid "Power Of Words"
 msgstr ""
 
 #: ../index.html
@@ -1025,7 +1137,7 @@ msgid "From:"
 msgstr ""
 
 #: ../index.html
-msgid "Folders"
+msgid "Insert"
 msgstr ""
 
 #: ../index.html
@@ -1034,6 +1146,14 @@ msgstr ""
 
 #: ../index.html
 msgid "Fonts"
+msgstr ""
+
+#: ../index.html
+msgid "File"
+msgstr ""
+
+#: ../index.html
+msgid "Edit"
 msgstr ""
 
 #: ../index.html
@@ -1065,6 +1185,10 @@ msgid "Visolate"
 msgstr ""
 
 #: ../index.html
+msgid "Empathy Internet Messageing"
+msgstr ""
+
+#: ../index.html
 msgid "Create and edit Scalable Vector Graphics images"
 msgstr ""
 
@@ -1073,7 +1197,7 @@ msgid "Attached Devices"
 msgstr ""
 
 #: ../index.html
-msgid "Sound Recorder"
+msgid "View"
 msgstr ""
 
 #: ../index.html
@@ -1108,11 +1232,19 @@ msgid ""
 msgstr ""
 
 #: ../index.html
+msgid "Format"
+msgstr ""
+
+#: ../index.html
 msgid "Rubbish bin"
 msgstr ""
 
 #: ../index.html
 msgid "Sound &amp; Video"
+msgstr ""
+
+#: ../index.html
+msgid "The Grass Aint Greener"
 msgstr ""
 
 #: ../index.html
@@ -1132,7 +1264,7 @@ msgid "Stay Productive"
 msgstr ""
 
 #: ../index.html
-msgid "Empathy Internet Messageing"
+msgid "Table"
 msgstr ""
 
 #: ../index.html
@@ -1150,6 +1282,10 @@ msgid ""
 "gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
+msgstr ""
+
+#: ../index.html
+msgid "Tools"
 msgstr ""
 
 #: ../index.html

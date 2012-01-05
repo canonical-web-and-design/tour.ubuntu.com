@@ -96,6 +96,21 @@
 	background:url(../img/software-centre/header.jpg) no-repeat scroll 0 15px #ffffff;
 }
 
+#software-centre .header-image span{
+	display:block;
+	position:relative;
+	left:241px;
+	top:63px;
+	color:#dd4814;
+	font-size:28px;
+}
+
+#software-centre .header-image .header-title{
+	font-size:48px;
+	font-weight:bold;
+	margin-bottom:7px;
+}
+
 #software-centre .navigation{
 	float:left;
 	width:144px;

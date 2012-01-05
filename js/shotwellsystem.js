@@ -144,7 +144,7 @@ function ShotwellSystem($parent){
 		$('#shotwell .container .images').html(imagesHTML);
 		
 		//$('#shotwell .container .images div').css('height',$('#shotwell .container .images img').height());
-		$('#shotwell .sidebar .details .items').text(imageCount+' Photos');
+		//$('#shotwell .sidebar .details .items').text(imageCount+' Photos');
 		$('#shotwell .container .images img').click(function( event ){
 			event.stopPropagation();
 			$('#shotwell .container .images img').removeClass('selected');

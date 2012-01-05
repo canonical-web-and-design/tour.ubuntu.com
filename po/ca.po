@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2012-01-04 13:19:06.203144\n"
+"POT-Creation-Date: 2012-01-05 15:41:13.719059\n"
 "PO-Revision-Date: 2012-01-04 13:32+0100\n"
 "Last-Translator: David Planella <david.planella@ubuntu.com>\n"
 "Language-Team: Catalan <ubuntu-l10n-ca@lists.ubuntu.com>\n"
@@ -64,6 +64,14 @@ msgid "Find apps"
 msgstr "Cerca aplicacions"
 
 #: ../index.html
+msgid "Not Alone"
+msgstr ""
+
+#: ../index.html
+msgid "Momiji Dream"
+msgstr ""
+
+#: ../index.html
 msgid "Files"
 msgstr "Fitxers"
 
@@ -111,6 +119,11 @@ msgid "Applications"
 msgstr "Aplicacions"
 
 #: ../index.html
+#, fuzzy
+msgid "Weds 14 October, 2010"
+msgstr "Dll 11 Octubre, 2010"
+
+#: ../index.html
 msgid "Physics based puzzle/construction game"
 msgstr ""
 
@@ -127,6 +140,14 @@ msgid "History"
 msgstr "Historial"
 
 #: ../index.html
+msgid "Happyness"
+msgstr ""
+
+#: ../index.html
+msgid "15.2KB"
+msgstr ""
+
+#: ../index.html
 msgid "PCB CNC converter"
 msgstr "Convertidor a format CNC de PCB"
 
@@ -140,7 +161,8 @@ msgstr "Navegueu per la web"
 
 #: ../index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
-msgstr "Un joc de trets i plataformes en 2D, amb trencaclosques basats en la física"
+msgstr ""
+"Un joc de trets i plataformes en 2D, amb trencaclosques basats en la física"
 
 #: ../index.html
 msgid "Graphics"
@@ -191,6 +213,10 @@ msgid "(91 Ratings)"
 msgstr "(91 ressenyes)"
 
 #: ../index.html
+msgid "Secure"
+msgstr "Segur"
+
+#: ../index.html
 msgid "This package contains the Chromium browser"
 msgstr "Aquest paquet conté el navegador web Chromium"
 
@@ -199,8 +225,8 @@ msgid "$9.99"
 msgstr "$9.99"
 
 #: ../index.html
-msgid "Secure"
-msgstr "Segur"
+msgid "Help"
+msgstr ""
 
 #: ../index.html
 msgid "Mute"
@@ -276,12 +302,16 @@ msgid "Preferences"
 msgstr "Preferències"
 
 #: ../index.html
+msgid "Sound Recorder"
+msgstr "Enregistrador de so"
+
+#: ../index.html
 msgid "Browse files"
 msgstr "Navega pels fitxers"
 
 #: ../index.html
-msgid "Date:"
-msgstr "Data:"
+msgid "Come and explore our favourites"
+msgstr ""
 
 #: ../index.html
 msgid "junk"
@@ -290,6 +320,10 @@ msgstr "brossa"
 #: ../index.html
 msgid "Send"
 msgstr "Envia"
+
+#: ../index.html
+msgid "Darkening Clockwork"
+msgstr ""
 
 #: ../index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
@@ -354,6 +388,10 @@ msgid "Hibernate"
 msgstr "Hiberna"
 
 #: ../index.html
+msgid "Langelinie Alle"
+msgstr ""
+
+#: ../index.html
 msgid "Your Ubuntu, your way"
 msgstr "El vostre Ubuntu a la vostra manera"
 
@@ -374,6 +412,10 @@ msgid "Unmute"
 msgstr "Treu el silenci"
 
 #: ../index.html
+msgid "Jardin Polar"
+msgstr ""
+
+#: ../index.html
 msgid ""
 "Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
 "player, camera or printer and you’ll be up and running straight away. No "
@@ -388,6 +430,10 @@ msgstr "World of Goo"
 #: ../index.html
 msgid "Welcome Screen"
 msgstr "Pantalla de benvinguda"
+
+#: ../index.html
+msgid "3.3MB"
+msgstr ""
 
 #: ../index.html
 msgid "reply"
@@ -409,6 +455,10 @@ msgstr "Apaga el Bluetooth"
 #: ../index.html
 msgid "$19.99"
 msgstr "$19.99"
+
+#: ../index.html
+msgid "Dybbølsbro Station"
+msgstr ""
 
 #: ../index.html
 msgid "Log Out…"
@@ -437,6 +487,14 @@ msgid "LibreOffice Calc"
 msgstr "LibreOffice Calc"
 
 #: ../index.html
+msgid "Buck Off"
+msgstr ""
+
+#: ../index.html
+msgid "Stalking Ocelot"
+msgstr ""
+
+#: ../index.html
 msgid "Cancel"
 msgstr "Cancel·la"
 
@@ -455,6 +513,10 @@ msgid ""
 msgstr ""
 
 #: ../index.html
+msgid "Purple Dancers"
+msgstr ""
+
+#: ../index.html
 msgid "from"
 msgstr "de"
 
@@ -466,6 +528,10 @@ msgstr "LibreOffice Impress"
 msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
+msgstr ""
+
+#: ../index.html
+msgid "Mount Snowdon"
 msgstr ""
 
 #: ../index.html
@@ -491,6 +557,10 @@ msgid "Setup new device…"
 msgstr "Configura un dispositiu nou…"
 
 #: ../index.html
+msgid "Introduction Ubuntu"
+msgstr ""
+
+#: ../index.html
 msgid "Videos"
 msgstr "Vídeos"
 
@@ -509,9 +579,8 @@ msgid ""
 "Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
 "download it to enjoy the real thing!"
 msgstr ""
-"Us agraïm que hàgiu explorat l'Ubuntu! "
-"Recordeu que això és només una demostració. Haureu de baixar l'Ubuntu per "
-"provar-lo."
+"Us agraïm que hàgiu explorat l'Ubuntu! Recordeu que això és només una "
+"demostració. Haureu de baixar l'Ubuntu per provar-lo."
 
 #: ../index.html
 msgid "Unread:"
@@ -598,6 +667,10 @@ msgid "Access the Internet"
 msgstr "Accediu a Internet"
 
 #: ../index.html
+msgid "5.3MB"
+msgstr ""
+
+#: ../index.html
 msgid "Take the guided tour"
 msgstr "Feu la visita guiada"
 
@@ -612,6 +685,10 @@ msgstr "Imatges"
 #: ../index.html
 msgid "Away"
 msgstr "Absent"
+
+#: ../index.html
+msgid "Check email"
+msgstr "Comprova el correu"
 
 #: ../index.html
 msgid "Size:"
@@ -669,6 +746,10 @@ msgstr ""
 "Podeu pujar, organitzar, editar i compartir fotografies amb el Shotwell."
 
 #: ../index.html
+msgid "Sand Maze"
+msgstr ""
+
+#: ../index.html
 msgid "Ubuntu One Control Panel"
 msgstr "Tauler de control de l'Ubuntu One"
 
@@ -718,6 +799,10 @@ msgstr ""
 "l'usuari."
 
 #: ../index.html
+msgid "Our star apps"
+msgstr ""
+
+#: ../index.html
 msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
@@ -765,8 +850,8 @@ msgid "Set Up Broadcast Account…"
 msgstr "Configura un compte de difusió…"
 
 #: ../index.html
-msgid "Check email"
-msgstr "Comprova el correu"
+msgid "Date:"
+msgstr "Data:"
 
 #: ../index.html
 msgid ""
@@ -812,10 +897,8 @@ msgstr ""
 "clars i precisos."
 
 #: ../index.html
-msgid ""
-"Some of the import and export features are provided using the packages dia, "
-"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
-msgstr ""
+msgid "Folders"
+msgstr "Carpetes"
 
 #: ../index.html
 msgid "Take Ubuntu for a test drive with our online demo."
@@ -828,6 +911,10 @@ msgstr "Instal·la"
 #: ../index.html
 msgid "Items:"
 msgstr "Elements:"
+
+#: ../index.html
+msgid "WildWheat"
+msgstr ""
 
 #: ../index.html
 msgid "Subject:"
@@ -844,6 +931,17 @@ msgstr "Còpia de seguretat"
 #: ../index.html
 msgid "The Power of Your Personal Cloud"
 msgstr "El poder del núvol personal"
+
+#: ../index.html
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+
+#: ../index.html
+#, fuzzy
+msgid "16 Photos"
+msgstr "Visualitza fotografies"
 
 #: ../index.html
 msgid "Home Folder"
@@ -917,6 +1015,11 @@ msgid "On"
 msgstr "El"
 
 #: ../index.html
+#, fuzzy
+msgid "Small Flowers"
+msgstr "Totes les carpetes"
+
+#: ../index.html
 msgid "Edit Connections…"
 msgstr "Edita les connexions…"
 
@@ -952,12 +1055,20 @@ msgid "Attach"
 msgstr "Adjunta"
 
 #: ../index.html
+msgid "Window"
+msgstr ""
+
+#: ../index.html
 msgid "Write: (no subject)"
 msgstr "Escriviu: (sense assumpte)"
 
 #: ../index.html
 msgid "Ubuntu online tour"
 msgstr "Visita guiada en línia de l'Ubuntu"
+
+#: ../index.html
+msgid "Federica Miglio"
+msgstr ""
 
 #: ../index.html
 msgid ""
@@ -978,6 +1089,10 @@ msgstr "Paperera"
 #: ../index.html
 msgid "archive"
 msgstr "arxiu"
+
+#: ../index.html
+msgid "Power Of Words"
+msgstr ""
 
 #: ../index.html
 msgid "Shotwell Photo Manager"
@@ -1050,8 +1165,8 @@ msgid "From:"
 msgstr "De:"
 
 #: ../index.html
-msgid "Folders"
-msgstr "Carpetes"
+msgid "Insert"
+msgstr ""
 
 #: ../index.html
 msgid "Shut Down…"
@@ -1060,6 +1175,15 @@ msgstr "Atura…"
 #: ../index.html
 msgid "Fonts"
 msgstr "Tipus de lletra"
+
+#: ../index.html
+#, fuzzy
+msgid "File"
+msgstr "Fitxers"
+
+#: ../index.html
+msgid "Edit"
+msgstr ""
 
 #: ../index.html
 msgid "Bluetooth On"
@@ -1091,6 +1215,10 @@ msgid "Visolate"
 msgstr "Visolate"
 
 #: ../index.html
+msgid "Empathy Internet Messageing"
+msgstr "Missateria d'Internet Empathy"
+
+#: ../index.html
 msgid "Create and edit Scalable Vector Graphics images"
 msgstr "Creeu i editeu imatges basades en gràfics vectorials escalables"
 
@@ -1099,8 +1227,8 @@ msgid "Attached Devices"
 msgstr "Dispositius connectats"
 
 #: ../index.html
-msgid "Sound Recorder"
-msgstr "Enregistrador de so"
+msgid "View"
+msgstr ""
 
 #: ../index.html
 msgid "Suspend"
@@ -1134,12 +1262,20 @@ msgid ""
 msgstr ""
 
 #: ../index.html
+msgid "Format"
+msgstr ""
+
+#: ../index.html
 msgid "Rubbish bin"
 msgstr "Paperera"
 
 #: ../index.html
 msgid "Sound &amp; Video"
 msgstr "So i Vídeo"
+
+#: ../index.html
+msgid "The Grass Aint Greener"
+msgstr ""
 
 #: ../index.html
 msgid "Create and edit 3D models and animations"
@@ -1158,8 +1294,8 @@ msgid "Stay Productive"
 msgstr "Sigueu productiu"
 
 #: ../index.html
-msgid "Empathy Internet Messageing"
-msgstr "Missateria d'Internet Empathy"
+msgid "Table"
+msgstr ""
 
 #: ../index.html
 msgid ""
@@ -1190,6 +1326,10 @@ msgstr ""
 "gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
+
+#: ../index.html
+msgid "Tools"
+msgstr ""
 
 #: ../index.html
 msgid "Downloads"

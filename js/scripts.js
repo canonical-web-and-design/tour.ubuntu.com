@@ -385,26 +385,26 @@ function closeAllWindows($tourIndex){
 }
 
 function setupShotwellSystem(){
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/Buckoff.jpg','photo', 'Buck Off', '15.2KB','Fri 26 Oct, 2001', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/DarkeningClockwork.jpg','photo', 'Darkening Clockwork', '34.5KB','Wed 18 Sept, 2008', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/DybbølsbroStation.jpg','photo', 'Dybbølsbro Station', '14.7KB','Fri 04 March, 2009', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/FedericaMiglio.jpg','photo', 'Federica Miglio', '9.1KB', 'Tues 10 April, 2009', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/JardinPolar.jpg','photo', 'Jardin Polar', '10.3KB', 'Mon 11 October, 2010', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/LangelinieAlle.jpg','photo', 'Langelinie Alle', '15.2KB','Fri 26 Oct, 2001', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/MomijiDream.jpg','photo', 'Momiji Dream', '34.5KB','Wed 18 Sept, 2008', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/MountSnowdon.jpg','photo', 'Mount Snowdon', '14.7KB','Fri 04 March, 2009', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/NotAlone.jpg','photo', 'Not Alone', '9.1KB', 'Tues 10 April, 2009', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/PowerOfWords.jpg','photo', 'Power Of Words', '10.3KB', 'Mon 11 October, 2010', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/PurpleDancers.jpg','photo', 'Purple Dancers', '15.2KB','Fri 26 Oct, 2001', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/SandMaze.jpg','photo', 'Sand Maze', '34.5KB','Wed 18 Sept, 2008', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/SmallFlowers.jpg','photo', 'Small Flowers', '14.7KB','Fri 04 March, 2009', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/StalkingOcelot.jpg','photo', 'Stalking Ocelot', '9.1KB', 'Tues 10 April, 2009', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/TheGrassAintGreener.jpg','photo', 'The Grass Aint Greener', '10.3KB', 'Mon 11 October, 2010', '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/WildWheat.jpg','photo', 'WildWheat', '14.7KB','Fri 04 March, 2009', '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/Buckoff.jpg','photo', _buck_off_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/DarkeningClockwork.jpg','photo', _darkening_clockwork_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/DybbølsbroStation.jpg','photo', _dybbølsbro_station_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/FedericaMiglio.jpg','photo', _federica_miglio_title_, _photo_size_, _photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/JardinPolar.jpg','photo', _jardin_polar_title_, _photo_size_, _photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/LangelinieAlle.jpg','photo', _langelinie_alle_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/MomijiDream.jpg','photo', _momiji_dream_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/MountSnowdon.jpg','photo', _mount_snowdon_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/NotAlone.jpg','photo', _not_alone_title_, _photo_size_, _photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/PowerOfWords.jpg','photo', _power_of_words_title_, _photo_size_, _photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/PurpleDancers.jpg','photo', _purple_dancers_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/SandMaze.jpg','photo', _sand_maze_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/SmallFlowers.jpg','photo', _small_flowers_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/StalkingOcelot.jpg','photo', _stalking_ocelot_title_, _photo_size_, _photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/TheGrassAintGreener.jpg','photo', _the_grass_aint_greener_title_, _photo_size_, _photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'img/shotwell/library/WildWheat.jpg','photo', _wildWheat_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
 	
-	fileLibrary.push(new File(fileLibrary.length,'videos/IAmWeAre.flv','video', 'Introduction Ubuntu', '5.3MB', 'Mon 11 October, 2010', '/'+_home_folder_+'/'+_videos_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'videos/IAmWeAre.flv','video', _introduction_ubuntu_title_, _video_size_, _video_date_, '/'+_home_folder_+'/'+_videos_folder_));
 	
-	fileLibrary.push(new File(fileLibrary.length,'audio/preview.mp3','audio', 'Happyness', '3.3MB', 'Weds 14 October, 2010', '/'+_home_folder_+'/'+_music_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'audio/preview.mp3','audio', _happyness_title_, _music_size_, _music_date_, '/'+_home_folder_+'/'+_music_folder_));
 	
 	shotwellSystem = new ShotwellSystem(this);
 	shotwellSystem.init();
