@@ -14,6 +14,10 @@
 # You should have received a copy of the GNU General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 ### END LICENSE
+#
+# This module implements a class to merge translations contained in Gettext
+# PO files into different types of files. Right now only merging into HTML
+# has been implemented.
 
 import mimetypes
 import codecs
@@ -34,18 +38,23 @@ HTML_FILE = ('text/html', None)
 JS_FILE = ('application/javascript', None)
 
 PO_FOLDER = translate_htmlconfig.PO_FOLDER
+POTFILES = translate_htmlconfig.POTFILES
 
 
 class StringMerger(object):
+    """This class implements an object to load translations from Gettext
+    PO files and merge them into different types of files.
 
+    """
     def __init__(self, test_mode):
         self.translations = self._load_translations()
         self.files = self._load_files()
         self.test_mode = test_mode
 
     def _load_files(self):
+        """Gets the list of files to merge translations for"""
         with open(translate_htmlconfig.get_source_file(PO_FOLDER,
-                                                       'POTFILES.in')) as fp:
+                                                       POTFILES)) as fp:
             file_list = []
             for line in fp.readlines():
                 if not line.startswith('#'):
@@ -55,6 +64,7 @@ class StringMerger(object):
             return file_list
 
     def _load_translations(self):
+        """Loads the PO files to read translations from"""
         po_dir = os.path.join(translate_htmlconfig.get_sources_path(),
                               PO_FOLDER)
         translations = []
@@ -65,6 +75,7 @@ class StringMerger(object):
         return translations
 
     def merge(self):
+        """Merge translations into the final translated files"""
         for translation in self.translations:
             for file_to_merge in self.files:
                 merger = getMerger(self.test_mode, translation, file_to_merge)
@@ -72,7 +83,10 @@ class StringMerger(object):
 
 
 class StringMergerHtml(object):
+    """HTML string merger. Reads the given translations from PO files and
+    merges them into an HTML file
 
+    """
     def __init__(self, test_mode, langcode, htmlfile):
         self.langcode = langcode
         self.ietf_langcode = langcode_glib_to_ietf(langcode)
@@ -82,6 +96,8 @@ class StringMergerHtml(object):
         self.test_mode = test_mode
 
     def merge(self):
+        """Does the actual merge operation and writes translated files to
+        disk"""
         htmlfile_rel = self.htmlfile.replace(
                             translate_htmlconfig.get_sources_path(), '..')
         with codecs.open(self.htmlfile, 'r', 'utf-8') as f:
@@ -108,6 +124,9 @@ class StringMergerHtml(object):
                     entry_list = po.translated_entries()
 
                 for entry in entry_list:
+                    #FIXME: is this check too strict? (We're limiting merging
+                    # translations only if the original file listed in the
+                    # PO files source file comments exists)
                     if (htmlfile_rel, '') in entry.occurrences:
                         # Note that we preserve the leading and trailing space
                         # to cater for words or sentences that have been split
@@ -126,7 +145,8 @@ class StringMergerHtml(object):
                 fd.write(html_file_translated)
 
     def _mangle_po_entry(self, po_entry):
-
+        """If the test mode is set, inverts the original English text in the
+        msgid. We do this to spot untranslatable strings."""
         if self.test_mode and self._is_po_entry_untranslated(po_entry):
                 po_entry = po_entry.msgid[::-1]
         else:
@@ -135,6 +155,8 @@ class StringMergerHtml(object):
         return po_entry
 
     def _is_po_entry_untranslated(self, po_entry):
+        #FIXME: polib has a bug whereby the fuzzy flag is not set when reading
+        # a PO file
         is_untranslated = False
         if not po_entry.translated() and not po_entry.obsolete and \
             not 'fuzzy' in po_entry.flags:
@@ -142,6 +164,8 @@ class StringMergerHtml(object):
         return is_untranslated
 
     def add_html_language(self, ietf_langcode, html_str):
+        """Adds the 'lang' and 'dir' attributes to the final translated file's
+        <html> tag"""
         rtl_langs = ['he', 'ps', 'ar', 'ur']
         lang_dir = 'ltr'
 
@@ -157,7 +181,9 @@ class StringMergerHtml(object):
 
 
 class StringMergerJs(object):
+    """JavaScript string merger. Currently not implemented.
 
+    """
     def __init__(self):
         pass
 
@@ -166,7 +192,9 @@ class StringMergerJs(object):
 
 
 class StringMergerNone(object):
+    """Dummy string merger
 
+    """
     def __init__(self):
         pass
 

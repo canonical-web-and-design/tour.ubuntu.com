@@ -52,10 +52,10 @@ def main():
       'po-html' folder and builds localized files based on the original.
       Untranslated strings in the PO files are left as their English originals
       in the generated localized files. The localized files are named
-        <original-filename>.<ISO-639-2-lang-code>.<original-fileext>
+        <ISO-639-2-lang-code>/<original-filename>.<original-fileext>
       E.g.
-        index.html       <- original file
-        index.zh_CN.html <- Simplified Chinese translation
+        en/index.html      <- original file
+        zh-CN/index.html   <- Simplified Chinese translation
 
     Structure of the 'po-html' folder:
 

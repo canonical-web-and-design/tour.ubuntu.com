@@ -14,6 +14,11 @@
 # You should have received a copy of the GNU General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 ### END LICENSE
+#
+# This module implements a class to extract translatable messages from
+# different types of files and put them into a Gettext POT file ready to give
+# to translators to do their work. At this point only extracting messages
+# from HTML files has been implemented.
 
 import codecs
 import mimetypes
@@ -39,10 +44,18 @@ JS_FILE = ('application/javascript', None)
 
 BOM = u'\ufeff'
 PO_FOLDER = translate_htmlconfig.PO_FOLDER
+GETTEXT_DOMAIN = translate_htmlconfig.GETTEXT_DOMAIN
+POTFILES = translate_htmlconfig.POTFILES
 
 
 class HTMLStringParser(HTMLParser):
+    """This class does the actual extraction from messages from HTML files.
+    HTML entities are generally not supported, the only exception being
+    &amp;.
 
+    return a Python set containing the extracted text
+
+    """
     def __init__(self):
         HTMLParser.__init__(self)
         self.skiptag = False
@@ -83,7 +96,10 @@ class HTMLStringParser(HTMLParser):
 
 
 class StringExtractor(object):
+    """This class reads the list of files to extract strings from from the
+    POTFILES.in file, performs the extraction and saves the POT file to disk.
 
+    """
     def __init__(self):
         self.files = self._load_files()
         self.potfile = polib.POFile()
@@ -101,8 +117,10 @@ class StringExtractor(object):
         }
 
     def _load_files(self):
+        """Loads the files to extract strings from. They are expected to
+        be listed in the POFILES.in file"""
         with open(translate_htmlconfig.get_source_file(PO_FOLDER,
-                                                       'POTFILES.in')) as fp:
+                                                       POTFILES)) as fp:
             file_list = []
             for line in fp.readlines():
                 if not line.startswith('#'):
@@ -112,12 +130,15 @@ class StringExtractor(object):
             return file_list
 
     def _save_potfile(self):
+        """Writes the resulting POT file to disk"""
         self.potfile.save(os.path.join(
                             translate_htmlconfig.get_sources_path(),
                             PO_FOLDER,
-                            'ubuntu-online-tour.pot'))
+                            GETTEXT_DOMAIN + '.pot'))
 
     def extract(self):
+        """Extracts the messages from the given file by choosing the
+        appropriate extractor type, and saves the POT file to disk"""
         for file_to_extract in self.files:
             extractor = getExtractor(self.potfile, file_to_extract)
             extractor.extract()
@@ -125,7 +146,10 @@ class StringExtractor(object):
 
 
 class StringExtractorJs(object):
+    """This class implements the extractor from messages in JavaScript files
+    It is currently not supported.
 
+    """
     def __init__(self, potfile, jsfile):
         self.jsfile = jsfile
         self.potfile = potfile
@@ -153,7 +177,11 @@ class StringExtractorJs(object):
 
 
 class StringExtractorHtml(object):
+    """This class implements the extractor from messages in HTML files.
+    It reads the given HTML file and puts the extracted messages in a
+    potfile structure
 
+    """
     def __init__(self, potfile, htmlfile):
         self.htmlfile = htmlfile
         self.potfile = potfile
@@ -180,7 +208,9 @@ class StringExtractorHtml(object):
 
 
 class StringExtractorNone(object):
+    """Dummy message extractor
 
+    """
     def __init__(self, potfile, path):
         pass
 
