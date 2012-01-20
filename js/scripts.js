@@ -43,7 +43,7 @@ $(document).ready(function(){
 
 function setup(){
 	var imageObj = new Image();
-	$(imageObj).attr("src","img/welcome/background-welcome.jpg").load(function(){
+	$(imageObj).attr("src","../img/welcome/background-welcome.jpg").load(function(){
 	  	$('#loader').hide();
 	});
 	setupSystemSettings();
@@ -54,7 +54,6 @@ function setup(){
 	setupFirefoxSystem();
 	setupEmailSystem();
 	setupErrorMessage();
-	//setupWorkspaces();
 	setupUbuntuOneSystem();
 	setupFileSystem();
 	setupShutdownSystem();
@@ -72,9 +71,6 @@ function init(){
 		if(ubuntuOneSystem.isOpen()){
 			ubuntuOneSystem.resize();
 		}
-		/*if(workspaces.isOpen()){
-			workspaces.resize();
-		}*/
 		if(welcomeSystem.isOpen()){
 			welcomeSystem.resize();
 		}
