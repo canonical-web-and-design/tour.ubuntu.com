@@ -33,6 +33,8 @@ except ImportError:
 HTML_FILE = ('text/html', None)
 JS_FILE = ('application/javascript', None)
 
+PO_FOLDER = translate_htmlconfig.PO_FOLDER
+
 
 class StringMerger(object):
 
@@ -42,7 +44,7 @@ class StringMerger(object):
         self.test_mode = test_mode
 
     def _load_files(self):
-        with open(translate_htmlconfig.get_source_file('po',
+        with open(translate_htmlconfig.get_source_file(PO_FOLDER,
                                                        'POTFILES.in')) as fp:
             file_list = []
             for line in fp.readlines():
@@ -53,7 +55,8 @@ class StringMerger(object):
             return file_list
 
     def _load_translations(self):
-        po_dir = os.path.join(translate_htmlconfig.get_sources_path(), 'po')
+        po_dir = os.path.join(translate_htmlconfig.get_sources_path(),
+                              PO_FOLDER)
         translations = []
         for po_file in os.listdir(po_dir):
             fname, fext = os.path.splitext(po_file)
@@ -74,7 +77,7 @@ class StringMergerHtml(object):
         self.langcode = langcode
         self.ietf_langcode = langcode_glib_to_ietf(langcode)
         self.pofile = os.path.join(translate_htmlconfig.get_sources_path(),
-                              'po', self.langcode + '.po')
+                              PO_FOLDER, self.langcode + '.po')
         self.htmlfile = htmlfile
         self.test_mode = test_mode
 

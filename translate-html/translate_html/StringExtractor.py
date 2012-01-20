@@ -38,6 +38,7 @@ HTML_FILE = ('text/html', None)
 JS_FILE = ('application/javascript', None)
 
 BOM = u'\ufeff'
+PO_FOLDER = translate_htmlconfig.PO_FOLDER
 
 
 class HTMLStringParser(HTMLParser):
@@ -100,7 +101,7 @@ class StringExtractor(object):
         }
 
     def _load_files(self):
-        with open(translate_htmlconfig.get_source_file('po',
+        with open(translate_htmlconfig.get_source_file(PO_FOLDER,
                                                        'POTFILES.in')) as fp:
             file_list = []
             for line in fp.readlines():
@@ -112,7 +113,8 @@ class StringExtractor(object):
 
     def _save_potfile(self):
         self.potfile.save(os.path.join(
-                            translate_htmlconfig.get_sources_path(), 'po',
+                            translate_htmlconfig.get_sources_path(),
+                            PO_FOLDER,
                             'ubuntu-online-tour.pot'))
 
     def extract(self):
@@ -143,10 +145,10 @@ class StringExtractorJs(object):
                     message = message[1:-2]
 
                     entry = polib.POEntry(
-                                comment = var,
-                                occurrences = [(jsfile_rel, linecount)],
-                                msgid = message,
-                                msgstr = u'')
+                                comment=var,
+                                occurrences=[(jsfile_rel, linecount)],
+                                msgid=message,
+                                msgstr=u'')
                     self.potfile.append(entry)
 
 
@@ -169,12 +171,12 @@ class StringExtractorHtml(object):
 
                 for message in messages:
                     entry = polib.POEntry(
-                        occurrences = [(htmlfile_rel, 0)],
-                        msgid = message,
-                        msgstr = u'')
+                        occurrences=[(htmlfile_rel, 0)],
+                        msgid=message,
+                        msgstr=u'')
                     self.potfile.append(entry)
         except:
-            print_exc(file = stderr)
+            print_exc(file=stderr)
 
 
 class StringExtractorNone(object):
