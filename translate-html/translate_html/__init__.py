@@ -49,19 +49,20 @@ def main():
       in the 'po/POTFILES.in' file and puts them into a .pot file into the
       'po' folder, ready to give it to translators.
     - Translate mode: fetches the translations in the form of .po files in the
-      'po' folder and builds localized files based on the original. The
-      localized files are named
-        <original-filename>.<ISO-639-2-lang-code>.<original-fileext>
+      'po-html' folder and builds localized files based on the original.
+      Untranslated strings in the PO files are left as their English originals
+      in the generated localized files. The localized files are named
+        <ISO-639-2-lang-code>/<original-filename>.<original-fileext>
       E.g.
-        index.html       <- original file
-        index.zh_CN.html <- Simplified Chinese translation
+        en/index.html      <- original file
+        zh-CN/index.html   <- Simplified Chinese translation
 
-    Structure of the 'po' folder:
+    Structure of the 'po-html' folder:
 
-      po/template.pot <- translation template created in extract mode
-      po/POTFILES.in  <- files to extract strings from are specified here
-      po/zh_CN.po     <- translation done by translators
-      po/ca.po        <- another translation - named after <ISO 639-2 code>.po
+      po-html/template.pot <- translation template created in extract mode
+      po-html/POTFILES.in  <- files to extract strings from are specified here
+      po-html/zh_CN.po     <- translation done by translators
+      po-html/ca.po        <- another translation, naming: <ISO 639-2 code>.po
 
     ''')
     parser = optparse.OptionParser(version="%%prog %s" % version, usage=usage)
@@ -74,12 +75,17 @@ def main():
         dest="extract_mode",
         help=_("Extract mode: extract the strings from the original " +
                "HTML file"))
-    parser.add_option("-r", "--translate", action="store_true",
+    parser.add_option("-t", "--translate", action="store_true",
         dest="translate_mode",
         help=_("Translate mode: get the translations from PO files and " +
                "write them to a new translated HTML file"))
+    parser.add_option("-s", "--test", action="store_true",
+        dest="test_mode",
+        help=_("Test mode: only effective in conjunction with Translate " +
+               "mode. If set, untranslatable messages are translated as " +
+               "reversed English, so that they are easy to spot."))
     parser.set_defaults(logging_level=0, extract_mode=False,
-                        translate_mode = False)
+                        translate_mode=False, test_mode=False)
     (options, args) = parser.parse_args()
 
     # Set the verbosity
@@ -89,11 +95,16 @@ def main():
                         format='%(asctime)s %(levelname)s %(message)s')
 
     if options.extract_mode:
+        if options.test_mode:
+            sys.stderr.write("WARNING: You've specified the test mode flag." +
+                             "Test mode is only valid when specified along" +
+                             "with the translate mode flag, and will thus" +
+                             "be ignored")
         string_extractor = StringExtractor.StringExtractor()
         string_extractor.extract()
 
     elif options.translate_mode:
-        string_merger = StringMerger.StringMerger()
+        string_merger = StringMerger.StringMerger(options.test_mode)
         string_merger.merge()
 
     else:
