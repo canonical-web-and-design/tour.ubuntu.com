@@ -35,6 +35,8 @@ __version__ = 'VERSION'
 
 import os
 PO_FOLDER = 'po-html'
+GETTEXT_DOMAIN = 'ubuntu-online-tour'
+POTFILES = 'POTFILES.in'
 
 class project_path_not_found(Exception):
     """Raised when we can't find the project directory."""
