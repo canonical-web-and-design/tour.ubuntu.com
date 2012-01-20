@@ -34,7 +34,7 @@ __license__ = 'GPL-3'
 __version__ = 'VERSION'
 
 import os
-
+PO_FOLDER = 'po-html'
 
 class project_path_not_found(Exception):
     """Raised when we can't find the project directory."""

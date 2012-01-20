@@ -49,7 +49,7 @@ def main():
       in the 'po/POTFILES.in' file and puts them into a .pot file into the
       'po' folder, ready to give it to translators.
     - Translate mode: fetches the translations in the form of .po files in the
-      'po' folder and builds localized files based on the original. 
+      'po-html' folder and builds localized files based on the original.
       Untranslated strings in the PO files are left as their English originals
       in the generated localized files. The localized files are named
         <original-filename>.<ISO-639-2-lang-code>.<original-fileext>
@@ -57,12 +57,12 @@ def main():
         index.html       <- original file
         index.zh_CN.html <- Simplified Chinese translation
 
-    Structure of the 'po' folder:
+    Structure of the 'po-html' folder:
 
-      po/template.pot <- translation template created in extract mode
-      po/POTFILES.in  <- files to extract strings from are specified here
-      po/zh_CN.po     <- translation done by translators
-      po/ca.po        <- another translation - named after <ISO 639-2 code>.po
+      po-html/template.pot <- translation template created in extract mode
+      po-html/POTFILES.in  <- files to extract strings from are specified here
+      po-html/zh_CN.po     <- translation done by translators
+      po-html/ca.po        <- another translation, naming: <ISO 639-2 code>.po
 
     ''')
     parser = optparse.OptionParser(version="%%prog %s" % version, usage=usage)
@@ -82,9 +82,10 @@ def main():
     parser.add_option("-s", "--test", action="store_true",
         dest="test_mode",
         help=_("Test mode: only effective in conjunction with Translate " +
-               "mode. If "))
-    parser.set_defaults(logging_level = 0, extract_mode = False,
-                        translate_mode = False, test_mode = False)
+               "mode. If set, untranslatable messages are translated as " +
+               "reversed English, so that they are easy to spot."))
+    parser.set_defaults(logging_level=0, extract_mode=False,
+                        translate_mode=False, test_mode=False)
     (options, args) = parser.parse_args()
 
     # Set the verbosity
