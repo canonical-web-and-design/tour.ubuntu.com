@@ -867,7 +867,7 @@ msgid "Total:"
 msgstr "总计："
 
 #: ../index.html
-msgid "Manipulate the flow of time to solve puzzels"
+msgid "Manipulate the flow of time to solve puzzles"
 msgstr "操控时间流来解决问题"
 
 #: ../index.html
