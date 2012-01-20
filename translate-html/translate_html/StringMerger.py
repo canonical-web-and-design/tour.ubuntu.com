@@ -87,9 +87,15 @@ class StringMergerHtml(object):
         with codecs.open(self.htmlfile, 'r', 'utf-8') as f:
             html_file = f.read()
 
-            fname, fext = os.path.splitext(self.htmlfile)
-            html_file_translated = fname + '.' + self.ietf_langcode + fext
-            print html_file_translated
+            fname = os.path.basename(self.htmlfile)
+            dirname = os.path.join(translate_htmlconfig.get_sources_path(),
+                                                   self.ietf_langcode)
+            if not os.path.exists(dirname):
+                os.makedirs(dirname)
+
+            html_file_translated = os.path.join(dirname, fname)
+            print >> sys.stderr, 'Translation written at:', \
+                                 html_file_translated
             with codecs.open(html_file_translated,
                              'w+', 'utf-8') as fd:
                 po = polib.pofile(self.pofile)
