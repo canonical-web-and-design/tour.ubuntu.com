@@ -133,7 +133,31 @@
 	position: relative;
 	top: -1px;
 }
-#welcome-screen .primary {
+
+#welcome-screen .language-mode {
+		-moz-border-radius: 4px 4px 4px 4px;
+		-webkit-border-radius: 4px 4px 4px 4px;
+	border-radius: 4px 4px 4px 4px;
+	display: block;
+	float: left;
+	font-size: 14px;
+	text-decoration: none;
+	border: 1px solid #c0b7b0;
+	cursor: pointer;
+	margin-left: 15px;
+	background: url("../img/welcome/background-link-explore.png") center center repeat-x;
+	color: #333;
+	padding: 9px 0;
+	overflow:hidden;
+}
+
+#welcome-screen .language-mode a,
+#welcome-screen .language-mode span {
+	padding:11px;
+}
+
+#welcome-screen .primary,
+#welcome-screen .language-mode span {
 	background: url("../img/welcome/background-link-download.png") center center repeat-x;
 	color: #fff;
 }
