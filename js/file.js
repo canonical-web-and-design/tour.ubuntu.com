@@ -46,21 +46,21 @@ function File($id, $url, $type, $name, $size, $date ,$location){
 				var tempName = _url.split('/');
 				tempName = tempName[tempName.length-1].split('.')[0];
 				if($type == 'display-icon'){
-					return  '<div class="file '+$type+'"  data-type="video"  data-id='+$id+'><p class="border"><img src="img/videos/'+tempName+'.jpg"  width="53px"  /></p><span>'+_name+'</span></div>';
+					return  '<div class="file '+$type+'"  data-type="video"  data-id='+$id+'><p class="border"><img src="../img/videos/'+tempName+'.jpg"  width="53px"  /></p><span>'+_name+'</span></div>';
 				}else{
 					return  '<div class="file '+$type+'"  data-type="video"  data-id='+$id+'><p></p><span>'+_name+'</span></div>';
 				}
 			break;
 			case 'audio':
 				if($type == 'display-icon'){
-					return  '<div class="file '+$type+'" data-type="audio"  data-id='+$id+'><p><img src="img/folder/audio.png" /></p><span>'+_name+'</span></div>';
+					return  '<div class="file '+$type+'" data-type="audio"  data-id='+$id+'><p><img src="../img/folder/audio.png" /></p><span>'+_name+'</span></div>';
 				}else{
 					return  '<div class="file '+$type+'" data-type="audio"  data-id='+$id+'><p></p><span>'+_name+'</span></div>';
 				}
 			break;
 			default:
 				if($type == 'display-icon'){
-					return  '<div class="file '+$type+'" data-type="unknown"  data-id='+$id+'><p><img src="img/folder/unknown.png" /></p><span>'+_name+'</span></div>';
+					return  '<div class="file '+$type+'" data-type="unknown"  data-id='+$id+'><p><img src="../img/folder/unknown.png" /></p><span>'+_name+'</span></div>';
 				}else{
 					return  '<div class="file '+$type+'" data-type="unknown"  data-id='+$id+'><p></p><span>'+_name+'</span></div>';
 				}
