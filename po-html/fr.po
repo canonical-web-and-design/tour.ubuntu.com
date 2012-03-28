@@ -1,26 +1,25 @@
-# Catalan translation for ubuntu-online-tour
-# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# French translation for ubuntu-online-tour
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the ubuntu-online-tour package.
-# David Planella <david.planella@ubuntu.com>, 2011.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
-"Report-Msgid-Bugs-To: you@example.com\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-01-20 13:28+0000\n"
-"PO-Revision-Date: 2012-01-05 08:02+0000\n"
-"Last-Translator: David Planella <david.planella@ubuntu.com>\n"
-"Language-Team: Catalan <ubuntu-l10n-ca@lists.ubuntu.com>\n"
+"PO-Revision-Date: 2012-01-20 10:28+0000\n"
+"Last-Translator: cm-t <Unknown>\n"
+"Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-03-28 05:37+0000\n"
 "X-Generator: Launchpad (build 15027)\n"
-"Language: ca\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
-msgstr "Navegador web Firefox"
+msgstr "Navigateur Web Firefox"
 
 #: ../en/index.html
 msgid ""
@@ -36,26 +35,33 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Ubuntu démarre rapidement sur ​​n'importe quel ordinateur, mais il est super "
+"rapide sur les nouvelles machines. Sans programmes inutiles et versions "
+"d'essai de logiciels ralentissant le tout, le démarrage et l'ouverture d'un "
+"navigateur ne prend que quelques secondes. Contrairement à d'autres systèmes "
+"d'exploitation, il ne vous laisse pas seul face l'écran en attendant d'être "
+"en ligne. Et Ubuntu ne ralentira pas au fils du temps. C'est rapide. Et ça "
+"restera rapide."
 
 #: ../en/index.html
 msgid "no subject"
-msgstr "sense assumpte"
+msgstr "sans objet"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr "Passeu i doneu-hi un tomb"
+msgstr "Découvrez par vous-même"
 
 #: ../en/index.html
 msgid "Desktop"
-msgstr "Escriptori"
+msgstr "Bureau"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr "Obtén el correu"
+msgstr "Relever le courriel"
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr "Correu brossa"
+msgstr "Pourriels"
 
 #: ../en/index.html
 msgid "Internet"
@@ -63,11 +69,11 @@ msgstr "Internet"
 
 #: ../en/index.html
 msgid "Science &amp; Engineering"
-msgstr "Ciència i enginyeria"
+msgstr "Science &amp; ingénierie"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr "Cerca aplicacions"
+msgstr "Trouver des applications"
 
 #: ../en/index.html
 msgid "Not Alone"
@@ -75,7 +81,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Momiji Dream"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
@@ -83,11 +89,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files"
-msgstr "Fitxers"
+msgstr "Fichiers"
 
 #: ../en/index.html
 msgid "About Me"
-msgstr "Quant a mi"
+msgstr "À propos de moi"
 
 #: ../en/index.html
 msgid ""
@@ -95,15 +101,19 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
+"BEEP a voyagé des milliers d'années durant à travers les profondeurs de "
+"l'espace pour explorer la galaxie. Parcourez un système d'étoiles lointain "
+"avec le vaisseau BEEP et envoyez des robots sur la surface des planètes."
 
 #: ../en/index.html
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
-msgstr "Segur que voleu tancar tots els programes i aturar l'ordinador?"
+msgstr ""
+"Voulez-vous fermer tous les programmes et éteindre l'ordinateur&nbsp;?"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr "Sense títol 1 - LibreOffice Impress"
+msgstr "Sans nom 1 – LibreOffice Impress"
 
 #: ../en/index.html
 msgid "Ubuntu One"
@@ -116,38 +126,43 @@ msgid ""
 "translated into 38 languages, Ubuntu also includes essential assistive "
 "technologies, which are, of course, completely free."
 msgstr ""
+"L'accessibilité est au centre de la philosophie d'Ubuntu. Nous croyons que "
+"l'informatique est pour tout le monde, sans distinction de nationalité, de "
+"race, de sexe ou d'invalidité. Entièrement traduit dans 38 langues, Ubuntu "
+"intègre aussi l’essentiel des technologies d'assistance, qui sont évidemment "
+"entièrement libres et gratuites."
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr "Baixa l'Ubuntu"
+msgstr "Télécharger Ubuntu"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr "Subscriviu-vos-hi ara"
-
-#: ../en/index.html
-msgid "Applications"
-msgstr "Aplicacions"
-
-#: ../en/index.html
-msgid "Weds 14 October, 2010"
 msgstr ""
 
 #: ../en/index.html
+msgid "Applications"
+msgstr "Applications"
+
+#: ../en/index.html
+msgid "Weds 14 October, 2010"
+msgstr "Mer 14 Octobre 2010"
+
+#: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr "Joc de trencaclosques i construcció basat en la física"
+msgstr ""
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
-msgstr "Visualitzador d'escriptoris remots"
+msgstr "Visionneur de bureaux distants"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr "Client social Gwibber"
+msgstr "Client de réseaux sociaux Gwibber"
 
 #: ../en/index.html
 msgid "History"
-msgstr "Historial"
+msgstr "Hstorique"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -155,36 +170,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr ""
+msgstr "15.2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr "Convertidor a format CNC de PCB"
+msgstr "Convertisseur PCB CNC"
 
 #: ../en/index.html
 msgid "Webcam"
-msgstr "Càmera web"
+msgstr "Webcam"
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr "Navegueu per la web"
+msgstr "Naviguer sur le web"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
 msgstr ""
-"Un joc de trets i plataformes en 2D, amb trencaclosques basats en la física"
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr "Gràfics"
+msgstr "Graphismes"
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr "Mantingueu-vos en contacte"
+msgstr "Rester connecté"
 
 #: ../en/index.html
 msgid "Top Rated"
-msgstr "Les més valorades"
+msgstr ""
 
 #: ../en/index.html
 msgid "Banshee"
@@ -196,7 +210,7 @@ msgstr "Compatible"
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr "Tauler"
+msgstr ""
 
 #: ../en/index.html
 msgid "From"
@@ -208,55 +222,55 @@ msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
-msgstr "Us agraïm que hàgiu explorat l'Ubuntu!"
+msgstr "Merci d'explorer Ubuntu&nbsp;!"
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr "Envia fitxers al dispositiu…"
+msgstr "Envoyer des fichiers au périphérique..."
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr "Crea documents"
+msgstr "Créer des documents"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr "(91 ressenyes)"
+msgstr "(91 évaluations)"
 
 #: ../en/index.html
 msgid "Secure"
-msgstr "Segur"
-
-#: ../en/index.html
-msgid "This package contains the Chromium browser"
-msgstr "Aquest paquet conté el navegador web Chromium"
-
-#: ../en/index.html
-msgid "$9.99"
-msgstr "$9.99"
-
-#: ../en/index.html
-msgid "Help"
 msgstr ""
 
 #: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "Ce paquet contient le navigateur Web Chromium."
+
+#: ../en/index.html
+msgid "$9.99"
+msgstr "9.99€"
+
+#: ../en/index.html
+msgid "Help"
+msgstr "Aide"
+
+#: ../en/index.html
 msgid "Mute"
-msgstr "Silenci"
+msgstr ""
 
 #: ../en/index.html
 msgid "All Software"
-msgstr "Tot el programari"
+msgstr "Tous les logiciels"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr "A punt per baixar-lo?"
+msgstr "Prêt à télécharger&nbsp;?"
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr "Accessoris"
+msgstr "Accessoires"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr "Crea fulls de càlcul"
+msgstr "Créer des feuilles de calcul"
 
 #: ../en/index.html
 msgid "Bluetooth"
@@ -264,32 +278,33 @@ msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr "Atura"
+msgstr "Éteindre"
 
 #: ../en/index.html
 msgid "Music"
-msgstr "Música"
+msgstr "Musique"
 
 #: ../en/index.html
 msgid "Education"
-msgstr "Educació"
+msgstr ""
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
-msgstr "Enregistrador de discs Brasero"
+msgstr "Gravure de disque Brasero"
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
 msgstr ""
-"Llegiu, escriviu i envieu correus amb el Thunderbird. És fàcil i ràpid."
+"Lire, écrire et envoyer des courriels avec Mozilla Thunderbird. C'est simple "
+"et rapide."
 
 #: ../en/index.html
 msgid "wrote"
-msgstr "escrigué"
+msgstr ""
 
 #: ../en/index.html
 msgid "Subject"
-msgstr "Assumpte"
+msgstr "Objet"
 
 #: ../en/index.html
 msgid "Shotwell"
@@ -301,31 +316,31 @@ msgstr "Documents"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr "Desconnecta"
+msgstr "Se déconnecter"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr "Preferències"
+msgstr "Préférences"
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr "Enregistrador de so"
+msgstr "Enregistreur de sons"
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr "Navega pels fitxers"
+msgstr "Parcourir les fichiers"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
-msgstr ""
+msgstr "Venez découvrir nos applications favorites"
 
 #: ../en/index.html
 msgid "junk"
-msgstr "brossa"
+msgstr "pourriels"
 
 #: ../en/index.html
 msgid "Send"
-msgstr "Envia"
+msgstr "Envoyer"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
@@ -333,68 +348,67 @@ msgstr ""
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "Esperem que hàgiu gaudit de la visita guiada de l'Ubuntu."
+msgstr ""
+"Nous esp&eacute;rons que vous avez apr&eacute;ci&eacute; la visite d'Ubuntu "
+"en ligne."
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr "Editor de gràfics vectorials Inkscape"
+msgstr "&Eacute;diteur d'images vectorielles Inkscape"
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr "Crea presentacions"
+msgstr "Cr&eacute;er des pr&eacute;sentations"
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr "Missatge original"
+msgstr "Message d'origine"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr "Solitari de l'Aisleriot"
+msgstr "Solitaire AisleRoit"
 
 #: ../en/index.html
 msgid "Printers"
-msgstr "Impressores"
+msgstr "Imprimantes"
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr "Informació de la connexió"
+msgstr "Informations sur la connexion"
 
 #: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
-"El Chromium és el resultat d'un projecte de programari lliure per crear un "
-"navegador més segur, més ràpid i més estable amb el qual es vol millorar "
-"l'experiència de qualsevol usuari a Internet."
 
 #: ../en/index.html
 msgid "Email"
-msgstr "Correu"
+msgstr "Courriel"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr "Enviat"
+msgstr ""
 
 #: ../en/index.html
 msgid "subject"
-msgstr "assumpte"
+msgstr ""
 
 #: ../en/index.html
 msgid "Available"
-msgstr "Disponible"
+msgstr ""
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr "Totes les carpetes"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr "Div 26 Oct, 2001"
+msgstr "Ven 26 Oct 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr "Hiberna"
+msgstr ""
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -402,23 +416,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr "El vostre Ubuntu a la vostra manera"
+msgstr ""
 
 #: ../en/index.html
 msgid "Local"
-msgstr "Local"
+msgstr ""
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr "Paràmetres de la data i l'hora…"
+msgstr ""
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr "Editor de vídeo PiTiVi"
+msgstr ""
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr "Treu el silenci"
+msgstr ""
 
 #: ../en/index.html
 msgid "Jardin Polar"
@@ -434,36 +448,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr "World of Goo"
-
-#: ../en/index.html
-msgid "Welcome Screen"
-msgstr "Pantalla de benvinguda"
-
-#: ../en/index.html
-msgid "3.3MB"
 msgstr ""
 
 #: ../en/index.html
+msgid "Welcome Screen"
+msgstr ""
+
+#: ../en/index.html
+msgid "3.3MB"
+msgstr "3.3MB"
+
+#: ../en/index.html
 msgid "reply"
-msgstr "respon"
+msgstr ""
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr "Configura el correu…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
-"Cerqueu i baixeu aplicacions ràpidament del Centre de programari de l'Ubuntu."
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr "Apaga el Bluetooth"
+msgstr ""
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr "$19.99"
+msgstr "19.99€"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
@@ -471,16 +484,13 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr "Surt…"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
-"Altres extensions utilitzen el ruby, la libxml-xql-perl, la python-numpy, i "
-"la python-lxml. Heu de tenir aquests paquets instal·lats per utilitzar totes "
-"les extensions i els efectes especials."
 
 #: ../en/index.html
 msgid "Fwd"
@@ -488,15 +498,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr "Client de Terminal Server"
+msgstr ""
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr "Aparença"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr "LibreOffice Calc"
+msgstr ""
 
 #: ../en/index.html
 msgid "Buck Off"
@@ -508,23 +518,21 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr "Cancel·la"
+msgstr ""
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr "Aplicacions d'inici…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Remove"
-msgstr "Suprimeix"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Braid treats your time and attention as precious, and it does everything it "
 "can to give you a mind-expanding experience."
 msgstr ""
-"En el Braid el vostre temps i atenció és essencial, i es fa tot el possible "
-"perquè visqueu una experiència que expandeixi la ment."
 
 #: ../en/index.html
 msgid "English"
@@ -536,20 +544,17 @@ msgstr ""
 
 #: ../en/index.html
 msgid "from"
-msgstr "de"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr "LibreOffice Impress"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
 msgstr ""
-"Tota la jugabilitat es basa en la manipulació del temps. Viatgeu a mons on "
-"el temps es comporta de manera estranya. Observeu, apreneu i finalment "
-"domineu-los."
 
 #: ../en/index.html
 msgid "Mount Snowdon"
@@ -557,25 +562,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Songs"
-msgstr "Cançons"
+msgstr ""
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr "Accessible"
+msgstr ""
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
-"Feu una còpia de seguretat i accediu als fitxers des de l'Ubuntu, el "
-"Windows, la web o el mòbil"
 
 #: ../en/index.html
 msgid "Title:"
-msgstr "Títol:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr "Configura un dispositiu nou…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
@@ -583,36 +586,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Videos"
-msgstr "Vídeos"
+msgstr ""
 
 #: ../en/index.html
 msgid "Braid"
-msgstr "Braid"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
-"L'Inkscape carrega i desa un subconjunt del format SVG (Scalable Vector "
-"Graphics, gràfics vectorials escalables), un estàndard mantingut per "
-"consorci WWW."
 
 #: ../en/index.html
 msgid ""
 "Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
 "download it to enjoy the real thing!"
 msgstr ""
-"Us agraïm que hàgiu explorat l'Ubuntu! Recordeu que això és només una "
-"demostració. Haureu de baixar l'Ubuntu per provar-lo."
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr "Per llegir:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr "Reproductor multimèdia Banshee"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -629,23 +627,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr "Fitxers i carpetes"
+msgstr ""
 
 #: ../en/index.html
 msgid "Installed"
-msgstr "Instal·lats"
+msgstr ""
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr "BEEP"
+msgstr ""
 
 #: ../en/index.html
 msgid "Visible"
-msgstr "Visible"
+msgstr ""
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr "Apreneu-ne més"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -653,46 +651,42 @@ msgid ""
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
 msgstr ""
-"Utilitzeu el dispositiu antigravitacional del BEEP per manipular directament "
-"entorns basats en la física. Aquest funciona tant com a eina o com una arma. "
-"Utilitzeu-lo per destruir robots enemics, construir torres i resoldre "
-"trencaclosques."
 
 #: ../en/index.html
 msgid "Chat"
-msgstr "Xat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Archive"
-msgstr "Arxiu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Download"
-msgstr "Baixa"
+msgstr ""
 
 #: ../en/index.html
 msgid "Home"
-msgstr "Inici"
+msgstr ""
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr "Canonical"
+msgstr ""
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr "Eines de desenvolupament"
+msgstr ""
 
 #: ../en/index.html
 msgid "or"
-msgstr "o bé"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr "Inkscape"
+msgstr ""
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr "Accediu a Internet"
+msgstr ""
 
 #: ../en/index.html
 msgid "5.3MB"
@@ -700,80 +694,77 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr "Feu la visita guiada"
+msgstr ""
 
 #: ../en/index.html
 msgid "cc"
-msgstr "cc"
+msgstr ""
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr "Imatges"
+msgstr ""
 
 #: ../en/index.html
 msgid "Away"
-msgstr "Absent"
+msgstr ""
 
 #: ../en/index.html
 msgid "Check email"
-msgstr "Comprova el correu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Size:"
-msgstr "Mida:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Draft"
-msgstr "Esborrany"
+msgstr ""
 
 #: ../en/index.html
 msgid "Free"
-msgstr "Gratuït"
+msgstr ""
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr "Manteniu les adreces d'interès i notes del Tomboy sincronitzades"
+msgstr ""
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr "Client de correu Thunderbird"
+msgstr ""
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr "Monitors…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr "Programari actualitzat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr "Navegueu per la web"
+msgstr ""
 
 #: ../en/index.html
 msgid "More Apps"
-msgstr "Més aplicacions"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
-"Si voleu utilitzar el corrector ortogràfic, haureu d'instal·lar l'Aspell i "
-"el paquet de llengua corresponent, com ara l'aspell-ca."
 
 #: ../en/index.html
 msgid "Find Files"
-msgstr "Cerca fitxers"
+msgstr ""
 
 #: ../en/index.html
 msgid "View photos"
-msgstr "Visualitza fotografies"
+msgstr ""
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
-"Podeu pujar, organitzar, editar i compartir fotografies amb el Shotwell."
 
 #: ../en/index.html
 msgid "Sand Maze"
@@ -781,19 +772,17 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr "Tauler de control de l'Ubuntu One"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
-"La vostra col·lecció de música us acompanya a tot arreu en flux amb "
-"l'Androis i l'iPhone"
 
 #: ../en/index.html
 msgid "to"
-msgstr "a"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -810,23 +799,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr "El vostre navegador no és compatible amb els iframes."
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
 msgstr ""
-"Deixeu una bona impressió amb la intuïtiva eina de presentacions Impress del "
-"LibreOffice."
 
 #: ../en/index.html
 msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
-"És ràpid i fàcil d'accedir a les carpetes i fitxers des de la carpeta de "
-"l'usuari."
 
 #: ../en/index.html
 msgid "Our star apps"
@@ -837,12 +822,10 @@ msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
 msgstr ""
-"Recordeu que això és només una demostració. L'haureu de baixar per provar "
-"l'autèntic!"
 
 #: ../en/index.html
 msgid "Date"
-msgstr "Data"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -853,35 +836,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr "Navegador web Chromium"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browse the Web"
-msgstr "Navegueu per la web"
+msgstr ""
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr "Destinatari"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fast"
-msgstr "Ràpid"
+msgstr ""
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr "No és brossa"
+msgstr ""
 
 #: ../en/index.html
 msgid "To:"
-msgstr "A:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
-msgstr "Configura un compte de difusió…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Date:"
-msgstr "Data:"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -892,55 +875,53 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Total:"
-msgstr "Total:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr "Controladors addicionals"
+msgstr "Pilotes supplémentaires"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr "Centre de programari de l'Ubuntu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr "Sense títol 1 - LibreOffice Calc"
+msgstr ""
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr "Ja tinc un compte"
+msgstr ""
 
 #: ../en/index.html
 msgid "System"
-msgstr "Sistema"
+msgstr ""
 
 #: ../en/index.html
 msgid "forward"
-msgstr "reenvia"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
-"El Calc del LibreOffice té tot el que us cal per crear fulls de càlculs "
-"clars i precisos."
 
 #: ../en/index.html
 msgid "Folders"
-msgstr "Carpetes"
+msgstr ""
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr "Proveu l'Ubuntu amb la demostració en línia"
+msgstr ""
 
 #: ../en/index.html
 msgid "Install"
-msgstr "Instal·la"
+msgstr "Installer"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr "Elements:"
+msgstr ""
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -948,73 +929,75 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr "Assumpte:"
+msgstr "Sujet :"
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr "Engega el Bluetooth"
+msgstr "Activer Bluetooth"
 
 #: ../en/index.html
 msgid "Backup"
-msgstr "Còpia de seguretat"
+msgstr ""
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr "El poder del núvol personal"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
+"Certaines fonctions d'import et d'export nécessitent les paquets dia, libwmf-"
+"bin, pstoedit, skencil, imagemagick et perlmagick."
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16 Photos"
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr "Carpeta d'usuari"
+msgstr "Dossier personnel"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
-msgstr "Us donem la benvinguda a la visita guiada en línia de l'Ubuntu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Office"
-msgstr "Oficina"
+msgstr ""
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr "Temes i retocs"
+msgstr ""
 
 #: ../en/index.html
 msgid "Shortcuts"
-msgstr "Dreceres"
+msgstr ""
 
 #: ../en/index.html
 msgid "Check Email"
-msgstr "Comprova el correu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Internet Apps"
-msgstr "Aplicacions d'Internet"
+msgstr "Applications Internet"
 
 #: ../en/index.html
 msgid "Library"
-msgstr "Biblioteca"
+msgstr ""
 
 #: ../en/index.html
 msgid "work"
-msgstr "feina"
+msgstr ""
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr "Unifiqueu els contactes a l'escriptori, al mòbil i a la web"
+msgstr ""
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr "Paràmetres del sistema…"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1022,9 +1005,9 @@ msgid ""
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
 msgstr ""
-"El Chromium és la base del navegador Chrome de Google, el qual no és res més "
-"que una altra marca (de nom i de logotip) amb alguns components addicionals, "
-"com ara el rastrejament d'usuaris i un sistema d'actualització automàtica."
+"Chromium sert de base pour Google Chrome, qui est Chromium rebaptisé (nom et "
+"logo) avec quelques ajouts tels que le suivi d'utilisation et un système de "
+"mise à jour automatique."
 
 #: ../en/index.html
 msgid "Chromium"
@@ -1032,19 +1015,19 @@ msgstr "Chromium"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr "Sense títol - LibreOffice Writer"
+msgstr ""
 
 #: ../en/index.html
 msgid "delete"
-msgstr "suprimeix"
+msgstr ""
 
 #: ../en/index.html
 msgid "Busy"
-msgstr "Ocupat"
+msgstr ""
 
 #: ../en/index.html
 msgid "On"
-msgstr "El"
+msgstr ""
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1052,19 +1035,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr "Edita les connexions…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr "Gaudiu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr "Paràmetres de so…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Search"
-msgstr "Cerca"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1075,15 +1058,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Add Event…"
-msgstr "Afegeix un esdeveniment…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Write"
-msgstr "Escriu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Attach"
-msgstr "Adjunta"
+msgstr ""
 
 #: ../en/index.html
 msgid "Window"
@@ -1091,15 +1074,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr "Escriviu: (sense assumpte)"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr "Visita guiada en línia de l'Ubuntu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr ""
+msgstr "Federica Miglio"
 
 #: ../en/index.html
 msgid ""
@@ -1111,15 +1094,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Offline"
-msgstr "Fora de línia"
+msgstr ""
 
 #: ../en/index.html
 msgid "Trash"
-msgstr "Paperera"
+msgstr ""
 
 #: ../en/index.html
 msgid "archive"
-msgstr "arxiu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Power Of Words"
@@ -1127,59 +1110,59 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr "Gestor de fotografies Shotwell"
+msgstr ""
 
 #: ../en/index.html
 msgid "Lock Screen"
-msgstr "Bloca la pantalla"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr "Navegar per la web és ràpid i segur amb l'Ubuntu i el Firefox."
+msgstr ""
 
 #: ../en/index.html
 msgid "Media Apps"
-msgstr "Aplicacions multimèdia"
+msgstr ""
 
 #: ../en/index.html
 msgid "Most Frequently Used"
-msgstr "El més utilitzat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr "Navega pels fitxers d'un dispositiu…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Listen to Music"
-msgstr "Escolteu música"
+msgstr ""
 
 #: ../en/index.html
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: ../en/index.html
 msgid "Computer"
-msgstr "Ordinador"
+msgstr ""
 
 #: ../en/index.html
 msgid "What's New"
-msgstr "Novetats"
+msgstr ""
 
 #: ../en/index.html
 msgid "App Available for Download"
-msgstr "Aplicació disponible per baixar"
+msgstr ""
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr "Reproductor de pel·lícules"
+msgstr ""
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr "Invisible"
+msgstr ""
 
 #: ../en/index.html
 msgid "Albums"
-msgstr "Àlbums"
+msgstr ""
 
 #: ../en/index.html
 msgid "中文"
@@ -1187,11 +1170,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
-msgstr "LibreOffice Writer"
+msgstr ""
 
 #: ../en/index.html
 msgid "From:"
-msgstr "De:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Insert"
@@ -1199,11 +1182,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr "Atura…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr "Tipus de lletra"
+msgstr ""
 
 #: ../en/index.html
 msgid "File"
@@ -1215,44 +1198,43 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr "Bluetooth engegat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Clear"
-msgstr "Neteja"
+msgstr ""
 
 #: ../en/index.html
 msgid "Installing"
-msgstr "S'està instal·lant"
+msgstr ""
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr "torna al lloc web"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
-"El Writer del LibreOffice fa fàcil la creació de documents professionals."
 
 #: ../en/index.html
 msgid "Games"
-msgstr "Jocs"
+msgstr ""
 
 #: ../en/index.html
 msgid "Visolate"
-msgstr "Visolate"
+msgstr ""
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr "Missateria d'Internet Empathy"
+msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr "Creeu i editeu imatges basades en gràfics vectorials escalables"
+msgstr ""
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr "Dispositius connectats"
+msgstr ""
 
 #: ../en/index.html
 msgid "View"
@@ -1260,15 +1242,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr "Atura temporalment"
+msgstr ""
 
 #: ../en/index.html
 msgid "branches"
-msgstr "branques"
+msgstr ""
 
 #: ../en/index.html
 msgid "View Photos"
-msgstr "Visualitza fotografies"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1279,7 +1261,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr "Dll 11 Octubre, 2010"
+msgstr "Lun 11 octobre 2010"
 
 #: ../en/index.html
 msgid ""
@@ -1288,6 +1270,12 @@ msgid ""
 "and freehand curves. As an added bonus, both vector and bitmap objects can "
 "have alpha transparency and can be arbitrarily transformed."
 msgstr ""
+"L'interface utilisateur d'Inkscape devrait est similaire à celle de "
+"CorelDraw et d'autres programmes de dessin similaires. Elle offre des outils "
+"pour tracer rectangles, ellipses, objets de texte, images matricielles et "
+"courbes à main levée. De plus, les images vectorielles et matricielles "
+"bénéficient toutes les deux de la transparence alpha et peuvent être "
+"transformées arbitrairement."
 
 #: ../en/index.html
 msgid "Format"
@@ -1295,11 +1283,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr "Paperera"
+msgstr ""
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr "So i Vídeo"
+msgstr "Son &amp; Vidéo"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -1307,19 +1295,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr "Creeu i editeu models i animacions en 3D"
+msgstr "Créer et modifier des objets ou des animations en 3D"
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr "Safata d'entrada"
+msgstr ""
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr "Fitxers a tot arreu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr "Sigueu productiu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Table"
@@ -1341,19 +1329,6 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
-"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
-"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
-"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
-"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
-"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
-"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
-"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
-"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
-"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
-"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
-"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
-"nulla."
 
 #: ../en/index.html
 msgid "Tools"
@@ -1361,11 +1336,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr "Baixades"
+msgstr "Téléchargements"
 
 #: ../en/index.html
 msgid "You"
-msgstr "Mi"
+msgstr "Vous"
 
 #: ../en/index.html
 msgid "Blender"
