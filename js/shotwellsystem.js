@@ -34,14 +34,10 @@ function ShotwellSystem($parent){
 		$('#shotwell  .control .max').click(function(){
 			if(maximised){
 				maximised = false;
-				$('#shotwell').css('width','800px');
-				$('#shotwell').css('height','550px');
 				$('#shotwell ').removeClass('fullsize');
 				_parent.systemSettings.decreaseFullscreen();
 			}else{
 				maximised = true;
-				$('#shotwell').css('width',$(document).width() - 70 + 'px');
-				$('#shotwell').css('height',$(document).height() - 50 + 'px');
 				$('#shotwell ').addClass('fullsize');
 				_parent.systemSettings.increaseFullscreen();
 			}

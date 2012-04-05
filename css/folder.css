@@ -82,7 +82,7 @@
 }
 
 .folder .contents{
-	background-color:#f1f0ef;
+	background-color:white;
 	height: 423px;
     overflow: auto;
     width: 584px;
@@ -119,10 +119,6 @@
  }
 #folder-window .buttons .folder-icon-view{
 	margin:5px 0px 0px 5px;
-}
-
-#folder-window.window{
-	background-color:#e6e4e3;
 }
 
  
@@ -212,11 +208,11 @@
   }
   
   .contents .display-icon.over p{
-  	background-position: 0px -39px;
+  	background-position: 0px -38px;
   }
   
    .display-icon.selected p{
-   		background-position: 0px -78px !important;
+   		background-position: 0px -76px !important;
    }
    
   .contents .display-compact.over p{
@@ -229,8 +225,7 @@
   
  .selected span{
  	padding:2px 4px;
-  	background-color:#f08357;
-  	color:white;
+  	background-color:#dcd9d7;
   }
   
 

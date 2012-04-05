@@ -30,16 +30,12 @@ function FirefoxSystem($parent){
 			if(maximised){
 				maximised = false;
 				$('.firefox-window').removeClass('fullsize');
-				$('.firefox-window').css('height','600px');
-				$('.firefox-window').css('width','900px');
 				$('.firefox-window .web-overlay-tran').css('width','100%');
 				$('.firefox-window .web-overlay-tran').hide();
 				_parent.systemSettings.decreaseFullscreen();
 			}else{
 				maximised = true;
 				$('.firefox-window').addClass('fullsize');
-				$('.firefox-window').css('height',$(document).height() - 50 + 'px');
-				$('.firefox-window').css('width',$(document).width() - 70 + 'px');
 				$('.firefox-window .web-overlay-tran').css('width','100px');
 				$('.firefox-window .web-overlay-tran').show();
 				_parent.systemSettings.increaseFullscreen();

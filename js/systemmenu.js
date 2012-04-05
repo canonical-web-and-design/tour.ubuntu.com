@@ -14,12 +14,12 @@ function SystemMenu($parent){
 	var scrolling = false;
 	
 	this.init = function(){
-		 /*$("#menu").mouseover(function(e){
-	     	if(menuTimeout != null){
-		     		clearInterval(menuTimeout);
-		     		menuTimeout = null;
-	     	}
-	     });*/
+		 $("#menu").mouseover(function(e){
+	     		if(menuTimeout != null){
+		     			clearInterval(menuTimeout);
+		     			menuTimeout = null;
+	     		}
+	     });
 	     
 	     $('#menu ul li').mouseover(function() {
 				$('#tooltip-text').text($(this).text());
@@ -221,11 +221,11 @@ function SystemMenu($parent){
 	}
 	
 	this.increaseFullscreen = function(){
-		//_parent.systemSettings.increaseFullscreen();
+		_parent.systemSettings.increaseFullscreen();
 	}
 	
 	this.decreaseFullscreen = function(){
-		//_parent.systemSettings.decreaseFullscreen();
+		_parent.systemSettings.decreaseFullscreen();
 	}
 	
 	this.wiggle = function($icon){
@@ -253,7 +253,7 @@ function SystemMenu($parent){
 		this.scrollCheck();
 	}
 	
-	/*this.triggerMenuOut = function() {
+	this.triggerMenuOut = function() {
 			if(!locked){
 				goingIn = false;
 				menuOut = true;
@@ -311,7 +311,7 @@ function SystemMenu($parent){
 	
 	this.isMenuOut = function(){
 		return menuOut;
-	}*/
+	}
 	
 }
 

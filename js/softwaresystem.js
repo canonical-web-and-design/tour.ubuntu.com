@@ -33,14 +33,10 @@ function SoftwareSystem($parent){
 		$('#software-centre  .control .max').click(function(){
 			if(maximised){
 				maximised = false;
-				$('#software-centre').css('width','800px');
-				$('#software-centre').css('height','550px');
 				$('#software-centre').removeClass('fullsize');
 				_parent.systemSettings.decreaseFullscreen();
 			}else{
 				maximised = true;
-				$('#software-centre').css('width',$(document).width() - 70 + 'px');
-				$('#software-centre').css('height',$(document).height() - 50 + 'px');
 				$('#software-centre').addClass('fullsize');
 				_parent.systemSettings.increaseFullscreen();
 			}
