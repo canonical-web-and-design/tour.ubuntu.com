@@ -23,11 +23,11 @@ function EmailSystem($parent){
 	var writeType = '';
 	
 	this.init = function(){
-		emails.push(new Email(0,'inbox', _email_1_title_, _email_1_body_, 'Inayaili de Leon', _you_));
-		emails.push(new Email(1,'inbox',_email_2_title_,_email_2_body_,'John Oxton', _you_));
-		emails.push(new Email(2,'inbox',_email_3_title_,_email_3_body_,'Ellen Arnold', _you_));
-		emails.push(new Email(3,'inbox',_email_4_title_,_email_4_body_,'Steve Edwards', _you_));
-		emails.push(new Email(4,'inbox',_email_5_title_,_email_5_body_,'Anthony Dillon', _you_));
+		emails.push(new Email(0,'inbox', $.trim(_email_1_title_), $.trim(_email_1_body_), 'Inayaili de Leon', $.trim(_you_)));
+		emails.push(new Email(1,'inbox',$.trim(_email_2_title_),$.trim(_email_2_body_),'John Oxton', $.trim(_you_)));
+		emails.push(new Email(2,'inbox',$.trim(_email_3_title_),$.trim(_email_3_body_),'Ellen Arnold', $.trim(_you_)));
+		emails.push(new Email(3,'inbox',$.trim(_email_4_title_),$.trim(_email_4_body_),'Steve Edwards', $.trim(_you_)));
+		emails.push(new Email(4,'inbox',$.trim(_email_5_title_),$.trim(_email_5_body_),'Anthony Dillon', $.trim(_you_)));
 		
 		randomReplies.push(_random_reply_);
 		
@@ -203,25 +203,25 @@ function EmailSystem($parent){
 		if(selectedID != -1){
 			 theWriteEmail = emails[selectedID];
 			 writeType = $type;
-			 var messageSubject = theWriteEmail.subject();
-			if(messageSubject.substr(0, 3) != 'Re:'){ messageSubject = 'Re: '+messageSubject; }
+			 var messageSubject = $.trim(theWriteEmail.subject());
+			if(messageSubject.substr(0, 3) != 'Re:'){ messageSubject = 'Re: '+$.trim(messageSubject); }
 			if(writeType == 'reply'){
 				$('#email-write  .window-title').text(_write_+': '+messageSubject);
-				$('#email-write  #write-from  input[name=from]').val(_you_);
+				$('#email-write  #write-from  input[name=from]').val($.trim(_you_));
 				$('#email-write  #write-subject  input[name=subject]').val(messageSubject);
 				$('#email-write  #write-to  input[name=to]').val(theWriteEmail.from());
-				$('#email-write #write-body textarea[name=body]').val('\n\n'+_on_+' '+theWriteEmail.date()+', '+theWriteEmail.from()+' '+_wrote_+': \n\n'+theWriteEmail.body());
+				$('#email-write #write-body textarea[name=body]').val('\n\n'+$.trim(_on_)+' '+$.trim(theWriteEmail.date())+', '+$.trim(theWriteEmail.from())+' '+$.trim(_wrote_)+': \n\n'+$.trim(theWriteEmail.body()));
 			}else if(writeType == 'forward'){
-				$('#email-write  .window-title').text(_write_+': Fwd: '+theWriteEmail.subject());
-				$('#email-write  #write-subject  input[name=subject]').val(_fwd_+': '+theWriteEmail.subject());
+				$('#email-write  .window-title').text($.trim(_write_)+': Fwd: '+$.trim(theWriteEmail.subject()));
+				$('#email-write  #write-subject  input[name=subject]').val($.trim(_fwd_)+': '+$.trim(theWriteEmail.subject()));
 				$('#email-write  #write-to  input[name=to]').val('');
-				$('#email-write #write-body textarea[name=body]').val('\n\n-------- '+_original_message_+' --------\n\n'+theWriteEmail.body());
+				$('#email-write #write-body textarea[name=body]').val('\n\n-------- '+$.trim(_original_message_)+' --------\n\n'+$.trim(theWriteEmail.body()));
 			}else if(writeType == 'sentreply'){
-				$('#email-write  .window-title').text(_write_+': '+messageSubject);
-				$('#email-write  #write-from  input[name=from]').val(_you_);
-				$('#email-write  #write-subject  input[name=subject]').val(messageSubject);
-				$('#email-write  #write-to  input[name=to]').val(theWriteEmail.to());
-				$('#email-write #write-body textarea[name=body]').val('\n\n'+_on_+' '+theWriteEmail.date()+', '+theWriteEmail.from()+' '+_wrote_+': \n\n'+theWriteEmail.body());
+				$('#email-write  .window-title').text($.trim(_write_)+': '+$.trim(messageSubject));
+				$('#email-write  #write-from  input[name=from]').val($.trim(_you_));
+				$('#email-write  #write-subject  input[name=subject]').val($.trim(messageSubject));
+				$('#email-write  #write-to  input[name=to]').val($.trim(theWriteEmail.to()));
+				$('#email-write #write-body textarea[name=body]').val('\n\n'+$.trim(_on_)+' '+$.trim(theWriteEmail.date())+', '+$.trim(theWriteEmail.from())+' '+$.trim(_wrote_)+': \n\n'+$.trim(theWriteEmail.body()));
 			}
 		}
 		$('#email-write').show();
