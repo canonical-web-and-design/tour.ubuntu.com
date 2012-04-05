@@ -199,9 +199,9 @@ function SystemOverlay($parent){
 				tempArray = this.totalApps[i].name.match(patt1);
 				if(tempArray != null){
 					if(this.totalApps[i].image.substr(0,4) == 'img/'){
-						listContents += '<div><img src="../'+this.totalApps[i].image+'" /><p>'+this.totalApps[i].name+'</p></div>';
+						listContents += '<div><img src="'+this.totalApps[i].image+'" /><p>'+this.totalApps[i].name+'</p></div>';
 					}else{
-						listContents += '<div><img src="../img/applications/'+this.totalApps[i].image+'" /><p>'+this.totalApps[i].name+'</p></div>';
+						listContents += '<div><img src="img/applications/'+this.totalApps[i].image+'" /><p>'+this.totalApps[i].name+'</p></div>';
 					}
 				}
 			}
@@ -239,19 +239,19 @@ function SystemOverlay($parent){
 	this.getDisplayIcon = function($object, $i){
 		switch($object.type()){
 			case 'folder':
-				return  '<div data-id="'+$i+'"><img src="../img/applications/folder.png" /><p>'+$object.name()+'</p></div>';
+				return  '<div data-id="'+$i+'"><img src="img/applications/folder.png" /><p>'+$object.name()+'</p></div>';
 			break;
 			case 'audio':
-				return  '<div data-id="'+$i+'"><img src="../img/applications/audio.png" /><p>'+$object.name()+'</p></div>';
+				return  '<div data-id="'+$i+'"><img src="img/applications/audio.png" /><p>'+$object.name()+'</p></div>';
 			break;
 			case 'video':
-				return '<div data-id="'+$i+'"><img src="../img/'+$object.url().replace('flv','jpg')+'" /><p>'+$object.name()+'</p></div>';
+				return '<div data-id="'+$i+'"><img src="img/'+$object.url().replace('flv','jpg')+'" /><p>'+$object.name()+'</p></div>';
 			break;
 			case 'photo':
 				return  '<div data-id="'+$i+'"><img src="'+$object.url()+'" /><p>'+$object.name()+'</p></div>';
 			break;
 			default:
-				return  '<div data-id="'+$i+'"><img src="../img/applications/unknown.png" /><p>'+$object.name()+'</p></div>'; 
+				return  '<div data-id="'+$i+'"><img src="img/applications/unknown.png" /><p>'+$object.name()+'</p></div>'; 
 			break;
 		}
 	}
@@ -293,23 +293,23 @@ function SystemOverlay($parent){
 		downloadApps.sort(this.randOrd);
 		for(var i = 0; i < appArray.length; i++){
 			if(appArray[i].image.substr(0,4) == 'img/'){
-				listContents += '<div><img src="../'+appArray[i].image+'" /><p>'+appArray[i].name+'</p></div>';
+				listContents += '<div><img src="'+appArray[i].image+'" /><p>'+appArray[i].name+'</p></div>';
 			}else{
-				listContents += '<div><img src="../img/applications/'+appArray[i].image+'" /><p>'+appArray[i].name+'</p></div>';
+				listContents += '<div><img src="img/applications/'+appArray[i].image+'" /><p>'+appArray[i].name+'</p></div>';
 			}
 		}
 		for(var i = 0; i < mostUsedArray.length; i++){
 			if(mostUsedArray[i].image.substr(0,4) == 'img/'){
-				mostUsedContents += '<div><img src="../'+mostUsedArray[i].image+'" /><p>'+mostUsedArray[i].name+'</p></div>';
+				mostUsedContents += '<div><img src="'+mostUsedArray[i].image+'" /><p>'+mostUsedArray[i].name+'</p></div>';
 			}else{
-				mostUsedContents += '<div><img src="../img/applications/'+mostUsedArray[i].image+'" /><p>'+mostUsedArray[i].name+'</p></div>';
+				mostUsedContents += '<div><img src="img/applications/'+mostUsedArray[i].image+'" /><p>'+mostUsedArray[i].name+'</p></div>';
 			}
 		}
 		for(var i = 0; i < downloadApps.length; i++){
 			if(downloadApps[i].image.substr(0,4) == 'img/'){
-				downloadableContents += '<div data-type="download"><img src="../'+downloadApps[i].image+'" /><p>'+downloadApps[i].name+'</p></div>';
+				downloadableContents += '<div data-type="download"><img src="'+downloadApps[i].image+'" /><p>'+downloadApps[i].name+'</p></div>';
 			}else{
-				downloadableContents += '<div data-type="download"><img src="../img/applications/'+downloadApps[i].image+'" /><p>'+downloadApps[i].name+'</p></div>';
+				downloadableContents += '<div data-type="download"><img src="img/applications/'+downloadApps[i].image+'" /><p>'+downloadApps[i].name+'</p></div>';
 			}
 		}
 		$('#systemOverlay #shortcuts').hide();
@@ -460,6 +460,7 @@ function SystemOverlay($parent){
 		$('#menu').addClass('dashOpen');
 		$('#top').removeClass('dropShadow');
 		menu_open = true;
+		_parent.lockOpenMenu();
 		$('#top #top-button-bg').addClass('open');
 		$('#systemOverlay').fadeTo(300, 1, _parent.blurWindows);
 		$('#systemOverlay input').focus();
@@ -470,6 +471,9 @@ function SystemOverlay($parent){
 		$('#menu').removeClass('dashOpen');
 		$('#top').addClass('dropShadow');
 		menu_open = false;
+		if(_parent.systemSettings.fullscreenCount() > 0){
+			_parent.lockCloseMenu();
+		}
 		$('#top #top-button-bg').removeClass('open');
 		$('#systemOverlay').fadeTo(300, 0, function(){
 			_this.hide();
@@ -481,10 +485,9 @@ function SystemOverlay($parent){
 	
 	this.resize = function(){
 		var shortcutsHalfWidth = $('#systemOverlay #shortcuts #shortcut-contents').width() / 2;
-		var appsLeft = ($(document).width() / 2) - shortcutsHalfWidth - 70;
+		var appsLeft = ($(document).width() / 2) - shortcutsHalfWidth - 90;
 		$('#systemOverlay #shortcuts #shortcut-contents').css('left',appsLeft);
-		$('#systemOverlay  .bottom-wrapper').css('left',($('#dash-bottom-bar').width() / 2) - ($('#dash-bottom-bar .bottom-wrapper').width() / 2));
-		//$('#systemOverlay  .bottom-wrapper').css('left',appsLeft + shortcutsHalfWidth);
+		$('#systemOverlay  .bottom-wrapper').css('left',appsLeft + shortcutsHalfWidth);
 		$('#systemOverlay').css('height',$(document).height() - 50);
 	}
 }

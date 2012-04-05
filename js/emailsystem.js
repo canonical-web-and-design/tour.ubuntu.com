@@ -77,14 +77,10 @@ function EmailSystem($parent){
 		$('#email-write .control .max').click(function(){
 			if(writeMaximised){
 				writeMaximised = false;
-				$('#email-write').css('width','900px');
-				$('#email-write').css('height','610px');
 				$('#email-write').removeClass('fullsize');
 				_parent.systemSettings.decreaseFullscreen();
 			}else{
 				writeMaximised = true;
-				$('#email-write').css('width',$(document).width() - 70 + 'px');
-				$('#email-write').css('height',$(document).height() - 50 + 'px');
 				$('#email-write').addClass('fullsize');
 				_parent.systemSettings.increaseFullscreen();
 			}
@@ -105,14 +101,10 @@ function EmailSystem($parent){
 		$('.email-window .control .max').click(function(){
 			if(maximised){
 				maximised = false;
-				$('.email-window').css('width','900px');
-				$('.email-window').css('height','600px');
 				$('.email-window').removeClass('fullsize');
 				_parent.systemSettings.decreaseFullscreen();
 			}else{
 				maximised = true;
-				$('.email-window').css('width',$(document).width() - 70 + 'px');
-				$('.email-window').css('height',$(document).height() - 50 + 'px');
 				$('.email-window').addClass('fullsize');
 				_parent.systemSettings.increaseFullscreen();
 			}

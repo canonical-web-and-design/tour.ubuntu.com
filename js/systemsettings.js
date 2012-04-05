@@ -87,6 +87,7 @@ function SystemSettings($parent){
 	
 	this.increaseFullscreen = function(){
 		_fullscreenCount++;
+		_parent.systemMenu.triggerJumpIn();
 		_parent.topShadow(false);
 	}
 	
@@ -95,6 +96,7 @@ function SystemSettings($parent){
 		if(_fullscreenCount <= 0){
 			_parent.topShadow(true);
 			_parent.noWIndowSelected();
+			_parent.systemMenu.triggerMenuOut();
 		}
 	}
 	

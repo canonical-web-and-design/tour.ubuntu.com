@@ -27,14 +27,10 @@ function MoviePlayerSystem($parent){
 		$('#movieplayer  .control .max').click(function(){
 			if(maximised){
 				maximised = false;
-				$('#movieplayer').css('width','700px');
-				$('#movieplayer').css('height','497px');
 				$('#movieplayer').removeClass('fullsize');
 				_parent.systemSettings.decreaseFullscreen();
 			}else{
 				maximised = true;
-				$('#movieplayer').css('width',$(document).width() - 70 + 'px');
-				$('#movieplayer').css('height',$(document).height() - 50 + 'px');
 				$('#movieplayer').addClass('fullsize');
 				_parent.systemSettings.increaseFullscreen();
 			}

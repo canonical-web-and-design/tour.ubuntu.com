@@ -63,14 +63,10 @@ function FileSystem($parent, $startingDir){
 		$('.folder .control .max').click(function(){
 			if(maximised){
 				maximised = false;
-				$('.folder').css('height','500px');
-				$('.folder').css('width','730px');
 				$('.folder').removeClass('fullsize');
 				_parent.systemSettings.decreaseFullscreen();
 			}else{
 				maximised = true;
-				$('.folder').css('height',$(document).height() - 50 + 'px');
-				$('.folder').css('width',$(document).width() - 70 + 'px');
 				$('.folder').addClass('fullsize');
 				_parent.systemSettings.increaseFullscreen();
 			}
