@@ -27,6 +27,7 @@
 			cursor: default;
 			font-family:"Ubuntu","Ubuntu Beta",Ubuntu, UbuntuBeta;
 		}
+		
 		a {
 			outline: none;
 			color:#DD4814;
@@ -96,15 +97,19 @@
 	    }
 	    
 		#menu{
-			background:url(../img/black-bg-40.png);
-			background:rgba(0,0,0,0.4);
+			background:#502737;
 			width:70px;
 			position:absolute;
 			left: 0px; 
     		top: 24px;	
-    		border-right: 1px solid #666;
+    		border-right: 1px solid #493240;
     		z-index: 10;
     		overflow:hidden;
+			-webkit-user-select: none;
+			-khtml-user-select: none;
+			-moz-user-select: none;
+			-o-user-select: none;
+			user-select: none;
 		}
 		
 		#menu.dashOpen{
@@ -131,12 +136,14 @@
 		#tooltip{
 			z-index: 10;
 			height:20px;
-			background:url(../img/black-bg-20.png);
-			background-color:rgba(0,0,0,0.2);
+			background:url("../img/menu/tooltip-background.png") repeat-x;
+			/*background-color:rgba(0,0,0,0.2);*/
+			border:1px solid #4a3742;
+			border-left:none;
 			display:none;
 			position: absolute;
 			left:82px;
-			padding:5px;
+			padding:3px 10px 2px 10px;
 			-moz-border-radius: 4px 4px 4px 4px;
 			-webkit-border-radius: 4px 4px 4px 4px;
 			border-radius: 4px 4px 4px 4px;
@@ -148,18 +155,25 @@
 			font-size:14px;
 			white-space:nowrap;
 		}
-		.arrow-right {
+		.arrow-right,
+		.shadow-arrow {
 		        width: 0;
 		        height: 0;
 		        border-top: 10px solid transparent;
 		        border-bottom: 10px solid transparent; 
-				border-right:10px solid rgb(0,0,0);
-		        border-right:10px solid rgba(0,0,0,0.5);
-		        margin-left:-16px;
-		        opacity: .5;
-		        filter: alpha(opacity=50);
-		        -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+				border-right:10px solid #1f171a;
+		        margin-left:-20px;
+		        /*opacity: .8;
+		        filter: alpha(opacity=80);
+		        -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";*/
 		        float:left;
+		}
+		.shadow-arrow{
+			border-right:12px solid #4a3742;
+			border-top: 12px solid transparent;
+		    border-bottom: 12px solid transparent; 
+			margin-left:-22px;
+			margin-top:-2px;
 		}
 		
 		#menu ul{
@@ -314,11 +328,10 @@
 		}
 		
 		#top.dropShadow{
-			-moz-box-shadow: 10px 0px 10px #000;
-		  	-webkit-box-shadow: 10px 0px 10px #000;
+				-moz-box-shadow: 10px 0px 10px #000;
+		  		-webkit-box-shadow: 10px 0px 10px #000;
 			box-shadow: 10px 0px 10px #000;
 		}
-		
 		#top #top-button-bg #top-button{
 			background: url('../img/topleft-button.png') no-repeat center center;
 			width:70px;
@@ -342,7 +355,7 @@
 		}
 		#top #top-right div{
 			float:left;
-			padding:0px 5px;
+			padding:0px 8px;
 			overflow:hidden;
 			
 		}
@@ -358,7 +371,6 @@
 			display:none;
 			z-index:10;
 		}
-		
 		.fullscreenTransOverlay{
 			position: absolute;
 			left:0px;
@@ -369,7 +381,6 @@
 			background:rgba(0, 0, 0, 0);
 			z-index:8;
 		}
-		
 		.fullscreenErrorTransOverlay{
 			position: absolute;
 			left:0px;
@@ -380,57 +391,46 @@
 			background:rgba(0, 0, 0, 0);
 			z-index:2;
 		}
-		
 		#top #top-right div .drop-down li.disabled{
 			color:#666;
 		}
-		
 		#top #top-right div .drop-down li.disabled:hover{
 			background:#464641;
 			color:#666;
 		}
-		
 		#top #top-right div .drop-down li:hover{
 			background:url(../img/top/drop-down-hover.jpg) repeat-x;
 			color:white;
 		}
-		
 		#top #top-right div ul li.divider:hover{
 			background:#3d3c39;
 		}
-		
 		#top #top-right #power .drop-down{
 			margin-left:-235px;
 			width:247px;
 		}
-		
 		#top #top-right #user .drop-down{
 			width:192px;
 			margin-left:-129px;
 		}
-		
 		#top #top-right #time .drop-down{
 			width:300px;
 			margin-left:-241px;
 			height: 297px;
 			margin-top:3px;
 		}
-		
 		#top #top-right #message .drop-down{
 			margin-left: -122px;
    			 width: 240px;
 		}
-		
 		#top #top-right #speakers .drop-down{
 			width:255px;
 			margin-left:-167px;
 		}
-		
 		#top #top-right #connection .drop-down{
 			width:219px;
 			margin-left: -75px;
 		}
-		
 		#top #top-right #bluetooth .drop-down{
 			width:208px;
 			margin-left: -45px;
@@ -651,9 +651,7 @@
 		
 .fullsize{
 	top:0px !important;
-	left:0px !important;
-	width:100% !important;
-	height:100% !important;
+	left:70px !important;
 }
 .fullsize .control .max{
 	background:url(../img/folder/resume.jpg) no-repeat;
