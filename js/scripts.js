@@ -78,11 +78,6 @@ function init(){
 	});
 	
 	$(document).mousemove(function(e){
-      		if(e.pageX < 15 && !systemMenu.isMenuOut()){
-					systemMenu.triggerMenuOut();
-      		}else if(e.pageX > 70 && systemMenu.getTimer() == null && systemMenu.isMenuOut()  && systemSettings.fullscreenCount()){
-      				systemMenu.triggerMenuIn();
-      		}
       		if(movingFolder != null){
       			movingFolder.css('left', e.pageX - folderXOffset);
       			movingFolder.css('top',Math.max(24, e.pageY - folderYOffset));
@@ -273,7 +268,6 @@ function closeTopRightDropDowns(){
 	$('.fullscreenTransOverlay').unbind('click');
 	$('.fullscreenTransOverlay').remove();
 	$('#top #top-right div').unbind('mouseover');
-	systemMenu.setLocked(false);
 }
 
 function addTransOverlay(){
@@ -404,20 +398,6 @@ function setupShotwellSystem(){
 	
 	shotwellSystem = new ShotwellSystem(this);
 	shotwellSystem.init();
-}
-
-function lockOpenMenu(){
-	if(!systemMenu.isMenuOut()){
-			systemMenu.triggerMenuOut();
-	}
-	systemMenu.setLocked(true);
-}
-
-function lockCloseMenu(){
-	if(systemMenu.isMenuOut()){
-			systemMenu.triggerMenuIn();
-	}
-	systemMenu.setLocked(false);
 }
 
 function topShadow($display){

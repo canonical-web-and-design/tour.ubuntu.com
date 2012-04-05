@@ -7,8 +7,8 @@
 	width:100%;
 	height:100%;
 	position: absolute;
-	background:url(../img/dash-bg-60.png);
-	background-color:rgba(42, 23, 30, 0.6);
+	/*background:url(../img/dash-bg-60.png);*/
+	background-color:rgba(128, 69, 86, 0.7);
 	top:0px;
 	left:0px;
 	z-index:12;
@@ -194,17 +194,16 @@
 }
 
 #systemOverlay #dash-bottom-bar .bottom-wrapper div{
-	width:30px;
-	height:30px;
+	width:60px;
+	height:44px;
 	float:left;
-	margin-right:36px;
 }
 #systemOverlay #dash-bottom-bar .bottom-wrapper div.last{
 	margin-right:0px;
 }
 
 #systemOverlay #dash-bottom-bar .bottom-wrapper{
-	width:	230px;
+	width:295px;
 	position: absolute;
 }
 
@@ -212,7 +211,7 @@
 	background:url(../img/dash/dash-home.png) no-repeat scroll 0px -30px;
 }
 #systemOverlay #dash-bottom-bar .applications-icon{
-	background:url(../img/dash/dash-applications.png) no-repeat scroll 0px -30px;
+	background:url(../img/dash/dash-applications.png) no-repeat scroll 0px -44px;
 }
 #systemOverlay #dash-bottom-bar .music-icon{
 	background:url(../img/dash/dash-music.png) no-repeat scroll 0px -30px;
@@ -221,7 +220,15 @@
 	background:url(../img/dash/dash-files.png) no-repeat scroll 0px -30px;
 }
 
-#systemOverlay #dash-bottom-bar div.active{
+#systemOverlay #dash-bottom-bar .video-icon{
+	background:url(../img/dash/dash-video.png) no-repeat scroll 0px -30px;
+}
+
+#systemOverlay #dash-bottom-bar .bottom-wrapper div:hover{
+	background-position: 0px -88px;
+}
+#systemOverlay #dash-bottom-bar div.active,
+#systemOverlay #dash-bottom-bar div.active:hover{
 	background-position: 0px 0px;
 }
 
