@@ -38,7 +38,6 @@ function ErrorMessage($parent){
 		$('.error-window').show();
 		$('.error-window ').trigger('mousedown');
 		$('body').append('<div class="fullscreenErrorTransOverlay"></div>');
-		systemMenu.setLocked(true);
 		$('.fullscreenErrorTransOverlay').bind('click',function(){
 			_this.close();
 		});
@@ -53,7 +52,6 @@ function ErrorMessage($parent){
 		if($('.error-window').is(':visible')){
 			$('.fullscreenErrorTransOverlay').unbind('click');
 			$('.fullscreenErrorTransOverlay').remove();
-			systemMenu.setLocked(false);
 			$('.error-window').hide();
 			this.center();
 		}
