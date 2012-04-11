@@ -83,49 +83,49 @@ function SoftwareSystem($parent){
 					thePrice = _price_free_;
 					theName = _chromium_app_;
 					theSub = _chromium_sub_;
-					theImage = 'img/software-centre/logo-chromium.png';
+					theImage = '../img/software-centre/logo-chromium.png';
 					theDescription = _chromium_desc_;
-					theDesctiptionImage = 'img/software-centre/screenshot-chromium.jpg';
+					theDesctiptionImage = '../img/software-centre/screenshot-chromium.jpg';
 				break;
 				case 'beep':
 					thePrice = '$9.99';
 					theName = _beep_app_;
 					theSub = _beep_sub_;
-					theImage = 'img/software-centre/logo-beep.png';
+					theImage = '../img/software-centre/logo-beep.png';
 					theDescription = _beep_desc_;
-					theDesctiptionImage = 'img/software-centre/screenshot-beep.jpg';
+					theDesctiptionImage = '../img/software-centre/screenshot-beep.jpg';
 				break;
 				case 'inkscape':
 					thePrice = _price_free_;
 					theName = _inkscape_app_;
 					theSub = _inkscape_sub_;
-					theImage = 'img/software-centre/logo-inkscape.png';
+					theImage = '../img/software-centre/logo-inkscape.png';
 					theDescription = _inkscape_desc_;
-					theDesctiptionImage = 'img/software-centre/screenshot-inkscape.jpg';
+					theDesctiptionImage = '../img/software-centre/screenshot-inkscape.jpg';
 				break;
 				case 'worldofgoo':
 					thePrice = '$19.95';
 					theName = _world_of_goo_app_;
 					theSub = _world_of_goo_sub_;
-					theImage = 'img/software-centre/logo-world-of-goo.png';
+					theImage = '../img/software-centre/logo-world-of-goo.png';
 					theDescription = _world_of_goo_desc_;
-					theDesctiptionImage = 'img/software-centre/screenshot-worldofgoo.jpg';
+					theDesctiptionImage = '../img/software-centre/screenshot-worldofgoo.jpg';
 				break;
 				case 'blender':
 					thePrice = _price_free_;
 					theName = _blender_app_;
 					theSub = _blender_sub_;
-					theImage = 'img/software-centre/logo-blender.png';
+					theImage = '../img/software-centre/logo-blender.png';
 					theDescription = _blender_desc_;
-					theDesctiptionImage = 'img/software-centre/screenshot-blender.jpg';
+					theDesctiptionImage = '../img/software-centre/screenshot-blender.jpg';
 				break;
 				case 'braid':
 					thePrice = '$9.99';
 					theName = _braid_app_;
 					theSub = _braid_sub_;
-					theImage = 'img/software-centre/logo-braid.png';
+					theImage = '../img/software-centre/logo-braid.png';
 					theDescription = _braid_desc_;
-					theDesctiptionImage = 'img/software-centre/screenshot-braid.jpg';
+					theDesctiptionImage = '../img/software-centre/screenshot-braid.jpg';
 				break;
 				default:
 					_parent.errorMessage.open();

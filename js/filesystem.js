@@ -245,6 +245,8 @@ function FileSystem($parent, $startingDir){
 		for(i = 0; i < dir_history.length; i++ ){
 			var dir_name = dir_history[i].split('/');
 			dir_name = dir_name[dir_name.length-1];
+			if(i == 0){dir_name = '<img src="../img/folder/home-icon.png"/>' + dir_name}
+			if($.trim(dir_name) == 'Desktop'){dir_name = '<img src="../img/folder/desktop-icon.png"/>' + dir_name}
 			if(i == history_index){
 				breadcrumb += '<div data-id="'+i+'" class="selected">'+dir_name+'</div>';
 			}else{

@@ -35,15 +35,15 @@
 		-moz-border-radius:4px 4px 4px 4px;
 		-webkit-border-radius:4px 4px 4px 4px;
 	border-radius:4px 4px 4px 4px;
+	background-position: 0 -29px;
+}
+#folder-window .folder-contents .bottom-buttons div img{
+	margin-top: -4px;
+	vertical-align: middle;
 }
 
 #folder-window .folder-contents .bottom-buttons span{
 	color:white;
-}
-
-#folder-window .folder-contents .bottom-buttons div.selected{
-	background-position: 0 -29px;
-	font-weight:bold;
 }
 
 .folder .folder-list{

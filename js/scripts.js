@@ -162,11 +162,12 @@ function setupTopMenu(){
 			});
 		}else{
 			$('#top #top-right div').unbind('mouseover');
-			systemMenu.setLocked(false);
+			//systemMenu.setLocked(false);
 		}
 	});
 	
 	$('#top #top-right div ul li').bind('click',function(){
+		console.log($(this).text())
 		switch($(this).text()){
 			case _turn_off_bluetooth_:
 				systemSettings.setBluetooth(false);
@@ -227,11 +228,11 @@ function setupTopMenu(){
 	});
 	
 	$('#top #top-right #speakers .banshee').mouseover(function(){
-		$('#top #top-right #speakers .banshee .banshee-play').css('background-image','url(img/top/banshee-play-highlight.png)');
+		$('#top #top-right #speakers .banshee .banshee-play').css('background-image','url(../img/top/banshee-play-highlight.png)');
 	});
 	
 	$('#top #top-right #speakers .banshee').mouseout(function(){
-		$('#top #top-right #speakers .banshee .banshee-play').css('background-image','url(img/top/banshee-play.png)');
+		$('#top #top-right #speakers .banshee .banshee-play').css('background-image','url(../img/top/banshee-play.png)');
 	});
 	
 }
@@ -239,7 +240,7 @@ function setupTopMenu(){
 function sliderUpdate($percent, $muted){
 	var active = parseInt((195 * $percent) / 100);
 	if(active < 10){ active = 0; }
-	//$('#top #top-right #speakers .drop-down .slider-active').css('width',active);
+	$('#top #top-right #speakers .drop-down .slider-active').css('width',active);
 	var imageIndex = 0;
 	if(systemSettings.mute()){
 		imageIndex = 0;
@@ -259,7 +260,7 @@ function sliderUpdate($percent, $muted){
 			$('#top #top-right #speakers .slider').slider({value: systemSettings.volume()});
 		}
 	}
-	$('#top #top-right #speakers img.speakers-logo').attr('src', 'img/top/speakers'+imageIndex+'.png');
+	$('#top #top-right #speakers img.speakers-logo').attr('src', '../img/top/speakers'+imageIndex+'.png');
 }
 
 function closeTopRightDropDowns(){
@@ -272,7 +273,7 @@ function closeTopRightDropDowns(){
 
 function addTransOverlay(){
 	$('body').append('<div class="fullscreenTransOverlay"></div>');
-	systemMenu.setLocked(true);
+	//systemMenu.setLocked(true);
 	$('.fullscreenTransOverlay').bind('click',function(){
 		closeTopRightDropDowns();
 	});
