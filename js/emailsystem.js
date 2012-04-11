@@ -369,7 +369,7 @@ function EmailSystem($parent){
 				$('.email-window .email-contents .email-body .message-header .cc').hide();
 			}
 			$('.email-window .email-contents .email-body div').show();
-			var contentHeight = $('.email-window .email-contents .email-body').height() - ($('.email-window .email-contents .email-body .message-header').height() + 41);
+			var contentHeight = $('.email-window .email-contents .email-body').height() - ($('.email-window .email-contents .email-body .message-header').height() + 21);
 			if(emails[selectedID].fire()){
 				contentHeight -= 39;
 				$('.message-header .email-buttons span.message-junk').hide();
@@ -465,7 +465,7 @@ function EmailSystem($parent){
 	
 	this.setupRandomReply = function($email){
 		var randomIndex = Math.floor(Math.random() * randomReplies.length);
-		var body = randomReplies[randomIndex]+'\n\n'+_on_+' '+$email.date()+', '+$email.from()+' '+_fwd_+' '+_wrote_+': \n\n'+$email.body();
+		var body = randomReplies[randomIndex]+'\n\n'+$.trim(_on_)+' '+$.trim($email.date())+', '+$.trim($email.from())+' '+$.trim(_fwd_)+' '+$.trim(_wrote_)+': \n\n'+$email.body();
 		var messageSubject = $email.subject();
 		if(messageSubject.substr(0, 3) != 'Re:'){ messageSubject = 'Re: '+messageSubject; }
 		emails.push(new Email(emails.length, 'inbox', messageSubject, body,$email.to(), _you_));

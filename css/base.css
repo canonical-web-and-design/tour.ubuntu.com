@@ -502,7 +502,7 @@
 		#top #top-right #speakers .small-icon{
 			background:url(../img/top/0slider.jpg) no-repeat;
 			height:15px;
-			width: 15px;
+			width: 7px;
 			margin-top: 12px;
 		}
 		
@@ -577,6 +577,7 @@
 			border-radius:5px 5px 5px 5px;
 			background:#dd4814;
 			height: 5px;
+			width:60px;
     		margin-left: 26px;
   		 	margin-top: -15px;
 		    position: relative;
@@ -591,7 +592,7 @@
 		#top #top-right #speakers .large-icon{
 			background:url(../img/top/100slider.jpg) no-repeat;
 			height:15px;
-			width: 15px;
+			width: 7px;
 			float:right;
 			margin-top: 12px;
 		}
