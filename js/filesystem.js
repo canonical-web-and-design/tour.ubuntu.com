@@ -123,11 +123,7 @@ function FileSystem($parent, $startingDir){
 	}
 	
 	this.isMinified = function(){ return minified; }
-	
-	this.isMaximised = function(){
-	   	return maximised;
-	}
-	
+	this.isMaximised = function(){ return maximised; }
 	this.in_bin = function (){ return _in_bin; };
 	
 	this.close = function(){
@@ -154,7 +150,7 @@ function FileSystem($parent, $startingDir){
 		  	$(this).addClass("over");
 		});
 		
-		$('.folder-contents .contents div').draggable({ 
+		/*$('.folder-contents .contents div').draggable({ 
 			revert: true, 
 			opacity: 0.35, 
 			zIndex: 2700, 
@@ -164,7 +160,7 @@ function FileSystem($parent, $startingDir){
 		 	end: function(event, ui) { 
 				//_parent.lockCloseMenu();
 		 	}
-		 });
+		 });*/
 		
 		$('.folder-contents .contents div').mouseout(function() {
 			$(this).removeClass("over");
@@ -172,14 +168,14 @@ function FileSystem($parent, $startingDir){
 		
 		$('.folder-contents .contents').mousedown(function(){
 			$('.folder-contents .contents div').removeClass("selected");
+			$('.selected-details').hide();
 		 });
 			 
 		$('.folder-contents .contents div').mousedown(function(event) {
 			event.stopPropagation();
 			$('.folder-contents .contents div').removeClass("selected");
 		  	$(this).addClass("selected");
-		  	var index = parseInt($(this).attr('data-id'));
-		  	$('.file-details').text('"'+list_of_files[index].name()+'" selected, Free space: 6.2 GB');
+		  	_this.showSelectedDetails(parseInt($(this).attr('data-id')));
 		});
 		
 		$('.folder-contents .contents div').dblclick(function() {
@@ -210,6 +206,24 @@ function FileSystem($parent, $startingDir){
 	 	 });
 	}
 	
+	this.showSelectedDetails = function($index){
+		var detailsName = list_of_files[$index].name();
+		var detailsCount = 0;
+		if(list_of_files[$index].type() == 'folder'){
+			var i = list_of_files.length;
+			while(i--){
+				if(list_of_files[i].location() == list_of_files[$index].location()+'/'+detailsName){
+					detailsCount++;
+				}
+			}
+			$('.selected-details').text('"'+detailsName+'" selected (containing '+detailsCount+' items)');
+		}else{
+			$('.selected-details').text('"'+detailsName+'" selected ('+list_of_files[$index].size()+')');
+		}
+		
+		$('.selected-details').show();
+	}
+	
 	this.setupBreadcrumbControl = function(){
 		$('.folder-contents .bottom-buttons div').bind('click',function() {
 		  	$(this).addClass("selected");
@@ -225,6 +239,7 @@ function FileSystem($parent, $startingDir){
 			var i = (dir_history.length - 1) - dirExists;
 			while(i--){ dir_history.pop()  }
 		}
+		$('.selected-details').hide();
 	}
 	
 	this.refresh = function (){
@@ -357,7 +372,7 @@ function FileSystem($parent, $startingDir){
 		folderContentsWidth = $('.folder').width() - 146;
 		folderListHeight = $('.folder').height() - 51;
 		$('.folder .folder-list .list').css('height',folderListHeight);
-		$('.folder .folder-contents .contents').css('height',folderListHeight - 20);
+		$('.folder .folder-contents .contents').css('height',folderListHeight - 15);
 		$('.folder .folder-contents .contents').css('width',folderContentsWidth);
 	}
 }

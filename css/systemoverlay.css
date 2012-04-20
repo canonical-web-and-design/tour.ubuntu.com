@@ -53,6 +53,9 @@
 #systemOverlay #shortcuts:hover{
 	background-position: 0px -17px;
 }
+#systemOverlay img{
+	vertical-align: text-top;
+}
 #systemOverlay #shortcuts img{
 	vertical-align: middle;
 	margin-right:15px;

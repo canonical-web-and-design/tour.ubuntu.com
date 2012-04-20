@@ -29,7 +29,7 @@ function SystemMenu($parent){
 	     
 	     $('#menu ul li').click(function() {
 	     	var theClass = $(this).attr("class").replace(' bottom','');
-	     	theClass = theClass.replace(' temp', '');
+	     	theClass = theClass.replace(' temp', '').replace(' glow', '');
 	     	_this.handleMenuClick(theClass);
 	     });
 	     
@@ -231,7 +231,12 @@ function SystemMenu($parent){
 	this.wiggle = function($icon){
 		$('#menu').css('overflow','visible');
 		_parent.noWIndowSelected();
-		$("#menu ul li."+$icon).stop(true,false).animate({"marginLeft": "30px"}, "1000") .animate({"marginLeft": "0px"}, "1000", function(){ $('#menu').css('overflow','hidden'); });
+		//$("#menu ul li."+$icon).stop(true,false).animate({"marginLeft": "30px"}, "1000") .animate({"marginLeft": "0px"}, "1000", function(){ $('#menu').css('overflow','hidden'); });
+		$("#menu ul li."+$icon).addClass('glow').delay(600).queue(function(next){
+		    $(this).removeClass("glow");
+		    next();
+		});
+
 	}
 	
 	this.closeWindow = function($icon){
@@ -252,66 +257,6 @@ function SystemMenu($parent){
 		$("#menu ul li."+$icon+" img").show();
 		this.scrollCheck();
 	}
-	
-	/*this.triggerMenuOut = function() {
-			if(!locked){
-				goingIn = false;
-				menuOut = true;
-				$('#menu').animate({
-						left: '0px'
-				 }, 300, function() {
-					 	
-				 });
-			}
-	}
-	
-	this.triggerMenuIn = function() {
-		if(!locked){
-			goingIn = true;
-			menuTimeout = setTimeout(function() {
-			$('#menu').animate({
-						left: '-70px'
-				 }, 300, function() {
-				 		menuOut = false;
-				 		menuTimeout = null;
-				 });
-			}, 1000);
-		}
-	}
-	
-	this.triggerJumpIn = function() {
-		if(!locked){
-			goingIn = true;
-			menuTimeout = setTimeout(function() {
-			$('#menu').animate({
-						left: '-70px'
-				 }, 300, function() {
-				 		menuOut = false;
-				 		menuTimeout = null;
-				 });
-			});
-		}
-	}
-	
-	this.setLocked = function($locked){
-		locked = $locked;
-	}
-	
-	this.menuGoingIn = function(){
-		return goingIn;
-	}
-	
-	this.isRunning = function(){
-		return (menuTimeout != null);
-	}
-	
-	this.getTimer = function(){
-		return menuTimeout;
-	}
-	
-	this.isMenuOut = function(){
-		return menuOut;
-	}*/
 	
 }
 

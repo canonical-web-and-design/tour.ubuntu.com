@@ -248,8 +248,8 @@ function ShotwellSystem($parent){
 	  }*/
 	
 	this.resize = function(){
-		var topPadding = ($('#shotwell .container .images').height() - $('#shotwell .container .images .large img').height()) /2;
-		 $('#shotwell .container .images .large img').css('margin-top',topPadding+'px');
+		/*var topPadding = ($('#shotwell .container .images').height() - $('#shotwell .container .images .large img').height()) /2;
+		 $('#shotwell .container .images .large img').css('margin-top',topPadding+'px');*/
 		 var imageContainerWIdth = $('#shotwell').width() - 228;
 		 $('#shotwell .container').css('width',imageContainerWIdth);
 		 var imageContainerHeight = $('#shotwell').height() - 33;
