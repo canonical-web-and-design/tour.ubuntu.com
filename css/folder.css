@@ -40,6 +40,7 @@
 #folder-window .folder-contents .bottom-buttons div img{
 	margin-top: -4px;
 	vertical-align: middle;
+	margin-right: 3px;
 }
 
 #folder-window .folder-contents .bottom-buttons span{
@@ -83,9 +84,20 @@
 
 .folder .contents{
 	background-color:#f1f0ef;
-	height: 423px;
+	height: 434px;
     overflow: auto;
     width: 584px;
+}
+
+.folder .selected-details{
+	min-width:25px;
+	height:19px;
+	float:left;
+	background:#fcfcbd;
+	margin-top:-21px;
+	border:1px solid #dbdb5a;
+	padding: 0 4px;
+	display:none;
 }
 
 .folder .file-details{

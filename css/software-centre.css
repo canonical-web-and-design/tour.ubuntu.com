@@ -92,8 +92,11 @@
 
 #software-centre .header-image{
 	width:100%;
-	height:200px;
-	background:url(../img/software-centre/header.jpg) no-repeat scroll 0 15px #ffffff;
+	background: url("../img/software-centre/header.jpg") no-repeat scroll 0 0 #FFFFFF;
+    height: 188px;
+    	-moz-box-shadow: 0 1px 2px #888888;
+		-webkit-box-shadow: 0 1px 2px #888888;
+	box-shadow: 0 1px 2px #888888;
 }
 
 #software-centre .header-image span{

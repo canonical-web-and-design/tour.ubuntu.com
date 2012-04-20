@@ -200,8 +200,8 @@ function SystemOverlay($parent){
 			while(i--){
 				tempArray = this.totalApps[i].name.match(patt1);
 				if(tempArray != null){
-					if(this.totalApps[i].image.substr(0,4) == 'img/'){
-						listContents += '<div><img src="../'+this.totalApps[i].image+'" /><p>'+this.totalApps[i].name+'</p></div>';
+					if(this.totalApps[i].image.substr(0,7) == '../img/'){
+						listContents += '<div><img src="'+this.totalApps[i].image+'" /><p>'+this.totalApps[i].name+'</p></div>';
 					}else{
 						listContents += '<div><img src="../img/applications/'+this.totalApps[i].image+'" /><p>'+this.totalApps[i].name+'</p></div>';
 					}
@@ -217,7 +217,7 @@ function SystemOverlay($parent){
 			this.hideAll();
 			$('#systemOverlay #display-search .files .app-list').html(listFilesContents);
 			$('#systemOverlay #display-search .applications .app-list').html(listContents);
-			//$('#systemOverlay input').css('background-image','url(img/overlay/cancel-logo.png)')
+			
 			$('#systemOverlay #display-search').show();
 			$('#systemOverlay .app-container .app-list div').bind('mouseover', function(){
 				$('img',this).addClass('hover');
@@ -277,7 +277,6 @@ function SystemOverlay($parent){
 	}
 	
 	this.displayHome = function(){
-		console.log('displayHome');
 		var mostUsedArray;
 		var listContents = '';
 		var mostUsedContents = '';
@@ -288,8 +287,8 @@ function SystemOverlay($parent){
 		downloadApps.sort(this.randOrd);
 		fileList = _parent.fileSystem.getFiles();
 		for(var i = 0; i < appArray.length; i++){
-			if(appArray[i].image.substr(0,4) == 'img/'){
-				listContents += '<div><img src="../'+appArray[i].image+'" /><p>'+appArray[i].name+'</p></div>';
+			if(appArray[i].image.substr(0,7) == '../img'){
+				listContents += '<div><img src="'+appArray[i].image+'" /><p>'+appArray[i].name+'</p></div>';
 			}else{
 				listContents += '<div><img src="../img/applications/'+appArray[i].image+'" /><p>'+appArray[i].name+'</p></div>';
 			}
@@ -299,8 +298,8 @@ function SystemOverlay($parent){
 				mostUsedContents += this.getDisplayIcon(fileList[i], i);
 			}
 		}
-		fileList.sort(this.randOrd);
-		for(var i = 0; i < fileList.length; i++){
+		var i = fileList.length;
+		while(i--){
 			if(fileList[i].type() != 'folder'){
 				downloadedContents += this.getDisplayIcon(fileList[i], i);
 			}
@@ -308,6 +307,7 @@ function SystemOverlay($parent){
 		$('#systemOverlay #display-home .recent-apps .app-list').html(listContents);
 		$('#systemOverlay #display-home .recent-files .app-list').html(mostUsedContents);
 		$('#systemOverlay #display-home .downloads .app-list').html(downloadedContents);
+		$('#systemOverlay #display-find-files .downloads .app-list').html(downloadedContents);
 		
 		$('#systemOverlay .app-container .app-list div').bind('mouseover', function(){
 			$('img',this).addClass('hover');
@@ -315,10 +315,15 @@ function SystemOverlay($parent){
 		$('#systemOverlay .app-container .app-list div').bind('mouseout', function(){
 			$('img',this).removeClass('hover');
 		});
-		$('#systemOverlay .app-container .app-list div').bind('click', function(){
+		$('#systemOverlay #display-home .recent-apps .app-list div').bind('click', function(){
 			_this.appClicked($('img', this).attr('src'), ($(this).attr('data-type') == 'download'));
 		});
-		
+		$('#systemOverlay #display-home .recent-files .app-list div').bind('click', function(){
+			_this.fileClicked($(this).attr('data-id'));
+		});
+		$('#systemOverlay #display-home .downloads .app-list div').bind('click', function(){
+			_this.fileClicked($(this).attr('data-id'));
+		});
 		
 	}
 	
@@ -426,7 +431,7 @@ function SystemOverlay($parent){
 			$('img',this).removeClass('hover');
 		});
 		$('#systemOverlay .app-container .app-list div').bind('click', function(){
-			_this.appClicked($('img', this).attr('src'), ($(this).attr('data-type') == 'download'));
+			_this.fileClicked($(this).attr('data-id'));
 		});
 	}
 	

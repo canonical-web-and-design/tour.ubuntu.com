@@ -469,7 +469,7 @@
 
 #write-body textarea{
 	width:894px;
-	height:360px;
+	height:350px;
 }
 
 #email-write input{
@@ -478,7 +478,7 @@
 	border: 1px solid #ada9a5;
 	-webkit-border-radius:2px 2px 2px 2px;
 	-moz-border-radius:2px 2px 2px 2px;
-	border-radius:2px 2px 2px 2px;	
+	border-radius:2px 2px 2px 2px;
 	padding:2px;
 }
 

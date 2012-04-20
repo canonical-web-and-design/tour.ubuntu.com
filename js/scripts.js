@@ -167,8 +167,7 @@ function setupTopMenu(){
 	});
 	
 	$('#top #top-right div ul li').bind('click',function(){
-		console.log($(this).text())
-		switch($(this).text()){
+		switch($.trim($(this).text())){
 			case _turn_off_bluetooth_:
 				systemSettings.setBluetooth(false);
 				$(this).text(_turn_on_bluetooth_);
@@ -378,7 +377,7 @@ function closeAllWindows($tourIndex){
 function setupShotwellSystem(){
 	fileLibrary.push(new File(fileLibrary.length,'../img/shotwell/library/Buckoff.jpg','photo', _buck_off_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
 	fileLibrary.push(new File(fileLibrary.length,'../img/shotwell/library/DarkeningClockwork.jpg','photo', _darkening_clockwork_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
-	fileLibrary.push(new File(fileLibrary.length,'../img/shotwell/library/DybbølsbroStation.jpg','photo', _dybbølsbro_station_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'../img/shotwell/library/DybblsbroStation.jpg','photo', _dybbølsbro_station_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
 	fileLibrary.push(new File(fileLibrary.length,'../img/shotwell/library/FedericaMiglio.jpg','photo', _federica_miglio_title_, _photo_size_, _photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
 	fileLibrary.push(new File(fileLibrary.length,'../img/shotwell/library/JardinPolar.jpg','photo', _jardin_polar_title_, _photo_size_, _photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
 	fileLibrary.push(new File(fileLibrary.length,'../img/shotwell/library/LangelinieAlle.jpg','photo', _langelinie_alle_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
