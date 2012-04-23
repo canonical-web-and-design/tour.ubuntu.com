@@ -9,6 +9,7 @@ install-data-hook:
 	cp -f translate-html/build/bin/translate-html translate-html/bin/ 
 	python translate-html/bin/translate-html --translate
 	mkdir -p $(DESTDIR)$(docdir)
+	cp -a $(srcdir)/chromeless $(DESTDIR)$(docdir)
 	cp -a $(srcdir)/css $(DESTDIR)$(docdir)
 	cp -a $(srcdir)/img $(DESTDIR)$(docdir)
 	cp -a $(srcdir)/js $(DESTDIR)$(docdir)
