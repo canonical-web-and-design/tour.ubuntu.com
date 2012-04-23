@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<window id="UbuntuOnlineTour" title="Ubuntu Online Tour"
+        width="1024" height="768"
+        xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+    <browser src="file:///usr/share/doc/ubuntu-online-tour/zh-CN/index.html" flex="1" />
+
+</window>
+
