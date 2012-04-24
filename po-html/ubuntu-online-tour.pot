@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2012-01-20 13:28:52.542609\n"
-"PO-Revision-Date: 2012-01-20 13:28:52.542609\n"
+"POT-Creation-Date: 2012-04-24 11:09:27.171586\n"
+"PO-Revision-Date: 2012-04-24 11:09:27.171586\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: English <yourteam@example.com>\n"
 "MIME-Version: 1.0\n"
@@ -16,9 +16,7 @@ msgid "Firefox Web Browser"
 msgstr ""
 
 #: ../en/index.html
-msgid ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
+msgid "Lock Screen"
 msgstr ""
 
 #: ../en/index.html
@@ -43,11 +41,11 @@ msgid "Desktop"
 msgstr ""
 
 #: ../en/index.html
-msgid "Get Mail"
+msgid "Thanks for exploring Ubuntu!"
 msgstr ""
 
 #: ../en/index.html
-msgid "Junk Mail"
+msgid "PiTiVi Video Editor"
 msgstr ""
 
 #: ../en/index.html
@@ -75,7 +73,7 @@ msgid "Manipulate the flow of time to solve puzzles"
 msgstr ""
 
 #: ../en/index.html
-msgid "Files"
+msgid "中文"
 msgstr ""
 
 #: ../en/index.html
@@ -138,10 +136,6 @@ msgid "Gwibber Social Client"
 msgstr ""
 
 #: ../en/index.html
-msgid "History"
-msgstr ""
-
-#: ../en/index.html
 msgid "Happyness"
 msgstr ""
 
@@ -154,7 +148,7 @@ msgid "PCB CNC converter"
 msgstr ""
 
 #: ../en/index.html
-msgid "Webcam"
+msgid "On"
 msgstr ""
 
 #: ../en/index.html
@@ -178,10 +172,6 @@ msgid "Top Rated"
 msgstr ""
 
 #: ../en/index.html
-msgid "Banshee"
-msgstr ""
-
-#: ../en/index.html
 msgid "Compatible"
 msgstr ""
 
@@ -194,11 +184,15 @@ msgid "From"
 msgstr ""
 
 #: ../en/index.html
+msgid "Get Mail"
+msgstr ""
+
+#: ../en/index.html
 msgid "Auto eth0"
 msgstr ""
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
+msgid "Recent Files"
 msgstr ""
 
 #: ../en/index.html
@@ -262,6 +256,10 @@ msgid "Music"
 msgstr ""
 
 #: ../en/index.html
+msgid "Rhythmbox"
+msgstr ""
+
+#: ../en/index.html
 msgid "Education"
 msgstr ""
 
@@ -295,10 +293,6 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr ""
-
-#: ../en/index.html
-msgid "Sound Recorder"
 msgstr ""
 
 #: ../en/index.html
@@ -342,7 +336,7 @@ msgid "AisleRoit Solitaire"
 msgstr ""
 
 #: ../en/index.html
-msgid "Printers"
+msgid "Rock Out"
 msgstr ""
 
 #: ../en/index.html
@@ -392,35 +386,19 @@ msgid "Your Ubuntu, your way"
 msgstr ""
 
 #: ../en/index.html
-msgid "Local"
-msgstr ""
-
-#: ../en/index.html
 msgid "Time &amp; Date Settings…"
 msgstr ""
 
 #: ../en/index.html
-msgid "PiTiVi Video Editor"
+msgid "Recently Used"
 msgstr ""
 
 #: ../en/index.html
-msgid "Unmute"
+msgid "Cancel"
 msgstr ""
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr ""
-
-#: ../en/index.html
-msgid ""
-"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
-"player, camera or printer and you’ll be up and running straight away. No "
-"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
-"open, edit and share Microsoft Office documents stress-free."
-msgstr ""
-
-#: ../en/index.html
-msgid "World of Goo"
 msgstr ""
 
 #: ../en/index.html
@@ -444,7 +422,7 @@ msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
 
 #: ../en/index.html
-msgid "Turn Off Bluetooth"
+msgid "Clear"
 msgstr ""
 
 #: ../en/index.html
@@ -490,7 +468,7 @@ msgid "Stalking Ocelot"
 msgstr ""
 
 #: ../en/index.html
-msgid "Cancel"
+msgid "System Settings…"
 msgstr ""
 
 #: ../en/index.html
@@ -634,7 +612,7 @@ msgid "Archive"
 msgstr ""
 
 #: ../en/index.html
-msgid "Download"
+msgid "Recent Apps"
 msgstr ""
 
 #: ../en/index.html
@@ -702,7 +680,7 @@ msgid "Keep you firefox bookmarks and Tomboy notes synced"
 msgstr ""
 
 #: ../en/index.html
-msgid "Thunderbird Mail/News"
+msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
 
 #: ../en/index.html
@@ -718,7 +696,7 @@ msgid "Browse the web"
 msgstr ""
 
 #: ../en/index.html
-msgid "More Apps"
+msgid "Local"
 msgstr ""
 
 #: ../en/index.html
@@ -728,7 +706,7 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Find Files"
+msgid "World of Goo"
 msgstr ""
 
 #: ../en/index.html
@@ -812,7 +790,7 @@ msgid "Chromium Web Browser"
 msgstr ""
 
 #: ../en/index.html
-msgid "Browse the Web"
+msgid "Sound Recorder"
 msgstr ""
 
 #: ../en/index.html
@@ -824,7 +802,7 @@ msgid "Fast"
 msgstr ""
 
 #: ../en/index.html
-msgid "Not Junk"
+msgid "Recent"
 msgstr ""
 
 #: ../en/index.html
@@ -881,7 +859,9 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Folders"
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
 
 #: ../en/index.html
@@ -905,21 +885,11 @@ msgid "Subject:"
 msgstr ""
 
 #: ../en/index.html
-msgid "Turn On Bluetooth"
-msgstr ""
-
-#: ../en/index.html
 msgid "Backup"
 msgstr ""
 
 #: ../en/index.html
-msgid "The Power of Your Personal Cloud"
-msgstr ""
-
-#: ../en/index.html
-msgid ""
-"Some of the import and export features are provided using the packages dia, "
-"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgid "History"
 msgstr ""
 
 #: ../en/index.html
@@ -943,19 +913,11 @@ msgid "Themes &amp; Tweaks"
 msgstr ""
 
 #: ../en/index.html
-msgid "Shortcuts"
-msgstr ""
-
-#: ../en/index.html
-msgid "Check Email"
-msgstr ""
-
-#: ../en/index.html
-msgid "Internet Apps"
-msgstr ""
-
-#: ../en/index.html
-msgid "Library"
+msgid ""
+"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
+"player, camera or printer and you’ll be up and running straight away. No "
+"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
+"open, edit and share Microsoft Office documents stress-free."
 msgstr ""
 
 #: ../en/index.html
@@ -963,11 +925,15 @@ msgid "work"
 msgstr ""
 
 #: ../en/index.html
+msgid "Library"
+msgstr ""
+
+#: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr ""
 
 #: ../en/index.html
-msgid "System Settings…"
+msgid "Thunderbird Mail"
 msgstr ""
 
 #: ../en/index.html
@@ -975,6 +941,10 @@ msgid ""
 "Chromium serves as a base for Google Chrome, which is Chromium rebranded "
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
+msgstr ""
+
+#: ../en/index.html
+msgid "Not Junk"
 msgstr ""
 
 #: ../en/index.html
@@ -990,11 +960,11 @@ msgid "delete"
 msgstr ""
 
 #: ../en/index.html
-msgid "Busy"
+msgid "Thunderbird Mail/News"
 msgstr ""
 
 #: ../en/index.html
-msgid "On"
+msgid "Busy"
 msgstr ""
 
 #: ../en/index.html
@@ -1006,7 +976,7 @@ msgid "Edit Connections…"
 msgstr ""
 
 #: ../en/index.html
-msgid "Rock Out"
+msgid "Printers"
 msgstr ""
 
 #: ../en/index.html
@@ -1025,7 +995,7 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Add Event…"
+msgid "Turn On Bluetooth"
 msgstr ""
 
 #: ../en/index.html
@@ -1081,7 +1051,7 @@ msgid "Shotwell Photo Manager"
 msgstr ""
 
 #: ../en/index.html
-msgid "Lock Screen"
+msgid "Folders"
 msgstr ""
 
 #: ../en/index.html
@@ -1089,11 +1059,7 @@ msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
 msgstr ""
 
 #: ../en/index.html
-msgid "Media Apps"
-msgstr ""
-
-#: ../en/index.html
-msgid "Most Frequently Used"
+msgid "Format"
 msgstr ""
 
 #: ../en/index.html
@@ -1101,7 +1067,7 @@ msgid "Browse files on device…"
 msgstr ""
 
 #: ../en/index.html
-msgid "Listen to Music"
+msgid "Junk Mail"
 msgstr ""
 
 #: ../en/index.html
@@ -1133,7 +1099,9 @@ msgid "Albums"
 msgstr ""
 
 #: ../en/index.html
-msgid "中文"
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
 msgstr ""
 
 #: ../en/index.html
@@ -1169,7 +1137,7 @@ msgid "Bluetooth On"
 msgstr ""
 
 #: ../en/index.html
-msgid "Clear"
+msgid "Turn Off Bluetooth"
 msgstr ""
 
 #: ../en/index.html
@@ -1181,7 +1149,7 @@ msgid "back to the site"
 msgstr ""
 
 #: ../en/index.html
-msgid "LibreOffice Writer makes it easy to draft professional documents."
+msgid "Download"
 msgstr ""
 
 #: ../en/index.html
@@ -1217,7 +1185,7 @@ msgid "branches"
 msgstr ""
 
 #: ../en/index.html
-msgid "View Photos"
+msgid "The Power of Your Personal Cloud"
 msgstr ""
 
 #: ../en/index.html
@@ -1240,7 +1208,7 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Format"
+msgid "Unmute"
 msgstr ""
 
 #: ../en/index.html
