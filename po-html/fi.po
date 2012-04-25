@@ -7,32 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-01-20 13:28+0000\n"
-"PO-Revision-Date: 2012-03-31 16:20+0000\n"
+"POT-Creation-Date: 2012-04-24 11:09+0000\n"
+"PO-Revision-Date: 2012-04-24 11:44+0000\n"
 "Last-Translator: Jiri Grönroos <Unknown>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-01 04:57+0000\n"
-"X-Generator: Launchpad (build 15032)\n"
-
-#: ../en/index.html
-msgid "View Photos"
-msgstr "Katsele kuvia"
+"X-Launchpad-Export-Date: 2012-04-25 05:25+0000\n"
+"X-Generator: Launchpad (build 15139)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
 msgstr "Firefox-selain"
 
 #: ../en/index.html
-msgid ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
-msgstr ""
-"Inkscape tukee usean tiedoston avausta ja kunkin tiedoston sisällön "
-"tarkastelua useassa eri näkymässä. Kuvat voidaan tulostaa tai viedä PNG-"
-"bittikarttakuviksi."
+msgid "Lock Screen"
+msgstr "Lukitse näyttö"
 
 #: ../en/index.html
 msgid ""
@@ -61,12 +52,12 @@ msgid "Desktop"
 msgstr "Työpöytä"
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "Nouda viestit"
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Kiitos kun tutustuit Ubuntuun!"
 
 #: ../en/index.html
-msgid "Junk Mail"
-msgstr "Roskaposti"
+msgid "PiTiVi Video Editor"
+msgstr "PiTiVi -videoeditori"
 
 #: ../en/index.html
 msgid "Internet"
@@ -90,11 +81,11 @@ msgstr "Syksyn unelmia"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr ""
+msgstr "Manipuloi ajan kulkua ratkaistaksesi ongelmakohdat"
 
 #: ../en/index.html
-msgid "Files"
-msgstr "Tiedostot"
+msgid "中文"
+msgstr "Kiinaksi (中文)"
 
 #: ../en/index.html
 msgid "About Me"
@@ -163,10 +154,6 @@ msgid "Gwibber Social Client"
 msgstr "Gwibber – sosiaaliset mediat"
 
 #: ../en/index.html
-msgid "History"
-msgstr "Historia"
-
-#: ../en/index.html
 msgid "Happyness"
 msgstr "Onnellisuus"
 
@@ -179,8 +166,8 @@ msgid "PCB CNC converter"
 msgstr "PBC CNC -muunnin"
 
 #: ../en/index.html
-msgid "Webcam"
-msgstr "Web-kamera"
+msgid "On"
+msgstr ""
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -203,10 +190,6 @@ msgid "Top Rated"
 msgstr "Parhaimmat arvosanat"
 
 #: ../en/index.html
-msgid "Banshee"
-msgstr "Banshee"
-
-#: ../en/index.html
 msgid "Compatible"
 msgstr "Yhteensopiva"
 
@@ -219,12 +202,16 @@ msgid "From"
 msgstr "Lähettäjä"
 
 #: ../en/index.html
+msgid "Get Mail"
+msgstr "Nouda viestit"
+
+#: ../en/index.html
 msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr "Kiitos kun tutustuit Ubuntuun!"
+msgid "Recent Files"
+msgstr "Viimeksi käytetyt tiedostot"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -287,6 +274,10 @@ msgid "Music"
 msgstr "Musiikki"
 
 #: ../en/index.html
+msgid "Rhythmbox"
+msgstr "Rytmilaatikko"
+
+#: ../en/index.html
 msgid "Education"
 msgstr "Opetusohjelmat"
 
@@ -297,7 +288,7 @@ msgstr "Brasero-levynkirjoittaja"
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
 msgstr ""
-"Thunderbird -sovelluksella sähköpostien lukeminen, kirjoittaminen ja "
+"Thunderbird-sovelluksella sähköpostien lukeminen, kirjoittaminen sekä "
 "lähettäminen käy helposti ja nopeasti."
 
 #: ../en/index.html
@@ -323,10 +314,6 @@ msgstr "Katkaise yhteys"
 #: ../en/index.html
 msgid "Preferences"
 msgstr "Asetukset"
-
-#: ../en/index.html
-msgid "Sound Recorder"
-msgstr "Ääninauhuri"
 
 #: ../en/index.html
 msgid "Browse files"
@@ -369,8 +356,8 @@ msgid "AisleRoit Solitaire"
 msgstr ""
 
 #: ../en/index.html
-msgid "Printers"
-msgstr "Tulostimet"
+msgid "Rock Out"
+msgstr ""
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -422,41 +409,20 @@ msgid "Your Ubuntu, your way"
 msgstr "Sinun Ubuntu, sinun tavat"
 
 #: ../en/index.html
-msgid "Local"
-msgstr "Paikallinen"
-
-#: ../en/index.html
 msgid "Time &amp; Date Settings…"
 msgstr "Ajan ja päivän asetukset..."
 
 #: ../en/index.html
-msgid "PiTiVi Video Editor"
-msgstr "PiTiVi -videoeditori"
+msgid "Recently Used"
+msgstr "Äskettäin käytetyt"
 
 #: ../en/index.html
-msgid "Unmute"
-msgstr "Palauta äänet"
+msgid "Cancel"
+msgstr "Peru"
 
 #: ../en/index.html
 msgid "Jardin Polar"
 msgstr "Vuorenhuippu"
-
-#: ../en/index.html
-msgid ""
-"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
-"player, camera or printer and you’ll be up and running straight away. No "
-"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
-"open, edit and share Microsoft Office documents stress-free."
-msgstr ""
-"Ubuntu toimii loistavasti yhteen useiden eri laitteiden kanssa. Kytke vain "
-"esimerkiksi mp3-soittimesi, kamerasi tai tulostimesi kiinni koneeseen ja "
-"laite on käyttövalmis - et tarvitse asennuslevyjä, eikä tarvitse hermoilla "
-"turhaan. Ubuntu on myös yhteensopiva Windowsin kanssa! Voit siis avata, "
-"muokata ja jakaa Microsoft Office -tiedostoja ilman turhaa päänvaivaa."
-
-#: ../en/index.html
-msgid "World of Goo"
-msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "Welcome Screen"
@@ -479,8 +445,8 @@ msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr "Etsi ja lataa sovelluksia nopeasti Ubuntun sovellusvalikoimasta."
 
 #: ../en/index.html
-msgid "Turn Off Bluetooth"
-msgstr "Kytke Bluetooth pois päältä"
+msgid "Clear"
+msgstr "Tyhjennä"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -528,8 +494,8 @@ msgid "Stalking Ocelot"
 msgstr "Vaaniva oselotti"
 
 #: ../en/index.html
-msgid "Cancel"
-msgstr "Peru"
+msgid "System Settings…"
+msgstr "Järjestelmäasetukset..."
 
 #: ../en/index.html
 msgid "Startup Applications…"
@@ -547,7 +513,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "Englanniksi"
 
 #: ../en/index.html
 msgid "Purple Dancers"
@@ -689,8 +655,8 @@ msgid "Archive"
 msgstr "Arkisto"
 
 #: ../en/index.html
-msgid "Download"
-msgstr "Lataa"
+msgid "Recent Apps"
+msgstr "Viimeisimmät sovellukset"
 
 #: ../en/index.html
 msgid "Home"
@@ -757,8 +723,10 @@ msgid "Keep you firefox bookmarks and Tomboy notes synced"
 msgstr "Synkronoi Firefox-kirjanmerkkisi ja Tomboy-muistilappusi"
 
 #: ../en/index.html
-msgid "Thunderbird Mail/News"
-msgstr "Thunderbird-sähköposti"
+msgid "LibreOffice Writer makes it easy to draft professional documents."
+msgstr ""
+"LibreOffice Writer -tekstinkäsittelyllä luot ammattilaistason asiakirjoja "
+"vaivattomasti."
 
 #: ../en/index.html
 msgid "Displays…"
@@ -773,8 +741,8 @@ msgid "Browse the web"
 msgstr "Selaa nettiä"
 
 #: ../en/index.html
-msgid "More Apps"
-msgstr "Lisää sovelluksia"
+msgid "Local"
+msgstr "Paikallinen"
 
 #: ../en/index.html
 msgid ""
@@ -785,8 +753,8 @@ msgstr ""
 "aspell -paketti ja vastaava kielipaketti, esim. aspell-en tai aspell-fi."
 
 #: ../en/index.html
-msgid "Find Files"
-msgstr "Etsi tiedostoja"
+msgid "World of Goo"
+msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
@@ -795,7 +763,8 @@ msgstr "Katso kuvia"
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
-"Shotwell-ohjelmalla voit lähettää, järjestellä, muokata ja jakaa valokuviasi."
+"Shotwell-sovelluksella voit lähettää, järjestellä, muokata ja jakaa "
+"valokuviasi."
 
 #: ../en/index.html
 msgid "Sand Maze"
@@ -887,8 +856,8 @@ msgid "Chromium Web Browser"
 msgstr "Chromium-selain"
 
 #: ../en/index.html
-msgid "Browse the Web"
-msgstr "Selaa verkkoa"
+msgid "Sound Recorder"
+msgstr "Ääninauhuri"
 
 #: ../en/index.html
 msgid "Recipient"
@@ -899,8 +868,8 @@ msgid "Fast"
 msgstr "Nopea"
 
 #: ../en/index.html
-msgid "Not Junk"
-msgstr "Ei roskapostia"
+msgid "Recent"
+msgstr ""
 
 #: ../en/index.html
 msgid "To:"
@@ -958,10 +927,16 @@ msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
+"LibreOffice Calc sisältää kaiken tarpeellisen selkeiden ja tarkkojen "
+"taulukoiden luomiseksi."
 
 #: ../en/index.html
-msgid "Folders"
-msgstr "Kansiot"
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+"Jotkin tuonti- ja vientiominaisuuksista tarjotaan pakettien dia, libwmf-bin, "
+"pstoedit, skencil, imagemagick ja perlmagick avulla."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
@@ -984,24 +959,12 @@ msgid "Subject:"
 msgstr "Aihe:"
 
 #: ../en/index.html
-msgid "Turn On Bluetooth"
-msgstr "Kytke Bluetooth päälle"
-
-#: ../en/index.html
 msgid "Backup"
 msgstr "Varmuuskopio"
 
 #: ../en/index.html
-msgid "The Power of Your Personal Cloud"
-msgstr "Henkilökohtaisen pilvesi voima"
-
-#: ../en/index.html
-msgid ""
-"Some of the import and export features are provided using the packages dia, "
-"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
-msgstr ""
-"Jotkin tuonti- ja vientiominaisuuksista tarjotaan pakettien dia, libwmf-bin, "
-"pstoedit, skencil, imagemagick ja perlmagick avulla."
+msgid "History"
+msgstr "Historia"
 
 #: ../en/index.html
 msgid "16 Photos"
@@ -1024,32 +987,33 @@ msgid "Themes &amp; Tweaks"
 msgstr "Teemat ja muutokset"
 
 #: ../en/index.html
-msgid "Shortcuts"
+msgid ""
+"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
+"player, camera or printer and you’ll be up and running straight away. No "
+"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
+"open, edit and share Microsoft Office documents stress-free."
 msgstr ""
-
-#: ../en/index.html
-msgid "Check Email"
-msgstr "Lue sähköposti"
-
-#: ../en/index.html
-msgid "Internet Apps"
-msgstr "Internet-sovellukset"
-
-#: ../en/index.html
-msgid "Library"
-msgstr "Kirjasto"
+"Ubuntu toimii loistavasti yhteen useiden eri laitteiden kanssa. Kytke vain "
+"esimerkiksi mp3-soittimesi, kamerasi tai tulostimesi kiinni koneeseen ja "
+"laite on käyttövalmis - et tarvitse asennuslevyjä, eikä tarvitse hermoilla "
+"turhaan. Ubuntu on myös yhteensopiva Windowsin kanssa! Voit siis avata, "
+"muokata ja jakaa Microsoft Office -tiedostoja ilman turhaa päänvaivaa."
 
 #: ../en/index.html
 msgid "work"
 msgstr "työ"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr ""
+msgid "Library"
+msgstr "Kirjasto"
 
 #: ../en/index.html
-msgid "System Settings…"
-msgstr "Järjestelmäasetukset..."
+msgid "Unify you contacts across Desktop, Mobile and Web"
+msgstr "Yhtenäistä kontaktisi työpöydän, mobiililaitteiden ja verkon välillä"
+
+#: ../en/index.html
+msgid "Thunderbird Mail"
+msgstr "Thunderbird-sähköposti"
 
 #: ../en/index.html
 msgid ""
@@ -1057,6 +1021,10 @@ msgid ""
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
 msgstr ""
+
+#: ../en/index.html
+msgid "Not Junk"
+msgstr "Ei roskapostia"
 
 #: ../en/index.html
 msgid "Chromium"
@@ -1071,12 +1039,12 @@ msgid "delete"
 msgstr "poista"
 
 #: ../en/index.html
-msgid "Busy"
-msgstr "Varattu"
+msgid "Thunderbird Mail/News"
+msgstr "Thunderbird-sähköposti"
 
 #: ../en/index.html
-msgid "On"
-msgstr ""
+msgid "Busy"
+msgstr "Varattu"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1087,8 +1055,8 @@ msgid "Edit Connections…"
 msgstr "Muokkaa yhteyksiä..."
 
 #: ../en/index.html
-msgid "Rock Out"
-msgstr ""
+msgid "Printers"
+msgstr "Tulostimet"
 
 #: ../en/index.html
 msgid "Sound Settings…"
@@ -1106,8 +1074,8 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Add Event…"
-msgstr "Lisää tapahtuma..."
+msgid "Turn On Bluetooth"
+msgstr "Kytke Bluetooth päälle"
 
 #: ../en/index.html
 msgid "Write"
@@ -1151,7 +1119,7 @@ msgstr "Roskakori"
 
 #: ../en/index.html
 msgid "archive"
-msgstr ""
+msgstr "arkistoi"
 
 #: ../en/index.html
 msgid "Power Of Words"
@@ -1162,8 +1130,8 @@ msgid "Shotwell Photo Manager"
 msgstr "Shotwell - valokuvien hallinta"
 
 #: ../en/index.html
-msgid "Lock Screen"
-msgstr "Lukitse näyttö"
+msgid "Folders"
+msgstr "Kansiot"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
@@ -1172,20 +1140,16 @@ msgstr ""
 "käyttäen."
 
 #: ../en/index.html
-msgid "Media Apps"
-msgstr "Mediasovellukset"
-
-#: ../en/index.html
-msgid "Most Frequently Used"
-msgstr "Useimmin käytetyt"
+msgid "Format"
+msgstr "Muotoilu"
 
 #: ../en/index.html
 msgid "Browse files on device…"
 msgstr "Selaa laitteen tiedostoja..."
 
 #: ../en/index.html
-msgid "Listen to Music"
-msgstr "Kuuntele musiikkia"
+msgid "Junk Mail"
+msgstr "Roskaposti"
 
 #: ../en/index.html
 msgid "1"
@@ -1216,8 +1180,13 @@ msgid "Albums"
 msgstr "Levyt"
 
 #: ../en/index.html
-msgid "中文"
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
 msgstr ""
+"Inkscape tukee usean tiedoston avausta ja kunkin tiedoston sisällön "
+"tarkastelua useassa eri näkymässä. Kuvat voidaan tulostaa tai viedä PNG-"
+"bittikarttakuviksi."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1229,7 +1198,7 @@ msgstr "Lähettäjä:"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr ""
+msgstr "Lisää"
 
 #: ../en/index.html
 msgid "Shut Down…"
@@ -1252,8 +1221,8 @@ msgid "Bluetooth On"
 msgstr "Bluetooth käytössä"
 
 #: ../en/index.html
-msgid "Clear"
-msgstr "Tyhjennä"
+msgid "Turn Off Bluetooth"
+msgstr "Kytke Bluetooth pois päältä"
 
 #: ../en/index.html
 msgid "Installing"
@@ -1264,10 +1233,8 @@ msgid "back to the site"
 msgstr "siirry takaisin sivustolle"
 
 #: ../en/index.html
-msgid "LibreOffice Writer makes it easy to draft professional documents."
-msgstr ""
-"LibreOffice Writer -tekstinkäsittelyllä luot ammattilaistason dokumentteja "
-"vaivattomasti."
+msgid "Download"
+msgstr "Lataa"
 
 #: ../en/index.html
 msgid "Games"
@@ -1279,7 +1246,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr ""
+msgstr "Empathy-pikaviestin"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
@@ -1300,6 +1267,10 @@ msgstr "Valmiustila"
 #: ../en/index.html
 msgid "branches"
 msgstr "haarat"
+
+#: ../en/index.html
+msgid "The Power of Your Personal Cloud"
+msgstr "Henkilökohtaisen pilvesi voima"
 
 #: ../en/index.html
 msgid ""
@@ -1326,8 +1297,8 @@ msgstr ""
 "muuntaa mielivaltaisesti."
 
 #: ../en/index.html
-msgid "Format"
-msgstr ""
+msgid "Unmute"
+msgstr "Palauta äänet"
 
 #: ../en/index.html
 msgid "Rubbish bin"
@@ -1359,7 +1330,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Table"
-msgstr ""
+msgstr "Taulukko"
 
 #: ../en/index.html
 msgid ""
@@ -1406,3 +1377,42 @@ msgstr "Sinä"
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
+
+#~ msgid "Files"
+#~ msgstr "Tiedostot"
+
+#~ msgid "Webcam"
+#~ msgstr "Web-kamera"
+
+#~ msgid "Banshee"
+#~ msgstr "Banshee"
+
+#~ msgid "Find Files"
+#~ msgstr "Etsi tiedostoja"
+
+#~ msgid "More Apps"
+#~ msgstr "Lisää sovelluksia"
+
+#~ msgid "Browse the Web"
+#~ msgstr "Selaa verkkoa"
+
+#~ msgid "Internet Apps"
+#~ msgstr "Internet-sovellukset"
+
+#~ msgid "Add Event…"
+#~ msgstr "Lisää tapahtuma..."
+
+#~ msgid "Most Frequently Used"
+#~ msgstr "Useimmin käytetyt"
+
+#~ msgid "Media Apps"
+#~ msgstr "Mediasovellukset"
+
+#~ msgid "Listen to Music"
+#~ msgstr "Kuuntele musiikkia"
+
+#~ msgid "View Photos"
+#~ msgstr "Katso kuvia"
+
+#~ msgid "Check Email"
+#~ msgstr "Tarkista sähköposti"

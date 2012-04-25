@@ -7,25 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-01-20 13:28+0000\n"
-"PO-Revision-Date: 2012-03-18 19:35+0000\n"
-"Last-Translator: Jakub Kočí <Unknown>\n"
+"POT-Creation-Date: 2012-04-24 11:09+0000\n"
+"PO-Revision-Date: 2012-04-24 08:40+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-28 05:37+0000\n"
-"X-Generator: Launchpad (build 15027)\n"
+"X-Launchpad-Export-Date: 2012-04-25 05:25+0000\n"
+"X-Generator: Launchpad (build 15139)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
 msgstr "Firefox Webový prohlížeč"
 
 #: ../en/index.html
-msgid ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
-msgstr ""
+msgid "Lock Screen"
+msgstr "Uzamknout obrazovku"
 
 #: ../en/index.html
 msgid ""
@@ -49,12 +47,12 @@ msgid "Desktop"
 msgstr "Pracovní plocha"
 
 #: ../en/index.html
-msgid "Get Mail"
+msgid "Thanks for exploring Ubuntu!"
 msgstr ""
 
 #: ../en/index.html
-msgid "Junk Mail"
-msgstr "Spam"
+msgid "PiTiVi Video Editor"
+msgstr "Editor videa PiTiVi"
 
 #: ../en/index.html
 msgid "Internet"
@@ -62,7 +60,7 @@ msgstr "Internet"
 
 #: ../en/index.html
 msgid "Science &amp; Engineering"
-msgstr ""
+msgstr "Věda a inženýrství"
 
 #: ../en/index.html
 msgid "Find apps"
@@ -74,19 +72,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Podzimní snění"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
 msgstr ""
 
 #: ../en/index.html
-msgid "Files"
+msgid "中文"
 msgstr ""
 
 #: ../en/index.html
 msgid "About Me"
-msgstr ""
+msgstr "O mně"
 
 #: ../en/index.html
 msgid ""
@@ -98,15 +96,15 @@ msgstr ""
 #: ../en/index.html
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
-msgstr ""
+msgstr "Opravdu chcete ukončit všechny programy a vypnout počítač?"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr ""
+msgstr "Bez názvu 1 - LibreOffice Impress"
 
 #: ../en/index.html
 msgid "Ubuntu One"
-msgstr ""
+msgstr "Ubuntu One"
 
 #: ../en/index.html
 msgid ""
@@ -126,7 +124,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Applications"
-msgstr ""
+msgstr "Aplikace"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
@@ -138,15 +136,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
-msgstr ""
+msgstr "Prohlížeč vzdálené plochy"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr ""
-
-#: ../en/index.html
-msgid "History"
-msgstr ""
+msgstr "Klient pro společenské sítě Gwibber"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -161,7 +155,7 @@ msgid "PCB CNC converter"
 msgstr ""
 
 #: ../en/index.html
-msgid "Webcam"
+msgid "On"
 msgstr ""
 
 #: ../en/index.html
@@ -174,7 +168,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr ""
+msgstr "Grafika"
 
 #: ../en/index.html
 msgid "Keep Connected"
@@ -182,11 +176,7 @@ msgstr "Zůstaňte připojeni"
 
 #: ../en/index.html
 msgid "Top Rated"
-msgstr ""
-
-#: ../en/index.html
-msgid "Banshee"
-msgstr ""
+msgstr "Nejlépe hodnocené"
 
 #: ../en/index.html
 msgid "Compatible"
@@ -194,23 +184,27 @@ msgstr "Kompatibilní"
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr ""
+msgstr "Hlavní nabídka Dash"
 
 #: ../en/index.html
 msgid "From"
-msgstr ""
+msgstr "Od"
+
+#: ../en/index.html
+msgid "Get Mail"
+msgstr "Přijmout"
 
 #: ../en/index.html
 msgid "Auto eth0"
-msgstr ""
+msgstr "Auto eth0"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
+msgid "Recent Files"
 msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr ""
+msgstr "Odeslat soubory do zařízení..."
 
 #: ../en/index.html
 msgid "Create documents"
@@ -218,11 +212,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr ""
+msgstr "(91 lidí hodnocení)"
 
 #: ../en/index.html
 msgid "Secure"
-msgstr ""
+msgstr "Bezpečné"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
@@ -234,15 +228,15 @@ msgstr "9,99 dolarů"
 
 #: ../en/index.html
 msgid "Help"
-msgstr ""
+msgstr "Nápověda"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr ""
+msgstr "Ztlumit"
 
 #: ../en/index.html
 msgid "All Software"
-msgstr ""
+msgstr "Veškerý software"
 
 #: ../en/index.html
 msgid "Ready to download?"
@@ -250,7 +244,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr ""
+msgstr "Příslušenství"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
@@ -258,23 +252,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr ""
+msgstr "Vypnout"
 
 #: ../en/index.html
 msgid "Music"
+msgstr "Hudba"
+
+#: ../en/index.html
+msgid "Rhythmbox"
 msgstr ""
 
 #: ../en/index.html
 msgid "Education"
-msgstr ""
+msgstr "Vzdělávání"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
-msgstr ""
+msgstr "Vypalovací software Brasero"
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
@@ -286,27 +284,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject"
-msgstr ""
+msgstr "Předmět"
 
 #: ../en/index.html
 msgid "Shotwell"
-msgstr ""
+msgstr "Shotwell"
 
 #: ../en/index.html
 msgid "Documents"
-msgstr ""
+msgstr "Dokumenty"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr ""
+msgstr "Odpojit"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr ""
-
-#: ../en/index.html
-msgid "Sound Recorder"
-msgstr ""
+msgstr "Předvolby"
 
 #: ../en/index.html
 msgid "Browse files"
@@ -314,15 +308,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
-msgstr ""
+msgstr "Prohlédněte si naše oblíbené"
 
 #: ../en/index.html
 msgid "junk"
-msgstr ""
+msgstr "nevyžádané"
 
 #: ../en/index.html
 msgid "Send"
-msgstr ""
+msgstr "Odeslat"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
@@ -334,7 +328,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr ""
+msgstr "Inkscape - editor vektorové grafiky"
 
 #: ../en/index.html
 msgid "Create presentations"
@@ -346,21 +340,24 @@ msgstr ""
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "Solitér AisleRoit"
 
 #: ../en/index.html
-msgid "Printers"
+msgid "Rock Out"
 msgstr ""
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr ""
+msgstr "Informace o spojení"
 
 #: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
+"Chromium je open-source projekt webového prohlížeče, který si klade za cíl "
+"vybudovat bezpečnější, rychlejší a stabilnější cestu pro všechny uživatele "
+"internetu k prozkoumávání webu."
 
 #: ../en/index.html
 msgid "Email"
@@ -368,7 +365,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sent"
-msgstr ""
+msgstr "Odeslaná pošta"
 
 #: ../en/index.html
 msgid "subject"
@@ -376,19 +373,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Available"
-msgstr ""
+msgstr "Přítomen"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr ""
+msgstr "Všechny složky"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr ""
+msgstr "Pátek, 26. října 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr ""
+msgstr "Uspat na disk"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -399,36 +396,20 @@ msgid "Your Ubuntu, your way"
 msgstr ""
 
 #: ../en/index.html
-msgid "Local"
-msgstr ""
-
-#: ../en/index.html
 msgid "Time &amp; Date Settings…"
+msgstr "Nastavení data a času..."
+
+#: ../en/index.html
+msgid "Recently Used"
 msgstr ""
 
 #: ../en/index.html
-msgid "PiTiVi Video Editor"
-msgstr ""
-
-#: ../en/index.html
-msgid "Unmute"
+msgid "Cancel"
 msgstr ""
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr ""
-
-#: ../en/index.html
-msgid ""
-"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
-"player, camera or printer and you’ll be up and running straight away. No "
-"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
-"open, edit and share Microsoft Office documents stress-free."
-msgstr ""
-
-#: ../en/index.html
-msgid "World of Goo"
-msgstr ""
+msgstr "Ladovská zima"
 
 #: ../en/index.html
 msgid "Welcome Screen"
@@ -436,41 +417,44 @@ msgstr ""
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr ""
+msgstr "3,3 MB"
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "odpovědět"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr ""
+msgstr "Nastavit e-mail..."
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
 
 #: ../en/index.html
-msgid "Turn Off Bluetooth"
-msgstr ""
+msgid "Clear"
+msgstr "Vyčistit"
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr ""
+msgstr "$19.99"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Nádraží Dybbølsbro"
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr ""
+msgstr "Odhlásit..."
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
+"Další rozšíření používají ruby, libxml-xql-perl, python-numpy a python-xml. "
+"Pokud chcete používat všechny efekty a rozšíření, je potřeba tyto balíčky "
+"nainstalovat."
 
 #: ../en/index.html
 msgid "Fwd"
@@ -482,11 +466,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr ""
+msgstr "Vzhled"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
@@ -494,19 +478,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Číhající ocelot"
 
 #: ../en/index.html
-msgid "Cancel"
-msgstr ""
+msgid "System Settings…"
+msgstr "Nastavení systému..."
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr ""
+msgstr "Aplikace po spuštění..."
 
 #: ../en/index.html
 msgid "Remove"
-msgstr ""
+msgstr "Odstranit"
 
 #: ../en/index.html
 msgid ""
@@ -528,7 +512,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #: ../en/index.html
 msgid ""
@@ -538,7 +522,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr ""
+msgstr "Mount Snowdon"
 
 #: ../en/index.html
 msgid "Songs"
@@ -546,7 +530,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr ""
+msgstr "Přístupné"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
@@ -558,7 +542,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr ""
+msgstr "Nastavit nové zařízení..."
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
@@ -566,17 +550,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Videos"
-msgstr ""
+msgstr "Videa"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Braid"
 
 #: ../en/index.html
 msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
+"Inkscape načítá a ukládá do formátu SVG (Scalable Vector Graphics), "
+"standardu, který má na starosti konsorcium WWW."
 
 #: ../en/index.html
 msgid ""
@@ -590,7 +576,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "Multimediální přehrávač Banshee"
 
 #: ../en/index.html
 msgid ""
@@ -607,15 +593,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr ""
+msgstr "Soubory a složky"
 
 #: ../en/index.html
 msgid "Installed"
-msgstr ""
+msgstr "Nainstalováno"
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
@@ -634,27 +620,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr ""
+msgstr "Archiv"
 
 #: ../en/index.html
-msgid "Download"
+msgid "Recent Apps"
 msgstr ""
 
 #: ../en/index.html
 msgid "Home"
-msgstr ""
+msgstr "Domů"
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr ""
+msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr ""
+msgstr "Vývojářské nástroje"
 
 #: ../en/index.html
 msgid "or"
@@ -662,7 +648,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
@@ -670,7 +656,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr ""
+msgstr "5,3 MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
@@ -682,11 +668,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr ""
+msgstr "Obrázky"
 
 #: ../en/index.html
 msgid "Away"
-msgstr ""
+msgstr "Pryč"
 
 #: ../en/index.html
 msgid "Check email"
@@ -694,38 +680,38 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Size:"
-msgstr ""
+msgstr "Velikost:"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr ""
+msgstr "Koncepty"
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "Zdarma"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
 msgstr ""
 
 #: ../en/index.html
-msgid "Thunderbird Mail/News"
+msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr ""
+msgstr "Displeje..."
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr ""
+msgstr "Software je aktuální"
 
 #: ../en/index.html
 msgid "Browse the web"
 msgstr ""
 
 #: ../en/index.html
-msgid "More Apps"
+msgid "Local"
 msgstr ""
 
 #: ../en/index.html
@@ -735,8 +721,8 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Find Files"
-msgstr ""
+msgid "World of Goo"
+msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
@@ -776,6 +762,15 @@ msgid ""
 "of a standalone binary and/or a web plug-in are common products of Blender "
 "use."
 msgstr ""
+"Blender je integrovaný systém 3D aplikací určených k modelování, animaci, "
+"vykreslování, post-produkce, interaktivního vytváření a přehrávání (hry). "
+"Blender má své vlastní uživatelské rozhraní, které je kompletně "
+"implementováno v OpenGL a vytvořeno tak, aby bylo dostatečně rychlé. K "
+"dispozici je rozšíření v Pythonu umožňující skriptování; možnosti "
+"importu/exportu pro populární souborové formáty jako je 3D Studio a "
+"Wavefrotn Obj. Animace, herní modely a další stroje třetích řad spolu s "
+"interaktivním obsahem jsou dostupné ve formě samostatných binárek a/nebo "
+"webových modulů."
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
@@ -795,7 +790,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Our star apps"
-msgstr ""
+msgstr "Naše hvězdné aplikace"
 
 #: ../en/index.html
 msgid ""
@@ -816,22 +811,22 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
+msgstr "Internetový prohlížeč Chromium"
 
 #: ../en/index.html
-msgid "Browse the Web"
-msgstr ""
+msgid "Sound Recorder"
+msgstr "Záznamník zvuku"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr ""
+msgstr "Příjemce"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr ""
+msgstr "Rychlé"
 
 #: ../en/index.html
-msgid "Not Junk"
+msgid "Recent"
 msgstr ""
 
 #: ../en/index.html
@@ -855,31 +850,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Total:"
-msgstr ""
+msgstr "Celkem:"
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr ""
+msgstr "Dodatečné ovladače"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr ""
+msgstr "Centrum softwaru pro Ubuntu"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr ""
+msgstr "Bez názvu 1 - LibreOffice Calc"
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr ""
+msgstr "Již mám účet!"
 
 #: ../en/index.html
 msgid "System"
-msgstr ""
+msgstr "Systém"
 
 #: ../en/index.html
 msgid "forward"
-msgstr ""
+msgstr "přeposlat"
 
 #: ../en/index.html
 msgid ""
@@ -888,8 +883,12 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Folders"
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
+"Některé importní a exportní volby jsou zajištěny pomocí balíčků dia, libwmf-"
+"bin, pstoedit, skencil, imagemagick a perlmagick."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
@@ -897,11 +896,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "Nainstalovat"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr ""
+msgstr "Položky:"
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -909,33 +908,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
-
-#: ../en/index.html
-msgid "Turn On Bluetooth"
-msgstr ""
+msgstr "Předmět:"
 
 #: ../en/index.html
 msgid "Backup"
 msgstr ""
 
 #: ../en/index.html
-msgid "The Power of Your Personal Cloud"
-msgstr ""
-
-#: ../en/index.html
-msgid ""
-"Some of the import and export features are provided using the packages dia, "
-"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgid "History"
 msgstr ""
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16 fotografií"
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr ""
+msgstr "Domovský adresář"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
@@ -943,26 +932,18 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Office"
-msgstr ""
+msgstr "Kancelář"
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr ""
+msgstr "Motivy a tweaky"
 
 #: ../en/index.html
-msgid "Shortcuts"
-msgstr ""
-
-#: ../en/index.html
-msgid "Check Email"
-msgstr ""
-
-#: ../en/index.html
-msgid "Internet Apps"
-msgstr ""
-
-#: ../en/index.html
-msgid "Library"
+msgid ""
+"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
+"player, camera or printer and you’ll be up and running straight away. No "
+"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
+"open, edit and share Microsoft Office documents stress-free."
 msgstr ""
 
 #: ../en/index.html
@@ -970,11 +951,15 @@ msgid "work"
 msgstr ""
 
 #: ../en/index.html
+msgid "Library"
+msgstr ""
+
+#: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr ""
 
 #: ../en/index.html
-msgid "System Settings…"
+msgid "Thunderbird Mail"
 msgstr ""
 
 #: ../en/index.html
@@ -985,24 +970,28 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
+msgid "Not Junk"
+msgstr "Není nevyžádané"
+
+#: ../en/index.html
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr ""
+msgstr "Bez návzu - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "delete"
+msgstr "smazat"
+
+#: ../en/index.html
+msgid "Thunderbird Mail/News"
 msgstr ""
 
 #: ../en/index.html
 msgid "Busy"
-msgstr ""
-
-#: ../en/index.html
-msgid "On"
-msgstr ""
+msgstr "Zaneprázdněn"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1010,19 +999,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr ""
+msgstr "Upravid připojení..."
 
 #: ../en/index.html
-msgid "Rock Out"
-msgstr ""
+msgid "Printers"
+msgstr "Tiskárny"
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr ""
+msgstr "Předvolby zvuku..."
 
 #: ../en/index.html
 msgid "Search"
-msgstr ""
+msgstr "Hledat"
 
 #: ../en/index.html
 msgid ""
@@ -1032,12 +1021,12 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Add Event…"
-msgstr ""
+msgid "Turn On Bluetooth"
+msgstr "Zapnout Bluetooth"
 
 #: ../en/index.html
 msgid "Write"
-msgstr ""
+msgstr "Napsat"
 
 #: ../en/index.html
 msgid "Attach"
@@ -1045,15 +1034,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Window"
-msgstr ""
+msgstr "Okno"
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr ""
+msgstr "Psaní zprávy: (bez předmětu)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr ""
+msgstr "Online prohlídka Ubuntu"
 
 #: ../en/index.html
 msgid "Federica Miglio"
@@ -1069,162 +1058,162 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Offline"
-msgstr ""
+msgstr "Odpojen"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr ""
+msgstr "Koš"
 
 #: ../en/index.html
 msgid "archive"
-msgstr ""
+msgstr "archivovat"
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "Síla slov"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Správce fotografií Shotwell"
 
 #: ../en/index.html
-msgid "Lock Screen"
-msgstr ""
+msgid "Folders"
+msgstr "Složky"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
 msgstr ""
 
 #: ../en/index.html
-msgid "Media Apps"
-msgstr ""
-
-#: ../en/index.html
-msgid "Most Frequently Used"
+msgid "Format"
 msgstr ""
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr ""
+msgstr "Procházet soubory v zařízení..."
 
 #: ../en/index.html
-msgid "Listen to Music"
-msgstr ""
+msgid "Junk Mail"
+msgstr "Spam"
 
 #: ../en/index.html
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../en/index.html
 msgid "Computer"
-msgstr ""
+msgstr "Počítač"
 
 #: ../en/index.html
 msgid "What's New"
-msgstr ""
+msgstr "Co je nového"
 
 #: ../en/index.html
 msgid "App Available for Download"
-msgstr ""
+msgstr "Aplikace dostupné ke stažení"
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr ""
+msgstr "Přehrávač filmů"
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr ""
+msgstr "Neviditelný"
 
 #: ../en/index.html
 msgid "Albums"
-msgstr ""
+msgstr "Alba"
 
 #: ../en/index.html
-msgid "中文"
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
 msgstr ""
+"Inkscape podporuje více otevřených souborů najednou a různé pohledy na jeden "
+"soubor. Grafiku je možno tisknout i exportovat do formátu png."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
-msgstr ""
+msgstr "Od:"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr ""
+msgstr "Vložit"
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr ""
+msgstr "Vypnout..."
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr ""
+msgstr "Písma"
 
 #: ../en/index.html
 msgid "File"
-msgstr ""
+msgstr "Soubor"
 
 #: ../en/index.html
 msgid "Edit"
-msgstr ""
+msgstr "Upravit"
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr ""
+msgstr "Bluetooth Zapnuto"
 
 #: ../en/index.html
-msgid "Clear"
-msgstr ""
+msgid "Turn Off Bluetooth"
+msgstr "Vypnout: Bluetooth"
 
 #: ../en/index.html
 msgid "Installing"
-msgstr ""
+msgstr "Instaluje se"
 
 #: ../en/index.html
 msgid "back to the site"
 msgstr ""
 
 #: ../en/index.html
-msgid "LibreOffice Writer makes it easy to draft professional documents."
+msgid "Download"
 msgstr ""
 
 #: ../en/index.html
 msgid "Games"
-msgstr ""
+msgstr "Hry"
 
 #: ../en/index.html
 msgid "Visolate"
-msgstr ""
+msgstr "Visolate"
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr ""
+msgstr "Internetový komunikátor Empathy"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
+msgstr "Program pro tvorbu a úpravu vektorové grafiky (SVG)"
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr ""
+msgstr "Připojená zařízení"
 
 #: ../en/index.html
 msgid "View"
-msgstr ""
+msgstr "Zobrazit"
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr ""
+msgstr "Uspat do paměti"
 
 #: ../en/index.html
 msgid "branches"
 msgstr ""
 
 #: ../en/index.html
-msgid "View Photos"
+msgid "The Power of Your Personal Cloud"
 msgstr ""
 
 #: ../en/index.html
@@ -1236,7 +1225,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr ""
+msgstr "Pondělí, 11. října 2010"
 
 #: ../en/index.html
 msgid ""
@@ -1245,18 +1234,22 @@ msgid ""
 "and freehand curves. As an added bonus, both vector and bitmap objects can "
 "have alpha transparency and can be arbitrarily transformed."
 msgstr ""
+"Rozhraní Inkscape se podobá tomu v CorelDraw a dalších kreslících programů. "
+"Obsahuje obdélníky, elipsy, textové položky, bitmapové obrázky i ručně "
+"kreslené křivky. Kromě toho je možno vektorovým i bitmapovým objektům "
+"přidávat průhlednost a libovolně je transformovat."
 
 #: ../en/index.html
-msgid "Format"
-msgstr ""
+msgid "Unmute"
+msgstr "Zrušit ztlumení"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr ""
+msgstr "Koš"
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr ""
+msgstr "Zvuk a video"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -1264,11 +1257,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr ""
+msgstr "Vytváření a úprava 3D modelů a animací"
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr ""
+msgstr "Doručená pošta"
 
 #: ../en/index.html
 msgid "Files Anywhere"
@@ -1298,14 +1291,27 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
 
 #: ../en/index.html
 msgid "Tools"
-msgstr ""
+msgstr "Nástroje"
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr ""
+msgstr "Stažené"
 
 #: ../en/index.html
 msgid "You"
@@ -1313,4 +1319,34 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Blender"
-msgstr ""
+msgstr "Blender"
+
+#~ msgid "Banshee"
+#~ msgstr "Banshee"
+
+#~ msgid "Internet Apps"
+#~ msgstr "Internetové aplikace"
+
+#~ msgid "Add Event…"
+#~ msgstr "Přidat událost..."
+
+#~ msgid "Most Frequently Used"
+#~ msgstr "Nejčastěji používané"
+
+#~ msgid "Media Apps"
+#~ msgstr "Mediální aplikace"
+
+#~ msgid "More Apps"
+#~ msgstr "Více aplikací"
+
+#~ msgid "Listen to Music"
+#~ msgstr "Poslouchat hudbu"
+
+#~ msgid "Find Files"
+#~ msgstr "Najít soubory"
+
+#~ msgid "Files"
+#~ msgstr "Soubory"
+
+#~ msgid "Webcam"
+#~ msgstr "Webkamera"
