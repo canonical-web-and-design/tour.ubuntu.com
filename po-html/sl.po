@@ -1,4 +1,4 @@
-# English (Australia) translation for ubuntu-online-tour
+# Slovenian translation for ubuntu-online-tour
 # Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the ubuntu-online-tour package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-25 20:55+0000\n"
-"Last-Translator: Jared Norris <jrnorris@gmail.com>\n"
-"Language-Team: English (Australia) <en_AU@li.org>\n"
+"PO-Revision-Date: 2012-04-25 23:56+0000\n"
+"Last-Translator: Dražen Matešić <Unknown>\n"
+"Language-Team: Slovenian <sl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
-msgstr "Firefox Web Browser"
+msgstr "Spletni brskalnik Firefox"
 
 #: ../en/index.html
 msgid "Lock Screen"
-msgstr "Lock Screen"
+msgstr "Zakleni zaslon"
 
 #: ../en/index.html
 msgid ""
@@ -33,31 +33,32 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
-"Ubuntu loads quickly on any computer, but it's super-fast on newer machines. "
-"With no unnecessary programs and trial software slowing things down, booting "
-"up and opening a browser takes seconds. Unlike other operating systems that "
-"leave you staring at the screen, waiting to get online. And Ubuntu won’t "
-"grow sluggish over time. It’s fast. And it stays fast."
+"Ubuntu se hitro zažene na vseh računalnikih ampak je še posebej hiter na "
+"novejših. Ker ni nepotrebnih ter preizkusnih programov, ki bi upočasnjevali "
+"računalnik, potrebujete za zagon računalnika ter odpiranje brskalnika nekaj "
+"sekund. Za razliko od drugih operacijskih sistemov, kateri vas pustijo "
+"strmeti v zaslon, medtem ko čakate da se povežete. In Ubuntu ne bo postal "
+"počasen čez čas. Hiter je. In ostane hiter."
 
 #: ../en/index.html
 msgid "no subject"
-msgstr "no subject"
+msgstr "brez zadeve"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr "Show yourself around"
+msgstr "Razglejte se okrog"
 
 #: ../en/index.html
 msgid "Desktop"
-msgstr "Desktop"
+msgstr "Namizje"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
-msgstr "Thanks for exploring Ubuntu!"
+msgstr "Hvala, ker ste raziskali Ubuntu!"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr "PiTiVi Video Editor"
+msgstr "Video urejevalnik PiTiVi"
 
 #: ../en/index.html
 msgid "Internet"
@@ -65,31 +66,31 @@ msgstr "Internet"
 
 #: ../en/index.html
 msgid "Science &amp; Engineering"
-msgstr "Science &amp; Engineering"
+msgstr "Znanost in inženirstvo"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr "Find apps"
+msgstr "Najdite programe"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr "Not Alone"
+msgstr "Niste sami"
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr "Momiji Dream"
+msgstr "Sanje v Monijiju"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr "Manipulate the flow of time to solve puzzles"
+msgstr "Za razrešitev uganke vplivajte na tok časa"
 
 #: ../en/index.html
 msgid "中文"
-msgstr ""
+msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
-msgstr "About Me"
+msgstr "O meni"
 
 #: ../en/index.html
 msgid ""
@@ -97,19 +98,19 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
-"BEEP has traveled for thousands of years through deep space to explore the "
-"Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
-"the surface of the planets."
+"BEEP je prepotoval tisoče let skozi vesolje, da bi raziskoval galaksijo. "
+"Prečkajte neznani sistem zvezd z ladjo BEEP in pošljite robote na površino "
+"planetov."
 
 #: ../en/index.html
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
 msgstr ""
-"Are you sure you want to close all programs and shut down the computer?"
+"Ali ste prepričani, da želite zapreti vse programe in izklopiti računalnik?"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr "Untitled 1 - LibreOffice Impress"
+msgstr "Neimenovano 1 - LibreOffice Impress"
 
 #: ../en/index.html
 msgid "Ubuntu One"
@@ -122,42 +123,42 @@ msgid ""
 "translated into 38 languages, Ubuntu also includes essential assistive "
 "technologies, which are, of course, completely free."
 msgstr ""
-"Accessibility is central to the Ubuntu philosophy. We believe that computing "
-"is for everyone regardless of nationality, race, gender or disability. Fully "
-"translated into 38 languages, Ubuntu also includes essential assistive "
-"technologies, which are, of course, completely free."
+"Dostopnost je osrednja Ubuntu filozofija. Verjamemo, da je računalništvo za "
+"vsakogar neodvisno od državljanstva, rase, spola ali invalidnosti. Popolnoma "
+"preveden v 38 jezikov,  Ubuntu prav tako vključuje pomembne podporne "
+"tehnologije, katere so seveda,  popolnoma brezplačne."
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr "Download Ubuntu"
+msgstr "Prejmite Ubuntu"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr "Join now"
+msgstr "Pridružite se"
 
 #: ../en/index.html
 msgid "Applications"
-msgstr "Applications"
+msgstr "Programi"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr "Weds 14 October, 2010"
+msgstr "Sre 14. oktober, 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr "Physics based puzzle/construction game"
+msgstr "Na fiziki temelječa igra ugank/gradbeništva"
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
-msgstr "Remote Desktop Viewer"
+msgstr "Pregledovalnik oddaljenih namizij"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr "Gwibber Social Client"
+msgstr "Program za družabna omrežja Gwibber"
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr "Happiness"
+msgstr "Sreča"
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -165,47 +166,47 @@ msgstr "15.2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr "PCB CNC converter"
+msgstr "PCB CNC pretvornik"
 
 #: ../en/index.html
 msgid "On"
-msgstr "On"
+msgstr "Vključeno"
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr "Surf the web"
+msgstr "Brskajte po spletu"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
-msgstr "A 2D platformer/shooter game with physics-based puzzles"
+msgstr "2D streljaška igra z na fiziki temelječimi ugankami"
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr "Graphics"
+msgstr "Grafika"
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr "Keep Connected"
+msgstr "Ostanite povezani"
 
 #: ../en/index.html
 msgid "Top Rated"
-msgstr "Top Rated"
+msgstr "Najbolje ocenjeno"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr "Compatible"
+msgstr "Združljivo"
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr "Dash home"
+msgstr "Dom pregledne plošče"
 
 #: ../en/index.html
 msgid "From"
-msgstr "From"
+msgstr "Od"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr "Get Mail"
+msgstr "Prejmite pošto"
 
 #: ../en/index.html
 msgid "Auto eth0"
@@ -213,27 +214,27 @@ msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr "Recent Files"
+msgstr "Nedavne datoteke"
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr "Send files to device…"
+msgstr "Pošlji datoteke na napravo ..."
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr "Create documents"
+msgstr "Ustvarite dokumente"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr "(91 Ratings)"
+msgstr "(91 Ocen)"
 
 #: ../en/index.html
 msgid "Secure"
-msgstr "Secure"
+msgstr "Varno"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr "This package contains the Chromium browser"
+msgstr "Ta paket vsebuje brskalnik Chromium"
 
 #: ../en/index.html
 msgid "$9.99"
@@ -241,27 +242,27 @@ msgstr "$9.99"
 
 #: ../en/index.html
 msgid "Help"
-msgstr "Help"
+msgstr "Pomoč"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr "Mute"
+msgstr "Utišaj"
 
 #: ../en/index.html
 msgid "All Software"
-msgstr "All Software"
+msgstr "Vsi programi"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr "Ready to download?"
+msgstr "Pripravljeni na prejem?"
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr "Accessories"
+msgstr "Pripomočki"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr "Create spreadsheets"
+msgstr "Ustvarite preglednice"
 
 #: ../en/index.html
 msgid "Bluetooth"
@@ -269,11 +270,11 @@ msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr "Shut Down"
+msgstr "Izklop"
 
 #: ../en/index.html
 msgid "Music"
-msgstr "Music"
+msgstr "Glasba"
 
 #: ../en/index.html
 msgid "Rhythmbox"
@@ -281,23 +282,25 @@ msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
-msgstr "Education"
+msgstr "Izobrazba"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
-msgstr "Brasero Disc Burner"
+msgstr "Zapisovalnik diskov Brasero"
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
-msgstr "Read, write and send emails with Thunderbird. It’s easy and fast."
+msgstr ""
+"Preberite, napišite ter pošljite e-pošto s Thunderbirdom. Je preprosto ter "
+"hitro."
 
 #: ../en/index.html
 msgid "wrote"
-msgstr "wrote"
+msgstr "napisal"
 
 #: ../en/index.html
 msgid "Subject"
-msgstr "Subject"
+msgstr "Zadeva"
 
 #: ../en/index.html
 msgid "Shotwell"
@@ -305,55 +308,55 @@ msgstr "Shotwell"
 
 #: ../en/index.html
 msgid "Documents"
-msgstr "Documents"
+msgstr "Dokumenti"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr "Disconnect"
+msgstr "Prekini povezavo"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr "Preferences"
+msgstr "Možnosti"
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr "Browse files"
+msgstr "Brskajte po datotekah"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
-msgstr "Come and explore our favourites"
+msgstr "Pridite in raziščite naše priljubljene programe"
 
 #: ../en/index.html
 msgid "junk"
-msgstr "junk"
+msgstr "neželeno"
 
 #: ../en/index.html
 msgid "Send"
-msgstr "Send"
+msgstr "Pošlji"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
-msgstr "Darkening Clockwork"
+msgstr "Temna ura"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "We hope you've enjoyed the Ubuntu online tour."
+msgstr "Upamo, da ste uživali v spletnem ogledu Ubuntuja."
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr "Inkscape Vector Graphics Editor"
+msgstr "Urejevalnik vektorskih slik Inkscape"
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr "Create presentations"
+msgstr "Ustvarite predstavitve"
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr "Original Message"
+msgstr "Izvirno sporočilo"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr "AisleRoit Solitaire"
+msgstr "Pasjansa AisleRoit"
 
 #: ../en/index.html
 msgid "Rock Out"
@@ -361,43 +364,44 @@ msgstr "Rock Out"
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr "Connection Information"
+msgstr "Podatki o povezavi"
 
 #: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
-"Chromium is an open-source browser project that aims to build a safer, "
-"faster, and more stable way for all Internet users to experience the web."
+"Chromium je projekt odprtokodnega brskalnika, ki poskuša iznajti hitrejši, "
+"varnejši in stabilnejši način za izkušanje spleta za vse uporabnike "
+"interneta."
 
 #: ../en/index.html
 msgid "Email"
-msgstr "Email"
+msgstr "E-pošta"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr "Sent"
+msgstr "Poslano"
 
 #: ../en/index.html
 msgid "subject"
-msgstr "subject"
+msgstr "zadeva"
 
 #: ../en/index.html
 msgid "Available"
-msgstr "Available"
+msgstr "Na voljo"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr "All Folders"
+msgstr "Vse mape"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr "Fri 26 Oct, 2001"
+msgstr "Petek 26. okt., 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr "Hibernate"
+msgstr "V mirovanje"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -405,19 +409,19 @@ msgstr "Langelinie Alle"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr "Your Ubuntu, your way"
+msgstr "Vaš Ubuntu, vaš način"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr "Time &amp; Date Settings…"
+msgstr "Nastavitve datuma in časa ..."
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr "Recently Used"
+msgstr "Nedavno uporabljeno"
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Prekliči"
 
 #: ../en/index.html
 msgid "Jardin Polar"
@@ -425,7 +429,7 @@ msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr "Welcome Screen"
+msgstr "Pozdravni zaslon"
 
 #: ../en/index.html
 msgid "3.3MB"
@@ -433,19 +437,19 @@ msgstr "3.3MB"
 
 #: ../en/index.html
 msgid "reply"
-msgstr "reply"
+msgstr "odgovori"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr "Set Up Mail…"
+msgstr "Nastavi pošto ..."
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
-msgstr "Search and download apps fast from the Ubuntu Software Centre."
+msgstr "Iščite ter hitro prejmite programe iz Programskega središča Ubuntu."
 
 #: ../en/index.html
 msgid "Clear"
-msgstr "Clear"
+msgstr "Počisti"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -453,19 +457,19 @@ msgstr "$19.99"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr "Dybbølsbro Station"
+msgstr "Postaja Dybbølsbro"
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr "Log Out…"
+msgstr "Odjava ..."
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
-"Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
-"You must have these packages to make full use of all extensions and effects."
+"Druge razširitve uporabljajo ruby, libxml-xql-perl, python-numpy in python-"
+"lxml. Za polno uporabo vseh razširitev in učinkov morate imeti te pakete."
 
 #: ../en/index.html
 msgid "Fwd"
@@ -473,11 +477,11 @@ msgstr "Fwd"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr "Terminal Server Client"
+msgstr "Strežniški terminalski odjemalec"
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr "Appearance"
+msgstr "Videz"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
@@ -489,39 +493,39 @@ msgstr "Buck Off"
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr "Stalking Ocelot"
+msgstr "Zalezujoči ozelot"
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr "System Settings…"
+msgstr "Sistemske nastavitve ..."
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr "Startup Applications…"
+msgstr "Začetni programi ..."
 
 #: ../en/index.html
 msgid "Remove"
-msgstr "Remove"
+msgstr "Odstrani"
 
 #: ../en/index.html
 msgid ""
 "Braid treats your time and attention as precious, and it does everything it "
 "can to give you a mind-expanding experience."
 msgstr ""
-"Braid treats your time and attention as precious, and it does everything it "
-"can to give you a mind-expanding experience."
+"Braid obravnava vaš čas in pozornost kot dragocenost, in počne vse kar "
+"lahko, da bi vam omogočil enkratno izkušnjo."
 
 #: ../en/index.html
 msgid "English"
-msgstr "English"
+msgstr "angleščina"
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr "Purple Dancers"
+msgstr "Vijolični plesalci"
 
 #: ../en/index.html
 msgid "from"
-msgstr "from"
+msgstr "od"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -532,40 +536,42 @@ msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
 msgstr ""
-"All gameplay is based on time manipulation. Journey into worlds where time "
-"behaves strangely; observe, learn from, and then master these worlds."
+"Način igranja temelji na rokovanju časa. Potovanja v svetove, kjer se čas "
+"čudno obnaša; opazujte, naučite se in nato obvladajte te svetove."
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr "Mount Snowdon"
+msgstr "Gora Snowdon"
 
 #: ../en/index.html
 msgid "Songs"
-msgstr "Songs"
+msgstr "Skladbe"
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr "Accessible"
+msgstr "Dostopno"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
-msgstr "Backup and access your files from Ubuntu, Windows, Web or Mobile"
+msgstr ""
+"Ustvarite varnostno kopijo ter dostopajte do datotek iz Ubuntuja, Windowsov, "
+"spleta ali mobilnika"
 
 #: ../en/index.html
 msgid "Title:"
-msgstr "Title:"
+msgstr "Naslov:"
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr "Setup new device…"
+msgstr "Nastavi novo napravo ..."
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
-msgstr "Introduction Ubuntu"
+msgstr "Ubuntu uvod"
 
 #: ../en/index.html
 msgid "Videos"
-msgstr "Videos"
+msgstr "Video"
 
 #: ../en/index.html
 msgid "Braid"
@@ -576,24 +582,24 @@ msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
-"Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
-"format, a standard maintained by the WWW consortium."
+"Inkscape naloži in shrani podniz vrste SVG (raztegljiva vektorska grafika), "
+"standarda, ki ga vzdržuje konzorcij WWW."
 
 #: ../en/index.html
 msgid ""
 "Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
 "download it to enjoy the real thing!"
 msgstr ""
-"Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
-"download it to enjoy the real thing!"
+"Hvala, ker ste raziskali Ubuntu! Zapomnite si, to je samo predstavitev. "
+"Morali boste prejeti in uživati v pravi stvari!"
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr "Unread:"
+msgstr "Neprebrano:"
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr "Banshee Media Player"
+msgstr "Predvajalnik predstavnosti Banshee"
 
 #: ../en/index.html
 msgid ""
@@ -607,23 +613,23 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
-"You can surf in safety with Ubuntu – confident that your files and data will "
-"stay protected. A built-in firewall and virus protection come as standard. "
-"And if a potential threat appears, we provide automatic updates which you "
-"can install in a single click. You get added security with AppArmor, which "
-"protects your important applications so attackers can’t access your system. "
-"And thanks to Firefox and gnome-keyring, Ubuntu helps you keep your private "
-"information private. So whether it’s accessing your bank account or sharing "
-"sensitive data with friends or colleagues, you’ll have peace of mind when "
-"you need it the most."
+"Z Ubuntujem lahko varno brskate, prepričani, da bodo vaše datoteke ter "
+"podatki ostali zaščiteni. Vgrajen požarni zid ter protivirusna zaščita sta "
+"vključena. Če se pa pojavi morebitna grožnja, zagotavljamo samodejne "
+"posodobitve, katere lahko namestite z enim klikom. Dodatno zaščito "
+"zagotavlja AppArmor, kateri ščiti vaše pomembne programe tako, da napadalci "
+"ne morejo dostopati do vašega sistema. In zahvaljujoč Firefoxu ter Geslom in "
+"ključem, vam Ubuntu pomaga obdržati zasebne podatke zasebne. To pomeni, da "
+"boste imeli duševni mir, če dostopate do svojega bančnega računa ali delite "
+"občutljive podatke s prijatelji ali sodelavci."
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr "Files &amp; Folders"
+msgstr "Mape in datoteke"
 
 #: ../en/index.html
 msgid "Installed"
-msgstr "Installed"
+msgstr "Nameščeno"
 
 #: ../en/index.html
 msgid "BEEP"
@@ -631,11 +637,11 @@ msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
-msgstr "Visible"
+msgstr "Vidno"
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr "Learn More"
+msgstr "Več"
 
 #: ../en/index.html
 msgid ""
@@ -643,25 +649,26 @@ msgid ""
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
 msgstr ""
-"Use BEEP’s anti-gravity device to directly manipulate the physics-based "
-"environments. The anti-gravity device is both a tool and a weapon. Use it to "
-"smash enemy robots, build towers and solve puzzles."
+"Uporabite anti gravitacijsko napravo, da neposredno vplivate na fiziki "
+"temelječa okolja. Anti gravitacijska naprava je hkrati orodje ter orožje. "
+"Uporabite jo za uničevanje nasprotnikovih robotov, grajenje stolpov in "
+"reševanje ugank."
 
 #: ../en/index.html
 msgid "Chat"
-msgstr "Chat"
+msgstr "Klepet"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr "Archive"
+msgstr "Arhiv"
 
 #: ../en/index.html
 msgid "Recent Apps"
-msgstr "Recent Apps"
+msgstr "Nedavni programi"
 
 #: ../en/index.html
 msgid "Home"
-msgstr "Home"
+msgstr "Domov"
 
 #: ../en/index.html
 msgid "Canonical"
@@ -669,11 +676,11 @@ msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr "Developer Tools"
+msgstr "Razvijalska orodja"
 
 #: ../en/index.html
 msgid "or"
-msgstr "or"
+msgstr "ali"
 
 #: ../en/index.html
 msgid "Inkscape"
@@ -681,7 +688,7 @@ msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr "Access the Internet"
+msgstr "Dostopajte do interneta"
 
 #: ../en/index.html
 msgid "5.3MB"
@@ -689,67 +696,67 @@ msgstr "5.3MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr "Take the guided tour"
+msgstr "Vodeni ogled"
 
 #: ../en/index.html
 msgid "cc"
-msgstr "cc"
+msgstr "kp"
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr "Pictures"
+msgstr "Slike"
 
 #: ../en/index.html
 msgid "Away"
-msgstr "Away"
+msgstr "Odsoten"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr "Check email"
+msgstr "Preverite e-pošto"
 
 #: ../en/index.html
 msgid "Size:"
-msgstr "Size:"
+msgstr "Velikost:"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr "Draft"
+msgstr "Osnutek"
 
 #: ../en/index.html
 msgid "Free"
-msgstr "Free"
+msgstr "Brezplačno"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr "Keep your Firefox bookmarks and Tomboy notes synced"
+msgstr "Obdržite Firefox zaznamke ter Tomboy opombe usklajene"
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
-msgstr "LibreOffice Writer makes it easy to draft professional documents."
+msgstr "Z LibreOffice Writer zlahka pripravite strokovne dokumente."
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr "Displays…"
+msgstr "Zasloni ..."
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr "Software Up to Date"
+msgstr "Programi so posodobljeni"
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr "Browse the web"
+msgstr "Brskajte po spletu"
 
 #: ../en/index.html
 msgid "Local"
-msgstr "Local"
+msgstr "Krajevno"
 
 #: ../en/index.html
 msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
-"If you want to use the spellchecker, you have to install aspell and the "
-"respective language-pack, e.g. aspell-en or aspell-de."
+"Če želite uporabiti črkovalnik, morate namestiti aspell in ustrezen "
+"jezikovni paket, na primer aspell-en ali aspell-de."
 
 #: ../en/index.html
 msgid "World of Goo"
@@ -757,31 +764,33 @@ msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
-msgstr "View photos"
+msgstr "Oglejte si fotografije"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
-msgstr "You can upload, organise, edit and share your photos with Shotwell."
+msgstr ""
+"Lahko pošiljate, organizirate, urejate in delite svoje fotografije z "
+"Shotwellom."
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr "Sand Maze"
+msgstr "Peščeni labirint"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr "Ubuntu One Control Panel"
+msgstr "Nadzorna plošča Ubuntu One"
 
 #: ../en/index.html
 msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
-"Your entire collection follows you around with music streaming to Android "
-"and iPhone"
+"Vaša celotna zbirka vas spremlja povsod z glasbenim pretakanjem na Android "
+"ali iPhone telefone"
 
 #: ../en/index.html
 msgid "to"
-msgstr "to"
+msgstr "za"
 
 #: ../en/index.html
 msgid ""
@@ -795,51 +804,50 @@ msgid ""
 "of a standalone binary and/or a web plug-in are common products of Blender "
 "use."
 msgstr ""
-"Blender is an integrated 3D suite for modelling, animation, rendering, post-"
-"production, interactive creation and playback (games). Blender has its own "
-"particular user interface, which is implemented entirely in OpenGL and "
-"designed with speed in mind. Python bindings are available for scripting; "
-"import/export features for popular file formats like 3D Studio and Wavefront "
-"Obj are implemented as scripts by the community. Stills, animations, models "
-"for games or other third party engines and interactive content in the form "
-"of a standalone binary and/or a web plug-in are common products of Blender "
-"use."
+"Blender je enovita 3d zbirka za modeliranje, animacijo, izrisovanje, "
+"nadaljnjo obdelovanje, vzajemno ustvarjanje in predvajanje (iger). Blender "
+"in svoj lasten uporabniški vmesnik, ki je izveden popolnoma v OpenGL in "
+"zasnovan s hitrostjo v mislih. Na voljo so vezave Python za skriptanja. "
+"Zmožnosti uvoza/izvoza za priljubljene vrste datotek kot sta 3D Studio in "
+"Wavefront Obj so izvedene kot skripti, ki jih je napisala skupnost. Slogi, "
+"animacije, modeli za igre ali drugi programniki tretjih oseb in vzajemna "
+"vsebina v obliki samodejne binarne datoteke in/ali spletnega vstavka so "
+"pogosti izdelki, ustvarjeni s programom Blender."
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr "Your browser does not support iframes."
+msgstr "Vaš brskalnik ne podpira iframeov."
 
 #: ../en/index.html
 msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
 msgstr ""
-"Make a good impression with the intuitive LibreOffice Impress presentation "
-"tool."
+"Ustvarite dober vtis z inuitivnim predstavitvenim orodjem LibreOffice "
+"Impress."
 
 #: ../en/index.html
 msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
-"It’s quick and easy to access your folders and files from Ubuntu’s home "
-"folder."
+"Hitro ter enostavno dostopate do map in datotek iz domače mape Ubuntu."
 
 #: ../en/index.html
 msgid "Our star apps"
-msgstr "Our star apps"
+msgstr "Naši najbolj priljubljeni programi"
 
 #: ../en/index.html
 msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
 msgstr ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
+"Zapomnite si, to je samo predstavitev. Morali boste prejeti in uživati v "
+"pravi stvari!"
 
 #: ../en/index.html
 msgid "Date"
-msgstr "Date"
+msgstr "Datum"
 
 #: ../en/index.html
 msgid ""
@@ -847,41 +855,42 @@ msgid ""
 "bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
 "goo balls that live in the beautiful World of Goo are curious to explore."
 msgstr ""
-"Drag and drop living, squirming, talking globs of goo to build structures, "
-"bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
-"goo balls that live in the beautiful World of Goo are curious to explore."
+"Povlecite ter spustite žive, zvijajoče, govoreče lepljive kepice za "
+"izgradnjo konstrukcij, mostov, topovskih krogel, cepelinov in orjaških "
+"jezikov. Milijone nedolžnih lepljivih kepic, katere živijo v čudovitem "
+"Lepljivem svetu, je radovednih in želijo raziskovati."
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr "Chromium Web Browser"
+msgstr "Spletni brskalnik Chromium"
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr "Sound Recorder"
+msgstr "Snemalnik zvoka"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr "Recipient"
+msgstr "Prejemnik"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr "Fast"
+msgstr "Hitro"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr "Recent"
+msgstr "Nedavno"
 
 #: ../en/index.html
 msgid "To:"
-msgstr "To:"
+msgstr "Za:"
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
-msgstr "Set Up Broadcast Account…"
+msgstr "Nastavite račun za oddajanje ..."
 
 #: ../en/index.html
 msgid "Date:"
-msgstr "Date:"
+msgstr "Datum:"
 
 #: ../en/index.html
 msgid ""
@@ -889,101 +898,101 @@ msgid ""
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
 msgstr ""
-"Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Fast, secure "
-"and with thousands of apps to choose from, Ubuntu gives you a clean and "
-"streamlined experience that you can really make your own."
+"Uživajte v enostavnosti Ubuntujevega elegantnega ter intuitivnega vmesnika. "
+"Hiter, varen in z več tisoč programi, med katerimi lahko izbirate, Ubuntu "
+"vam ponuja čisto ter poenostavljeno izkušnjo."
 
 #: ../en/index.html
 msgid "Total:"
-msgstr "Total:"
+msgstr "Skupaj:"
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr "Additional Drivers"
+msgstr "Dodatni gonilniki"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr "Ubuntu Software Centre"
+msgstr "Programsko središče Ubuntu"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr "Untitled 1 - LibreOffice Calc"
+msgstr "Neimenovano 1 - LibreOffice Calc"
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr "I already have an account!"
+msgstr "Že imam račun!"
 
 #: ../en/index.html
 msgid "System"
-msgstr "System"
+msgstr "Sistem"
 
 #: ../en/index.html
 msgid "forward"
-msgstr "forward"
+msgstr "posreduj"
 
 #: ../en/index.html
 msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
-"LibreOffice Calc has everything you need to create clear and accurate "
-"spreadsheets."
+"LibreOffice Calc ima vse, kar potrebujete za izdelavo jasnih ter natančnih "
+"preglednic."
 
 #: ../en/index.html
 msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
-"Some of the import and export features are provided using the packages dia, "
-"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+"Nekatere zmožnosti uvoza in izvoza zagotavljajo paketi dia, libwmf-bin, "
+"pstoedit, skencil, imagemagick in perlmagick."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr "Take Ubuntu for a test drive with our online demo."
+msgstr "Preizkusite Ubuntu z našo spletno predstavitvijo."
 
 #: ../en/index.html
 msgid "Install"
-msgstr "Install"
+msgstr "Namesti"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr "Items:"
+msgstr "Predmeti:"
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr "WildWheat"
+msgstr "Divja pšenica"
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr "Subject:"
+msgstr "Zadeva:"
 
 #: ../en/index.html
 msgid "Backup"
-msgstr "Backup"
+msgstr "Varnostna kopija"
 
 #: ../en/index.html
 msgid "History"
-msgstr "History"
+msgstr "Zgodovina"
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr "16 Photos"
+msgstr "16 fotografij"
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr "Home Folder"
+msgstr "Domača mapa"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
-msgstr "Welcome to the Ubuntu online tour!"
+msgstr "Dobrodošli v Ubuntu spletnem ogledu!"
 
 #: ../en/index.html
 msgid "Office"
-msgstr "Office"
+msgstr "Pisarna"
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr "Themes &amp; Tweaks"
+msgstr "Teme in prilagoditve"
 
 #: ../en/index.html
 msgid ""
@@ -992,26 +1001,27 @@ msgid ""
 "installation CDs. No fuss. And it’s compatible with Windows too! So you can "
 "open, edit and share Microsoft Office documents stress-free."
 msgstr ""
-"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
-"player, camera or printer and you’ll be up and running straight away. No "
-"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
-"open, edit and share Microsoft Office documents stress-free."
+"Ubuntu odlično dela z velikim obsegom naprav. Preprosto priključite svoj "
+"predvajalnik mp3, kamero ali tiskalnik in bo takoj pripravljen za uporabo. "
+"Brez namestitvenih zgoščenk. Brez razburjanja. Združljiv je tudi z Windowsi! "
+"Tako da lahko odprete, urejate ter delite dokumente Microsoft Office brez "
+"stresa."
 
 #: ../en/index.html
 msgid "work"
-msgstr "work"
+msgstr "delo"
 
 #: ../en/index.html
 msgid "Library"
-msgstr "Library"
+msgstr "Knjižnica"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr "Unify your contacts across Desktop, Mobile and Web"
+msgstr "Poenotite svoje kontakte na namizju, spletu ter mobilniku"
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
-msgstr "Thunderbird Mail"
+msgstr "Pošta Thunderbird"
 
 #: ../en/index.html
 msgid ""
@@ -1019,13 +1029,13 @@ msgid ""
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
 msgstr ""
-"Chromium serves as a base for Google Chrome, which is Chromium rebranded "
-"(name and logo) with very few additions such as usage tracking and an auto-"
-"updater system."
+"Chromium služi kot osnova za Google Chrome, ki je Chromium z drugo blagovno "
+"znamko (ime in logotip) in zelo malo dodatki kot je sledenje uporabe in "
+"sistem samodejnega posodabljanja."
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr "Not Junk"
+msgstr "Ni neželeno"
 
 #: ../en/index.html
 msgid "Chromium"
@@ -1033,39 +1043,39 @@ msgstr "Chromium"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr "Untitled 1 - LibreOffice Writer"
+msgstr "Neimenovano 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "delete"
-msgstr "delete"
+msgstr "izbriši"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr "Thunderbird Mail/News"
+msgstr "Odjemalec pošte in novic Thunderbird"
 
 #: ../en/index.html
 msgid "Busy"
-msgstr "Busy"
+msgstr "Zaseden"
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr "Small Flowers"
+msgstr "Majhno cvetje"
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr "Edit Connections…"
+msgstr "Urejanje povezav ..."
 
 #: ../en/index.html
 msgid "Printers"
-msgstr "Printers"
+msgstr "Tiskalniki"
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr "Sound Settings…"
+msgstr "Nastavitve zvoka ..."
 
 #: ../en/index.html
 msgid "Search"
-msgstr "Search"
+msgstr "Iskanje"
 
 #: ../en/index.html
 msgid ""
@@ -1073,33 +1083,32 @@ msgid ""
 "delicious. The most addicting and awe-inspiring puzzle game will set you on "
 "an adventure that youll never forget!"
 msgstr ""
-"But they don't know that they are in a game, or that they are extremely "
-"delicious. The most addicting and awe-inspiring puzzle game will set you on "
-"an adventure that you'll never forget!"
+"Ampak oni ne vedo da so v igri in da so izjemno okusni. Najbolj zasvajajoča "
+"ugankarska igra, vas bo poslala na pustolovščino, katero ne boste pozabili!"
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr "Turn On Bluetooth"
+msgstr "Vklopi Bluetooth"
 
 #: ../en/index.html
 msgid "Write"
-msgstr "Write"
+msgstr "Sestavi"
 
 #: ../en/index.html
 msgid "Attach"
-msgstr "Attach"
+msgstr "Pripni"
 
 #: ../en/index.html
 msgid "Window"
-msgstr "Window"
+msgstr "Okno"
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr "Write: (no subject)"
+msgstr "Napiši: (brez zadeve)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr "Ubuntu online tour"
+msgstr "Spletni ogled Ubuntu"
 
 #: ../en/index.html
 msgid "Federica Miglio"
@@ -1112,50 +1121,50 @@ msgid ""
 "gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
 "across 6 unique environments."
 msgstr ""
-"BEEP is a 2D side-scrolling platformer with physics-based gameplay. You "
-"control a small robot equipped with an anti-gravity device, a jet-pack and a "
-"gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
-"across 6 unique environments."
+"Igra BEEP je 2D na fiziki temelječ način igranja. Nadzirate majhnega robota, "
+"opremljenega z anti gravitacijsko napravo, raketni pogon ter pištolo. "
+"Vozite, skačite, letite, plavajte ter streljajte, da bi se prebili čez 24 "
+"stopenj razpršenih čez 6 edinstvenih okolij."
 
 #: ../en/index.html
 msgid "Offline"
-msgstr "Offline"
+msgstr "Brez povezave"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr "Rubbish Bin"
+msgstr "Smeti"
 
 #: ../en/index.html
 msgid "archive"
-msgstr "archive"
+msgstr "arhiv"
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr "Power Of Words"
+msgstr "Moč besed"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr "Shotwell Photo Manager"
+msgstr "Upravljalnik fotografij Shotwell"
 
 #: ../en/index.html
 msgid "Folders"
-msgstr "Folders"
+msgstr "Mape"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr "Browsing the web is fast and secure with Ubuntu and Firefox."
+msgstr "Brskanje po spletu je hitro in varno z Ubuntujem in Firefoxom."
 
 #: ../en/index.html
 msgid "Format"
-msgstr "Format"
+msgstr "Oblika"
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr "Browse files on device…"
+msgstr "Brskajte datoteke na napravi ..."
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr "Junk Mail"
+msgstr "Neželena pošta"
 
 #: ../en/index.html
 msgid "1"
@@ -1163,35 +1172,35 @@ msgstr "1"
 
 #: ../en/index.html
 msgid "Computer"
-msgstr "Computer"
+msgstr "Računalnik"
 
 #: ../en/index.html
 msgid "What's New"
-msgstr "What's New"
+msgstr "Kaj je novega"
 
 #: ../en/index.html
 msgid "App Available for Download"
-msgstr "App Available for Download"
+msgstr "Program je na voljo za prejem"
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr "Movie Player"
+msgstr "Predvajalnik filmov"
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr "Invisible"
+msgstr "Nevidno"
 
 #: ../en/index.html
 msgid "Albums"
-msgstr "Albums"
+msgstr "Albumi"
 
 #: ../en/index.html
 msgid ""
 "Inkscape supports multiple opened files and multiple views per file. "
 "Graphics can be printed and exported to png bitmaps."
 msgstr ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
+"Inkscape podpira več odprtih datotek in več pogledov na datoteko. Grafiko je "
+"mogoče natisniti in izvoziti v bitne slike png."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1199,51 +1208,51 @@ msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
-msgstr "From:"
+msgstr "Od:"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr "Insert"
+msgstr "Vstavi"
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr "Shut Down…"
+msgstr "Izklop ..."
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr "Fonts"
+msgstr "Pisave"
 
 #: ../en/index.html
 msgid "File"
-msgstr "File"
+msgstr "Datoteka"
 
 #: ../en/index.html
 msgid "Edit"
-msgstr "Edit"
+msgstr "Uredi"
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr "Bluetooth On"
+msgstr "Bluetooth vklopljen"
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr "Turn Off Bluetooth"
+msgstr "Izklopi Bluetooth"
 
 #: ../en/index.html
 msgid "Installing"
-msgstr "Installing"
+msgstr "Nameščanje"
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr "back to the site"
+msgstr "nazaj na stran"
 
 #: ../en/index.html
 msgid "Download"
-msgstr "Download"
+msgstr "Prejem"
 
 #: ../en/index.html
 msgid "Games"
-msgstr "Games"
+msgstr "Igre"
 
 #: ../en/index.html
 msgid "Visolate"
@@ -1251,31 +1260,31 @@ msgstr "Visolate"
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr "Empathy Internet Messageing"
+msgstr "Internetno sporočanje Empathy"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr "Create and edit Scalable Vector Graphics images"
+msgstr "Ustvarjajte in urejajte slike raztegljive vektorske grafike (svg)"
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr "Attached Devices"
+msgstr "Priključene naprave"
 
 #: ../en/index.html
 msgid "View"
-msgstr "View"
+msgstr "Pogled"
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr "Suspend"
+msgstr "V pripravljenost"
 
 #: ../en/index.html
 msgid "branches"
-msgstr "branches"
+msgstr "vaje"
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr "The Power of Your Personal Cloud"
+msgstr "Moč svojega osebnega oblaka"
 
 #: ../en/index.html
 msgid ""
@@ -1283,12 +1292,12 @@ msgid ""
 "painterly style where you manipulate the flow of time to solve puzzles. "
 "Every puzzle in Braid is unique; there is no filler."
 msgstr ""
-"Braid is a platform game in painterly style where you manipulate the flow of "
-"time to solve puzzles. Every puzzle in Braid is unique; there is no filler."
+"Braid je igra, kjer ravnate s tokom časa, da bi rešili uganke. Vsaka uganka "
+"v Braidu je edinstvena."
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr "Mon 11 October, 2010"
+msgstr "Pon 11. oktober, 2010"
 
 #: ../en/index.html
 msgid ""
@@ -1297,46 +1306,47 @@ msgid ""
 "and freehand curves. As an added bonus, both vector and bitmap objects can "
 "have alpha transparency and can be arbitrarily transformed."
 msgstr ""
-"Inkscape user interface should be familiar from CorelDraw and similar "
-"drawing programs. There are rectangles, ellipses, text items, bitmap images "
-"and freehand curves. As an added bonus, both vector and bitmap objects can "
-"have alpha transparency and can be arbitrarily transformed."
+"Uporabniški vmesnik Inkscape bi moral biti znan iz CorelDraw in podobnih "
+"risarskih programov. Na voljo so pravokotniki, besedilni predmeti, bitne "
+"slike in prostoročne krivulje. Kot dodan bonus imajo lahko tako vektorski "
+"predmeti kot predmeti bitnih slik alfa prozornost in jih je mogoče poljubno "
+"preoblikovati."
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr "Unmute"
+msgstr "Prekliči utišanje"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr "Rubbish bin"
+msgstr "Smeti"
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr "Sound &amp; Video"
+msgstr "Zvok in video"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr "The Grass Aint Greener"
+msgstr "Trava ni bolj zelena"
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr "Create and edit 3D models and animations"
+msgstr "Ustvarjajte in urejajte 3D modele in animacije"
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr "Inbox"
+msgstr "Prejeto"
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr "Files Anywhere"
+msgstr "Datoteke povsod"
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr "Stay Productive"
+msgstr "Ostanite produktivni"
 
 #: ../en/index.html
 msgid "Table"
-msgstr "Table"
+msgstr "Preglednica"
 
 #: ../en/index.html
 msgid ""
@@ -1370,58 +1380,16 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Tools"
-msgstr "Tools"
+msgstr "Orodja"
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr "Downloads"
+msgstr "Prejeto"
 
 #: ../en/index.html
 msgid "You"
-msgstr "You"
+msgstr "Vi"
 
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
-
-#~ msgid "Files"
-#~ msgstr "Files"
-
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
-
-#~ msgid "Webcam"
-#~ msgstr "Webcam"
-
-#~ msgid "More Apps"
-#~ msgstr "More Apps"
-
-#~ msgid "Browse the Web"
-#~ msgstr "Browse the Web"
-
-#~ msgid "Find Files"
-#~ msgstr "Find Files"
-
-#~ msgid "Internet Apps"
-#~ msgstr "Internet Apps"
-
-#~ msgid "Shortcuts"
-#~ msgstr "Shortcuts"
-
-#~ msgid "Check Email"
-#~ msgstr "Check Email"
-
-#~ msgid "Add Event…"
-#~ msgstr "Add Event…"
-
-#~ msgid "View Photos"
-#~ msgstr "View Photos"
-
-#~ msgid "Media Apps"
-#~ msgstr "Media Apps"
-
-#~ msgid "Most Frequently Used"
-#~ msgstr "Most Frequently Used"
-
-#~ msgid "Listen to Music"
-#~ msgstr "Listen to Music"
