@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-24 08:40+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-04-25 19:27+0000\n"
+"Last-Translator: YannUbuntu <yannubuntu@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-25 05:25+0000\n"
-"X-Generator: Launchpad (build 15139)\n"
+"X-Launchpad-Export-Date: 2012-04-26 05:19+0000\n"
+"X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -23,7 +23,7 @@ msgstr "Navigateur Web Firefox"
 
 #: ../en/index.html
 msgid "Lock Screen"
-msgstr ""
+msgstr "Verrouiller l'écran"
 
 #: ../en/index.html
 msgid ""
@@ -87,7 +87,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "中文"
-msgstr ""
+msgstr "Breton"
 
 #: ../en/index.html
 msgid "About Me"
@@ -136,7 +136,7 @@ msgstr "Télécharger Ubuntu"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr ""
+msgstr "Inscrivez-vous maintenant"
 
 #: ../en/index.html
 msgid "Applications"
@@ -160,7 +160,7 @@ msgstr "Client de réseaux sociaux Gwibber"
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr ""
+msgstr "Bonheur"
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -248,7 +248,7 @@ msgstr "Aide"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr ""
+msgstr "Muet"
 
 #: ../en/index.html
 msgid "All Software"
@@ -280,11 +280,11 @@ msgstr "Musique"
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr ""
+msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
-msgstr ""
+msgstr "Éducation"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
@@ -298,7 +298,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "wrote"
-msgstr ""
+msgstr "a écrit"
 
 #: ../en/index.html
 msgid "Subject"
@@ -382,7 +382,7 @@ msgstr "Courriel"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr ""
+msgstr "Envoyé"
 
 #: ../en/index.html
 msgid "subject"
@@ -390,11 +390,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Available"
-msgstr ""
+msgstr "Disponible"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr ""
+msgstr "Tous les dossiers"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
@@ -430,7 +430,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr ""
+msgstr "Écran d'accueil"
 
 #: ../en/index.html
 msgid "3.3MB"
@@ -438,7 +438,7 @@ msgstr "3.3MB"
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "répondre"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
@@ -462,29 +462,32 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr ""
+msgstr "Se déconnecter..."
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
+"D'autres extensions utilisent ruby, libxml-xql-perl, python-numpy et python-"
+"lxml. Vous devez installer ces paquets pour utiliser pleinement toutes les "
+"extensions et tous les effets."
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr ""
+msgstr "Transférer"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr ""
+msgstr "Client terminal serveur"
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr ""
+msgstr "Apparence"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
@@ -496,11 +499,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr ""
+msgstr "Paramètres système…"
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr ""
+msgstr "Applications au démarrage..."
 
 #: ../en/index.html
 msgid "Remove"
@@ -514,11 +517,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "Français"
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Danceurs Violets"
 
 #: ../en/index.html
 msgid "from"
@@ -526,7 +529,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #: ../en/index.html
 msgid ""
@@ -544,7 +547,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr ""
+msgstr "Accessible"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
@@ -552,7 +555,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Title:"
-msgstr ""
+msgstr "Titre :"
 
 #: ../en/index.html
 msgid "Setup new device…"
@@ -564,7 +567,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Videos"
-msgstr ""
+msgstr "Vidéos"
 
 #: ../en/index.html
 msgid "Braid"
@@ -575,6 +578,9 @@ msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
+"Inkscape charge et sauvegarde un sous-ensemble du format SVG ( pour "
+"« Scalable Vector Graphics » signifiant Graphismes vectoriels "
+"redimensionnables), un standard maintenu par le consortium WWW."
 
 #: ../en/index.html
 msgid ""
@@ -588,7 +594,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "Lecteur de musique Banshee"
 
 #: ../en/index.html
 msgid ""
@@ -617,11 +623,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Visible"
-msgstr ""
+msgstr "Visible"
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr ""
+msgstr "En savoir plus"
 
 #: ../en/index.html
 msgid ""
@@ -632,7 +638,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chat"
-msgstr ""
+msgstr "Messagerie instantanée"
 
 #: ../en/index.html
 msgid "Archive"
@@ -640,7 +646,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Recent Apps"
-msgstr ""
+msgstr "Applications récentes"
 
 #: ../en/index.html
 msgid "Home"
@@ -648,7 +654,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr ""
+msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
@@ -656,15 +662,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "or"
-msgstr ""
+msgstr "ou"
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "Accéder à Internet"
 
 #: ../en/index.html
 msgid "5.3MB"
@@ -672,7 +678,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr ""
+msgstr "Suivez le guide"
 
 #: ../en/index.html
 msgid "cc"
@@ -680,7 +686,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr ""
+msgstr "Images"
 
 #: ../en/index.html
 msgid "Away"
@@ -692,11 +698,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Size:"
-msgstr ""
+msgstr "Taille :"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr ""
+msgstr "Brouillon"
 
 #: ../en/index.html
 msgid "Free"
@@ -731,10 +737,13 @@ msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
+"Si vous souhaitez utiliser un vérificateur d'orthographe, vous devez "
+"installer aspell et les paquets pour les langues vérifiées (aspell-en or "
+"aspell-fr)"
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr ""
+msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
@@ -774,6 +783,16 @@ msgid ""
 "of a standalone binary and/or a web plug-in are common products of Blender "
 "use."
 msgstr ""
+"Blender est une suite intégrée 3D pour le modelage, l'animation, le rendu, "
+"la post-production, la création interactive et la lecture (jeux). Blender "
+"possède sa propre interface graphique implémentée entièrement en OpenGL et "
+"conçue pour les performances. Des interfaces de programmation en Python sont "
+"disponibles pour faire des scripts ; les fonctionnalités d'importation et "
+"d'exportation de/vers des formats de fichiers populaires tels que 3D Studio "
+"et Wavefront Obj sont implémentés par des scripts issus de la communauté des "
+"utilisateurs. Les usages communs de Blender sont : images statiques, "
+"animations, modèles pour des jeux ou d'autres moteurs tiers, contenu "
+"interactif sous forme d'exécutable indépendant ou greffon web, etc."
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
@@ -793,7 +812,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Our star apps"
-msgstr ""
+msgstr "Nos applications vedettes"
 
 #: ../en/index.html
 msgid ""
@@ -803,7 +822,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 #: ../en/index.html
 msgid ""
@@ -814,7 +833,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
+msgstr "Navigateur Web Chromium"
 
 #: ../en/index.html
 msgid "Sound Recorder"
@@ -822,11 +841,11 @@ msgstr "Enregistreur de sons"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr ""
+msgstr "Destinataire"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr ""
+msgstr "Rapide"
 
 #: ../en/index.html
 msgid "Recent"
@@ -842,7 +861,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date:"
-msgstr ""
+msgstr "Date :"
 
 #: ../en/index.html
 msgid ""
@@ -853,7 +872,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Total:"
-msgstr ""
+msgstr "Total :"
 
 #: ../en/index.html
 msgid "Additional Drivers"
@@ -861,7 +880,7 @@ msgstr "Pilotes supplémentaires"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr ""
+msgstr "Logithèque Ubuntu"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
@@ -869,11 +888,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr ""
+msgstr "J'ai déjà un compte !"
 
 #: ../en/index.html
 msgid "System"
-msgstr ""
+msgstr "Système"
 
 #: ../en/index.html
 msgid "forward"
@@ -915,7 +934,7 @@ msgstr "Sujet :"
 
 #: ../en/index.html
 msgid "Backup"
-msgstr ""
+msgstr "Sauvegarde"
 
 #: ../en/index.html
 msgid "History"
@@ -939,7 +958,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr ""
+msgstr "Thèmes &amp; optimisations"
 
 #: ../en/index.html
 msgid ""
@@ -951,7 +970,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "work"
-msgstr ""
+msgstr "travail"
 
 #: ../en/index.html
 msgid "Library"
@@ -963,7 +982,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
-msgstr ""
+msgstr "Client courriel Thunderbird"
 
 #: ../en/index.html
 msgid ""
@@ -1040,11 +1059,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Window"
-msgstr ""
+msgstr "Fenêtre"
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr ""
+msgstr "Écrire : (aucun sujet)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1080,7 +1099,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Gestionnaire de photos Shotwell"
 
 #: ../en/index.html
 msgid "Folders"

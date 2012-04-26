@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-24 08:40+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-04-26 05:15+0000\n"
+"Last-Translator: Auduf <5097@mail.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-25 05:25+0000\n"
-"X-Generator: Launchpad (build 15139)\n"
+"X-Launchpad-Export-Date: 2012-04-26 05:19+0000\n"
+"X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -339,7 +339,7 @@ msgstr "Отправить"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Часовой механизм"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
@@ -429,7 +429,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Полюс"
 
 #: ../en/index.html
 msgid "Welcome Screen"
@@ -461,7 +461,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Станция Dybbølsbro"
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -499,7 +499,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr ""
+msgstr "Параметры системы..."
 
 #: ../en/index.html
 msgid "Startup Applications…"
@@ -521,7 +521,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Пурпурные танцоры"
 
 #: ../en/index.html
 msgid "from"
@@ -591,7 +591,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "Медиапроигрыватель Banshee"
 
 #: ../en/index.html
 msgid ""
@@ -663,7 +663,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
@@ -817,7 +817,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
+msgstr "Веб-браузер Chromium"
 
 #: ../en/index.html
 msgid "Sound Recorder"

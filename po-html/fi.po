@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-24 11:44+0000\n"
+"PO-Revision-Date: 2012-04-25 20:06+0000\n"
 "Last-Translator: Jiri Grönroos <Unknown>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-25 05:25+0000\n"
-"X-Generator: Launchpad (build 15139)\n"
+"X-Launchpad-Export-Date: 2012-04-26 05:19+0000\n"
+"X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -85,7 +85,7 @@ msgstr "Manipuloi ajan kulkua ratkaistaksesi ongelmakohdat"
 
 #: ../en/index.html
 msgid "中文"
-msgstr "Kiinaksi (中文)"
+msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
@@ -487,7 +487,7 @@ msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr ""
+msgstr "Hirvi"
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
@@ -513,7 +513,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr "Englanniksi"
+msgstr "English"
 
 #: ../en/index.html
 msgid "Purple Dancers"
@@ -768,7 +768,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "Hiekkasokkelo"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
@@ -779,8 +779,8 @@ msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
-"Koko musiikkikokoelmasi on aina mukanasi missä tahansa musiikin suoratoisto-"
-"ominaisuuden avulla Android ja iPhone -puhelimilla."
+"Musiikkikokoelmasi suoratoisto on aina mukanasi Android- ja iPhone-"
+"puhelimilla."
 
 #: ../en/index.html
 msgid "to"
@@ -869,7 +869,7 @@ msgstr "Nopea"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr ""
+msgstr "Viimeisimmät"
 
 #: ../en/index.html
 msgid "To:"
@@ -952,7 +952,7 @@ msgstr "Kohteet:"
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr ""
+msgstr "Vehnä"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -1048,7 +1048,7 @@ msgstr "Varattu"
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr ""
+msgstr "Pieniä kukkia"
 
 #: ../en/index.html
 msgid "Edit Connections…"
@@ -1123,7 +1123,7 @@ msgstr "arkistoi"
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "Sanojen voima"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
@@ -1310,7 +1310,7 @@ msgstr "Ääni ja video"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr ""
+msgstr "Ruoho ei ole vihreämpää"
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
@@ -1322,11 +1322,11 @@ msgstr "Saapuneet"
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr ""
+msgstr "Tiedostot kaikkialla"
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr ""
+msgstr "Pysy tuotteliaana"
 
 #: ../en/index.html
 msgid "Table"
