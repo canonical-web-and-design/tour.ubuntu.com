@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 05:15+0000\n"
-"Last-Translator: Auduf <5097@mail.ru>\n"
+"PO-Revision-Date: 2012-04-26 13:24+0000\n"
+"Last-Translator: Aleksey Kabanov <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-26 05:19+0000\n"
+"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
@@ -23,7 +23,7 @@ msgstr "Веб-браузер Firefox"
 
 #: ../en/index.html
 msgid "Lock Screen"
-msgstr ""
+msgstr "Заблокировать экран"
 
 #: ../en/index.html
 msgid ""
@@ -59,7 +59,7 @@ msgstr "Спасибо, что исследуете Ubuntu!"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr ""
+msgstr "Видеоредактор PiTiVi"
 
 #: ../en/index.html
 msgid "Internet"
@@ -67,7 +67,7 @@ msgstr "Интернет"
 
 #: ../en/index.html
 msgid "Science &amp; Engineering"
-msgstr "Наука и техника"
+msgstr "Наука и проектирование"
 
 #: ../en/index.html
 msgid "Find apps"
@@ -125,9 +125,9 @@ msgid ""
 "technologies, which are, of course, completely free."
 msgstr ""
 "Доступность занимает центральное место в философии Ubuntu. Мы считаем, что "
-"компьютеры должны быть доступны для всех независимо от национальности, расы, "
-"пола или физических ограничений. Полностью переведенная на 38 языков, Ubuntu "
-"также включает существенный набор вспомогательных технологий, которые "
+"компьютеры должны быть доступны для всех, независимо от национальности, "
+"расы, пола или физических ограничений. Полностью переведённая на 38 языков, "
+"Ubuntu также включает существенный набор вспомогательных технологий, которые "
 "предоставляются, конечно же, совершенно бесплатно."
 
 #: ../en/index.html
@@ -136,7 +136,7 @@ msgstr "Загрузить Ubuntu"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr "Присоединяйтесь сейчас"
+msgstr "Присоединиться"
 
 #: ../en/index.html
 msgid "Applications"
@@ -249,7 +249,7 @@ msgstr "Помощь"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr "Выключить"
+msgstr "Выключить звук"
 
 #: ../en/index.html
 msgid "All Software"
@@ -261,7 +261,7 @@ msgstr "Готовы к загрузке?"
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr "Аксессуары"
+msgstr "Стандартные"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
@@ -281,11 +281,11 @@ msgstr "Музыка"
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr ""
+msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
-msgstr "Образование"
+msgstr "Образовательные"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
@@ -343,7 +343,7 @@ msgstr "Часовой механизм"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
+msgstr "Надеемся, вам понравился онлайн-тур по Ubuntu."
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -359,11 +359,11 @@ msgstr "Исходное сообщение"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "Пасьянс Айслериот"
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr ""
+msgstr "Наслаждайтесь музыкой"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -393,7 +393,7 @@ msgstr "тема"
 
 #: ../en/index.html
 msgid "Available"
-msgstr "Доступно"
+msgstr "В сети"
 
 #: ../en/index.html
 msgid "All Folders"
@@ -401,7 +401,7 @@ msgstr "Все папки"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr "Вторник 26 Октября, 2001"
+msgstr "Пятница 26 Октября, 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
@@ -417,7 +417,7 @@ msgstr "Ваш Ubuntu, ваш путь"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr ""
+msgstr "Настройки времени и даты…"
 
 #: ../en/index.html
 msgid "Recently Used"
@@ -425,7 +425,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr ""
+msgstr "Отменить"
 
 #: ../en/index.html
 msgid "Jardin Polar"
@@ -433,11 +433,11 @@ msgstr "Полюс"
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr ""
+msgstr "Экран приветствия"
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr ""
+msgstr "3.3МБ"
 
 #: ../en/index.html
 msgid "reply"
@@ -449,15 +449,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
-msgstr ""
+msgstr "Быстро находите и загружайте приложения в Центре приложений Ubuntu"
 
 #: ../en/index.html
 msgid "Clear"
-msgstr ""
+msgstr "Очистить"
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr ""
+msgstr "$19.99"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
@@ -465,7 +465,7 @@ msgstr "Станция Dybbølsbro"
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr "Выйти из системы..."
+msgstr "Завершить сеанс…"
 
 #: ../en/index.html
 msgid ""
@@ -487,7 +487,7 @@ msgstr "Оформление"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
@@ -503,7 +503,7 @@ msgstr "Параметры системы..."
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr ""
+msgstr "Автозапуск программ…"
 
 #: ../en/index.html
 msgid "Remove"
@@ -529,7 +529,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #: ../en/index.html
 msgid ""
@@ -552,6 +552,8 @@ msgstr ""
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
+"Создавайте резервные копии, получайте доступ к вашим файлам из Ubuntu, "
+"Windows, Веб или Мобильных устройств"
 
 #: ../en/index.html
 msgid "Title:"
@@ -567,11 +569,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Videos"
-msgstr ""
+msgstr "Видео"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Braid"
 
 #: ../en/index.html
 msgid ""
@@ -608,7 +610,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr ""
+msgstr "Файлы и папки"
 
 #: ../en/index.html
 msgid "Installed"
@@ -616,7 +618,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
@@ -624,7 +626,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr ""
+msgstr "Узнать больше"
 
 #: ../en/index.html
 msgid ""
@@ -632,10 +634,14 @@ msgid ""
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
 msgstr ""
+"Используйте антигравитационное устройство BEEP для непосредственного "
+"управления основанной на физических законах средой. Антигравитационное "
+"устройство — инструмент и оружие одновременно. Используйте его, чтобы "
+"уничтожать вражеских роботов, строить башни и решать головоломки."
 
 #: ../en/index.html
 msgid "Chat"
-msgstr ""
+msgstr "Чат"
 
 #: ../en/index.html
 msgid "Archive"
@@ -647,15 +653,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Home"
-msgstr ""
+msgstr "Домашняя папка"
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr ""
+msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr ""
+msgstr "Инструменты разработчика"
 
 #: ../en/index.html
 msgid "or"
@@ -667,11 +673,11 @@ msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "Доступ в Интернет"
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr ""
+msgstr "5.3МБ"
 
 #: ../en/index.html
 msgid "Take the guided tour"
@@ -683,11 +689,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr ""
+msgstr "Изображения"
 
 #: ../en/index.html
 msgid "Away"
-msgstr ""
+msgstr "Отошёл"
 
 #: ../en/index.html
 msgid "Check email"
@@ -703,7 +709,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "Бесплатно"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
@@ -715,11 +721,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr ""
+msgstr "Настройка экранов…"
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr ""
+msgstr "Нет обновлений программ"
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -727,7 +733,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Local"
-msgstr ""
+msgstr "Локальные"
 
 #: ../en/index.html
 msgid ""
@@ -737,7 +743,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr ""
+msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
@@ -753,13 +759,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr ""
+msgstr "Панель управления Ubuntu One"
 
 #: ../en/index.html
 msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
+"Потоковая передача музыки на Android и iPhone позволяет вашей музыкальной "
+"коллекции быть с вами повсюду"
 
 #: ../en/index.html
 msgid "to"
@@ -793,16 +801,20 @@ msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
+"Домашняя папка Ubuntu позволяет быстро и легко получить доступ к вашим "
+"папкам и файлам."
 
 #: ../en/index.html
 msgid "Our star apps"
-msgstr ""
+msgstr "Наш выбор"
 
 #: ../en/index.html
 msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
 msgstr ""
+"Помните, это всего лишь демонстрация. Чтобы насладиться работой в настоящей "
+"операционной системе, нужно скачать её!"
 
 #: ../en/index.html
 msgid "Date"
@@ -841,7 +853,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
-msgstr ""
+msgstr "Настроить трансляцию…"
 
 #: ../en/index.html
 msgid "Date:"
@@ -864,19 +876,19 @@ msgstr "Дополнительные драйверы"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr ""
+msgstr "Центр приложений Ubuntu"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr ""
+msgstr "Без имени 1 - LibreOffice Calc"
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr ""
+msgstr "Я уже зарегистрирован!"
 
 #: ../en/index.html
 msgid "System"
-msgstr ""
+msgstr "Системные"
 
 #: ../en/index.html
 msgid "forward"
@@ -896,7 +908,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr ""
+msgstr "Опробуйте Ubuntu с помощью нашей онлайн-демонстрации."
 
 #: ../en/index.html
 msgid "Install"
@@ -916,7 +928,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Backup"
-msgstr ""
+msgstr "Резервная копия"
 
 #: ../en/index.html
 msgid "History"
@@ -928,19 +940,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr ""
+msgstr "Домашняя папка"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
-msgstr ""
+msgstr "Добро пожаловать в онлайн-тур по Ubuntu!"
 
 #: ../en/index.html
 msgid "Office"
-msgstr ""
+msgstr "Офис"
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr ""
+msgstr "Темы и расширенные настройки"
 
 #: ../en/index.html
 msgid ""
@@ -949,6 +961,11 @@ msgid ""
 "installation CDs. No fuss. And it’s compatible with Windows too! So you can "
 "open, edit and share Microsoft Office documents stress-free."
 msgstr ""
+"Ubuntu отлично работает со многими устройствами. Просто подключите ваш mp3-"
+"плеер, камеру или принтер, и они начнут работать. Никаких инсталляционных "
+"CD. Никакой суеты. И она обеспечивает совместимость с Windows! Так что вы "
+"можете без проблем открывать, редактировать документами Microsoft Office и "
+"обмениваться с другими пользователями."
 
 #: ../en/index.html
 msgid "work"
@@ -961,10 +978,11 @@ msgstr ""
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr ""
+"Объедините ваши контакты между компьютером, мобильным телефоном и Интернетом"
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
-msgstr ""
+msgstr "Почтовый клиент Thunderbird"
 
 #: ../en/index.html
 msgid ""
@@ -979,11 +997,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr ""
+msgstr "Без имени 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "delete"
@@ -995,7 +1013,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Busy"
-msgstr ""
+msgstr "Занят"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1003,7 +1021,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr ""
+msgstr "Изменить соединения…"
 
 #: ../en/index.html
 msgid "Printers"
@@ -1011,7 +1029,7 @@ msgstr "Принтеры"
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr ""
+msgstr "Параметры звука…"
 
 #: ../en/index.html
 msgid "Search"
@@ -1046,11 +1064,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr ""
+msgstr "Онлайн-тур по Ubuntu"
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr ""
+msgstr "Federica Miglio"
 
 #: ../en/index.html
 msgid ""
@@ -1062,7 +1080,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Offline"
-msgstr ""
+msgstr "Не в сети"
 
 #: ../en/index.html
 msgid "Trash"
@@ -1078,7 +1096,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Менеджер фотографий Shotwell"
 
 #: ../en/index.html
 msgid "Folders"
@@ -1106,11 +1124,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Computer"
-msgstr ""
+msgstr "Компьютер"
 
 #: ../en/index.html
 msgid "What's New"
-msgstr ""
+msgstr "Что нового"
 
 #: ../en/index.html
 msgid "App Available for Download"
@@ -1122,7 +1140,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr ""
+msgstr "Невидимый"
 
 #: ../en/index.html
 msgid "Albums"
@@ -1136,7 +1154,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
@@ -1148,19 +1166,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr ""
+msgstr "Выключить…"
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr ""
+msgstr "Шрифты"
 
 #: ../en/index.html
 msgid "File"
-msgstr ""
+msgstr "Файл"
 
 #: ../en/index.html
 msgid "Edit"
-msgstr ""
+msgstr "Правка"
 
 #: ../en/index.html
 msgid "Bluetooth On"
@@ -1176,15 +1194,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr ""
+msgstr "вернуться на сайт"
 
 #: ../en/index.html
 msgid "Download"
-msgstr ""
+msgstr "Скачать"
 
 #: ../en/index.html
 msgid "Games"
-msgstr ""
+msgstr "Игры"
 
 #: ../en/index.html
 msgid "Visolate"
@@ -1192,23 +1210,24 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr ""
+msgstr "Программа обмена сообщениями Empathy"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
 msgstr ""
+"Создание и редактирование масштабируемой векторной графики в формате SVG"
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr ""
+msgstr "Подключённые устройства"
 
 #: ../en/index.html
 msgid "View"
-msgstr ""
+msgstr "Вид"
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr ""
+msgstr "Ждущий режим"
 
 #: ../en/index.html
 msgid "branches"
@@ -1216,7 +1235,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr ""
+msgstr "Вся сила вашего личного облака"
 
 #: ../en/index.html
 msgid ""
@@ -1227,7 +1246,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr ""
+msgstr "Понедельник 11 Октября, 2010"
 
 #: ../en/index.html
 msgid ""
@@ -1239,15 +1258,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr ""
+msgstr "Включить звук"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr ""
+msgstr "Корзина"
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr ""
+msgstr "Аудио и видео"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -1255,7 +1274,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr ""
+msgstr "3D-моделирование, анимация, рендеринг и компоновка"
 
 #: ../en/index.html
 msgid "Inbox"
@@ -1263,11 +1282,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr ""
+msgstr "Файлы, доступные везде"
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr ""
+msgstr "Не отрывайтесь от дел"
 
 #: ../en/index.html
 msgid "Table"
@@ -1289,6 +1308,19 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
 
 #: ../en/index.html
 msgid "Tools"
@@ -1296,7 +1328,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr ""
+msgstr "Загрузки"
 
 #: ../en/index.html
 msgid "You"
@@ -1304,7 +1336,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Blender"
-msgstr ""
+msgstr "Blender"
 
 #~ msgid "Files"
 #~ msgstr "Файлы"

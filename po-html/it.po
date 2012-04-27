@@ -2,19 +2,20 @@
 # Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the ubuntu-online-tour package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+# Luca Ferretti <lferrett@gnome.org>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-25 22:38+0000\n"
+"PO-Revision-Date: 2012-04-26 22:59+0000\n"
 "Last-Translator: Sergio Zanchetta <primes2h@ubuntu.com>\n"
-"Language-Team: Italian <it@li.org>\n"
+"Language-Team: Italian <tp@lists.linux.it>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-26 05:19+0000\n"
+"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
@@ -23,7 +24,7 @@ msgstr "Browser web Firefox"
 
 #: ../en/index.html
 msgid "Lock Screen"
-msgstr ""
+msgstr "Blocca schermo"
 
 #: ../en/index.html
 msgid ""
@@ -36,23 +37,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "no subject"
-msgstr ""
+msgstr "nessun oggetto"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr ""
+msgstr "Esplora da solo"
 
 #: ../en/index.html
 msgid "Desktop"
-msgstr ""
+msgstr "Scrivania"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
-msgstr ""
+msgstr "Grazie di aver esplorato Ubuntu!"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr ""
+msgstr "Editor video PiTiVi"
 
 #: ../en/index.html
 msgid "Internet"
@@ -64,15 +65,15 @@ msgstr "Scienza e ingegneria"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr ""
+msgstr "Trova le applicazioni"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr ""
+msgstr "Non da solo"
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Sogno Momiji"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
@@ -80,11 +81,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "中文"
-msgstr ""
+msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
-msgstr ""
+msgstr "Informazioni personali"
 
 #: ../en/index.html
 msgid ""
@@ -116,11 +117,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr ""
+msgstr "Scarica Ubuntu"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr ""
+msgstr "Partecipa adesso"
 
 #: ../en/index.html
 msgid "Applications"
@@ -144,11 +145,11 @@ msgstr "Client social network Gwibber"
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr ""
+msgstr "Fekicità"
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr ""
+msgstr "15,2 kB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
@@ -160,7 +161,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr ""
+msgstr "Naviga nel web"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -172,7 +173,7 @@ msgstr "Grafica"
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr ""
+msgstr "Resta connesso"
 
 #: ../en/index.html
 msgid "Top Rated"
@@ -180,11 +181,11 @@ msgstr "Più votati"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr ""
+msgstr "Compatibile"
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr "Dash"
+msgstr "Home"
 
 #: ../en/index.html
 msgid "From"
@@ -192,11 +193,11 @@ msgstr "Da"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr ""
+msgstr "Scarica posta"
 
 #: ../en/index.html
 msgid "Auto eth0"
-msgstr ""
+msgstr "eth0 automatica"
 
 #: ../en/index.html
 msgid "Recent Files"
@@ -204,19 +205,19 @@ msgstr "File recenti"
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr ""
+msgstr "Invia file a dispositivo..."
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr ""
+msgstr "Crea documenti"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr ""
+msgstr "(91 giudizi)"
 
 #: ../en/index.html
 msgid "Secure"
-msgstr ""
+msgstr "Sicuro"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
@@ -228,11 +229,11 @@ msgstr "$9.99"
 
 #: ../en/index.html
 msgid "Help"
-msgstr ""
+msgstr "Aiuto"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr ""
+msgstr "Escludi audio"
 
 #: ../en/index.html
 msgid "All Software"
@@ -240,7 +241,7 @@ msgstr "Tutto il software"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr ""
+msgstr "Pronto a scaricare?"
 
 #: ../en/index.html
 msgid "Accessories"
@@ -248,7 +249,7 @@ msgstr "Accessori"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr ""
+msgstr "Crea foglio di calcolo"
 
 #: ../en/index.html
 msgid "Bluetooth"
@@ -256,11 +257,11 @@ msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr ""
+msgstr "Arresta"
 
 #: ../en/index.html
 msgid "Music"
-msgstr ""
+msgstr "Musica"
 
 #: ../en/index.html
 msgid "Rhythmbox"
@@ -277,6 +278,7 @@ msgstr "Masterizzatore dischi Brasero"
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
 msgstr ""
+"Leggere, scrivere e inviare email con Thunderbird. È semplice e rapido."
 
 #: ../en/index.html
 msgid "wrote"
@@ -284,7 +286,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject"
-msgstr ""
+msgstr "Oggetto"
 
 #: ../en/index.html
 msgid "Shotwell"
@@ -296,15 +298,15 @@ msgstr "Documenti"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr ""
+msgstr "Disconnetti"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr ""
+msgstr "Preferenze"
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr ""
+msgstr "Esplora i file"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
@@ -312,19 +314,19 @@ msgstr "Scopri le nostre scelte"
 
 #: ../en/index.html
 msgid "junk"
-msgstr ""
+msgstr "Indesiderata"
 
 #: ../en/index.html
 msgid "Send"
-msgstr ""
+msgstr "Invia"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Ingranaggi"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
+msgstr "Speriamo che il tour online di Ubuntu vi sia piaciuto."
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -332,23 +334,23 @@ msgstr "Inkscape - Editor grafica vettoriale"
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr ""
+msgstr "Crea presentazioni"
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr ""
+msgstr "Messaggio originale"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "Solitario AisleRoit"
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr ""
+msgstr "La tua musica con te"
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr ""
+msgstr "Informazioni connessione"
 
 #: ../en/index.html
 msgid ""
@@ -358,43 +360,43 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr ""
+msgstr "Posta inviata"
 
 #: ../en/index.html
 msgid "subject"
-msgstr ""
+msgstr "oggetto"
 
 #: ../en/index.html
 msgid "Available"
-msgstr ""
+msgstr "Disponibile"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr ""
+msgstr "Tutte le cartelle"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr ""
+msgstr "ven 26 ott 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr ""
+msgstr "Iberna"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
-msgstr ""
+msgstr "Langelinie Alle"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr ""
+msgstr "Il tuo Ubuntu, il tuo stile"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr ""
+msgstr "Impostazioni data e or..."
 
 #: ../en/index.html
 msgid "Recently Used"
@@ -402,35 +404,35 @@ msgstr "Usati di recente"
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Giardino polare"
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr ""
+msgstr "Schermata di benvenuto"
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr ""
+msgstr "3,3 MB"
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "Rispondi"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr ""
+msgstr "Configura email..."
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
-msgstr ""
+msgstr "Cerca e scarica rapidamente applicazioni con Ubuntu Software Center."
 
 #: ../en/index.html
 msgid "Clear"
-msgstr ""
+msgstr "Pulisci"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -438,11 +440,11 @@ msgstr "$19.99"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr ""
+msgstr "Termina sessione..."
 
 #: ../en/index.html
 msgid ""
@@ -455,7 +457,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr ""
+msgstr "Fwd"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
@@ -471,11 +473,11 @@ msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr ""
+msgstr "Nebbia"
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Gattopardo"
 
 #: ../en/index.html
 msgid "System Settings…"
@@ -487,7 +489,7 @@ msgstr "Applicazioni d'avvio..."
 
 #: ../en/index.html
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 #: ../en/index.html
 msgid ""
@@ -501,7 +503,7 @@ msgstr "Inglese"
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Ballerini viola"
 
 #: ../en/index.html
 msgid "from"
@@ -519,39 +521,40 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr ""
+msgstr "Monte Snowdon"
 
 #: ../en/index.html
 msgid "Songs"
-msgstr ""
+msgstr "Brani"
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr ""
+msgstr "Accessibile"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
+"Archivia e accedi ai tuoi file da Ubuntu, Windows, dal web o dal telefono"
 
 #: ../en/index.html
 msgid "Title:"
-msgstr ""
+msgstr "Titolo:"
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr ""
+msgstr "Imposta nuovo dispositivo..."
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
-msgstr ""
+msgstr "Introduzione a Ubuntu"
 
 #: ../en/index.html
 msgid "Videos"
-msgstr ""
+msgstr "Video"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Braid"
 
 #: ../en/index.html
 msgid ""
@@ -566,10 +569,12 @@ msgid ""
 "Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
 "download it to enjoy the real thing!"
 msgstr ""
+"Grazie per l'interesse dimostrato in Ubuntu! Ricorda, questa è solo una "
+"demo. È necessario scaricare Ubuntu per divertirsi sul serio :)"
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr ""
+msgstr "Non letti:"
 
 #: ../en/index.html
 msgid "Banshee Media Player"
@@ -590,23 +595,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr ""
+msgstr "File &amp; Cartelle"
 
 #: ../en/index.html
 msgid "Installed"
-msgstr ""
+msgstr "Installato"
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
-msgstr ""
+msgstr "Visibile"
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr ""
+msgstr "Maggiori informazioni"
 
 #: ../en/index.html
 msgid ""
@@ -617,11 +622,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr ""
+msgstr "Archivio"
 
 #: ../en/index.html
 msgid "Recent Apps"
@@ -629,7 +634,7 @@ msgstr "Applicazioni recenti"
 
 #: ../en/index.html
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: ../en/index.html
 msgid "Canonical"
@@ -641,7 +646,7 @@ msgstr "Strumenti per lo sviluppo"
 
 #: ../en/index.html
 msgid "or"
-msgstr ""
+msgstr "oppure"
 
 #: ../en/index.html
 msgid "Inkscape"
@@ -649,15 +654,15 @@ msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "Accedere a Internet"
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr ""
+msgstr "5,3 MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr ""
+msgstr "Prova il tour guidato"
 
 #: ../en/index.html
 msgid "cc"
@@ -665,27 +670,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr ""
+msgstr "Immagini"
 
 #: ../en/index.html
 msgid "Away"
-msgstr ""
+msgstr "Assente"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr ""
+msgstr "Controlla le email"
 
 #: ../en/index.html
 msgid "Size:"
-msgstr ""
+msgstr "Dimensione:"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr ""
+msgstr "Bozze"
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "Libero"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
@@ -697,15 +702,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr ""
+msgstr "Monitor..."
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr ""
+msgstr "Aggiorna software"
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr ""
+msgstr "Esplora il web"
 
 #: ../en/index.html
 msgid "Local"
@@ -719,15 +724,17 @@ msgstr ""
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr ""
+msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
-msgstr ""
+msgstr "Visualizza le foto"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
+"È possibile caricare, organizzare, modificare e condividere le proprie foto "
+"con Shotwell."
 
 #: ../en/index.html
 msgid "Sand Maze"
@@ -735,17 +742,17 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr ""
+msgstr "Pannello di controllo di Ubuntu One"
 
 #: ../en/index.html
 msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
-msgstr ""
+msgstr "Tutta la tua musica ti segue in streaming su Android o iPhone"
 
 #: ../en/index.html
 msgid "to"
-msgstr ""
+msgstr "a"
 
 #: ../en/index.html
 msgid ""
@@ -762,7 +769,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr ""
+msgstr "Il browser non supporta gli iframe."
 
 #: ../en/index.html
 msgid ""
@@ -775,6 +782,8 @@ msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
+"È rapido e semplice accedere a cartelle e file personali dalla cartella home "
+"di Ubuntu."
 
 #: ../en/index.html
 msgid "Our star apps"
@@ -785,10 +794,12 @@ msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
 msgstr ""
+"Ricorda, questa è solo una demo. È necessario scaricare Ubuntu per "
+"divertirsi sul serio :)"
 
 #: ../en/index.html
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: ../en/index.html
 msgid ""
@@ -807,11 +818,11 @@ msgstr "Registratore di suoni"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr ""
+msgstr "Destinatario"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr ""
+msgstr "Veloce"
 
 #: ../en/index.html
 msgid "Recent"
@@ -819,15 +830,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "To:"
-msgstr ""
+msgstr "A:"
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
-msgstr ""
+msgstr "Configura social network..."
 
 #: ../en/index.html
 msgid "Date:"
-msgstr ""
+msgstr "Data:"
 
 #: ../en/index.html
 msgid ""
@@ -838,7 +849,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Total:"
-msgstr ""
+msgstr "Totale:"
 
 #: ../en/index.html
 msgid "Additional Drivers"
@@ -846,7 +857,7 @@ msgstr "Driver aggiuntivi"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr "Ubuntu Software Centre"
+msgstr "Ubuntu Software Center"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
@@ -858,11 +869,11 @@ msgstr "Account già disponibile"
 
 #: ../en/index.html
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 #: ../en/index.html
 msgid "forward"
-msgstr ""
+msgstr "Inoltra"
 
 #: ../en/index.html
 msgid ""
@@ -880,15 +891,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr ""
+msgstr "Fai un \"test drive\" di Ubuntu con la nostra demo online."
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "Installa"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr ""
+msgstr "Elementi:"
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -896,31 +907,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
+msgstr "Oggetto"
 
 #: ../en/index.html
 msgid "Backup"
-msgstr ""
+msgstr "Backup"
 
 #: ../en/index.html
 msgid "History"
-msgstr ""
+msgstr "Cronologia"
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16 foto"
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr ""
+msgstr "Cartella home"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
-msgstr ""
+msgstr "Benvenuto nel tour online di Ubuntu!"
 
 #: ../en/index.html
 msgid "Office"
-msgstr ""
+msgstr "Ufficio"
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
@@ -940,11 +951,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Library"
-msgstr ""
+msgstr "Libreria"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr ""
+msgstr "Unifica i tuoi contatti tra desktop, web e telefono cellulare"
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
@@ -971,7 +982,7 @@ msgstr "Senza titolo 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "delete"
-msgstr ""
+msgstr "Elimina"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
@@ -979,15 +990,15 @@ msgstr "Thunderbird posta e notizie"
 
 #: ../en/index.html
 msgid "Busy"
-msgstr ""
+msgstr "Non disponibile"
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr ""
+msgstr "Piccoli fiori"
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr ""
+msgstr "Modifica connessioni"
 
 #: ../en/index.html
 msgid "Printers"
@@ -995,11 +1006,11 @@ msgstr "Stampanti"
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr ""
+msgstr "Impostazioni audio..."
 
 #: ../en/index.html
 msgid "Search"
-msgstr ""
+msgstr "Cerca"
 
 #: ../en/index.html
 msgid ""
@@ -1010,31 +1021,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr ""
+msgstr "Accendi Bluetooth"
 
 #: ../en/index.html
 msgid "Write"
-msgstr ""
+msgstr "Scrivi"
 
 #: ../en/index.html
 msgid "Attach"
-msgstr ""
+msgstr "Allega"
 
 #: ../en/index.html
 msgid "Window"
-msgstr ""
+msgstr "Finestra"
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr ""
+msgstr "Scrivi: (nessun oggetto)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr ""
+msgstr "Tour online di Ubuntu"
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr ""
+msgstr "Federica Miglio"
 
 #: ../en/index.html
 msgid ""
@@ -1046,11 +1057,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Offline"
-msgstr ""
+msgstr "Fuori rete"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr ""
+msgstr "Cestino"
 
 #: ../en/index.html
 msgid "archive"
@@ -1058,7 +1069,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "Il potere della parole"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
@@ -1066,19 +1077,19 @@ msgstr "Gestore di fotografie Shotwell"
 
 #: ../en/index.html
 msgid "Folders"
-msgstr ""
+msgstr "Cartelle"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr ""
+msgstr "Esplorare il web è veloce e sicuro con Ubuntu e Firefox."
 
 #: ../en/index.html
 msgid "Format"
-msgstr ""
+msgstr "Formato"
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr ""
+msgstr "Esplora file su dispositivo..."
 
 #: ../en/index.html
 msgid "Junk Mail"
@@ -1098,7 +1109,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "App Available for Download"
-msgstr ""
+msgstr "Applicazioni disponibili"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1106,11 +1117,11 @@ msgstr "Riproduttore filmati"
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr ""
+msgstr "Invisibile"
 
 #: ../en/index.html
 msgid "Albums"
-msgstr ""
+msgstr "Album"
 
 #: ../en/index.html
 msgid ""
@@ -1126,19 +1137,19 @@ msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
-msgstr ""
+msgstr "Da:"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr ""
+msgstr "Inserisci"
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr ""
+msgstr "Arresta..."
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr ""
+msgstr "Tipi di carattere"
 
 #: ../en/index.html
 msgid "File"
@@ -1146,27 +1157,27 @@ msgstr "File"
 
 #: ../en/index.html
 msgid "Edit"
-msgstr ""
+msgstr "Modifica"
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr ""
+msgstr "Bluetooth: acceso"
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr ""
+msgstr "Spegni Bluetooth"
 
 #: ../en/index.html
 msgid "Installing"
-msgstr ""
+msgstr "Installazione in corso"
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr ""
+msgstr "torna al sito"
 
 #: ../en/index.html
 msgid "Download"
-msgstr ""
+msgstr "Scarica"
 
 #: ../en/index.html
 msgid "Games"
@@ -1178,7 +1189,7 @@ msgstr "Visolate"
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr ""
+msgstr "Messaggistica internet Empathy"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
@@ -1186,15 +1197,15 @@ msgstr "Crea e modifica immagini Scalable Vector Graphics"
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr ""
+msgstr "Dispositivi collegati"
 
 #: ../en/index.html
 msgid "View"
-msgstr ""
+msgstr "Visualizza"
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr ""
+msgstr "Sospendi"
 
 #: ../en/index.html
 msgid "branches"
@@ -1202,7 +1213,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr ""
+msgstr "La forza del tuo cloud personale"
 
 #: ../en/index.html
 msgid ""
@@ -1229,19 +1240,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr ""
+msgstr "Attiva audio"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr ""
+msgstr "Cestino"
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr "Audio e video"
+msgstr "Audio &amp; Video"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr ""
+msgstr "L'erba non è più verde"
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
@@ -1249,11 +1260,11 @@ msgstr "Crea e modifica modelli e animazioni 3D"
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr ""
+msgstr "Posta in arrivo"
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr ""
+msgstr "I tuoi file, ovunque"
 
 #: ../en/index.html
 msgid "Stay Productive"
@@ -1261,7 +1272,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Table"
-msgstr ""
+msgstr "Tabella"
 
 #: ../en/index.html
 msgid ""
@@ -1299,11 +1310,11 @@ msgstr "Strumenti"
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr ""
+msgstr "Scaricati"
 
 #: ../en/index.html
 msgid "You"
-msgstr ""
+msgstr "Tu"
 
 #: ../en/index.html
 msgid "Blender"

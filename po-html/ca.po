@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-24 08:40+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-04-26 06:12+0000\n"
+"Last-Translator: David Planella <david.planella@ubuntu.com>\n"
 "Language-Team: Catalan <ca@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-25 05:25+0000\n"
-"X-Generator: Launchpad (build 15139)\n"
+"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
+"X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -128,7 +128,7 @@ msgstr "Aplicacions"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr ""
+msgstr "dc, 14 d'oct, 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
@@ -144,11 +144,11 @@ msgstr "Client social Gwibber"
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr ""
+msgstr "Felicitat"
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr ""
+msgstr "15.2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
@@ -201,7 +201,7 @@ msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr ""
+msgstr "Fitxers recents"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -229,7 +229,7 @@ msgstr "$9.99"
 
 #: ../en/index.html
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 #: ../en/index.html
 msgid "Mute"
@@ -265,7 +265,7 @@ msgstr "Música"
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr ""
+msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
@@ -310,7 +310,7 @@ msgstr "Navega pels fitxers"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
-msgstr ""
+msgstr "Veniu i exploreu les nostres preferides"
 
 #: ../en/index.html
 msgid "junk"
@@ -403,7 +403,7 @@ msgstr "Paràmetres de la data i l'hora…"
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr ""
+msgstr "Utilitzades recentment"
 
 #: ../en/index.html
 msgid "Cancel"
@@ -419,7 +419,7 @@ msgstr "Pantalla de benvinguda"
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr ""
+msgstr "3.3MB"
 
 #: ../en/index.html
 msgid "reply"
@@ -505,7 +505,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "Anglès"
 
 #: ../en/index.html
 msgid "Purple Dancers"
@@ -645,7 +645,7 @@ msgstr "Arxiu"
 
 #: ../en/index.html
 msgid "Recent Apps"
-msgstr ""
+msgstr "Aplicacions recents"
 
 #: ../en/index.html
 msgid "Home"
@@ -673,7 +673,7 @@ msgstr "Accediu a Internet"
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr ""
+msgstr "5.3MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
@@ -808,7 +808,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Our star apps"
-msgstr ""
+msgstr "Les millors aplicacions"
 
 #: ../en/index.html
 msgid ""
@@ -847,7 +847,7 @@ msgstr "Ràpid"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr ""
+msgstr "Recents"
 
 #: ../en/index.html
 msgid "To:"
@@ -940,7 +940,7 @@ msgstr "Historial"
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16 fotografies"
 
 #: ../en/index.html
 msgid "Home Folder"
@@ -980,7 +980,7 @@ msgstr "Unifiqueu els contactes a l'escriptori, al mòbil i a la web"
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
-msgstr ""
+msgstr "Gestor de correu Thunderbird"
 
 #: ../en/index.html
 msgid ""
@@ -1057,7 +1057,7 @@ msgstr "Adjunta"
 
 #: ../en/index.html
 msgid "Window"
-msgstr ""
+msgstr "Finestra"
 
 #: ../en/index.html
 msgid "Write: (no subject)"
@@ -1069,7 +1069,7 @@ msgstr "Visita guiada en línia de l'Ubuntu"
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr ""
+msgstr "Federica Miglio"
 
 #: ../en/index.html
 msgid ""
@@ -1109,7 +1109,7 @@ msgstr "Navegar per la web és ràpid i segur amb l'Ubuntu i el Firefox."
 
 #: ../en/index.html
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 #: ../en/index.html
 msgid "Browse files on device…"
@@ -1163,7 +1163,7 @@ msgstr "De:"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr ""
+msgstr "Insereix"
 
 #: ../en/index.html
 msgid "Shut Down…"
@@ -1175,11 +1175,11 @@ msgstr "Tipus de lletra"
 
 #: ../en/index.html
 msgid "File"
-msgstr ""
+msgstr "Fitxer"
 
 #: ../en/index.html
 msgid "Edit"
-msgstr ""
+msgstr "Edita"
 
 #: ../en/index.html
 msgid "Bluetooth On"
@@ -1223,7 +1223,7 @@ msgstr "Dispositius connectats"
 
 #: ../en/index.html
 msgid "View"
-msgstr ""
+msgstr "Visualitza"
 
 #: ../en/index.html
 msgid "Suspend"
@@ -1290,7 +1290,7 @@ msgstr "Sigueu productiu"
 
 #: ../en/index.html
 msgid "Table"
-msgstr ""
+msgstr "Taula"
 
 #: ../en/index.html
 msgid ""
@@ -1324,7 +1324,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Tools"
-msgstr ""
+msgstr "Eines"
 
 #: ../en/index.html
 msgid "Downloads"
