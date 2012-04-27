@@ -1,4 +1,4 @@
-# Galician translation for ubuntu-online-tour
+# Burmese translation for ubuntu-online-tour
 # Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the ubuntu-online-tour package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 18:00+0000\n"
-"Last-Translator: Fran Diéguez <Unknown>\n"
-"Language-Team: Galician <gl@li.org>\n"
+"PO-Revision-Date: 2012-04-26 12:21+0000\n"
+"Last-Translator: Pyae Sone <Unknown>\n"
+"Language-Team: Burmese <my@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
-msgstr "Navegador web Firefox"
+msgstr "Firefox Web Browser"
 
 #: ../en/index.html
 msgid "Lock Screen"
-msgstr "Bloquear a pantalla"
+msgstr "ဖန်သားပြင်ကို ပိတ်ထားမည်။"
 
 #: ../en/index.html
 msgid ""
@@ -33,55 +33,50 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
-"Ubuntu carga rápido en calquera computador, pero é super rápido nos máis "
-"novos. O arrinque e apertura do navegador toma segundos ao carecer de "
-"programas innecesarios e software de proba lento. A diferenza de outros "
-"sistemas operativos que o deixan mirando a pantalla, agardando a conectarse. "
-"E Ubuntu non se volve lento ao pasar o tempo. É rápido. E mantense rápido."
 
 #: ../en/index.html
 msgid "no subject"
-msgstr "sen asunto"
+msgstr "အကြောင်းအရာ မရှိ"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr ""
+msgstr "သင်ကိုယ်တိုင် လိုက်လံကြည့်ရှုရန်"
 
 #: ../en/index.html
 msgid "Desktop"
-msgstr "Escritorio"
+msgstr "Desktop"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
-msgstr "Grazas por explorar Ubuntu!"
+msgstr "ဦးဘန္တု ကိုရှာဖွေသည့်အတွက် ကျေးဇူးတင်ပါသည်။"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr "Editor de vídeo PiTiVi"
+msgstr "PiTiVi ရုပ်သံ Editor"
 
 #: ../en/index.html
 msgid "Internet"
-msgstr "Internet"
+msgstr "အင်တာနက်"
 
 #: ../en/index.html
 msgid "Science &amp; Engineering"
-msgstr "Ciencia  e enxeñaría"
+msgstr "သိပ္ပံ နှင့် အင်ဂျင်နီယာဆိုင်ရာ"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr "Buscar aplicativos"
+msgstr "apps များကိုရှာမည်။"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr "Non estamos solos"
+msgstr "တစ်ယောက်တည်းမဟုတ်ပါ။"
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr "Soño Momiji"
+msgstr "မိုမီဂျိ အိပ်မက်"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr "Manipular ofluxo do tempo para solucionar quebracabezas"
+msgstr ""
 
 #: ../en/index.html
 msgid "中文"
@@ -89,7 +84,7 @@ msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
-msgstr "Sobre min"
+msgstr "ကျွန်တော့်အကြောင်း"
 
 #: ../en/index.html
 msgid ""
@@ -101,12 +96,11 @@ msgstr ""
 #: ../en/index.html
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
-msgstr ""
-"Ten certeza de que desexa pechar todos os programas e apagar o computador?"
+msgstr "ပရိုဂရမ်အားလုံးကိုပိတ်ပြီး ကွန်ပြူတာကို လုံး၀ပိတ်ဖို့သေချာပါသလား။"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr "Sen título 1 - LibreOffice Impress"
+msgstr "ခေါင်းစဉ်မဲ့ ၁ - LibreOffice Impress"
 
 #: ../en/index.html
 msgid "Ubuntu One"
@@ -119,92 +113,86 @@ msgid ""
 "translated into 38 languages, Ubuntu also includes essential assistive "
 "technologies, which are, of course, completely free."
 msgstr ""
-"A accesibilidade é unha das filosofías principais de Ubuntu. Cremos que os "
-"computadores deberían estar dispoñíbeis para todos sen importar a súa "
-"nacionalidade, raza, xénero ou discapacidade. Ubuntu está traducido a máis "
-"de 38 idiomas, e tamén inclúe tecnoloxías de asistencia, que por suposto, "
-"son completamente libres."
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr "Descargar Ubuntu"
+msgstr "ဦးဘန္တု ကိုဒေါင်းလုတ်ဆွဲမည်။"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr "Rexístrate agora"
+msgstr "အခုချက်ချင်းချိတ်ဆက်မည်။"
 
 #: ../en/index.html
 msgid "Applications"
-msgstr "Aplicativos"
+msgstr "ဆော့ဝဲလ်များ"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr "Mer, 14 de outubro de 2010"
+msgstr "Weds ၁၄ အောက်တိုဘာ, ၂၀၁၀"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr "Xogo de quebracabezas/construción baseado en físicas"
+msgstr "ရူပဗေဒအခြေခံ ပဟေဠိ၊ ဆောက်လုပ်ရေး ကစားနည်းများ"
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
-msgstr "Visualizador de escritorios remotos"
+msgstr "Remote Desktop Viewer"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr "Cliente social Gwibber"
+msgstr "Gwibber လူမှုဆက်သွယ်ရေး Client"
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr "Felicidade"
+msgstr "Happyness"
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr "15.2KB"
+msgstr "၁၅.၂ KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr "Convertidor PCB CNC"
+msgstr "PCB CNC converter"
 
 #: ../en/index.html
 msgid "On"
-msgstr "Activado"
+msgstr "ဖွင့်"
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr "Navegar o web"
+msgstr "အင်တာနက်(ကွန်ရက်)သုံးမည်။"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
 msgstr ""
-"Un xogo de plataformas/disparos en 2D con quebracabezas baseados en física"
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr "Gráficos"
+msgstr "ရုပ်ပုံပန်းချီ"
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr "Mantéñase conectado"
+msgstr "Keep Connected"
 
 #: ../en/index.html
 msgid "Top Rated"
-msgstr "Máis valorados"
+msgstr "အမြင့်ဆုံးသတ်မှတ်ထားသော"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr "Compatíbel"
+msgstr "Compatible"
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr "Inicio"
+msgstr ""
 
 #: ../en/index.html
 msgid "From"
-msgstr "Desde"
+msgstr "မှ"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr "Obter correo electrónico"
+msgstr "စာများရသည်။"
 
 #: ../en/index.html
 msgid "Auto eth0"
@@ -212,55 +200,55 @@ msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr "Ficheiros recentes"
+msgstr "မကြာသေးခင်ကဖိုင်များ"
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr "Enviar ficheiros ao dispositivo..."
+msgstr "ဖိုင်များကို ကိရိယာသို့ပို့မည်။"
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr "Crear documentos"
+msgstr "Document များဖန်တီးမည်။"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr "(91 valoracións)"
+msgstr "(၉၁ Ratings)"
 
 #: ../en/index.html
 msgid "Secure"
-msgstr "Seguro"
+msgstr "လုံခြုံစိတ်ချရသော"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr "Este paquete contén o navegador Chromium"
+msgstr "ဒီ Package တွင် Chromium browser ပါဝင်သည်။"
 
 #: ../en/index.html
 msgid "$9.99"
-msgstr "9.99 €"
+msgstr "$၉.၉၉"
 
 #: ../en/index.html
 msgid "Help"
-msgstr "Axuda"
+msgstr "အကူအညီ"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr "Sen son"
+msgstr "အသံပိတ်ထားရန်။"
 
 #: ../en/index.html
 msgid "All Software"
-msgstr "Todo o software"
+msgstr "ဆော့ဝဲလ် အားလုံး"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr "Está listo para descargar?"
+msgstr "ဒေါင်းလုတ်ဆွဲရန်အဆင်သင့်ဖြစ်ပြီလား။"
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr "Accesorios"
+msgstr "Accessories"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr "Crear folla de estilos"
+msgstr "Spreadsheets ဖန်တီးမည်။"
 
 #: ../en/index.html
 msgid "Bluetooth"
@@ -268,11 +256,11 @@ msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr "Apagar"
+msgstr "လုံးဝ ပိတ်မည်"
 
 #: ../en/index.html
 msgid "Music"
-msgstr "Música"
+msgstr "ဂီတ"
 
 #: ../en/index.html
 msgid "Rhythmbox"
@@ -280,25 +268,25 @@ msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
-msgstr "Educación"
+msgstr "ပညာရေး"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
-msgstr "Gravador de discos Brasero"
+msgstr "Brasero  အခွေကူးသည့်ဆော့ဝဲလ်"
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
 msgstr ""
-"Lea, escriba e envíe mensaxes de correo electrónico con Thunderbird. É doado "
-"e rápido."
+"အီးမေးလ် များကို Thunderbird ဖြင့် ဖတ်မည်၊ ရေးမည်၊ အရမ်းလည်းမြန်ပါတယ်။ "
+"အလွန်လည်းလွယ်ကူပါတယ်။"
 
 #: ../en/index.html
 msgid "wrote"
-msgstr "escribiu"
+msgstr "ရေးမည်။"
 
 #: ../en/index.html
 msgid "Subject"
-msgstr "Asunto"
+msgstr "အကြောင်းအရာ"
 
 #: ../en/index.html
 msgid "Shotwell"
@@ -306,186 +294,181 @@ msgstr "Shotwell"
 
 #: ../en/index.html
 msgid "Documents"
-msgstr "Documentos"
+msgstr "Documents"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr "Desconectar"
+msgstr "အဆက်အသွယ်ဖြတ်မည်။"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr "Preferencias"
+msgstr "Preferences"
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr "Explorar ficheiros"
+msgstr "ဖိုင်များကိုရှာမည်။"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
-msgstr "Explore os nosos aplicativos favoritos"
+msgstr "Come and explore our favourites"
 
 #: ../en/index.html
 msgid "junk"
-msgstr "non desexado"
-
-#: ../en/index.html
-msgid "Send"
-msgstr "Enviar"
-
-#: ../en/index.html
-msgid "Darkening Clockwork"
-msgstr "Mecánica en sombra"
-
-#: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "Agardamos que teña desfrutado do percorrido en liña de Ubuntu."
-
-#: ../en/index.html
-msgid "Inkscape Vector Graphics Editor"
-msgstr "Editor de gráficos vectoriais Inkscape"
-
-#: ../en/index.html
-msgid "Create presentations"
-msgstr "Crear presentacións"
-
-#: ../en/index.html
-msgid "Original Message"
-msgstr "Mensaxe orixinal"
-
-#: ../en/index.html
-msgid "AisleRoit Solitaire"
-msgstr "Solitario AisleRiot"
-
-#: ../en/index.html
-msgid "Rock Out"
 msgstr ""
 
 #: ../en/index.html
+msgid "Send"
+msgstr "ပို့မည်။"
+
+#: ../en/index.html
+msgid "Darkening Clockwork"
+msgstr "Darkening Clockwork"
+
+#: ../en/index.html
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr ""
+"သင် ဥဘန္တု အွန်လိုင်းအလည်အပတ်ခရီးကို ပျော်ရွှင်လိမ့်မယ်လို့မျှော်လင့်ပါတယ်။"
+
+#: ../en/index.html
+msgid "Inkscape Vector Graphics Editor"
+msgstr "Inkscape Vector Graphics Editor"
+
+#: ../en/index.html
+msgid "Create presentations"
+msgstr "Presentation များကိုဖန်တီးမည်။"
+
+#: ../en/index.html
+msgid "Original Message"
+msgstr "မူလစာ"
+
+#: ../en/index.html
+msgid "AisleRoit Solitaire"
+msgstr "AisleRoit Solitaire"
+
+#: ../en/index.html
+msgid "Rock Out"
+msgstr "Rock Out"
+
+#: ../en/index.html
 msgid "Connection Information"
-msgstr "Información de conexión"
+msgstr "ကွန်နက်ရှင် အချက်အလက်"
 
 #: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
-"Chromium é un navegador de código aberto que pretende desenvolver unha vía "
-"máis segura, rápida e máis estábel na experiencia de acceso á Internet"
 
 #: ../en/index.html
 msgid "Email"
-msgstr "Correo electrónico"
+msgstr "အီးမေးလ်"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr "Enviado"
+msgstr "ပို့မည်။"
 
 #: ../en/index.html
 msgid "subject"
-msgstr "asunto"
+msgstr "အကြောင်းအရာ"
 
 #: ../en/index.html
 msgid "Available"
-msgstr "Dispoñíbel"
+msgstr "ရရှိနိုင်သော"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr "Todos os cartafoles"
+msgstr "ဖိုလ်ဒါအားလုံး"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr "Ven, 26 de Outubro de 2001"
+msgstr "သော၂၆ အောက်, ၂၀၀၁"
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr "Hibernar"
+msgstr "လက်ရှိ အခြေအနေတိုင်းမှတ်သား၍ အပြီးထွက်မည်"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
-msgstr ""
+msgstr "Langelinie Alle"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr "O teu Ubuntu, o teu xeito"
+msgstr "သင်၏ဦးဘန္တု ၊ သင်၏နည်းလမ်း"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr "Preferencias de data e hora..."
+msgstr "အချိန် &amp; နေ့စွဲ Settings…"
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr "Usado recentemente"
+msgstr "လတ်တလော သုံးစွဲမှု"
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "ပယ်ဖျက်မည်"
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr "Xardín Polar"
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr "Pantalla de benvida"
+msgstr "ကြိုဆိုသည့်မျက်နှာပြင်"
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr "3.3MB"
+msgstr "၃.၃MB"
 
 #: ../en/index.html
 msgid "reply"
-msgstr "responder"
+msgstr "စာပြန်မည်။"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr "Configurar correo..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
-"Busque e descargue aplicativos rapidamente desde o Centro de software de "
-"Ubuntu."
+"Ubuntu Software Centre မှ app များကို ရှာဖွေမည်။ မြန်ဆန်စွာဒေါင်းလုတ်ဆွဲမည်။"
 
 #: ../en/index.html
 msgid "Clear"
-msgstr "Limpar"
+msgstr "ရှင်းလင်းပါ"
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr "19.99 €"
+msgstr "$၁၉.၉၉"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr "Estación Dybbølsbro"
+msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr "Saír da sesión..."
+msgstr "အကောင့်မှ ထွက်မည် ..."
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
-"Outras extensións empregan ruby, libxml-xql-perl, python-numpy e python-"
-"lxml. Ten que dispor destes paquetes para aproveitar ao máximo todas as "
-"extensións e os efectos."
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr "Reenvío"
+msgstr ""
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr "Cliente de Terminal Server"
+msgstr ""
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr "Aparencia"
+msgstr "ပုံပန်းသဏ္ဍာန်"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr "LibreOffice Calc"
+msgstr "LibreOffice ဂဏာန်းတွက်စက်"
 
 #: ../en/index.html
 msgid "Buck Off"
@@ -493,19 +476,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr "Ocelote ao acecho"
+msgstr ""
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr "Preferencias do sistema..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr "Aplicativos ao inicio..."
+msgstr "စက်ဖွင့်ချိန်တွင်တက်လာမည့် Application များ"
 
 #: ../en/index.html
 msgid "Remove"
-msgstr "Eliminar"
+msgstr "ဖယ်ရှားပါ"
 
 #: ../en/index.html
 msgid ""
@@ -515,15 +498,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr "Inglés"
+msgstr "အင်္ဂလိပ်"
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr "Bailarinas púrpuras"
+msgstr ""
 
 #: ../en/index.html
 msgid "from"
-msgstr "de"
+msgstr "မှ"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -537,65 +520,62 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr ""
+msgstr "Mount Snowdon"
 
 #: ../en/index.html
 msgid "Songs"
-msgstr "Cancións"
+msgstr "သီချင်းများ"
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr "Accesíbel"
+msgstr "Accessible"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
-"Respalde e acceda aos seus ficheiros desde Ubuntu, Windows, a web ou o seu "
-"móbil"
 
 #: ../en/index.html
 msgid "Title:"
-msgstr "Título:"
+msgstr "ခေါင်းစဉ်-"
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr "Configurar dispositivo novo…"
+msgstr "ကိရိယာအသစ်တစ်ခုတပ်ဆင်မည်။"
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
-msgstr "Introdución a Ubuntu"
+msgstr "ဦးဘန္တုကို မိတ်ဆက်ခြင်း"
 
 #: ../en/index.html
 msgid "Videos"
-msgstr "Vídeos"
+msgstr "ဗီဒီယိုများ"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Braid"
 
 #: ../en/index.html
 msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
-"Inkscape lee e garda un subconxunto do formato SVG (Gráficos Vectoriais "
-"Escalábeis), un estándar mantido polo Consorcio WWW."
 
 #: ../en/index.html
 msgid ""
 "Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
 "download it to enjoy the real thing!"
 msgstr ""
-"Grazas por explorar Ubuntu! Lembre, isto é só unha demostración. Debe "
-"descargalo para desfrutalo de verdade!"
+"ဦးဘန္တုကို ရှာဖွေစမ်းသပ်သည့်အတွက်ကျေးဇူးအထူးပင်တင်ရှိအပ်ပါသည်။ ယခုသည် "
+"အစမ်းသာဖြစ်သည်ကိုမှတ်ထားစေလိုပါသည်။ အမှန်တကယ် "
+"ပျော်ရွှင်ရန်နှင့်သုံးဖို့အတွက် သင် ဒေါင်းလုတ်ဆွဲမှရပါလိမ့်မည်။"
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr "Sen ler:"
+msgstr "မဖတ်သေးသည့် -"
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr "Reprodutor de música Banshee"
+msgstr "Banshee Media Player"
 
 #: ../en/index.html
 msgid ""
@@ -612,23 +592,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr "Ficheiros e cartafoles"
+msgstr "ဖိုင်များ &amp; ဖိုလ်ဒါများ"
 
 #: ../en/index.html
 msgid "Installed"
-msgstr "Instalado"
+msgstr "စက်ထဲသွင်းထားသောဆော့ဝဲများ"
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr "BEEP"
+msgstr ""
 
 #: ../en/index.html
 msgid "Visible"
-msgstr "Visíbel"
+msgstr "မြင်နိုင်သော"
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr "Saber máis"
+msgstr "နောက်ထပ်သင်မည်။"
 
 #: ../en/index.html
 msgid ""
@@ -643,15 +623,15 @@ msgstr "Chat"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr "Arquivo"
+msgstr ""
 
 #: ../en/index.html
 msgid "Recent Apps"
-msgstr "Aplicativos recentes"
+msgstr "မကြာသေးခင်က  App များ"
 
 #: ../en/index.html
 msgid "Home"
-msgstr "Inicio"
+msgstr "ပင်မ"
 
 #: ../en/index.html
 msgid "Canonical"
@@ -659,11 +639,11 @@ msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr "Ferramentas para desenvolvedores"
+msgstr "ကျွမ်းကျင်သူသုံး ကိရိယာ"
 
 #: ../en/index.html
 msgid "or"
-msgstr "ou"
+msgstr "သို့မဟုတ်"
 
 #: ../en/index.html
 msgid "Inkscape"
@@ -671,15 +651,15 @@ msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr "Acceda a Internet"
+msgstr "အင်တာနက် သုံးမည်။"
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr "5.3MB"
+msgstr "၅.၃MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr "Facer un tour guiado"
+msgstr "လမ်းညွှန်ခရီးကိုကြည့်မည်။"
 
 #: ../en/index.html
 msgid "cc"
@@ -687,27 +667,27 @@ msgstr "cc"
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr "Imaxes"
+msgstr "ပုံများ"
 
 #: ../en/index.html
 msgid "Away"
-msgstr "Ausente"
+msgstr "အဝေးမှာ"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr "Obter correo electrónico"
+msgstr "အီးမေးလ် စစ်မည်။"
 
 #: ../en/index.html
 msgid "Size:"
-msgstr "Tamaño:"
+msgstr "အရွယ် အစား -"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr "Borrador"
+msgstr "စာကြမ်း"
 
 #: ../en/index.html
 msgid "Free"
-msgstr "Libre"
+msgstr "အခမဲ့"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
@@ -716,19 +696,18 @@ msgstr ""
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
-"LibreOffice Writer fai moi doado crear borradores de documentos profesionais."
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr "Pantallas..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr "Software actualizado"
+msgstr "ဆော့ဝဲလ် နောက်ဆုံးပေါ်"
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr "Navegar pola web"
+msgstr "အင်တာနက်တွင် ရှာဖွေမည်။"
 
 #: ../en/index.html
 msgid "Local"
@@ -739,29 +718,28 @@ msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
-"Se quere empregar o corrector ortográfico, ten que instalar aspell e o "
-"paquete de idioma correspondente, p.ex. aspell-en ou aspell-gl."
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr "World of Goo"
+msgstr "Goo ၏ ကမ္ဘာ"
 
 #: ../en/index.html
 msgid "View photos"
-msgstr "Ver fotos"
+msgstr "ဓာတ်ပုံများကို ကြည့်မည်။"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
-"Pode subir, organizar, editar e compartir as súas fotos con Shotwell."
+"သင်သည် Shotwell မှ သင်၏ဓာတ်ပုံများကို အွန်လိုင်းပေါ်တင်ခြင်း၊ စုစည်းခြင်း၊ "
+"တည်းဖြတ်ခြင်း နှင့် မျှဝေခြင်းများပြုလုပ်နိုင်ပါသည်။"
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "Sand Maze"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr "Panel de control de Ubuntu One"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -771,7 +749,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "to"
-msgstr "para"
+msgstr "သို့"
 
 #: ../en/index.html
 msgid ""
@@ -788,38 +766,39 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr "O seu navegador non admite iframes."
+msgstr "သင်၏ browser သည် iframes ကိုမထောက်ပံ့ပါ။"
 
 #: ../en/index.html
 msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
 msgstr ""
-"Cree unha boa impresión coa intuitiva ferramenta de presentacións "
-"LibreOffice Impress."
+"Make a good impression with the intuitive LibreOffice Impress presentation "
+"tool."
 
 #: ../en/index.html
 msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
-"É rápido e doado acceder aos seus cartafoles e ficheiros desde o cartafol "
-"persoal de Ubuntu."
+"သင်၏ ဖိုင်များနှင့် ဖိုလ်ဒါများကို ဦးဘန္တု ၏ ပင်မ ဖိုလ်ဒါမှ "
+"လွယ်ကူ၊လျင်မြန်စွာ သုံးနိုင်ပါတယ်။"
 
 #: ../en/index.html
 msgid "Our star apps"
-msgstr "Os nosos aplicativos destacados"
+msgstr "ကျွန်ုပ်တို့၏ကြယ်ပွင့်ပြ App  များ"
 
 #: ../en/index.html
 msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
 msgstr ""
-"Lembre, isto é só unha demostración. Debe descargalo para desfrutalo!"
+"ယခုသည် အစမ်းသာပြသည်ဟု မှတ်ထားစေချင်ပါသည်။ အမှန်တကယ်ပျော်ရွှင်စွာသုံးလိုပါက "
+"သင် ဒေါင်းလုတ်ချရန်လိုအပ်ပါသည်။"
 
 #: ../en/index.html
 msgid "Date"
-msgstr "Data"
+msgstr "နေ့စွဲ"
 
 #: ../en/index.html
 msgid ""
@@ -830,35 +809,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr "Navegador web Chromium"
+msgstr "Chromium Web Browser"
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr "Gravadora de son"
+msgstr "အသံသွင်းစက်"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr "Destinatario"
+msgstr "လက်ခံရရှိမည့်သူ"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr "Rápida"
+msgstr "မြန်"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr "Recente"
+msgstr "မကြာသေးခင်က"
 
 #: ../en/index.html
 msgid "To:"
-msgstr "Para:"
+msgstr "သို့-"
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
-msgstr "Configurar contas de difusión..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Date:"
-msgstr "Data:"
+msgstr "ရက်စွဲ -"
 
 #: ../en/index.html
 msgid ""
@@ -869,48 +848,43 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Total:"
-msgstr "Total:"
+msgstr "စုစုပေါင်း -"
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr "Controladores adicionais"
+msgstr "နောက်ထပ် Driver များ"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr "Centro de software de Ubuntu"
+msgstr "ဦးဘန္တုဆော့ဝဲလ်စင်တာ"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr "Sen título 1 - LibreOffice Calc"
+msgstr "အမည်မဲ့ ၁- LibreOffice ဂဏန်းတွက်စက်"
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr "Xa teño unha conta!"
+msgstr "အကောင့်တစ်ခု ရှိပြီးသား"
 
 #: ../en/index.html
 msgid "System"
-msgstr "Sistema"
+msgstr "System"
 
 #: ../en/index.html
 msgid "forward"
-msgstr "adiante"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
-"LibreOffice Calc ten todo o que precisa para crear follas de cálculo claras "
-"e precisas."
 
 #: ../en/index.html
 msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
-"Algunhas das funcionalidades de importación e exportación fornécense "
-"empregando os paquetes dia, libwmf-bin, pstoedit, skencil, imagemagick, e "
-"perlmagick."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
@@ -918,11 +892,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Install"
-msgstr "Instalar"
+msgstr "စက်ထဲသို့ထည့်သွင်းမည်။"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr "Elementos:"
+msgstr "Items:"
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -930,35 +904,35 @@ msgstr "WildWheat"
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr "Asunto:"
+msgstr "အကြောင်းအရာ-"
 
 #: ../en/index.html
 msgid "Backup"
-msgstr "Copia de respaldo"
+msgstr ""
 
 #: ../en/index.html
 msgid "History"
-msgstr "Historial"
+msgstr "ရာဇဝင်"
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr "16 fotos"
+msgstr "ဓာတ်ပုံ ၁၆ ပုံ"
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr "Cartafol persoal"
+msgstr "Home Folder"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
-msgstr "Benvido ao tour en liña de Ubuntu!"
+msgstr "ဦးဘန္တု အွန်လိုင်းအလည်အပတ်ခရီးမှ ကြိုဆိုပါသည်။"
 
 #: ../en/index.html
 msgid "Office"
-msgstr "Ofimática"
+msgstr "ရုံးသုံး"
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr "Temas e axustes"
+msgstr "Themes &amp; Tweaks"
 
 #: ../en/index.html
 msgid ""
@@ -970,19 +944,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "work"
-msgstr "traballo"
+msgstr "အလုပ်"
 
 #: ../en/index.html
 msgid "Library"
-msgstr "Librería"
+msgstr "Library"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr "Unifica os seus contactos entre o seu escritorio, móbil e web"
+msgstr ""
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
-msgstr "Correo Thunderbird"
+msgstr "Thunderbird မေးလ်"
 
 #: ../en/index.html
 msgid ""
@@ -990,53 +964,50 @@ msgid ""
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
 msgstr ""
-"Chromium serve como base de Google Chrome, que é Chromium renomeado (nome e "
-"logo) con algúns engadidos como o seguemento de uso e un sistema de "
-"actualizacións automáticas."
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr "Non é correo non desexado"
+msgstr ""
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr "Chromium"
+msgstr "ခရိုမီယမ်"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr "Sen título 1 - LibreOffice Writer"
+msgstr "ခေါင်းစဉ်မဲ့ ၁  - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "delete"
-msgstr "eliminar"
+msgstr "ဖျက်မည်။"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr "Correo e noticias Thunderbird"
+msgstr "Thunderbird မေးလ်/သတင်း"
 
 #: ../en/index.html
 msgid "Busy"
-msgstr "Ocupado"
+msgstr "အလုပ်များနေပါသည်။"
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr "Flores pequenas"
+msgstr "ပန်းပွင့်အသေးလေးများ"
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr "Editar conexións…"
+msgstr "ကွန်နက်ရှင်ကို ပြင်ဆင်မည်။"
 
 #: ../en/index.html
 msgid "Printers"
-msgstr "Impresoras"
+msgstr "Printers"
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr "Preferencias de son..."
+msgstr "အသံပြင်ဆင်မူ"
 
 #: ../en/index.html
 msgid "Search"
-msgstr "Buscar"
+msgstr "ရှာဖွေ"
 
 #: ../en/index.html
 msgid ""
@@ -1047,31 +1018,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr "Activar bluetooth"
+msgstr "Bluetooth ကိုဖွင့်မည်။"
 
 #: ../en/index.html
 msgid "Write"
-msgstr "Escribir"
+msgstr "ရေး"
 
 #: ../en/index.html
 msgid "Attach"
-msgstr "Anexar"
+msgstr "တွဲမည်။"
 
 #: ../en/index.html
 msgid "Window"
-msgstr "Xanela"
+msgstr "၀င်းဒိုး"
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr "Escribir: (sen asunto)"
+msgstr "ရေးမည် - (အကြောင်းအရာမရှိ)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr "Tour en liña de Ubuntu"
+msgstr "ဦးဘန္တု အွန်လိုင်းအလည်အပတ်ခရီး"
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr "María Castelao"
+msgstr "Federica Miglio"
 
 #: ../en/index.html
 msgid ""
@@ -1083,15 +1054,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Offline"
-msgstr "Desconectado"
+msgstr "လိုင်းပြင်ပ"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr "Lixo"
+msgstr "အမှိုက်ပုံး"
 
 #: ../en/index.html
 msgid "archive"
-msgstr "arquivo"
+msgstr ""
 
 #: ../en/index.html
 msgid "Power Of Words"
@@ -1099,63 +1070,63 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr "Xestor de fotos Shotwell"
+msgstr "Shotwell ဓာတ်ပုံတည်းဖြတ်ဆော့ဖ်ဝဲ"
 
 #: ../en/index.html
 msgid "Folders"
-msgstr "Cartafoles"
+msgstr "ဖိုလ်ဒါများ"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr "Navegar o web é rápido e seguro con Ubuntu e Firefox."
+msgstr ""
+"ဦးဘန္တုမှ Firefox နှင့် အင်တာနက်သုံးခြင်းသည် လျင်မြန်ပြီး "
+"လုံခြုံစိတ်ချရပါသည်။"
 
 #: ../en/index.html
 msgid "Format"
-msgstr "Formato"
+msgstr "Format"
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr "Explorar os ficheiros no dispositivo..."
+msgstr "ကိရိယာထဲမှ ဖိုင်များကိုရှာမည်။"
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr "Correo non desexado"
+msgstr ""
 
 #: ../en/index.html
 msgid "1"
-msgstr "1"
+msgstr "၁"
 
 #: ../en/index.html
 msgid "Computer"
-msgstr "Computador"
+msgstr "ကွန်ပျူတာ"
 
 #: ../en/index.html
 msgid "What's New"
-msgstr "Que hai novo"
+msgstr "အသစ်ဘာရှိလဲ။"
 
 #: ../en/index.html
 msgid "App Available for Download"
-msgstr "Aplicativos dispoñíbeis para descargar"
+msgstr "ဒေါင်းလုတ်ဆွဲရန်အတွက်ရရှိနိုင်သော App"
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr "Reprodutor de filmes"
+msgstr "ဗွီဒီယိုဖွင့်စက်"
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr "Invisíbel"
+msgstr "မမြင်အောင်လုပ်ထားသည်။"
 
 #: ../en/index.html
 msgid "Albums"
-msgstr "Álbums"
+msgstr "အယ်လ်ဘမ်"
 
 #: ../en/index.html
 msgid ""
 "Inkscape supports multiple opened files and multiple views per file. "
 "Graphics can be printed and exported to png bitmaps."
 msgstr ""
-"Inkscape permite ter abertos varios ficheiros e ter varias vistas por "
-"ficheiro. Os gráficos pódense imprimir e exportar a mapas de bits png."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1163,83 +1134,83 @@ msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
-msgstr "De:"
+msgstr "မှ-"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr "Inserir"
+msgstr "ထည့်သွင်း"
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr "Apagar..."
+msgstr "လုံးဝ ပိတ်မည် ..."
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr "Tipos de letra"
+msgstr "စာလုံးပုံစံများ"
 
 #: ../en/index.html
 msgid "File"
-msgstr "Ficheiro"
+msgstr "ဖိုင်"
 
 #: ../en/index.html
 msgid "Edit"
-msgstr "Editar"
+msgstr "တည်းဖြတ်"
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr "Activar Bluetooth"
+msgstr "Bluetooth  ကိုဖွင့်"
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr "Desactivar Bluetooth"
+msgstr "Bluetooth ကိုပိတ်မည်။"
 
 #: ../en/index.html
 msgid "Installing"
-msgstr "Instalando"
+msgstr "သွင်းနေပါသည်။"
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr "volver ao sitio"
+msgstr "ဆိုဒ်သို့ပြန်သွားမည်။"
 
 #: ../en/index.html
 msgid "Download"
-msgstr "Descargando"
+msgstr "ကွန်ယက်မှ ဆွဲယူခြင်း(ဒေါင်းလုတ်)"
 
 #: ../en/index.html
 msgid "Games"
-msgstr "Xogos"
+msgstr "ကစားနည်းများ"
 
 #: ../en/index.html
 msgid "Visolate"
-msgstr "Visolate"
+msgstr ""
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr "Mensaxaría de internet Empathy"
+msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr "Crear e editar gráficos vectoriais escalábeis (SVG)"
+msgstr ""
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr "Dispositivos conectados"
+msgstr "ကိရိယာများကိုတွဲမည်။"
 
 #: ../en/index.html
 msgid "View"
-msgstr "Ver"
+msgstr "မြင်ကွင်း"
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr "Suspender"
+msgstr "ဆိုင်းငံ့ထားမည်"
 
 #: ../en/index.html
 msgid "branches"
-msgstr "ramas"
+msgstr "အခွဲများ"
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr "O poder da súa nube persoal"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1250,7 +1221,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr "Lun 11 de outubro, 2010"
+msgstr "လာ ၁၁၊ အောက်၊ ၂၀၁၀"
 
 #: ../en/index.html
 msgid ""
@@ -1259,23 +1230,18 @@ msgid ""
 "and freehand curves. As an added bonus, both vector and bitmap objects can "
 "have alpha transparency and can be arbitrarily transformed."
 msgstr ""
-"A interface de usuario de Inkscape deberíalle resultar familiar a quen "
-"coñeza CorelDraw e outros programas de deseño semellantes. Hai rectángulos, "
-"elipses, elementos de texto, imaxes de mapas de bits e curvas a man alzada. "
-"Como extra, tanto os obxectos vectoriais como os mapas de imaxes poden ter "
-"transparencia alfa e pódense transformar arbitrariamente."
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr "Desactivar o silencio"
+msgstr "အသံပြန်ဖွင့်ရန်"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr "Lixo"
+msgstr ""
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr "Son e vídeo"
+msgstr "အသံ &amp; ဗွီဒီယို"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -1283,23 +1249,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr "Crear e editar modelos e animacións en 3D"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr "Caixa de entrada"
+msgstr "စာအဝင်လက်ခံသည့်နေရာ"
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr "Ficheiros en calquera lugar"
+msgstr "ဘယ်နေရာမဆိုရှိသည့်ဖိုင်များ"
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr "Mantéñase produtivo"
+msgstr ""
 
 #: ../en/index.html
 msgid "Table"
-msgstr "Táboa"
+msgstr "ဇယား"
 
 #: ../en/index.html
 msgid ""
@@ -1317,18 +1283,31 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
 
 #: ../en/index.html
 msgid "Tools"
-msgstr "Ferramentas"
+msgstr "Tools"
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr "Descargas"
+msgstr "အင်တာနက် ပေါ်မှ ယူထားသောဖိုင်များ (ဒေါင်းလုတ်များ)"
 
 #: ../en/index.html
 msgid "You"
-msgstr "Vostede"
+msgstr "သင်"
 
 #: ../en/index.html
 msgid "Blender"

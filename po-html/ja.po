@@ -8,18 +8,18 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 03:51+0000\n"
+"PO-Revision-Date: 2012-04-26 19:00+0000\n"
 "Last-Translator: Jiro Matsuzawa <jmatsuzawa@gnome.org>\n"
 "Language-Team: Japanese <ja@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-26 05:19+0000\n"
+"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
-msgstr "Firefox ウェブ・ブラウザ"
+msgstr "Firefox ウェブブラウザー"
 
 #: ../en/index.html
 msgid "Lock Screen"
@@ -64,7 +64,7 @@ msgstr "科学 &amp; 工学"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr ""
+msgstr "アプリを探す"
 
 #: ../en/index.html
 msgid "Not Alone"
@@ -113,6 +113,8 @@ msgid ""
 "translated into 38 languages, Ubuntu also includes essential assistive "
 "technologies, which are, of course, completely free."
 msgstr ""
+"アクセシビリティはUbuntu哲学の中心となるものです。コンピューターは、国籍、人種、ジェンダー、身体上の制約によらず、あらゆる人々のためにあると私たちは"
+"信じています。Ubuntuは、38の言語で十分に翻訳され、重要な支援技術も備わっています。もちろん完全に自由に使用できます。"
 
 #: ../en/index.html
 msgid "Download Ubuntu"
@@ -124,7 +126,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Applications"
-msgstr ""
+msgstr "アプリケーション"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
@@ -136,11 +138,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
-msgstr ""
+msgstr "リモートデスクトップビューアー"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr ""
+msgstr "Gwibber ソーシャルクライアント"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -160,7 +162,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr ""
+msgstr "Web を見る"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -188,27 +190,27 @@ msgstr "Dash ホーム"
 
 #: ../en/index.html
 msgid "From"
-msgstr ""
+msgstr "差出人"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr ""
+msgstr "受信"
 
 #: ../en/index.html
 msgid "Auto eth0"
-msgstr ""
+msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr ""
+msgstr "最近使ったファイル"
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr ""
+msgstr "ファイルをデバイスへ送信…"
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr ""
+msgstr "ドキュメントの作成"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
@@ -224,11 +226,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "$9.99"
-msgstr ""
+msgstr "$9.99"
 
 #: ../en/index.html
 msgid "Help"
-msgstr ""
+msgstr "ヘルプ"
 
 #: ../en/index.html
 msgid "Mute"
@@ -240,7 +242,7 @@ msgstr "すべてのソフトウェア"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr ""
+msgstr "ダウンロードの準備はよろしいですか?"
 
 #: ../en/index.html
 msgid "Accessories"
@@ -248,7 +250,7 @@ msgstr "アクセサリー"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr ""
+msgstr "スプレッドシートの作成"
 
 #: ../en/index.html
 msgid "Bluetooth"
@@ -284,7 +286,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject"
-msgstr ""
+msgstr "件名"
 
 #: ../en/index.html
 msgid "Shotwell"
@@ -296,7 +298,7 @@ msgstr "ドキュメント"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr ""
+msgstr "切断する"
 
 #: ../en/index.html
 msgid "Preferences"
@@ -304,7 +306,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr ""
+msgstr "ファイルの閲覧"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
@@ -316,7 +318,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Send"
-msgstr ""
+msgstr "送信"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
@@ -324,7 +326,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
+msgstr "Ubuntuオンラインツアーをお楽しみいただけたら幸いです。"
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -332,7 +334,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr ""
+msgstr "プレゼンテーションの作成"
 
 #: ../en/index.html
 msgid "Original Message"
@@ -340,7 +342,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "AisleRoit ソリティア"
 
 #: ../en/index.html
 msgid "Rock Out"
@@ -366,7 +368,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "subject"
-msgstr ""
+msgstr "件名"
 
 #: ../en/index.html
 msgid "Available"
@@ -382,11 +384,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr ""
+msgstr "ハイバーネート"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
-msgstr ""
+msgstr "Langelinie Alle"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
@@ -394,7 +396,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr ""
+msgstr "日付と時刻の設定…"
 
 #: ../en/index.html
 msgid "Recently Used"
@@ -414,15 +416,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr ""
+msgstr "3.3MB"
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "返信"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr ""
+msgstr "メールの設定..."
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
@@ -430,19 +432,19 @@ msgstr "Ubuntuソフトウェアセンターからアプリをさっと検索し
 
 #: ../en/index.html
 msgid "Clear"
-msgstr ""
+msgstr "通知のクリア"
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr ""
+msgstr "$19.99"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr ""
+msgstr "ログアウト…"
 
 #: ../en/index.html
 msgid ""
@@ -452,7 +454,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr ""
+msgstr "Fwd"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
@@ -516,7 +518,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr ""
+msgstr "Mount Snowdon"
 
 #: ../en/index.html
 msgid "Songs"
@@ -528,7 +530,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
-msgstr ""
+msgstr "UbuntuやWindows、ウェブ、モバイルからあなたのファイルにアクセスしたりバックアップしたりできます"
 
 #: ../en/index.html
 msgid "Title:"
@@ -536,7 +538,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr ""
+msgstr "新しいデバイスを設定..."
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
@@ -548,7 +550,7 @@ msgstr "ビデオ"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Braid"
 
 #: ../en/index.html
 msgid ""
@@ -585,7 +587,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr ""
+msgstr "ファイルとフォルダー"
 
 #: ../en/index.html
 msgid "Installed"
@@ -593,7 +595,7 @@ msgstr "インストール済み"
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
@@ -609,6 +611,9 @@ msgid ""
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
 msgstr ""
+"Use BEEP’s anti-gravity device to directly manipulate the physics-based "
+"environments. The anti-gravity device is both a tool and a weapon. Use it to "
+"smash enemy robots, build towers and solve puzzles."
 
 #: ../en/index.html
 msgid "Chat"
@@ -620,7 +625,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Recent Apps"
-msgstr ""
+msgstr "最近使ったアプリ"
 
 #: ../en/index.html
 msgid "Home"
@@ -628,7 +633,7 @@ msgstr "ホーム"
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr ""
+msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
@@ -648,11 +653,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr ""
+msgstr "5.3MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr ""
+msgstr "ガイドツアー"
 
 #: ../en/index.html
 msgid "cc"
@@ -664,27 +669,27 @@ msgstr "ピクチャ"
 
 #: ../en/index.html
 msgid "Away"
-msgstr ""
+msgstr "離席中"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr ""
+msgstr "Eメールをチェック"
 
 #: ../en/index.html
 msgid "Size:"
-msgstr ""
+msgstr "サイズ:"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr ""
+msgstr "下書き"
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "無料"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr ""
+msgstr "Firefox のブックマークや Tomboy のメモを同期します"
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
@@ -714,11 +719,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr ""
+msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
-msgstr ""
+msgstr "写真を見る"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
@@ -736,7 +741,7 @@ msgstr ""
 msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
-msgstr ""
+msgstr "あなたのすべてのコレクションは、AndroidとiPhoneへの音楽のストリーミングであなたといっしょにいます"
 
 #: ../en/index.html
 msgid "to"

@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-25 22:43+0000\n"
+"PO-Revision-Date: 2012-04-26 10:40+0000\n"
 "Last-Translator: Simos Xenitellis <Unknown>\n"
 "Language-Team: Greek <el@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-26 05:19+0000\n"
+"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
@@ -33,6 +33,12 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Το Ubuntu είναι γρήγορο σε οποιονδήποτε υπολογιστή, όμως είναι ταχύτατο σε "
+"υπολογιστές νεότερης γενιάς. Χωρίς περιττές ή «δοκιμαστικές» εφαρμογές τύπου "
+"trial να  το επιβραδύνουν, η εκκίνηση και το άνοιγμα ενός περιηγητή είναι "
+"θέμα δευτερολέπτων. Αντίθετα με τα άλλα λειτουργικά συστήματα που σας "
+"αφήνουν στην οθόνη εκκίνησης, περιμένοντας να συνδεθείτε. Και το Ubuntu δεν "
+"γίνεται αργό με την πάροδο του χρόνου. Είναι ταχύ. Και παραμένει ταχύ."
 
 #: ../en/index.html
 msgid "no subject"
@@ -40,7 +46,7 @@ msgstr "χωρίς θέμα"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr ""
+msgstr "Ρίξτε μια ματιά τριγύρω"
 
 #: ../en/index.html
 msgid "Desktop"
@@ -68,15 +74,15 @@ msgstr "Εύρεση εφαρμογών"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr ""
+msgstr "Δεν είσαι μόνος"
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Όνειρο σφενδάμου"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr ""
+msgstr "Χειριστείτε τη ροή του χρόνου για να λύσετε πάζλ"
 
 #: ../en/index.html
 msgid "中文"
@@ -92,6 +98,9 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
+"Το BEEP ταξίδεψε χιλιάδες χρόνια μέσα στο αχανές σύμπαν για να εξερευνήσει "
+"το Γαλαξία. Διασχίστε ένα ξένο αστρικό σύστημα  με το σκάφος-BEEP και "
+"στείλτε ρομπότ στην επιφάνεια των πλανητών."
 
 #: ../en/index.html
 msgid ""
@@ -102,7 +111,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr "Χωρίς όνομα 1 - LibreOffice Impress"
+msgstr "Χωρίς τίτλο 1 - LibreOffice Impress"
 
 #: ../en/index.html
 msgid "Ubuntu One"
@@ -139,7 +148,7 @@ msgstr "Τετ 14 Οκτωβρίου, 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr ""
+msgstr "Παιχνίδι παζλ/κατασκευής βασισμένο στην Φυσική"
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
@@ -151,7 +160,7 @@ msgstr "Λογισμικό κοινωνικής δικτύωσης Gwibber"
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr ""
+msgstr "Ευτυχία"
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -171,7 +180,7 @@ msgstr "Περιήγηση στο διαδίκτυο"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
-msgstr ""
+msgstr "Ένα δισδιάστατο παιχνίδι σκόπευσης με παζλ βασισμένο στη Φυσική"
 
 #: ../en/index.html
 msgid "Graphics"
@@ -329,7 +338,7 @@ msgstr "Αποστολή"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Μελανός χρόνος"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
@@ -353,7 +362,7 @@ msgstr "Πασιέντζα AisleRoit"
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr ""
+msgstr "Ροκάρετε"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -364,9 +373,9 @@ msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
-"Το Chronium είναι ένα ανοιχτου κώδικα πρόγραμμα που στοχεύει να χτίσει έναν "
-"ασφαλέστερο, γρηγορότερο, και πιο σταθερό δρόμο για όλους τους χρήστες του "
-"Internet."
+"Το Chromium είναι ένα ανοιχτού κώδικα πρόγραμμα που στοχεύει να χτίσει έναν "
+"ασφαλέστερο, γρηγορότερο, και πιο σταθερό λογισμικό για όλους τους χρήστες "
+"διαδικτύου."
 
 #: ../en/index.html
 msgid "Email"
@@ -402,7 +411,7 @@ msgstr "Langelinie Alle"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr "Το Ubuntu σας, ο τρόπος σκέψης σας"
+msgstr "Το δικό σας Ubuntu, ο δικός σας τρόπος"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
@@ -451,7 +460,7 @@ msgstr "19.99€"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Σταθμός Dybbølsbro"
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -484,11 +493,11 @@ msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr ""
+msgstr "Αποτινάξτε"
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Αιλουροπάρδαλη θηρευτής"
 
 #: ../en/index.html
 msgid "System Settings…"
@@ -507,6 +516,8 @@ msgid ""
 "Braid treats your time and attention as precious, and it does everything it "
 "can to give you a mind-expanding experience."
 msgstr ""
+"Το Braid θεωρεί πολύτιμο τον χρόνο και και την προσοχή σας, κάνοντας "
+"οτιδήποτε είναι δυνατόν για να σας προσφέρει μια ανεπανάληπτη εμπειρία."
 
 #: ../en/index.html
 msgid "English"
@@ -514,7 +525,7 @@ msgstr "Αγγλικά"
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Πορφυροί χορευτές"
 
 #: ../en/index.html
 msgid "from"
@@ -608,6 +619,17 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
+"Μπορείτε να περιηγηθείτε με ασφάλεια με το Ubuntu – βέβαιοι πως τα αρχεία "
+"σας και τα δεδομένα σας θα παραμείνουν προστατευμένα. Ενσωματωμένο τείχος "
+"προστασίας και προστασία από ιούς παρέχονται από προεπιλογή. Ακόμη και εάν "
+"παρουσιαστεί πιθανή απειλή, εμείς προσφέρουμε αυτόματες ενημερώσεις που "
+"μπορείτε να εγκαταστήσετε με ένα κλικ. Έχετε πρόσθετη ασφάλεια με το "
+"AppArmor, που προστατεύει τις σημαντικές εφαρμογές σας, έτσι ώστε οι "
+"εισβολείς να μην έχουν πρόσβαση στο σύστημά σας. Επίσης χάρις στο Firefox "
+"και το gnome-keyring, το Ubuntu σάς βοηθά να διατηρήσετε τα προσωπικά σας "
+"δεδομένα, προσωπικά. Έτσι, όποτε έχετε πρόσβαση στον τραπεζικό σας "
+"λογαριασμό ή μοιράζεστε ευαίσθητες πληροφορίες με φίλους, θα έχετε απόλυτη "
+"ηρεμία εκεί που την χρειάζεστε περισσότερο."
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
@@ -619,7 +641,7 @@ msgstr "Εγκατεστημένο"
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
@@ -635,6 +657,10 @@ msgid ""
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
 msgstr ""
+"Χρησιμοποιήστε τη συσκευή αντιβαρύτητας του BEEP για να χειριστείτε άμεσα τα "
+"περιβάλλοντα που υπόκεινται σε νόμους της Φυσικής. Η συσκευή αντιβαρύτητας "
+"αποτελεί εργαλείο αλλά και όπλο. Χρησιμοποιήστε την για να διαλύσετε εχθρικά "
+"ρομπότ, να χτίσετε πύργους και να λύσετε παζλ."
 
 #: ../en/index.html
 msgid "Chat"
@@ -642,7 +668,7 @@ msgstr "Συνομιλία"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr ""
+msgstr "Αρχειοθήκη"
 
 #: ../en/index.html
 msgid "Recent Apps"
@@ -678,11 +704,11 @@ msgstr "5.3MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr ""
+msgstr "Κάντε χρήση της καθοδηγούμενης περιήγησης"
 
 #: ../en/index.html
 msgid "cc"
-msgstr ""
+msgstr "κοινοποίηση"
 
 #: ../en/index.html
 msgid "Pictures"
@@ -755,12 +781,12 @@ msgstr "Προβολή φωτογραφιών"
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
-"Μπορείτε να ανεβάσετε, να οργανώσετε, να επεξεργαστείτε και να διαμοιράσετε "
+"Μπορείτε να ανεβάσετε, να οργανώσετε, να επεξεργαστείτε και να μοιραστείτε "
 "τις φωτογραφίες σας με το Shotwell."
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "Αμμώδης λαβύρινθος"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
@@ -771,6 +797,8 @@ msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
+"Ολόκληρη η συλλογή σας σάς ακολουθεί παντού με τη μουσική διαθέσιμη σε "
+"Androind και iPhone"
 
 #: ../en/index.html
 msgid "to"
@@ -788,6 +816,17 @@ msgid ""
 "of a standalone binary and/or a web plug-in are common products of Blender "
 "use."
 msgstr ""
+"Το Blender είναι μια σουίτα 3Δ (3D) για τη μοντελοποίηση, δημιουργία "
+"κινούμενων σχεδίων 3Δ, βελτίωση ταινιών, διαδραστική δημιουργία και "
+"αναπαραγωγή (ειδικά για παιχνίδια). Το Blender έχει το δικό του περιβάλλον "
+"χρήσης, που είναι υλοποιημένο εξ ολοκλήρου σε OpenGL και είναι σχεδιασμένο "
+"με γνώμονα την ταχύτητα. Οι συνδέσεις Python σάς βοηθούν στη συγγραφή "
+"προγραμμάτων εντολών· η δυνατότητα εισαγωγής/εξαγωγής για δημοφιλείς μορφές "
+"αρχείων όπως 3D Studio και Wavefront Obj είναι υλοποιημένα ως τέτοια "
+"προγράμματα εντολών από την ίδια την κοινότητα. Με το Blender μπορείτε να "
+"φτιάξετε πανέμορφες εικόνες, κινούμενα σχέδια, μοντέλα χαρακτήρων για "
+"παιχνίδια ή και για μηχανές δημιουργίας παιχνιδιών ή κάθε λογισμικό που "
+"δέχεται μοντέλα χαρακτήρων."
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
@@ -806,6 +845,8 @@ msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
+"Είναι γρήγορο και εύκολο να αποκτήσετε πρόσβαση στους φακέλους και τα αρχεία "
+"σας  από τον προσωπικό φάκελο του Ubuntu."
 
 #: ../en/index.html
 msgid "Our star apps"
@@ -816,6 +857,8 @@ msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
 msgstr ""
+"Θυμηθείτε, αυτό είναι απλά μια επίδειξη. Θα πρέπει να το κατεβάστε για να το "
+"απολαύσετε πραγματικά!"
 
 #: ../en/index.html
 msgid "Date"
@@ -827,6 +870,10 @@ msgid ""
 "bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
 "goo balls that live in the beautiful World of Goo are curious to explore."
 msgstr ""
+"Σύρσιμο και εναπόθεση ζωντανών οργανισμών που μιλούν, για να κατασκευάσετε "
+"δομές, γέφυρες, αερόστατα και τεράστιες γλώσσες. Τα εκατομμύρια των αθώων "
+"σφαιρικών οργανισμών που ζουν στον πανέμορφο Κόσμου του Goo (World of Goo) "
+"είναι γεμάτα περιέργεια για να εξερευνήσουν μαζί σας."
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
@@ -854,7 +901,7 @@ msgstr "Προς:"
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
-msgstr ""
+msgstr "Δημιουργία λογαριασμού μετάδοσης…"
 
 #: ../en/index.html
 msgid "Date:"
@@ -866,6 +913,10 @@ msgid ""
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
 msgstr ""
+"Απολαύστε την απλότητα και το στυλ του έξυπνου περιβάλλοντος του Ubuntu. "
+"Γρήγορο, ασφαλές και με χιλιάδες εφαρμογές για να διαλέξετε, το Ubuntu σας "
+"προσφέρει μια ξεκάθαρη, βελτιστοποιημένη εμπειρία που μπορείτε πραγματικά να "
+"την κάνετε δική σας."
 
 #: ../en/index.html
 msgid "Total:"
@@ -908,10 +959,15 @@ msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
+"Μερικά από τα χαρακτηριστικά εισαγωγής και εξαγωγής παρέχονται "
+"χρησιμοποιώντας τα πακέτα dia, libwmf-bin, pstoedit, skencil, imagemagick, "
+"και perlmagick."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
 msgstr ""
+"Κάντε μια δοκιμαστική «βόλτα» με το Ubuntu, χρησιμοποιώντας τη διαδικτυακή "
+"εφαρμογή επίδειξης."
 
 #: ../en/index.html
 msgid "Install"
@@ -923,7 +979,7 @@ msgstr "Αντικείμενα:"
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr ""
+msgstr "Άγριο σιτάρι"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -981,6 +1037,8 @@ msgstr "Βιβλιοθήκη"
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr ""
+"Ενοποιείστε τις επαφές σας από την επιφάνεια εργασίας σας, το κινητό "
+"τηλέφωνο και το διαδίκτυο"
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
@@ -992,6 +1050,9 @@ msgid ""
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
 msgstr ""
+"Ο Chromium αποτελεί τη βάση για τον Google Chrome, ο οποίος είναι μια "
+"μετονομασμένη εκδοχή του Chromium με μερικές προσθήκες, όπως καταγραφή "
+"χρήσης και αυτοματοποιημένο σύστημα αναβαθμίσεων."
 
 #: ../en/index.html
 msgid "Not Junk"
@@ -1019,7 +1080,7 @@ msgstr "Απασχολημένος/η"
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr ""
+msgstr "Λουλουδάκια"
 
 #: ../en/index.html
 msgid "Edit Connections…"
@@ -1043,6 +1104,9 @@ msgid ""
 "delicious. The most addicting and awe-inspiring puzzle game will set you on "
 "an adventure that youll never forget!"
 msgstr ""
+"Όμως δεν γνωρίζουν ότι βρίσκονται μέσα σε παιχνίδι, ούτε ότι είναι άκρως "
+"γευστικοί. Ένα παιχνίδι παζλ που προκαλεί εθισμό και δέος και το οποίο θα "
+"σας βάλει σε μια περιπέτεια που δε θα ξεχάσετε ποτέ!"
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
@@ -1079,6 +1143,11 @@ msgid ""
 "gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
 "across 6 unique environments."
 msgstr ""
+"Το BEEP είναι ένα δισδιάστατο παιχνίδι πλατφόρμας πλάγιας κύλισης, βασισμένο "
+"σε κανόνες της Φυσικής. Ελέγχετε ένα μικρό ρομπότ εξοπλισμένο με μία συσκευή "
+"αντιβαρύτητας, αεριωθούμενο μηχανισμό και όπλο. Οδηγήστε, πηδήξτε, πετάξτε, "
+"κολυμπήστε και ανοίξτε δρόμο πυροβολώντας μέσα από 24 επίπεδα σκορπισμένα σε "
+"6 μοναδικά περιβάλλοντα."
 
 #: ../en/index.html
 msgid "Offline"
@@ -1120,7 +1189,7 @@ msgstr "Περιήγηση αρχείων στη συσκευή..."
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr ""
+msgstr "Ανεπιθύμητη αλληλογραφία"
 
 #: ../en/index.html
 msgid "1"
@@ -1213,11 +1282,11 @@ msgstr "Παιχνίδια"
 
 #: ../en/index.html
 msgid "Visolate"
-msgstr ""
+msgstr "Visolate"
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr ""
+msgstr "Εφαρμογή διαδικτυακών μηνυμάτων Empathy"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
@@ -1239,11 +1308,11 @@ msgstr "Αναστολή"
 
 #: ../en/index.html
 msgid "branches"
-msgstr ""
+msgstr "κλάδοι"
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr ""
+msgstr "Η δύναμη του προσωπικού σας σύννεφου"
 
 #: ../en/index.html
 msgid ""
@@ -1251,6 +1320,9 @@ msgid ""
 "painterly style where you manipulate the flow of time to solve puzzles. "
 "Every puzzle in Braid is unique; there is no filler."
 msgstr ""
+"Το Braid είναι ένα παιχνίδι με γραφικό περιβάλλον όπου μπορείτε να "
+"διαχειριστείτε τη ροή του χρόνου για την επίλυση πολλών παζλ. Κάθε παζλ στο "
+"Braid είναι μοναδικό και ευρηματικό· δεν υπάρχουν παζλ κακής ποιότητας."
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
@@ -1283,7 +1355,7 @@ msgstr "Ήχος &amp; βίντεο"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr ""
+msgstr "Το γρασίδι δεν είναι πιο πράσινο"
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
@@ -1321,6 +1393,19 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
 
 #: ../en/index.html
 msgid "Tools"
