@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 23:54+0000\n"
+"PO-Revision-Date: 2012-04-27 09:28+0000\n"
 "Last-Translator: Yaron <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
+"X-Launchpad-Export-Date: 2012-04-28 05:22+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
@@ -662,31 +662,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr ""
+msgstr "תמונות"
 
 #: ../en/index.html
 msgid "Away"
-msgstr ""
+msgstr "מרוחק"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr ""
+msgstr "בדיקת דוא״ל"
 
 #: ../en/index.html
 msgid "Size:"
-msgstr ""
+msgstr "גודל:"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr ""
+msgstr "טיוטה"
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "חופשי"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr ""
+msgstr "סנכרון בין הסימניות שלך בפיירפוקס לבין הפתקיות שלך ב־Tomboy"
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
@@ -694,19 +694,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr ""
+msgstr "תצוגות…"
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr ""
+msgstr "התכנה עדכנית"
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr ""
+msgstr "גלישה באינטרנט"
 
 #: ../en/index.html
 msgid "Local"
-msgstr ""
+msgstr "מקומי"
 
 #: ../en/index.html
 msgid ""
@@ -720,7 +720,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "View photos"
-msgstr ""
+msgstr "צפייה בתמונות"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
@@ -728,11 +728,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "מבוך חול"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr ""
+msgstr "לוח הבקרה של Ubuntu One"
 
 #: ../en/index.html
 msgid ""
@@ -785,7 +785,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date"
-msgstr ""
+msgstr "תאריך"
 
 #: ../en/index.html
 msgid ""
@@ -796,19 +796,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
+msgstr "דפדפן האינטרנט כרומיום"
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr ""
+msgstr "רשמקול"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr ""
+msgstr "נמען"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr ""
+msgstr "מהיר"
 
 #: ../en/index.html
 msgid "Recent"
@@ -816,7 +816,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "To:"
-msgstr ""
+msgstr "אל:"
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
@@ -824,7 +824,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date:"
-msgstr ""
+msgstr "תאריך:"
 
 #: ../en/index.html
 msgid ""
@@ -835,15 +835,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Total:"
-msgstr ""
+msgstr "סך הכול:"
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr ""
+msgstr "מנהלי התקנים נוספים"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr ""
+msgstr "מרכז התכנה של אובונטו"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
@@ -851,11 +851,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr ""
+msgstr "כבר יש לי חשבון!"
 
 #: ../en/index.html
 msgid "System"
-msgstr ""
+msgstr "מערכת"
 
 #: ../en/index.html
 msgid "forward"
@@ -879,11 +879,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "התקנה"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr ""
+msgstr "פריטים:"
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -891,27 +891,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
+msgstr "נושא:‏"
 
 #: ../en/index.html
 msgid "Backup"
-msgstr ""
+msgstr "גיבוי"
 
 #: ../en/index.html
 msgid "History"
-msgstr ""
+msgstr "היסטוריה"
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16 תמונות"
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr ""
+msgstr "תיקיית הבית"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
-msgstr ""
+msgstr "ברוך בואך לסיור המקוון באובונטו!"
 
 #: ../en/index.html
 msgid "Office"
@@ -919,7 +919,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr ""
+msgstr "ערכות נושא ושיפורים"
 
 #: ../en/index.html
 msgid ""
@@ -931,11 +931,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "work"
-msgstr ""
+msgstr "עבודה"
 
 #: ../en/index.html
 msgid "Library"
-msgstr ""
+msgstr "ספרייה"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
@@ -954,11 +954,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr ""
+msgstr "לא דואר זבל"
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr ""
+msgstr "כרומיום"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -966,7 +966,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "delete"
-msgstr ""
+msgstr "מחיקה"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
@@ -974,27 +974,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Busy"
-msgstr ""
+msgstr "עסוק"
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr ""
+msgstr "פרחים קטנים"
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr ""
+msgstr "עריכת חיבורים…"
 
 #: ../en/index.html
 msgid "Printers"
-msgstr ""
+msgstr "מדפסות"
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr ""
+msgstr "הגדרות שמע…"
 
 #: ../en/index.html
 msgid "Search"
-msgstr ""
+msgstr "חיפוש"
 
 #: ../en/index.html
 msgid ""
@@ -1005,19 +1005,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr ""
+msgstr "הפעלת ה־Bluetooth"
 
 #: ../en/index.html
 msgid "Write"
-msgstr ""
+msgstr "כתיבה"
 
 #: ../en/index.html
 msgid "Attach"
-msgstr ""
+msgstr "צירוף"
 
 #: ../en/index.html
 msgid "Window"
-msgstr ""
+msgstr "חלון"
 
 #: ../en/index.html
 msgid "Write: (no subject)"
@@ -1041,11 +1041,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Offline"
-msgstr ""
+msgstr "מנותק"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr ""
+msgstr "אשפה"
 
 #: ../en/index.html
 msgid "archive"
@@ -1053,15 +1053,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "כוחן של מילים"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "מנהל התמונות Shotwell"
 
 #: ../en/index.html
 msgid "Folders"
-msgstr ""
+msgstr "תיקיות"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
@@ -1069,35 +1069,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Format"
-msgstr ""
+msgstr "תבנית"
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr ""
+msgstr "עיון בקבצים שבהתקן…"
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr ""
+msgstr "דואר זבל"
 
 #: ../en/index.html
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../en/index.html
 msgid "Computer"
-msgstr ""
+msgstr "מחשב"
 
 #: ../en/index.html
 msgid "What's New"
-msgstr ""
+msgstr "מה חדש"
 
 #: ../en/index.html
 msgid "App Available for Download"
-msgstr ""
+msgstr "יישום זמין להורדה"
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr ""
+msgstr "נגן סרטים"
 
 #: ../en/index.html
 msgid "Invisible"
@@ -1105,7 +1105,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Albums"
-msgstr ""
+msgstr "אלבומים"
 
 #: ../en/index.html
 msgid ""
@@ -1115,7 +1115,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
@@ -1123,23 +1123,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Insert"
-msgstr ""
+msgstr "הוספה"
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr ""
+msgstr "כיבוי…"
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr ""
+msgstr "גופנים"
 
 #: ../en/index.html
 msgid "File"
-msgstr ""
+msgstr "קובץ"
 
 #: ../en/index.html
 msgid "Edit"
-msgstr ""
+msgstr "עריכה"
 
 #: ../en/index.html
 msgid "Bluetooth On"
@@ -1151,19 +1151,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Installing"
-msgstr ""
+msgstr "בהתקנה"
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr ""
+msgstr "חזרה לאתר"
 
 #: ../en/index.html
 msgid "Download"
-msgstr ""
+msgstr "הורדה"
 
 #: ../en/index.html
 msgid "Games"
-msgstr ""
+msgstr "משחקים"
 
 #: ../en/index.html
 msgid "Visolate"
@@ -1175,11 +1175,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
+msgstr "יצירה ועריכה של תמונות בגרפיקת וקטורים נמתחת"
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr ""
+msgstr "התקנים מחוברים"
 
 #: ../en/index.html
 msgid "View"
@@ -1187,7 +1187,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr ""
+msgstr "השהיה"
 
 #: ../en/index.html
 msgid "branches"
@@ -1218,7 +1218,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr ""
+msgstr "ביטול ההשתקה"
 
 #: ../en/index.html
 msgid "Rubbish bin"
@@ -1226,19 +1226,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr ""
+msgstr "שמע ווידאו"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr ""
+msgstr "הדשא לא ירוק יותר"
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr ""
+msgstr "יצירה ועריכה של דגמי תלת ממד ואנימציות"
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr ""
+msgstr "הודעות נכנסות"
 
 #: ../en/index.html
 msgid "Files Anywhere"
@@ -1250,7 +1250,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Table"
-msgstr ""
+msgstr "טבלה"
 
 #: ../en/index.html
 msgid ""
@@ -1271,11 +1271,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Tools"
-msgstr ""
+msgstr "כלים"
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr ""
+msgstr "הורדות"
 
 #: ../en/index.html
 msgid "You"

@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 06:09+0000\n"
+"PO-Revision-Date: 2012-04-27 12:30+0000\n"
 "Last-Translator: Fitoschido <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
+"X-Launchpad-Export-Date: 2012-04-28 05:22+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
@@ -46,7 +46,7 @@ msgstr "sin asunto"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr ""
+msgstr "Descúbralo por su cuenta"
 
 #: ../en/index.html
 msgid "Desktop"
@@ -159,7 +159,7 @@ msgstr "15.2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr ""
+msgstr "Convertidor PCB CNC"
 
 #: ../en/index.html
 msgid "On"
@@ -247,7 +247,7 @@ msgstr "Todo el software"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr ""
+msgstr "¿Listo/a para descargar?"
 
 #: ../en/index.html
 msgid "Accessories"
@@ -509,7 +509,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "Inglés"
 
 #: ../en/index.html
 msgid "Purple Dancers"
@@ -571,6 +571,8 @@ msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
+"Inkscape lee y guarda un subconjunto del formato SVG (gráficos vectoriales "
+"escalables), un estándar mantenido por el WWW Consortium."
 
 #: ../en/index.html
 msgid ""
@@ -607,11 +609,11 @@ msgstr "Archivos y carpetas"
 
 #: ../en/index.html
 msgid "Installed"
-msgstr ""
+msgstr "Instalado"
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
@@ -670,7 +672,7 @@ msgstr "5.3MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr ""
+msgstr "Tomar el recorrido guiado"
 
 #: ../en/index.html
 msgid "cc"
@@ -686,7 +688,7 @@ msgstr "Ausente"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr ""
+msgstr "Comprobar correo"
 
 #: ../en/index.html
 msgid "Size:"
@@ -698,15 +700,15 @@ msgstr "Borrador"
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "Gratuito"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr ""
+msgstr "Mantenga sincronizados sus marcadores de Firefox y notas de Tomboy"
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
-msgstr ""
+msgstr "LibreOffice Writer facilita la creación de documentos profesionales."
 
 #: ../en/index.html
 msgid "Displays…"
@@ -740,11 +742,11 @@ msgstr "Ver fotos"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
-msgstr ""
+msgstr "Puede subir, organizar, editar y compartir sus fotos con Shotwell."
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "Sand Maze"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
@@ -755,6 +757,8 @@ msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
+"Su colección entera le acompaña con el streaming de música para Android y "
+"iPhone"
 
 #: ../en/index.html
 msgid "to"
@@ -775,19 +779,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr ""
+msgstr "Su navegador no es compatible con «iframes»."
 
 #: ../en/index.html
 msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
 msgstr ""
+"Cause una buena impresión con la intuitiva herramienta de presentaciones "
+"LibreOffice Impress."
 
 #: ../en/index.html
 msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
+"Es rápido y fácil acceder a sus carpetas y archivos desde la carpeta "
+"personal de Ubuntu."
 
 #: ../en/index.html
 msgid "Our star apps"
@@ -798,10 +806,12 @@ msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
 msgstr ""
+"Recuerde, esto solo es una demostración. ¡Descárguelo para disfrutarlo "
+"completamente!"
 
 #: ../en/index.html
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
 #: ../en/index.html
 msgid ""
@@ -824,7 +834,7 @@ msgstr "Destinatario"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr ""
+msgstr "Rápido"
 
 #: ../en/index.html
 msgid "Recent"
@@ -836,7 +846,7 @@ msgstr "Para:"
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
-msgstr ""
+msgstr "Configurar cuenta de difusión…"
 
 #: ../en/index.html
 msgid "Date:"
@@ -893,7 +903,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr ""
+msgstr "Ponga a prueba Ubuntu con nuestra demostración en línea."
 
 #: ../en/index.html
 msgid "Install"
@@ -905,7 +915,7 @@ msgstr "Elementos:"
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr ""
+msgstr "WildWheat"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -957,7 +967,7 @@ msgstr "Biblioteca"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr ""
+msgstr "Unifique sus contactos entre el escritorio, el móvil y la web"
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
@@ -999,11 +1009,11 @@ msgstr "Ocupado"
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr ""
+msgstr "Flores pequeñas"
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr ""
+msgstr "Editar conexiones…"
 
 #: ../en/index.html
 msgid "Printers"
@@ -1011,7 +1021,7 @@ msgstr "Impresoras"
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr ""
+msgstr "Configuración de sonido…"
 
 #: ../en/index.html
 msgid "Search"
@@ -1026,7 +1036,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr ""
+msgstr "Encender Bluetooth"
 
 #: ../en/index.html
 msgid "Write"
@@ -1074,7 +1084,7 @@ msgstr "archivar"
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "Power Of Words"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
@@ -1086,7 +1096,7 @@ msgstr "Carpetas"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr ""
+msgstr "Navegar por la web es fácil y seguro con Ubuntu y Firefox."
 
 #: ../en/index.html
 msgid "Format"
@@ -1094,11 +1104,11 @@ msgstr "Formato"
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr ""
+msgstr "Examinar archivos en el dispositivo…"
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr ""
+msgstr "Correo basura"
 
 #: ../en/index.html
 msgid "1"
@@ -1106,7 +1116,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Computer"
-msgstr ""
+msgstr "Equipo"
 
 #: ../en/index.html
 msgid "What's New"
@@ -1168,7 +1178,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr ""
+msgstr "Apagar Bluetooth"
 
 #: ../en/index.html
 msgid "Installing"
@@ -1196,7 +1206,7 @@ msgstr "Mensajería instantánea Empathy"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
+msgstr "Cree y edite gráficos vectoriales escalables"
 
 #: ../en/index.html
 msgid "Attached Devices"
@@ -1263,11 +1273,11 @@ msgstr "Bandeja de entrada"
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr ""
+msgstr "Sus archivos en cualquier lugar"
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr ""
+msgstr "Manténgase productivo"
 
 #: ../en/index.html
 msgid "Table"
@@ -1289,6 +1299,19 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
 
 #: ../en/index.html
 msgid "Tools"
@@ -1304,4 +1327,4 @@ msgstr "Usted"
 
 #: ../en/index.html
 msgid "Blender"
-msgstr ""
+msgstr "Blender"
