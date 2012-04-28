@@ -9,13 +9,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 22:59+0000\n"
-"Last-Translator: Sergio Zanchetta <primes2h@ubuntu.com>\n"
+"PO-Revision-Date: 2012-04-27 13:54+0000\n"
+"Last-Translator: Claudio Arseni <claudio.arseni@gmail.com>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
+"X-Launchpad-Export-Date: 2012-04-28 05:22+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
@@ -34,6 +34,12 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Ubuntu si carica velocemente su ogni computer, ma è super-veloce sulle "
+"macchine più recenti. Senza programmi non necessari e software di prova a "
+"rallentare, in pochi secondi si puù avviare il sistema e aprire un browser. "
+"Niente a che vedere con altri sistemi operativi che ti fanno aspettare un "
+"bel po' davanti allo schermo prima di poter essere online. Ubunutu non "
+"diventerà più lento in futuro. È veloce, resterà sempre veloce."
 
 #: ../en/index.html
 msgid "no subject"
@@ -114,6 +120,11 @@ msgid ""
 "translated into 38 languages, Ubuntu also includes essential assistive "
 "technologies, which are, of course, completely free."
 msgstr ""
+"L'accessibilità riveste un ruolo centrale nella filosofia di Ubuntu. Noi "
+"crediamo che tutti debbano poter usare il computer, senza limiti per "
+"nazionalità, razza, sesso o disabilità. Tradotto completamente in 38 lingue, "
+"Ubuntu include anche le essenziali tecnologie assistive, che sono, "
+"ovviamente, completamente free."
 
 #: ../en/index.html
 msgid "Download Ubuntu"
@@ -282,7 +293,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "wrote"
-msgstr ""
+msgstr "ha scritto"
 
 #: ../en/index.html
 msgid "Subject"
@@ -465,7 +476,7 @@ msgstr "Client per terminal server"
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr ""
+msgstr "Aspetto"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
@@ -592,6 +603,16 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
+"È possibile navigare in sicurezza con Ubuntu, certi che i propri file e dati "
+"resteranno protetti. Di default è fornito un firewall built-in, nonché la "
+"protezione da virus. Nel caso in cui appaia qualche potenziale minaccia, "
+"forniamo aggiornamenti automatici che è possibile installare con un solo "
+"clic. Maggiore sicurezza è offerta da AppArmor, che protegge le applicazioni "
+"più importanti, in modo che eventuali attacchi non possano accedere al "
+"sistema. Grazie a Firefox e gnome-keyring, Ubuntu mantiene private le "
+"informazioni private. Che si acceda al proprio account bancario o che si "
+"scambino dati sensibili con amici e colleghi, quando serve con Ubuntu è "
+"possibile stare sereni."
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
@@ -666,7 +687,7 @@ msgstr "Prova il tour guidato"
 
 #: ../en/index.html
 msgid "cc"
-msgstr ""
+msgstr "cc"
 
 #: ../en/index.html
 msgid "Pictures"
@@ -698,7 +719,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
-msgstr ""
+msgstr "LibreOffice Writer rende semplice realizzare documenti personali."
 
 #: ../en/index.html
 msgid "Displays…"
@@ -714,7 +735,7 @@ msgstr "Esplora il web"
 
 #: ../en/index.html
 msgid "Local"
-msgstr ""
+msgstr "Locale"
 
 #: ../en/index.html
 msgid ""
@@ -776,6 +797,8 @@ msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
 msgstr ""
+"Fai una buona impressione con l'intuitivo strumento di presentazione "
+"LibreOffice Impress."
 
 #: ../en/index.html
 msgid ""
@@ -826,7 +849,7 @@ msgstr "Veloce"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr ""
+msgstr "Recenti"
 
 #: ../en/index.html
 msgid "To:"
@@ -846,6 +869,10 @@ msgid ""
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
 msgstr ""
+"Apprezza la semplicità dell'interfaccia di Ubuntu, intuitiva e ricca di "
+"stile. Veloce, sicuro e con centinaia di applicazioni tra cui scegliere, "
+"Ubuntu offre una esperienza pulita e raffinata, che è possibile rendere "
+"propria."
 
 #: ../en/index.html
 msgid "Total:"
@@ -880,6 +907,8 @@ msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
+"LibreOffice Calc offre tutto ciò che serve per creare fogli di calcolo "
+"puliti e accurati."
 
 #: ../en/index.html
 msgid ""
@@ -944,6 +973,11 @@ msgid ""
 "installation CDs. No fuss. And it’s compatible with Windows too! So you can "
 "open, edit and share Microsoft Office documents stress-free."
 msgstr ""
+"Ubuntu funziona perfettamente con molti dispositivi. Basta collegare il "
+"proprio lettore di mp3, la fotocamera o la stampante e saranno subito "
+"pronti. Niente CD di installazione. Niente smancerie. Ed è anche compatibile "
+"con Windows! Così è possibile aprire, modificare e condividere documenti "
+"Microsoft Office senza stress."
 
 #: ../en/index.html
 msgid "work"
@@ -970,7 +1004,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr ""
+msgstr "Non indesiderata"
 
 #: ../en/index.html
 msgid "Chromium"
@@ -1093,7 +1127,7 @@ msgstr "Esplora file su dispositivo..."
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr ""
+msgstr "Posta indesiderata"
 
 #: ../en/index.html
 msgid "1"
@@ -1105,7 +1139,7 @@ msgstr "Computer"
 
 #: ../en/index.html
 msgid "What's New"
-msgstr ""
+msgstr "Novità"
 
 #: ../en/index.html
 msgid "App Available for Download"

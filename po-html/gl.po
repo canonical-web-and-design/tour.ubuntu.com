@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 18:00+0000\n"
+"PO-Revision-Date: 2012-04-27 23:16+0000\n"
 "Last-Translator: Fran Diéguez <Unknown>\n"
 "Language-Team: Galician <gl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
+"X-Launchpad-Export-Date: 2012-04-28 05:22+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
@@ -45,7 +45,7 @@ msgstr "sen asunto"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr ""
+msgstr "Descúbrao pola súa conta"
 
 #: ../en/index.html
 msgid "Desktop"
@@ -97,6 +97,9 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
+"BEEP viaxou por centos de anos a través do profundo espazo para explorar a "
+"Galaxia. Atravese os sistemas estelares externos coa nave de BEEP e envíe "
+"robots á superficie dos planetas."
 
 #: ../en/index.html
 msgid ""
@@ -402,7 +405,7 @@ msgstr "Hibernar"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
-msgstr ""
+msgstr "Langelinie Alle"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
@@ -489,7 +492,7 @@ msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr ""
+msgstr "Buck Off"
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
@@ -534,6 +537,8 @@ msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
 msgstr ""
+"Todo o xogo baséase na manipulación do tempo. Viaxe a mundos onde o tempo se "
+"comporta de forma estrana; observer, comprender, e logo dominar estos mundos."
 
 #: ../en/index.html
 msgid "Mount Snowdon"
@@ -571,7 +576,7 @@ msgstr "Vídeos"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Braid"
 
 #: ../en/index.html
 msgid ""
@@ -636,6 +641,10 @@ msgid ""
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
 msgstr ""
+"Use o dispositivo de antigravidade de BEEP para manipular directamente os "
+"contornos baseados en física. O dispositivo de antigravidade é tanto unha "
+"ferramenta como unha arma. Úseo para aniquilar os robots inimigos, construir "
+"torres e solucionar quebracabezas."
 
 #: ../en/index.html
 msgid "Chat"
@@ -712,6 +721,7 @@ msgstr "Libre"
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
 msgstr ""
+"Manteña sincronizados os seus marcadores de Firefox e notas de Tomboy"
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
@@ -757,7 +767,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "Sand Maze"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
@@ -768,6 +778,8 @@ msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
+"A súa colección enteira acompáñao co streaming de música para Android e "
+"iPhone"
 
 #: ../en/index.html
 msgid "to"
@@ -866,6 +878,9 @@ msgid ""
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
 msgstr ""
+"Desfrute da simplicidade da estilada e intuitiva interface de Ubuntu. "
+"Rápido, seguro e con centos de aplicativos onde elixir, Ubuntu fornécelle "
+"unha experiencia limpa de directa que pode modificar para facela súa."
 
 #: ../en/index.html
 msgid "Total:"
@@ -914,7 +929,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr ""
+msgstr "Poña a proba Ubuntu coa nosa demostración en liña."
 
 #: ../en/index.html
 msgid "Install"
@@ -967,6 +982,11 @@ msgid ""
 "installation CDs. No fuss. And it’s compatible with Windows too! So you can "
 "open, edit and share Microsoft Office documents stress-free."
 msgstr ""
+"Ubuntu funciona perfectamente con moitos dispositivos. Simplemente conecte o "
+"seu reprodutor MP3, cámara ou impresora e estará listo para empregalo. Sen "
+"CDs de instalación. Sen molestias. E é compatíbel con Windows tamén! Polo "
+"que pode abrir, editar e compartir documentos de Microsoft Office sen "
+"problemas."
 
 #: ../en/index.html
 msgid "work"
@@ -1044,6 +1064,9 @@ msgid ""
 "delicious. The most addicting and awe-inspiring puzzle game will set you on "
 "an adventure that youll never forget!"
 msgstr ""
+"Pero eles non saben que están nun xogo, ou que eles son extremadamente "
+"deliciosos. O xogo de quebracabezas máis aditivo e impresionante colocarálle "
+"nunha aventura que nunca esquecerá!"
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
@@ -1095,7 +1118,7 @@ msgstr "arquivo"
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "Power Of Words"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
@@ -1247,6 +1270,9 @@ msgid ""
 "painterly style where you manipulate the flow of time to solve puzzles. "
 "Every puzzle in Braid is unique; there is no filler."
 msgstr ""
+"Manipular o fluxo de tempo para resolver quebracabezas Braid é un xogo de "
+"plataforma no estilo de pintura na que manipula o fluxo do tempo para "
+"resolver enigmas. Cada puzzle en Braid é único, non hai recheo."
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
@@ -1317,6 +1343,19 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
 
 #: ../en/index.html
 msgid "Tools"

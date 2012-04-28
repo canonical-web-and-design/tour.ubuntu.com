@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 13:24+0000\n"
-"Last-Translator: Aleksey Kabanov <Unknown>\n"
+"PO-Revision-Date: 2012-04-28 05:22+0000\n"
+"Last-Translator: Igor Zubarev <igor.zubarev@gmail.com>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
+"X-Launchpad-Export-Date: 2012-04-28 05:22+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-Language: Russian\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -47,7 +49,7 @@ msgstr "без темы"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr "Покажите себя"
+msgstr "Самостоятельный обзор"
 
 #: ../en/index.html
 msgid "Desktop"
@@ -71,15 +73,15 @@ msgstr "Наука и проектирование"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr "Найти приложения"
+msgstr "Находите приложения"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr "Не одиноки"
+msgstr "Цветы"
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Кленовый сон"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
@@ -152,7 +154,7 @@ msgstr "Игра головоломка основанная на законах
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
-msgstr "Просмотрщик удалённых рабочих столов"
+msgstr "Просмотр удалённых рабочих столов"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
@@ -176,12 +178,12 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr "Исследуйте Всемирную паутину"
+msgstr "Исследуйте Интернет"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
 msgstr ""
-"Двухмерный платформер/стрелялка с головоломками основанными на физике"
+"Двухмерный платформер/стрелялка с головоломками, основанными на физике"
 
 #: ../en/index.html
 msgid "Graphics"
@@ -197,7 +199,7 @@ msgstr "Лучшие оценки"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr "Совместим"
+msgstr "Совместимый"
 
 #: ../en/index.html
 msgid "Dash home"
@@ -205,11 +207,11 @@ msgstr "Главное меню"
 
 #: ../en/index.html
 msgid "From"
-msgstr "Из"
+msgstr "От"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr "Получить почту"
+msgstr "Получить"
 
 #: ../en/index.html
 msgid "Auto eth0"
@@ -217,7 +219,7 @@ msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr ""
+msgstr "Недавние файлы"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -225,7 +227,7 @@ msgstr "Отправить файлы на устройство…"
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr "Создавать документы"
+msgstr "Создавайте документы"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
@@ -237,7 +239,7 @@ msgstr "Безопасный"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr "Этот пакет содержит браузер Chromium."
+msgstr "Пакет содержит браузер Chromium."
 
 #: ../en/index.html
 msgid "$9.99"
@@ -265,7 +267,7 @@ msgstr "Стандартные"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr ""
+msgstr "Создавайте таблицы"
 
 #: ../en/index.html
 msgid "Bluetooth"
@@ -273,7 +275,7 @@ msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr "Выключить"
+msgstr "Выключение"
 
 #: ../en/index.html
 msgid "Music"
@@ -323,7 +325,7 @@ msgstr "Параметры"
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr ""
+msgstr "Просматривайте файлы"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
@@ -331,7 +333,7 @@ msgstr "Посмотрите на приложения, выбранные на�
 
 #: ../en/index.html
 msgid "junk"
-msgstr ""
+msgstr "Спам"
 
 #: ../en/index.html
 msgid "Send"
@@ -351,7 +353,7 @@ msgstr "Редактор векторной графики Inkscape"
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr "Создавать презентации"
+msgstr "Создавайте презентации"
 
 #: ../en/index.html
 msgid "Original Message"
@@ -385,11 +387,11 @@ msgstr "Электронная почта"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr "Отправлено"
+msgstr "Отправленные"
 
 #: ../en/index.html
 msgid "subject"
-msgstr "тема"
+msgstr "Тема"
 
 #: ../en/index.html
 msgid "Available"
@@ -401,7 +403,7 @@ msgstr "Все папки"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr "Пятница 26 Октября, 2001"
+msgstr "Пятница, 26 Октября 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
@@ -417,11 +419,11 @@ msgstr "Ваш Ubuntu, ваш путь"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr "Настройки времени и даты…"
+msgstr "Параметры времени и даты…"
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr ""
+msgstr "Недавно использовавшиеся"
 
 #: ../en/index.html
 msgid "Cancel"
@@ -441,7 +443,7 @@ msgstr "3.3МБ"
 
 #: ../en/index.html
 msgid "reply"
-msgstr "ответить"
+msgstr "Ответить"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
@@ -465,13 +467,16 @@ msgstr "Станция Dybbølsbro"
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr "Завершить сеанс…"
+msgstr "Завершение сеанса…"
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
+"Другие расширения используют пакеты ruby, libxml-xql-perl, python-numpy, и "
+"python-lxml. Для полноценного использования расширений и эффектов вы должны "
+"установить эти пакеты."
 
 #: ../en/index.html
 msgid "Fwd"
@@ -479,7 +484,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr ""
+msgstr "Клиент Терминального сервера"
 
 #: ../en/index.html
 msgid "Appearance"
@@ -503,11 +508,11 @@ msgstr "Параметры системы..."
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr "Автозапуск программ…"
+msgstr "Запуск приложений…"
 
 #: ../en/index.html
 msgid "Remove"
-msgstr ""
+msgstr "Удалить"
 
 #: ../en/index.html
 msgid ""
@@ -517,7 +522,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "Английский"
 
 #: ../en/index.html
 msgid "Purple Dancers"
@@ -525,7 +530,7 @@ msgstr "Пурпурные танцоры"
 
 #: ../en/index.html
 msgid "from"
-msgstr ""
+msgstr "От"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -543,11 +548,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Songs"
-msgstr ""
+msgstr "Композиции"
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr ""
+msgstr "Доступный"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
@@ -557,15 +562,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Title:"
-msgstr ""
+msgstr "Тема:"
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr ""
+msgstr "Настроить новое устройство…"
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
-msgstr ""
+msgstr "Введение в Ubuntu"
 
 #: ../en/index.html
 msgid "Videos"
@@ -580,16 +585,21 @@ msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
+"Inkscape загружает и сохраняет файлы формата SVG (Scalable Vector Graphics — "
+"Масштабируемая Векторная Графика), стандарта, разработанного WWW- "
+"консорциумом."
 
 #: ../en/index.html
 msgid ""
 "Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
 "download it to enjoy the real thing!"
 msgstr ""
+"Спасибо за ознакомление с Ubuntu! Помните: это всего лишь демонстрация. "
+"Чтобы насладиться работой в настоящей операционной системе, нужно скачать её!"
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr ""
+msgstr "Непрочитанных:"
 
 #: ../en/index.html
 msgid "Banshee Media Player"
@@ -607,6 +617,16 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
+"В Ubuntu вы можете безопасно путешествовать по Интернету и быть уверенным, "
+"что ваши файлы и данные остаются защищёнными. Встроенный межсетевой экран и "
+"защита от вирусов являются стандартом. А если появляется потенциальная "
+"угроза, мы предоставляем автоматические обновления, которые можно установить "
+"одним щелчком мыши. AppArmor обеспечивает дополнительную безопасность, "
+"защищая важные приложения, чтобы атакующие не могли получить доступ к вашей "
+"системе. И, благодаря Firefox и gnome-keyring, Ubuntu помогает вам хранить "
+"свою личную информацию в секрете. Таким образом, при доступе к своему "
+"банковскому счёту или обмене секретными данными с друзьями или коллегами вы "
+"можете не беспокоиться о безопасности."
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
@@ -614,7 +634,7 @@ msgstr "Файлы и папки"
 
 #: ../en/index.html
 msgid "Installed"
-msgstr ""
+msgstr "Установлено"
 
 #: ../en/index.html
 msgid "BEEP"
@@ -622,7 +642,7 @@ msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
-msgstr ""
+msgstr "Видимый"
 
 #: ../en/index.html
 msgid "Learn More"
@@ -645,11 +665,11 @@ msgstr "Чат"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr ""
+msgstr "Архив"
 
 #: ../en/index.html
 msgid "Recent Apps"
-msgstr ""
+msgstr "Недавние приложения"
 
 #: ../en/index.html
 msgid "Home"
@@ -661,11 +681,11 @@ msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr "Инструменты разработчика"
+msgstr "Средства разработки"
 
 #: ../en/index.html
 msgid "or"
-msgstr ""
+msgstr "или"
 
 #: ../en/index.html
 msgid "Inkscape"
@@ -681,7 +701,7 @@ msgstr "5.3МБ"
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr ""
+msgstr "Экскурсия с гидом"
 
 #: ../en/index.html
 msgid "cc"
@@ -697,15 +717,15 @@ msgstr "Отошёл"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr ""
+msgstr "Проверка почты"
 
 #: ../en/index.html
 msgid "Size:"
-msgstr ""
+msgstr "Размер:"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr ""
+msgstr "Черновики"
 
 #: ../en/index.html
 msgid "Free"
@@ -718,18 +738,19 @@ msgstr ""
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
+"LibreOffice Writer упрощает подготовку профессионально выглядящих документов."
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr "Настройка экранов…"
+msgstr "Мониторы…"
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr "Нет обновлений программ"
+msgstr "Нет доступных обновлений"
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr ""
+msgstr "Пользуйтесь интернетом"
 
 #: ../en/index.html
 msgid "Local"
@@ -740,6 +761,8 @@ msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
+"Для работы функции проверки правописания установите пакет aspell и словарь "
+"для своего языка, например aspell-en, aspell-ru, aspell-uk."
 
 #: ../en/index.html
 msgid "World of Goo"
@@ -747,11 +770,13 @@ msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
-msgstr ""
+msgstr "Просмотр фотографий"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
+"Выгружайте на сайты, упорядочивайте, редактируйте и обменивайтесь "
+"фотографиями в Shotwell."
 
 #: ../en/index.html
 msgid "Sand Maze"
@@ -771,7 +796,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "to"
-msgstr ""
+msgstr "Кому"
 
 #: ../en/index.html
 msgid ""
@@ -785,6 +810,15 @@ msgid ""
 "of a standalone binary and/or a web plug-in are common products of Blender "
 "use."
 msgstr ""
+"Blender - это комплекс 3D моделирования, анимации, рендеринга, пост-"
+"обработки, интерактивного создания и воспроизведения (игры). Blender имеет "
+"свой, необычный интерфейс, полностью реализованный на OpenGL, при его "
+"создании делался упор на скорость. Возможна автоматизация работы программы с "
+"помощью сценариев на Python. В частности, в виде сценариев реализованы "
+"импорт и экспорт в популярные форматы файлов, типа 3D Studio и Wavefront "
+"Obj. С помощью пакета создаются статические картинки, анимация, модели для "
+"игр, а также интерактивное информационное наполнение в виде самостоятельных "
+"программ и веб-модулей."
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
@@ -795,6 +829,8 @@ msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
 msgstr ""
+"Произведите хорошее впечатление с помощью инструмента подготовки презентаций "
+"LibreOffice Impress."
 
 #: ../en/index.html
 msgid ""
@@ -818,7 +854,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 #: ../en/index.html
 msgid ""
@@ -837,19 +873,19 @@ msgstr "Программа для звукозаписи"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr ""
+msgstr "Получатель"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr ""
+msgstr "Быстрый"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr ""
+msgstr "Недавние"
 
 #: ../en/index.html
 msgid "To:"
-msgstr ""
+msgstr "Кому:"
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
@@ -857,7 +893,7 @@ msgstr "Настроить трансляцию…"
 
 #: ../en/index.html
 msgid "Date:"
-msgstr ""
+msgstr "Дата:"
 
 #: ../en/index.html
 msgid ""
@@ -868,7 +904,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Total:"
-msgstr ""
+msgstr "Всего:"
 
 #: ../en/index.html
 msgid "Additional Drivers"
@@ -892,7 +928,7 @@ msgstr "Системные"
 
 #: ../en/index.html
 msgid "forward"
-msgstr ""
+msgstr "Переслать"
 
 #: ../en/index.html
 msgid ""
@@ -905,6 +941,9 @@ msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
+"Некоторые дополнительные возможности импорта и экспорта обеспечиваются с "
+"помощью пакетов dia, libwmf-bin, pstoedit, skencil, imagemagick, и "
+"perlmagick."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
@@ -912,11 +951,11 @@ msgstr "Опробуйте Ubuntu с помощью нашей онлайн-де
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "Установить"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr ""
+msgstr "Элементы:"
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -924,7 +963,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
+msgstr "Тема:"
 
 #: ../en/index.html
 msgid "Backup"
@@ -936,7 +975,7 @@ msgstr "История"
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16 фотографий"
 
 #: ../en/index.html
 msgid "Home Folder"
@@ -973,7 +1012,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Library"
-msgstr ""
+msgstr "Библиотека"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
@@ -990,10 +1029,13 @@ msgid ""
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
 msgstr ""
+"Chromium используется в качестве основы для Google Chrome, который является "
+"результатом ребрендинга Chromium (изменены название и логотип) с небольшими "
+"дополнениями, такими как отслеживание использования и автообновление."
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr ""
+msgstr "Не спам"
 
 #: ../en/index.html
 msgid "Chromium"
@@ -1005,11 +1047,11 @@ msgstr "Без имени 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "delete"
-msgstr ""
+msgstr "Удалить"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr ""
+msgstr "Почтовый клиент Thunderbird"
 
 #: ../en/index.html
 msgid "Busy"
@@ -1033,7 +1075,7 @@ msgstr "Параметры звука…"
 
 #: ../en/index.html
 msgid "Search"
-msgstr ""
+msgstr "Поиск"
 
 #: ../en/index.html
 msgid ""
@@ -1044,23 +1086,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr ""
+msgstr "Включить Bluetooth"
 
 #: ../en/index.html
 msgid "Write"
-msgstr ""
+msgstr "Создать"
 
 #: ../en/index.html
 msgid "Attach"
-msgstr ""
+msgstr "Вложить"
 
 #: ../en/index.html
 msgid "Window"
-msgstr ""
+msgstr "Окно"
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr ""
+msgstr "Создание сообщения: (без темы)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1077,6 +1119,11 @@ msgid ""
 "gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
 "across 6 unique environments."
 msgstr ""
+"BEEP — двумерная игра-платформер с боковой прокруткой, основанная на законах "
+"физики. Вы управляете небольшим роботом, оснащённым антигравитационным "
+"устройством, реактивным двигателем и пушкой. Ездите, прыгайте, летайте, "
+"плавайте и стреляйте, чтобы пройти через 24 уровня, разбросанные по 6 "
+"уникальным мирам."
 
 #: ../en/index.html
 msgid "Offline"
@@ -1084,11 +1131,11 @@ msgstr "Не в сети"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr ""
+msgstr "Удалённые"
 
 #: ../en/index.html
 msgid "archive"
-msgstr ""
+msgstr "Архивировать"
 
 #: ../en/index.html
 msgid "Power Of Words"
@@ -1100,15 +1147,15 @@ msgstr "Менеджер фотографий Shotwell"
 
 #: ../en/index.html
 msgid "Folders"
-msgstr ""
+msgstr "Папки"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr ""
+msgstr "Путешествовать по Интернету с Ubuntu и Firefox быстро и просто."
 
 #: ../en/index.html
 msgid "Format"
-msgstr ""
+msgstr "Формат"
 
 #: ../en/index.html
 msgid "Browse files on device…"
@@ -1116,11 +1163,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr ""
+msgstr "Спам"
 
 #: ../en/index.html
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../en/index.html
 msgid "Computer"
@@ -1132,11 +1179,11 @@ msgstr "Что нового"
 
 #: ../en/index.html
 msgid "App Available for Download"
-msgstr ""
+msgstr "Доступные для загрузки"
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr ""
+msgstr "Видеопроигрыватель"
 
 #: ../en/index.html
 msgid "Invisible"
@@ -1144,13 +1191,16 @@ msgstr "Невидимый"
 
 #: ../en/index.html
 msgid "Albums"
-msgstr ""
+msgstr "Альбомы"
 
 #: ../en/index.html
 msgid ""
 "Inkscape supports multiple opened files and multiple views per file. "
 "Graphics can be printed and exported to png bitmaps."
 msgstr ""
+"Inkscape поддерживает возможность открытия нескольких файлов и многократное "
+"открытие одного файла. Графику можно распечатывать и экспортировать в png-"
+"файлы."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1158,11 +1208,11 @@ msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
-msgstr ""
+msgstr "От:"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr ""
+msgstr "Вставка"
 
 #: ../en/index.html
 msgid "Shut Down…"
@@ -1190,7 +1240,7 @@ msgstr "Выключить Bluetooth"
 
 #: ../en/index.html
 msgid "Installing"
-msgstr ""
+msgstr "Устанавливается"
 
 #: ../en/index.html
 msgid "back to the site"
@@ -1206,7 +1256,7 @@ msgstr "Игры"
 
 #: ../en/index.html
 msgid "Visolate"
-msgstr ""
+msgstr "Visolate"
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
@@ -1255,6 +1305,11 @@ msgid ""
 "and freehand curves. As an added bonus, both vector and bitmap objects can "
 "have alpha transparency and can be arbitrarily transformed."
 msgstr ""
+"Пользовательский интерфейс Inkscape близок к CorelDraw и другим аналогам. "
+"Есть возможность рисовать прямоугольники, эллипсы, текстовые вставки, "
+"растровые рисунки и кривые произвольной формы. Отметим, что векторные и "
+"растровые объекты могут иметь альфа-прозрачность и к ним могут быть "
+"применены различные преобразования."
 
 #: ../en/index.html
 msgid "Unmute"
@@ -1278,7 +1333,7 @@ msgstr "3D-моделирование, анимация, рендеринг и �
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr ""
+msgstr "Входящие"
 
 #: ../en/index.html
 msgid "Files Anywhere"
@@ -1290,7 +1345,7 @@ msgstr "Не отрывайтесь от дел"
 
 #: ../en/index.html
 msgid "Table"
-msgstr ""
+msgstr "Таблица"
 
 #: ../en/index.html
 msgid ""
@@ -1324,7 +1379,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Tools"
-msgstr ""
+msgstr "Инструменты"
 
 #: ../en/index.html
 msgid "Downloads"
@@ -1332,7 +1387,7 @@ msgstr "Загрузки"
 
 #: ../en/index.html
 msgid "You"
-msgstr ""
+msgstr "Вы"
 
 #: ../en/index.html
 msgid "Blender"
