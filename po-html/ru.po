@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-28 05:22+0000\n"
+"PO-Revision-Date: 2012-04-28 20:53+0000\n"
 "Last-Translator: Igor Zubarev <igor.zubarev@gmail.com>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-28 05:22+0000\n"
+"X-Launchpad-Export-Date: 2012-04-29 05:24+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-Language: Russian\n"
@@ -85,11 +85,11 @@ msgstr "Кленовый сон"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr ""
+msgstr "Управляйте течением времени, чтобы решить головоломки"
 
 #: ../en/index.html
 msgid "中文"
-msgstr ""
+msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
@@ -146,7 +146,7 @@ msgstr "Приложения"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr "Среда 14 Октября, 2010"
+msgstr "Среда, 14 Октября 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
@@ -174,7 +174,7 @@ msgstr "PCB CNC конвертер"
 
 #: ../en/index.html
 msgid "On"
-msgstr ""
+msgstr "Включить"
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -447,7 +447,7 @@ msgstr "Ответить"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr ""
+msgstr "Настройка почты..."
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
@@ -474,13 +474,12 @@ msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
-"Другие расширения используют пакеты ruby, libxml-xql-perl, python-numpy, и "
-"python-lxml. Для полноценного использования расширений и эффектов вы должны "
-"установить эти пакеты."
+"Другие расширения используют ruby, libxml-xql-perl, python-numpy и python- "
+"lxml. Для получения полной функциональности нужно установить эти пакеты."
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr ""
+msgstr "Переслать"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
@@ -488,7 +487,7 @@ msgstr "Клиент Терминального сервера"
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr "Оформление"
+msgstr "Внешний вид"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
@@ -496,11 +495,11 @@ msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr ""
+msgstr "Buck Off"
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Оцелот преследует добычу"
 
 #: ../en/index.html
 msgid "System Settings…"
@@ -519,6 +518,8 @@ msgid ""
 "Braid treats your time and attention as precious, and it does everything it "
 "can to give you a mind-expanding experience."
 msgstr ""
+"Braid ценит ваше время и внимание, и делает все возможное, чтобы дать вам "
+"опыт расширяющий разум."
 
 #: ../en/index.html
 msgid "English"
@@ -541,10 +542,13 @@ msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
 msgstr ""
+"Весь ход игры основан на управлении временем. Путешествуйте в миры, где "
+"время ведёт себя странно; наблюдайте, учитесь, а затем управляйте этими "
+"мирами."
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr ""
+msgstr "Mount Snowdon"
 
 #: ../en/index.html
 msgid "Songs"
@@ -665,7 +669,7 @@ msgstr "Чат"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr "Архив"
+msgstr "Архивировать"
 
 #: ../en/index.html
 msgid "Recent Apps"
@@ -705,7 +709,7 @@ msgstr "Экскурсия с гидом"
 
 #: ../en/index.html
 msgid "cc"
-msgstr ""
+msgstr "Копия"
 
 #: ../en/index.html
 msgid "Pictures"
@@ -717,7 +721,7 @@ msgstr "Отошёл"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr "Проверка почты"
+msgstr "Проверяйте почту"
 
 #: ../en/index.html
 msgid "Size:"
@@ -733,7 +737,7 @@ msgstr "Бесплатно"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr ""
+msgstr "Синхронизируйте ваши закладки Firefox и заметки Tomboy"
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
@@ -750,7 +754,7 @@ msgstr "Нет доступных обновлений"
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr "Пользуйтесь интернетом"
+msgstr "Исследуйте интернет"
 
 #: ../en/index.html
 msgid "Local"
@@ -770,17 +774,17 @@ msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
-msgstr "Просмотр фотографий"
+msgstr "Просматривайте фотографии"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
-"Выгружайте на сайты, упорядочивайте, редактируйте и обменивайтесь "
+"Загружайте на сайты, упорядочивайте, редактируйте и обменивайтесь "
 "фотографиями в Shotwell."
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "Sand Maze"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
@@ -822,7 +826,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr ""
+msgstr "Ваш браузер не поддерживает iframes."
 
 #: ../en/index.html
 msgid ""
@@ -862,6 +866,10 @@ msgid ""
 "bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
 "goo balls that live in the beautiful World of Goo are curious to explore."
 msgstr ""
+"Перетаскивайте живые, извивающиеся, говорящие липкие шарики, чтобы создать "
+"из них структуры, мосты, пушечные ядра, дирижабли и гигантские языки. "
+"Миллионы наивных шариков, живущих в красивом мире Goo горят желанием его "
+"исследовать."
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
@@ -869,11 +877,11 @@ msgstr "Веб-браузер Chromium"
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr "Программа для звукозаписи"
+msgstr "Звукозапись"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr "Получатель"
+msgstr "Адресат"
 
 #: ../en/index.html
 msgid "Fast"
@@ -901,6 +909,9 @@ msgid ""
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
 msgstr ""
+"Наслаждайтесь простотой стильного и интуитивного интерфейса Ubuntu. Быстрый, "
+"безопасный и предоставляющий тысячи приложений на выбор, Ubuntu предлагает "
+"вам чистый и рационализированный опыт который может стать вашим."
 
 #: ../en/index.html
 msgid "Total:"
@@ -908,7 +919,7 @@ msgstr "Всего:"
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr "Дополнительные драйверы"
+msgstr "Драйверы устройств"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
@@ -935,19 +946,21 @@ msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
+"В LibreOffice Calc есть всё для создания привлекательных и точных "
+"электронных таблиц."
 
 #: ../en/index.html
 msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
-"Некоторые дополнительные возможности импорта и экспорта обеспечиваются с "
-"помощью пакетов dia, libwmf-bin, pstoedit, skencil, imagemagick, и "
+"Некоторые возможности импорта и экспорта реализованы посредством "
+"использования пакетов dia, libwmf-bin, pstoedit, skencil, imagemagick и "
 "perlmagick."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr "Опробуйте Ubuntu с помощью нашей онлайн-демонстрации."
+msgstr "Попробуйте Ubuntu с помощью нашей онлайн-демонстрации."
 
 #: ../en/index.html
 msgid "Install"
@@ -959,7 +972,7 @@ msgstr "Элементы:"
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr ""
+msgstr "WildWheat"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -967,7 +980,7 @@ msgstr "Тема:"
 
 #: ../en/index.html
 msgid "Backup"
-msgstr "Резервная копия"
+msgstr "Резервное копирование"
 
 #: ../en/index.html
 msgid "History"
@@ -983,11 +996,11 @@ msgstr "Домашняя папка"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
-msgstr "Добро пожаловать в онлайн-тур по Ubuntu!"
+msgstr "Приветствуем в онлайн-туре по Ubuntu!"
 
 #: ../en/index.html
 msgid "Office"
-msgstr "Офис"
+msgstr "Офисные"
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
@@ -1001,14 +1014,14 @@ msgid ""
 "open, edit and share Microsoft Office documents stress-free."
 msgstr ""
 "Ubuntu отлично работает со многими устройствами. Просто подключите ваш mp3-"
-"плеер, камеру или принтер, и они начнут работать. Никаких инсталляционных "
-"CD. Никакой суеты. И она обеспечивает совместимость с Windows! Так что вы "
-"можете без проблем открывать, редактировать документами Microsoft Office и "
-"обмениваться с другими пользователями."
+"плеер, камеру или принтер, и они начнут работать. Никаких установочных CD. "
+"Никакой суеты. И еще она совместима с Windows! Так что вы можете без проблем "
+"открывать, редактировать документы Microsoft Office и обмениваться ими с "
+"другими пользователями."
 
 #: ../en/index.html
 msgid "work"
-msgstr ""
+msgstr "работа"
 
 #: ../en/index.html
 msgid "Library"
@@ -1051,7 +1064,7 @@ msgstr "Удалить"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr "Почтовый клиент Thunderbird"
+msgstr "Почта и новости Thunderbird"
 
 #: ../en/index.html
 msgid "Busy"
@@ -1059,7 +1072,7 @@ msgstr "Занят"
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr ""
+msgstr "Small Flowers"
 
 #: ../en/index.html
 msgid "Edit Connections…"
@@ -1083,6 +1096,9 @@ msgid ""
 "delicious. The most addicting and awe-inspiring puzzle game will set you on "
 "an adventure that youll never forget!"
 msgstr ""
+"Но они не знают, что участвуют в игре, и что они очень забавны. Эта "
+"увлекательная и впечатляющая головоломка обеспечит вам приключение, которое "
+"вы никогда не забудете!"
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
@@ -1139,7 +1155,7 @@ msgstr "Архивировать"
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "Power Of Words"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
@@ -1159,7 +1175,7 @@ msgstr "Формат"
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr ""
+msgstr "Просмотреть файлы на устройстве..."
 
 #: ../en/index.html
 msgid "Junk Mail"
@@ -1232,7 +1248,7 @@ msgstr "Правка"
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr ""
+msgstr "Bluetooth: включен"
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
@@ -1281,7 +1297,7 @@ msgstr "Ждущий режим"
 
 #: ../en/index.html
 msgid "branches"
-msgstr ""
+msgstr "ветви"
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
@@ -1293,10 +1309,13 @@ msgid ""
 "painterly style where you manipulate the flow of time to solve puzzles. "
 "Every puzzle in Braid is unique; there is no filler."
 msgstr ""
+"Braid — игра-платформер с графикой в стиле живописи, в которой вы управляете "
+"течением времени, решая головоломки. Каждая головоломка в Braid уникальна, "
+"здесь нет повторений."
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr "Понедельник 11 Октября, 2010"
+msgstr "Понедельник, 11 Октября 2010"
 
 #: ../en/index.html
 msgid ""
@@ -1325,11 +1344,11 @@ msgstr "Аудио и видео"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr ""
+msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr "3D-моделирование, анимация, рендеринг и компоновка"
+msgstr "Создание, редактирование 3D-моделей и анимации"
 
 #: ../en/index.html
 msgid "Inbox"
