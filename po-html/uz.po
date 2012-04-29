@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-28 05:22+0000\n"
+"PO-Revision-Date: 2012-04-28 12:37+0000\n"
 "Last-Translator: Akmal Xushvaqov <akmalxster@gmail.com>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-28 05:22+0000\n"
+"X-Launchpad-Export-Date: 2012-04-29 05:24+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
@@ -33,6 +33,11 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Ubuntu ҳар қандай компьютерда тез ишлайди, аммо янгироқ компьютерларда ўта "
+"тез ишлайди. Ишни секинлатувчи кераксиз ва вақтинчалик синов дастурлари "
+"браузерни очиш ва юклашда сониялар олади. Бошқа операцион тизимларга ўхшаб, "
+"сизни экранга қаратиб қўйиб, ўзи онлайн бўлишни кутиб ўтирмайди. Ubuntu "
+"вақтингизни бекорга кеткизмайди. У жуда тез ва шундай бўлиб қолади."
 
 #: ../en/index.html
 msgid "no subject"
@@ -92,6 +97,9 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
+"BEEP минг йиллар олдин чексиз фазога галактикани ўрганиш учун саёҳатга чиқиб "
+"кетган. BEEP кемаси билан бошқа юлдуз тизимларини тадқиқ қилинг ва "
+"роботларни планеталарни ўрганишга жўнатинг."
 
 #: ../en/index.html
 msgid ""
@@ -348,7 +356,7 @@ msgstr "Оригинал хабар"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "AisleRoit Solitaire"
 
 #: ../en/index.html
 msgid "Rock Out"
@@ -397,7 +405,7 @@ msgstr "Уйқуга кетиш"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
-msgstr ""
+msgstr "Langelinie Alle"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
@@ -460,6 +468,9 @@ msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
+"Бошқа кенгайтмалар ruby, libxml-xql-perl, python-numpy ва python-lxml "
+"пакетларидан фойдаланади. Барча кенгайтмалар ва эффектлардан тўлиқ "
+"фойдаланиш учун ушбу пакетларни ўрнатишингиз керак."
 
 #: ../en/index.html
 msgid "Fwd"
@@ -479,7 +490,7 @@ msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr ""
+msgstr "Buck Off"
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
@@ -502,6 +513,8 @@ msgid ""
 "Braid treats your time and attention as precious, and it does everything it "
 "can to give you a mind-expanding experience."
 msgstr ""
+"Braid вақтингиз ва эътиборингизнинг қийматини оширади. Миянгизни "
+"ривожлантириш учун барча имкониятларни беради."
 
 #: ../en/index.html
 msgid "English"
@@ -561,13 +574,16 @@ msgstr "Видеолар"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Braid"
 
 #: ../en/index.html
 msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
+"Inkscape WWW консортциуми томонидан асос солинган стандарт SVG (Scalable "
+"Vector Graphics - катталаштириладиган вектор график) форматларни юклайди ва "
+"сақлайди ."
 
 #: ../en/index.html
 msgid ""
@@ -976,7 +992,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr ""
+msgstr "Спам эмас"
 
 #: ../en/index.html
 msgid "Chromium"
@@ -1099,7 +1115,7 @@ msgstr "Ускунадаги файлларни кўриш..."
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr ""
+msgstr "Спам хат"
 
 #: ../en/index.html
 msgid "1"
@@ -1189,7 +1205,7 @@ msgstr "Ўйинлар"
 
 #: ../en/index.html
 msgid "Visolate"
-msgstr ""
+msgstr "Visolate"
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
@@ -1198,6 +1214,7 @@ msgstr "Empathy  - интернетда суҳбатлашиш дастури"
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
 msgstr ""
+"\"Scalable Vector Graphics\" форматдаги расмларни яратиш ва таҳрирлаш"
 
 #: ../en/index.html
 msgid "Attached Devices"
@@ -1213,7 +1230,7 @@ msgstr "Кутиш усули"
 
 #: ../en/index.html
 msgid "branches"
-msgstr ""
+msgstr "алоҳида"
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
@@ -1244,7 +1261,7 @@ msgstr "Товушни ёқиш"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr ""
+msgstr "Чиқиндилар қутиси"
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
@@ -1252,7 +1269,7 @@ msgstr "Товуш ва видео"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr ""
+msgstr "Яшил ўтлар"
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
@@ -1268,7 +1285,7 @@ msgstr "Ҳар ердаги файллар"
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr ""
+msgstr "Ишдан бош тортманг"
 
 #: ../en/index.html
 msgid "Table"
@@ -1297,12 +1314,12 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr ""
+msgstr "Юклаб олинганлар"
 
 #: ../en/index.html
 msgid "You"
-msgstr ""
+msgstr "Сиз"
 
 #: ../en/index.html
 msgid "Blender"
-msgstr ""
+msgstr "Blender"

@@ -8,22 +8,22 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-25 17:01+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-04-28 11:46+0000\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <id@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-26 05:19+0000\n"
+"X-Launchpad-Export-Date: 2012-04-29 05:24+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "Firefox Peramban Web"
 
 #: ../en/index.html
 msgid "Lock Screen"
-msgstr ""
+msgstr "Kunci Layar"
 
 #: ../en/index.html
 msgid ""
@@ -33,10 +33,16 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Ubuntu dimuat dengan cepat pada sebarang komputer, tapi dia sangat cepat "
+"pada mesin-mesin lebih baru. Tanpa program-program yang tak perlu dan "
+"perangkat lunak percobaan yang memperlambat, boot dan membuka suatu peramban "
+"makan waktu beberapa detik. Tak seperti sistem operasi lain yang membiarkan "
+"Anda menatap layar, menunggu sampai daring. Dan Ubuntu tak akan menjadi "
+"semakin lambat dengan berjalannya waktu. Dia cepat. Dan dia tetap cepat."
 
 #: ../en/index.html
 msgid "no subject"
-msgstr ""
+msgstr "tanpa subjek"
 
 #: ../en/index.html
 msgid "Show yourself around"
@@ -44,35 +50,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
-msgstr ""
+msgstr "Terima kasih telah mengeksplorasi Ubuntu!"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr ""
+msgstr "PiTiVi Penyunting Video"
 
 #: ../en/index.html
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #: ../en/index.html
 msgid "Science &amp; Engineering"
-msgstr ""
+msgstr "Sains &amp; Rekayasa"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr ""
+msgstr "Cari aplikasi"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr ""
+msgstr "Tak Sendiri"
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Momiji Dream"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
@@ -80,11 +86,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "中文"
-msgstr ""
+msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
-msgstr ""
+msgstr "Tentang Saya"
 
 #: ../en/index.html
 msgid ""
@@ -104,7 +110,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One"
-msgstr ""
+msgstr "Ubuntu One"
 
 #: ../en/index.html
 msgid ""
@@ -116,19 +122,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr ""
+msgstr "Unduh Ubuntu"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr ""
+msgstr "Gabung sekarang"
 
 #: ../en/index.html
 msgid "Applications"
-msgstr ""
+msgstr "Aplikasi"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr ""
+msgstr "Rabu 14 Oktober, 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
@@ -140,7 +146,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr ""
+msgstr "Gwibber Klien Sosial"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -148,7 +154,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr ""
+msgstr "15,2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
@@ -160,7 +166,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr ""
+msgstr "Jelajahi internet"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -168,7 +174,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr ""
+msgstr "Grafik"
 
 #: ../en/index.html
 msgid "Keep Connected"
@@ -176,11 +182,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Top Rated"
-msgstr ""
+msgstr "Dinilai Tertinggi"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr ""
+msgstr "Kompatibel"
 
 #: ../en/index.html
 msgid "Dash home"
@@ -188,11 +194,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "From"
-msgstr ""
+msgstr "Dari"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr ""
+msgstr "Ambil Surel"
 
 #: ../en/index.html
 msgid "Auto eth0"
@@ -200,15 +206,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr ""
+msgstr "Berkas Terkini"
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr ""
+msgstr "Kirim berkas ke perangkat..."
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr ""
+msgstr "Buat dokumen"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
@@ -216,19 +222,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Secure"
-msgstr ""
+msgstr "Aman"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr ""
+msgstr "Paket ini memuat peramban Chromium"
 
 #: ../en/index.html
 msgid "$9.99"
-msgstr ""
+msgstr "$9.99"
 
 #: ../en/index.html
 msgid "Help"
-msgstr ""
+msgstr "Bantuan"
 
 #: ../en/index.html
 msgid "Mute"
@@ -236,75 +242,76 @@ msgstr ""
 
 #: ../en/index.html
 msgid "All Software"
-msgstr ""
+msgstr "Semua Perangkat Lunak"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr ""
+msgstr "Siap mengunduh?"
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr ""
+msgstr "Aksesori"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr ""
+msgstr "Buat lembar kerja"
 
 #: ../en/index.html
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr ""
+msgstr "Matikan"
 
 #: ../en/index.html
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr ""
+msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
-msgstr ""
+msgstr "Pendidikan"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
-msgstr ""
+msgstr "Brasero Pembakar Diska"
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
 msgstr ""
+"Baca, tulis, dan kirim surel dengan Thunderbird. Dia mudah dan cepat."
 
 #: ../en/index.html
 msgid "wrote"
-msgstr ""
+msgstr "tulis"
 
 #: ../en/index.html
 msgid "Subject"
-msgstr ""
+msgstr "Subjek"
 
 #: ../en/index.html
 msgid "Shotwell"
-msgstr ""
+msgstr "Shotwell"
 
 #: ../en/index.html
 msgid "Documents"
-msgstr ""
+msgstr "Dokumen"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr ""
+msgstr "Putuskan"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr ""
+msgstr "Preferensi"
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr ""
+msgstr "Ramban berkas"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
@@ -312,11 +319,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "junk"
-msgstr ""
+msgstr "sampah"
 
 #: ../en/index.html
 msgid "Send"
-msgstr ""
+msgstr "Kirim"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
@@ -328,27 +335,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr ""
+msgstr "Inkscape Penyunting Grafik Vektor"
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr ""
+msgstr "Buat presentasi"
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr ""
+msgstr "Pesan Asli"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "AisleRoit Solitaire"
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr ""
+msgstr "Rock Out"
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr ""
+msgstr "Informasi Sambungan"
 
 #: ../en/index.html
 msgid ""
@@ -358,35 +365,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Email"
-msgstr ""
+msgstr "Surel"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr ""
+msgstr "Terkirim"
 
 #: ../en/index.html
 msgid "subject"
-msgstr ""
+msgstr "subjek"
 
 #: ../en/index.html
 msgid "Available"
-msgstr ""
+msgstr "Ada"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr ""
+msgstr "Semua Folder"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr ""
+msgstr "Jum 26 Okt, 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr ""
+msgstr "Hibernasi"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
-msgstr ""
+msgstr "Langelinie Alle"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
@@ -402,27 +409,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr ""
+msgstr "Layar Selamat Datang"
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr ""
+msgstr "3,3MB"
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "balas"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr ""
+msgstr "Siapkan Surel..."
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
@@ -430,19 +437,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Clear"
-msgstr ""
+msgstr "Bersihkan"
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr ""
+msgstr "$19.99"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr ""
+msgstr "Keluar..."
 
 #: ../en/index.html
 msgid ""
@@ -464,7 +471,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
@@ -472,15 +479,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Stalking Ocelot"
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr ""
+msgstr "Pengaturan SIstem..."
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr ""
+msgstr "Aplikasi Awal Mula..."
 
 #: ../en/index.html
 msgid "Remove"
@@ -498,15 +505,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Purple Dancers"
 
 #: ../en/index.html
 msgid "from"
-msgstr ""
+msgstr "dari"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #: ../en/index.html
 msgid ""
@@ -516,11 +523,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr ""
+msgstr "Mount Snowdon"
 
 #: ../en/index.html
 msgid "Songs"
-msgstr ""
+msgstr "Lagu"
 
 #: ../en/index.html
 msgid "Accessible"
@@ -532,7 +539,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Title:"
-msgstr ""
+msgstr "Judul:"
 
 #: ../en/index.html
 msgid "Setup new device…"
@@ -544,7 +551,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Videos"
-msgstr ""
+msgstr "Video"
 
 #: ../en/index.html
 msgid "Braid"
@@ -568,7 +575,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "Banshee Pemutar Media"
 
 #: ../en/index.html
 msgid ""
@@ -589,19 +596,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Installed"
-msgstr ""
+msgstr "Terpasang"
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
-msgstr ""
+msgstr "Nampak"
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr ""
+msgstr "Pelajari Lebih Lanjut"
 
 #: ../en/index.html
 msgid ""
@@ -612,11 +619,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chat"
-msgstr ""
+msgstr "Mengobrol"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr ""
+msgstr "Arsip"
 
 #: ../en/index.html
 msgid "Recent Apps"
@@ -628,27 +635,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr ""
+msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr ""
+msgstr "Perkakas Pengembang"
 
 #: ../en/index.html
 msgid "or"
-msgstr ""
+msgstr "atau"
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "Akses Internet"
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr ""
+msgstr "5,3MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
@@ -656,19 +663,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "cc"
-msgstr ""
+msgstr "cc"
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr ""
+msgstr "Gambar"
 
 #: ../en/index.html
 msgid "Away"
-msgstr ""
+msgstr "Pergi"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr ""
+msgstr "Periksa surel"
 
 #: ../en/index.html
 msgid "Size:"
@@ -700,11 +707,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr ""
+msgstr "Jelajahi web"
 
 #: ../en/index.html
 msgid "Local"
-msgstr ""
+msgstr "Lokal"
 
 #: ../en/index.html
 msgid ""
@@ -714,7 +721,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr ""
+msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
@@ -783,7 +790,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date"
-msgstr ""
+msgstr "Tanggal"
 
 #: ../en/index.html
 msgid ""
@@ -794,19 +801,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
+msgstr "Chromium Peramban Web"
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr ""
+msgstr "Perekam Suara"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr ""
+msgstr "Penerima"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr ""
+msgstr "Cepat"
 
 #: ../en/index.html
 msgid "Recent"
@@ -822,7 +829,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date:"
-msgstr ""
+msgstr "Tanggal:"
 
 #: ../en/index.html
 msgid ""
@@ -833,7 +840,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Total:"
-msgstr ""
+msgstr "Total:"
 
 #: ../en/index.html
 msgid "Additional Drivers"
@@ -849,11 +856,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr ""
+msgstr "Saya sudah memiliki sebuah akun!"
 
 #: ../en/index.html
 msgid "System"
-msgstr ""
+msgstr "Sistem"
 
 #: ../en/index.html
 msgid "forward"
@@ -877,7 +884,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "Pasang"
 
 #: ../en/index.html
 msgid "Items:"
@@ -885,11 +892,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr ""
+msgstr "WildWheat"
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
+msgstr "Subjek:"
 
 #: ../en/index.html
 msgid "Backup"
@@ -897,7 +904,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "History"
-msgstr ""
+msgstr "Riwayat"
 
 #: ../en/index.html
 msgid "16 Photos"
@@ -1204,7 +1211,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr ""
+msgstr "Sen 11 Oktober, 2010"
 
 #: ../en/index.html
 msgid ""
@@ -1224,7 +1231,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr ""
+msgstr "Suara &amp; Video"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -1244,11 +1251,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr ""
+msgstr "Tetap Produktif"
 
 #: ../en/index.html
 msgid "Table"
-msgstr ""
+msgstr "Tabel"
 
 #: ../en/index.html
 msgid ""
@@ -1266,19 +1273,32 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
 
 #: ../en/index.html
 msgid "Tools"
-msgstr ""
+msgstr "Perkakas"
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr ""
+msgstr "Unduhan"
 
 #: ../en/index.html
 msgid "You"
-msgstr ""
+msgstr "Anda"
 
 #: ../en/index.html
 msgid "Blender"
-msgstr ""
+msgstr "Blender"

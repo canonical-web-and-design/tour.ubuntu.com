@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-24 08:40+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-04-28 20:32+0000\n"
+"Last-Translator: Vojtěch Trefný <vojtech.trefny@gmail.com>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-25 05:25+0000\n"
-"X-Generator: Launchpad (build 15139)\n"
+"X-Launchpad-Export-Date: 2012-04-29 05:24+0000\n"
+"X-Generator: Launchpad (build 15149)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -80,7 +80,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "中文"
-msgstr ""
+msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
@@ -200,7 +200,7 @@ msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr ""
+msgstr "Nedávné soubory"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -401,7 +401,7 @@ msgstr "Nastavení data a času..."
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr ""
+msgstr "Naposledy použité"
 
 #: ../en/index.html
 msgid "Cancel"
@@ -413,7 +413,7 @@ msgstr "Ladovská zima"
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr ""
+msgstr "Uvítací obrazovka"
 
 #: ../en/index.html
 msgid "3.3MB"
@@ -526,7 +526,7 @@ msgstr "Mount Snowdon"
 
 #: ../en/index.html
 msgid "Songs"
-msgstr ""
+msgstr "Skladby"
 
 #: ../en/index.html
 msgid "Accessible"
@@ -628,7 +628,7 @@ msgstr "Archiv"
 
 #: ../en/index.html
 msgid "Recent Apps"
-msgstr ""
+msgstr "Nedávné aplikace"
 
 #: ../en/index.html
 msgid "Home"
@@ -652,7 +652,7 @@ msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "Přístup k internetu"
 
 #: ../en/index.html
 msgid "5.3MB"
@@ -827,7 +827,7 @@ msgstr "Rychlé"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr ""
+msgstr "Nedávné"
 
 #: ../en/index.html
 msgid "To:"
@@ -916,7 +916,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "History"
-msgstr ""
+msgstr "Historie"
 
 #: ../en/index.html
 msgid "16 Photos"
@@ -928,7 +928,7 @@ msgstr "Domovský adresář"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
-msgstr ""
+msgstr "Vítejte v online prohlídce Ubuntu!"
 
 #: ../en/index.html
 msgid "Office"
@@ -999,7 +999,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr "Upravid připojení..."
+msgstr "Upravit připojení..."
 
 #: ../en/index.html
 msgid "Printers"
@@ -1086,7 +1086,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Format"
-msgstr ""
+msgstr "Formát"
 
 #: ../en/index.html
 msgid "Browse files on device…"
@@ -1178,7 +1178,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Download"
-msgstr ""
+msgstr "Stáhnout"
 
 #: ../en/index.html
 msgid "Games"
@@ -1273,7 +1273,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Table"
-msgstr ""
+msgstr "Tabulka"
 
 #: ../en/index.html
 msgid ""
