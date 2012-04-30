@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-28 23:32+0000\n"
-"Last-Translator: Jógvan Olsen <jeggy@jebster.net>\n"
+"PO-Revision-Date: 2012-04-29 14:33+0000\n"
+"Last-Translator: Angutivik Casper Rúnur Tausen Hansen <Unknown>\n"
 "Language-Team: Faroese <fo@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-29 05:24+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-04-30 05:20+0000\n"
+"X-Generator: Launchpad (build 15171)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -84,7 +84,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "About Me"
-msgstr ""
+msgstr "Um meg"
 
 #: ../en/index.html
 msgid ""
@@ -104,7 +104,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One"
-msgstr ""
+msgstr "Ubuntu One"
 
 #: ../en/index.html
 msgid ""
@@ -148,7 +148,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr ""
+msgstr "15.2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
@@ -200,7 +200,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr ""
+msgstr "Seinast Brúktu fílur"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -232,7 +232,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mute"
-msgstr ""
+msgstr "Doyv"
 
 #: ../en/index.html
 msgid "All Software"
@@ -252,7 +252,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
@@ -260,15 +260,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Music"
-msgstr ""
+msgstr "Tónleikur"
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr ""
+msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
-msgstr ""
+msgstr "Útbúgving"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
@@ -292,7 +292,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Documents"
-msgstr ""
+msgstr "Skjøl"
 
 #: ../en/index.html
 msgid "Disconnect"
@@ -358,11 +358,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Email"
-msgstr ""
+msgstr "Teldupostur"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr ""
+msgstr "Sent"
 
 #: ../en/index.html
 msgid "subject"
