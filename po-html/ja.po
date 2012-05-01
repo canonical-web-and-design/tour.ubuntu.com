@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-27 14:03+0000\n"
-"Last-Translator: Kentaro Kazuhama <kazken3@gmail.com>\n"
+"PO-Revision-Date: 2012-04-30 14:57+0000\n"
+"Last-Translator: Mitsuya Shibata <mty.shibata@gmail.com>\n"
 "Language-Team: Japanese <ja@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-28 05:22+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-05-01 06:03+0000\n"
+"X-Generator: Launchpad (build 15171)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -23,7 +23,7 @@ msgstr "Firefox ウェブブラウザー"
 
 #: ../en/index.html
 msgid "Lock Screen"
-msgstr "コンピューターのロック"
+msgstr "画面のロック"
 
 #: ../en/index.html
 msgid ""
@@ -33,14 +33,17 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Ubuntuはあらゆるコンピューターで快適に動作しますが、より新しいマシンではさらに高速になります。不要なプログラムや試用版のソフトウェアをインストールす"
+"ることで動作が遅くなったり、起動やブラウザーを開くことに時間がかかることもありません。他のオペレーティングシステムと異なり、起動するまで画面をじっと見続け"
+"る必要もありません。Ubuntuは時間がたつにつれて動作が緩慢になることもないでしょう。ずっと高速のままです。"
 
 #: ../en/index.html
 msgid "no subject"
-msgstr ""
+msgstr "件名なし"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr ""
+msgstr "自分で見て回ります"
 
 #: ../en/index.html
 msgid "Desktop"
@@ -76,15 +79,15 @@ msgstr "Momiji Dream"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr ""
+msgstr "Manipulate the flow of time to solve puzzles"
 
 #: ../en/index.html
 msgid "中文"
-msgstr ""
+msgstr "中国語"
 
 #: ../en/index.html
 msgid "About Me"
-msgstr ""
+msgstr "個人情報"
 
 #: ../en/index.html
 msgid ""
@@ -92,11 +95,14 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
+"BEEP has traveled for thousands of years through deep space to explore the "
+"Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
+"the surface of the planets."
 
 #: ../en/index.html
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
-msgstr ""
+msgstr "本当にすべてのプログラムを終了しコンピューターをシャットダウンしますか?"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
@@ -130,11 +136,11 @@ msgstr "アプリケーション"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr ""
+msgstr "2010年10月14日（水）"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr ""
+msgstr "Physics based puzzle/construction game"
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
@@ -146,19 +152,19 @@ msgstr "Gwibber ソーシャルクライアント"
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr ""
+msgstr "Happyness"
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr ""
+msgstr "15.2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr ""
+msgstr "PCB CNC converter"
 
 #: ../en/index.html
 msgid "On"
-msgstr ""
+msgstr "On"
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -166,7 +172,7 @@ msgstr "Web を見る"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
-msgstr ""
+msgstr "A 2D platformer/shooter game with physics-based puzzles"
 
 #: ../en/index.html
 msgid "Graphics"
@@ -174,7 +180,7 @@ msgstr "グラフィックス"
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr ""
+msgstr "Keep Connected"
 
 #: ../en/index.html
 msgid "Top Rated"
@@ -182,7 +188,7 @@ msgstr "人気のソフト"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr ""
+msgstr "互換性"
 
 #: ../en/index.html
 msgid "Dash home"
@@ -214,15 +220,15 @@ msgstr "ドキュメントの作成"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr ""
+msgstr "(評価数 91)"
 
 #: ../en/index.html
 msgid "Secure"
-msgstr ""
+msgstr "セキュア"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr ""
+msgstr "本パッケージには Chromium ブラウザが含まれます。"
 
 #: ../en/index.html
 msgid "$9.99"
@@ -254,11 +260,11 @@ msgstr "スプレッドシートの作成"
 
 #: ../en/index.html
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr ""
+msgstr "シャットダウン"
 
 #: ../en/index.html
 msgid "Music"
@@ -266,7 +272,7 @@ msgstr "ミュージック"
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr ""
+msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
@@ -274,7 +280,7 @@ msgstr "教育・教養"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
-msgstr ""
+msgstr "Brasero ディスク作成ツール"
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
@@ -282,7 +288,7 @@ msgstr "Thunderbirdでメールの読み書きや送信を行います。簡単�
 
 #: ../en/index.html
 msgid "wrote"
-msgstr ""
+msgstr "wrote"
 
 #: ../en/index.html
 msgid "Subject"
@@ -302,7 +308,7 @@ msgstr "切断する"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr ""
+msgstr "設定"
 
 #: ../en/index.html
 msgid "Browse files"
@@ -314,7 +320,7 @@ msgstr "ぜひ、私たちのお気に入りを探索してください"
 
 #: ../en/index.html
 msgid "junk"
-msgstr ""
+msgstr "迷惑マークを付ける"
 
 #: ../en/index.html
 msgid "Send"
@@ -322,7 +328,7 @@ msgstr "送信"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Darkening Clockwork"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
@@ -330,7 +336,7 @@ msgstr "Ubuntuオンラインツアーをお楽しみいただけたら幸いで
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr ""
+msgstr "Inkscape ベクターグラフィックエディター"
 
 #: ../en/index.html
 msgid "Create presentations"
@@ -338,7 +344,7 @@ msgstr "プレゼンテーションの作成"
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr ""
+msgstr "Original Message"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
@@ -346,25 +352,27 @@ msgstr "AisleRoit ソリティア"
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr ""
+msgstr "Rock Out"
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr ""
+msgstr "接続情報"
 
 #: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
+"Chromium は、インターネットの全利用者がウェブをより安全に、高速に、そしてよ "
+"り信頼できる閲覧環境を作ることを目的としたオープンソースなブラウザプロジェ クトです。"
 
 #: ../en/index.html
 msgid "Email"
-msgstr ""
+msgstr "メール"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr ""
+msgstr "送信済みトレイ"
 
 #: ../en/index.html
 msgid "subject"
@@ -372,15 +380,15 @@ msgstr "件名"
 
 #: ../en/index.html
 msgid "Available"
-msgstr ""
+msgstr "オンライン"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr ""
+msgstr "すべてのフォルダー"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr ""
+msgstr "2001年10月26日（金）"
 
 #: ../en/index.html
 msgid "Hibernate"
@@ -392,7 +400,7 @@ msgstr "Langelinie Alle"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr ""
+msgstr "Your Ubuntu, your way"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
@@ -400,19 +408,19 @@ msgstr "日付と時刻の設定…"
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr ""
+msgstr "最近使ったアプリ"
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr ""
+msgstr "最初の画面"
 
 #: ../en/index.html
 msgid "3.3MB"
@@ -451,6 +459,8 @@ msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
+"他の拡張は ruby, libxml-xql-perl, python-numpy そして python-lxml を利用し "
+"ます。全ての拡張とエフェクトを完全に利用するには、これらのパッケージをイン ストールする必要があります。"
 
 #: ../en/index.html
 msgid "Fwd"
@@ -458,11 +468,11 @@ msgstr "Fwd"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr ""
+msgstr "ターミナルサーバークライアント"
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr ""
+msgstr "外観"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
@@ -470,11 +480,11 @@ msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr ""
+msgstr "Buck Off"
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Stalking Ocelot"
 
 #: ../en/index.html
 msgid "System Settings…"
@@ -482,29 +492,31 @@ msgstr "システム設定…"
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr ""
+msgstr "自動起動するアプリケーション..."
 
 #: ../en/index.html
 msgid "Remove"
-msgstr ""
+msgstr "削除"
 
 #: ../en/index.html
 msgid ""
 "Braid treats your time and attention as precious, and it does everything it "
 "can to give you a mind-expanding experience."
 msgstr ""
+"Braid treats your time and attention as precious, and it does everything it "
+"can to give you a mind-expanding experience."
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "日本語"
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Purple Dancers"
 
 #: ../en/index.html
 msgid "from"
-msgstr ""
+msgstr "差出人"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -515,6 +527,8 @@ msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
 msgstr ""
+"All gameplay is based on time manipulation. Journey into worlds where time "
+"behaves strangely; observe, learn from, and then master these worlds."
 
 #: ../en/index.html
 msgid "Mount Snowdon"
@@ -522,11 +536,11 @@ msgstr "Mount Snowdon"
 
 #: ../en/index.html
 msgid "Songs"
-msgstr ""
+msgstr "曲"
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr ""
+msgstr "アクセシビリティ"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
@@ -534,7 +548,7 @@ msgstr "UbuntuやWindows、ウェブ、モバイルからあなたのファイ�
 
 #: ../en/index.html
 msgid "Title:"
-msgstr ""
+msgstr "タイトル:"
 
 #: ../en/index.html
 msgid "Setup new device…"
@@ -542,7 +556,7 @@ msgstr "新しいデバイスを設定..."
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
-msgstr ""
+msgstr "Introduction Ubuntu"
 
 #: ../en/index.html
 msgid "Videos"
@@ -557,6 +571,8 @@ msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
+"Inkscape は W3C により維持されている標準である SVG (Scalable Vector Greaphics) "
+"フォーマットのサブセットを読み書きできます。"
 
 #: ../en/index.html
 msgid ""
@@ -566,11 +582,11 @@ msgstr "Ubuntuを試してくれてありがとう! これはデモに過ぎな�
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr ""
+msgstr "未読数:"
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "Bansheeメディアプレイヤー"
 
 #: ../en/index.html
 msgid ""
@@ -584,6 +600,11 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
+"Ubuntuを使えば安全にインターネットへアクセスできます。ファイルやデータは保護されますので安心してください。標準でファイヤーウォールやウィルス対策が組"
+"み込まれています。潜在的な脆弱性が発見されたら、クリックするだけでインストールできるように自動的にアップデートを提供します。攻撃者がシステムにアクセスでき"
+"ないよう、重要なアプリケーションを保護するAppArmorでセキュリティを追加できます。Firefoxとgnome-"
+"keyringのおかげで、Ubuntuは個人情報を非公開にできます。銀行のアカウントへのアクセスだろうと、友人や大学と極秘データの共有だろうと、必要な時に"
+"安心して行えます。"
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
@@ -599,11 +620,11 @@ msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
-msgstr ""
+msgstr "可視状態"
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr ""
+msgstr "詳細の確認"
 
 #: ../en/index.html
 msgid ""
@@ -617,11 +638,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chat"
-msgstr ""
+msgstr "チャット"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr ""
+msgstr "アーカイブ"
 
 #: ../en/index.html
 msgid "Recent Apps"
@@ -641,15 +662,15 @@ msgstr "開発ツール"
 
 #: ../en/index.html
 msgid "or"
-msgstr ""
+msgstr "それとも"
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "インターネットに接続します"
 
 #: ../en/index.html
 msgid "5.3MB"
@@ -661,7 +682,7 @@ msgstr "ガイドツアー"
 
 #: ../en/index.html
 msgid "cc"
-msgstr ""
+msgstr "CC"
 
 #: ../en/index.html
 msgid "Pictures"
@@ -673,7 +694,7 @@ msgstr "離席中"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr "Eメールをチェック"
+msgstr "メールをチェック"
 
 #: ../en/index.html
 msgid "Size:"
@@ -693,29 +714,29 @@ msgstr "Firefox のブックマークや Tomboy のメモを同期します"
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
-msgstr ""
+msgstr "LibreOffice Writerは仕事用のドキュメントも簡単に作成できます。"
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr ""
+msgstr "モニターの設定..."
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr ""
+msgstr "ソフトウェアは最新状態です"
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr ""
+msgstr "ウェブの閲覧"
 
 #: ../en/index.html
 msgid "Local"
-msgstr ""
+msgstr "ローカル"
 
 #: ../en/index.html
 msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
-msgstr ""
+msgstr "スペルチェッカーを使うには、aspellと各言語パック（例えばaspell-enやaspell-de）をインストールする必要があります。"
 
 #: ../en/index.html
 msgid "World of Goo"
@@ -731,11 +752,11 @@ msgstr "Shotwellで写真のアップロード、整理、編集、共有がで�
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "Sand Maze"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr ""
+msgstr "Ubuntu One コントロールパネル"
 
 #: ../en/index.html
 msgid ""
@@ -745,7 +766,7 @@ msgstr "あなたのすべてのコレクションは、AndroidとiPhoneへの�
 
 #: ../en/index.html
 msgid "to"
-msgstr ""
+msgstr "宛先"
 
 #: ../en/index.html
 msgid ""
@@ -759,22 +780,28 @@ msgid ""
 "of a standalone binary and/or a web plug-in are common products of Blender "
 "use."
 msgstr ""
+"Blender は、モデリングやアニメーション、レンダリング、作成後の処理から 対話式な作成と再生などを行なうための、統合 3D "
+"スイートです。独自の専用 インターフェイスを備えており、完全に OpenGL が実装されていて、速度に主 "
+"眼を置いて設計されています。スクリプトとして、Python バインディングが 利用可能です - 3D Studio や Wavefront Obj "
+"など一般的なファイル形式用の インポートやエクスポート機能は、コミュニティ作のスクリプトとして実装さ れています。Blender "
+"を使った一般的な作成物としては、ゲーム用のスチルや アニメーション、モデルや、独立したバイナリあるいはウェブプラグインの "
+"形態を取ったサードパーティ製エンジンや対話式コンテンツなどがあります。"
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr ""
+msgstr "ブラウザーが iframe をサポートしていません"
 
 #: ../en/index.html
 msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
-msgstr ""
+msgstr "直感的に操作できるプレゼンツールであるLibreOffice Impressで、好印象を与えましょう。"
 
 #: ../en/index.html
 msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
-msgstr ""
+msgstr "Ubuntu のホームフォルダーからフォルダーやファイルに素早く簡単にアクセスできます"
 
 #: ../en/index.html
 msgid "Our star apps"
@@ -788,7 +815,7 @@ msgstr "これはデモに過ぎないことをお忘れなく。ダウンロー
 
 #: ../en/index.html
 msgid "Date"
-msgstr ""
+msgstr "送信日時"
 
 #: ../en/index.html
 msgid ""
@@ -796,38 +823,41 @@ msgid ""
 "bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
 "goo balls that live in the beautiful World of Goo are curious to explore."
 msgstr ""
+"Drag and drop living, squirming, talking globs of goo to build structures, "
+"bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
+"goo balls that live in the beautiful World of Goo are curious to explore."
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
+msgstr "Chromium ウェブブラウザー"
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr ""
+msgstr "サウンド・レコーダー"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr ""
+msgstr "宛先"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr ""
+msgstr "高速な動作"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr ""
+msgstr "最近使ったファイル"
 
 #: ../en/index.html
 msgid "To:"
-msgstr ""
+msgstr "宛先:"
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
-msgstr ""
+msgstr "ブロードキャストアカウントの設定..."
 
 #: ../en/index.html
 msgid "Date:"
-msgstr ""
+msgstr "日付:"
 
 #: ../en/index.html
 msgid ""
@@ -835,18 +865,20 @@ msgid ""
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
 msgstr ""
+"Ubuntuのスタイリッシュで直感的なインターフェースをお楽しみください。高速で、安全で、たくさんのアプリケーションが選べるUbuntuは、自分自身がやり"
+"たいことに対する、明確で合理的な体験をもたらしてくれるでしょう。"
 
 #: ../en/index.html
 msgid "Total:"
-msgstr ""
+msgstr "合計:"
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr ""
+msgstr "追加のドライバー"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr ""
+msgstr "Ubuntuソフトウェアセンター"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
@@ -854,7 +886,7 @@ msgstr "無題 1 - LibreOffice Calc"
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr ""
+msgstr "既にアカウントを持っています!"
 
 #: ../en/index.html
 msgid "System"
@@ -862,43 +894,45 @@ msgstr "システム"
 
 #: ../en/index.html
 msgid "forward"
-msgstr ""
+msgstr "転送"
 
 #: ../en/index.html
 msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
-msgstr ""
+msgstr "LibreOffice Calcは、明確で正確なスプレッドシートを作成するのに必要なすべてを備えています。"
 
 #: ../en/index.html
 msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
+"インポート/エクスポート機能の一部は dia, libwmf-bin, pstoedit, skencil, imagemagick そして "
+"perlmagick を使って提供されます。"
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr ""
+msgstr "このオンラインデモでUbuntuをお試しください。"
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "インストール"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr ""
+msgstr "アイテム:"
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr ""
+msgstr "WildWheat"
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
+msgstr "件名:"
 
 #: ../en/index.html
 msgid "Backup"
-msgstr ""
+msgstr "バックアップ"
 
 #: ../en/index.html
 msgid "History"
@@ -906,7 +940,7 @@ msgstr "履歴"
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16枚の写真"
 
 #: ../en/index.html
 msgid "Home Folder"
@@ -931,10 +965,12 @@ msgid ""
 "installation CDs. No fuss. And it’s compatible with Windows too! So you can "
 "open, edit and share Microsoft Office documents stress-free."
 msgstr ""
+"Ubuntuは幅広いデバイスと連携できます。MP3プレイヤーやカメラ、プリンターをつなぐだけで、そのまま動作するでしょう。インストールCDもいりませんし、"
+"いろいろと悩む必要もありません。Windowsとの互換性もあります。Microsoft Officeのドキュメントを開き、編集し、共有することもできます。"
 
 #: ../en/index.html
 msgid "work"
-msgstr ""
+msgstr "work"
 
 #: ../en/index.html
 msgid "Library"
@@ -942,11 +978,11 @@ msgstr "ライブラリ"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr ""
+msgstr "デスクトップやモバイル、ウェブを越えて連絡帳を一元管理します"
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
-msgstr ""
+msgstr "Thunderbird Mail"
 
 #: ../en/index.html
 msgid ""
@@ -954,14 +990,16 @@ msgid ""
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
 msgstr ""
+"Chromium は Google Chrome の基礎を成しています。Google Chrome は、Chromium のブランド (名称およびロゴ) "
+"を変更した上で、利用統計追跡や自動更新システム などごくわずかな機能追加を行ったブラウザです。"
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr ""
+msgstr "迷惑メールを解除"
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -969,35 +1007,35 @@ msgstr "無題 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "delete"
-msgstr ""
+msgstr "削除"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr ""
+msgstr "Thunderbird Mail/News"
 
 #: ../en/index.html
 msgid "Busy"
-msgstr ""
+msgstr "取り込み中"
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr ""
+msgstr "Small Flowers"
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr ""
+msgstr "接続を編集する..."
 
 #: ../en/index.html
 msgid "Printers"
-msgstr ""
+msgstr "プリンター"
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr ""
+msgstr "サウンド設定…"
 
 #: ../en/index.html
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #: ../en/index.html
 msgid ""
@@ -1005,34 +1043,37 @@ msgid ""
 "delicious. The most addicting and awe-inspiring puzzle game will set you on "
 "an adventure that youll never forget!"
 msgstr ""
+"But they dont know that they are in a game, or that they are extremely "
+"delicious. The most addicting and awe-inspiring puzzle game will set you on "
+"an adventure that youll never forget!"
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr ""
+msgstr "Bluetooth をオンにする"
 
 #: ../en/index.html
 msgid "Write"
-msgstr ""
+msgstr "作成"
 
 #: ../en/index.html
 msgid "Attach"
-msgstr ""
+msgstr "添付"
 
 #: ../en/index.html
 msgid "Window"
-msgstr ""
+msgstr "ウィンドウ"
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr ""
+msgstr "作成: (件名なし)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr ""
+msgstr "Ubuntu オンラインツアー"
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr ""
+msgstr "Federica Miglio"
 
 #: ../en/index.html
 msgid ""
@@ -1041,22 +1082,26 @@ msgid ""
 "gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
 "across 6 unique environments."
 msgstr ""
+"BEEP is a 2D side-scrolling platformer with physics-based gameplay. You "
+"control a small robot equipped with an anti-gravity device, a jet-pack and a "
+"gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
+"across 6 unique environments."
 
 #: ../en/index.html
 msgid "Offline"
-msgstr ""
+msgstr "オフライン"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr ""
+msgstr "ゴミ箱"
 
 #: ../en/index.html
 msgid "archive"
-msgstr ""
+msgstr "アーカイブ"
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "Power Of Words"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
@@ -1064,7 +1109,7 @@ msgstr "Shotwell 写真管理ツール"
 
 #: ../en/index.html
 msgid "Folders"
-msgstr ""
+msgstr "フォルダー"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
@@ -1072,19 +1117,19 @@ msgstr "UbuntuとFirefoxでのウェブブラウジングは高速かつ安全�
 
 #: ../en/index.html
 msgid "Format"
-msgstr ""
+msgstr "書式"
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr ""
+msgstr "デバイス上のファイルを閲覧..."
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr ""
+msgstr "迷惑メール"
 
 #: ../en/index.html
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../en/index.html
 msgid "Computer"
@@ -1096,25 +1141,27 @@ msgstr "新着ソフト"
 
 #: ../en/index.html
 msgid "App Available for Download"
-msgstr ""
+msgstr "ダウンロード可能なアプリ"
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr ""
+msgstr "動画プレイヤー"
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr ""
+msgstr "不可視"
 
 #: ../en/index.html
 msgid "Albums"
-msgstr ""
+msgstr "アルバム"
 
 #: ../en/index.html
 msgid ""
 "Inkscape supports multiple opened files and multiple views per file. "
 "Graphics can be printed and exported to png bitmaps."
 msgstr ""
+"Inkscape は同時に複数のファイルのオープンおよびファイルごとの複数のビューを サポートします。グラフィックは印刷や png "
+"ビットマップとしての保存が可能です。"
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1122,15 +1169,15 @@ msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
-msgstr ""
+msgstr "差出人:"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr ""
+msgstr "挿入"
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr ""
+msgstr "シャットダウン..."
 
 #: ../en/index.html
 msgid "Fonts"
@@ -1138,31 +1185,31 @@ msgstr "フォント"
 
 #: ../en/index.html
 msgid "File"
-msgstr ""
+msgstr "ファイル"
 
 #: ../en/index.html
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr ""
+msgstr "Bluetooth: 入"
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr ""
+msgstr "Bluetooth を切る"
 
 #: ../en/index.html
 msgid "Installing"
-msgstr ""
+msgstr "インストールしています"
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr ""
+msgstr "サイトに戻りますか?"
 
 #: ../en/index.html
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: ../en/index.html
 msgid "Games"
@@ -1170,35 +1217,35 @@ msgstr "ゲーム"
 
 #: ../en/index.html
 msgid "Visolate"
-msgstr ""
+msgstr "Visolate"
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr ""
+msgstr "Empathy インターネットメッセンジャー"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
+msgstr "スケーラブルなベクターグラフィック画像 (SVG) の作成と編集"
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr ""
+msgstr "接続されているデバイス"
 
 #: ../en/index.html
 msgid "View"
-msgstr ""
+msgstr "表示"
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr ""
+msgstr "サスペンド"
 
 #: ../en/index.html
 msgid "branches"
-msgstr ""
+msgstr "branches"
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr ""
+msgstr "パーソナルクラウドのパワー"
 
 #: ../en/index.html
 msgid ""
@@ -1206,10 +1253,13 @@ msgid ""
 "painterly style where you manipulate the flow of time to solve puzzles. "
 "Every puzzle in Braid is unique; there is no filler."
 msgstr ""
+"Manipulate the flow of time to solve puzzles Braid is a platform game in "
+"painterly style where you manipulate the flow of time to solve puzzles. "
+"Every puzzle in Braid is unique; there is no filler."
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr ""
+msgstr "2010年10月11日（月）"
 
 #: ../en/index.html
 msgid ""
@@ -1218,14 +1268,17 @@ msgid ""
 "and freehand curves. As an added bonus, both vector and bitmap objects can "
 "have alpha transparency and can be arbitrarily transformed."
 msgstr ""
+"Inkscape のユーザインターフェイスは CorelDraw や同様のドローイングプログラム "
+"に似通っているはずです。長方形、楕円、テキストアイテム、ビットマップ画像や フリーハンドのカーブを取り扱えます。 "
+"追加ボーナスとして、ベクターオブジェクトおよびビットマップオブジェクトの両方を α透過でき、任意の形状に変形できます。"
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr ""
+msgstr "ミュートを解除する"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr ""
+msgstr "ゴミ箱"
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
@@ -1233,27 +1286,27 @@ msgstr "サウンドとビデオ"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr ""
+msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr ""
+msgstr "3D モデルとアニメーションを作成・編集します"
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr ""
+msgstr "受信トレイ"
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr ""
+msgstr "Files Anywhere"
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr ""
+msgstr "Stay Productive"
 
 #: ../en/index.html
 msgid "Table"
-msgstr ""
+msgstr "表"
 
 #: ../en/index.html
 msgid ""
@@ -1271,10 +1324,23 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
 
 #: ../en/index.html
 msgid "Tools"
-msgstr ""
+msgstr "ツール"
 
 #: ../en/index.html
 msgid "Downloads"
@@ -1282,8 +1348,38 @@ msgstr "ダウンロード"
 
 #: ../en/index.html
 msgid "You"
-msgstr ""
+msgstr "自分"
 
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
+
+#~ msgid "Find Files"
+#~ msgstr "ファイルを探す"
+
+#~ msgid "Banshee"
+#~ msgstr "Banshee"
+
+#~ msgid "Add Event…"
+#~ msgstr "イベントを追加..."
+
+#~ msgid "View Photos"
+#~ msgstr "写真を見る"
+
+#~ msgid "Internet Apps"
+#~ msgstr "インターネット関連ソフト"
+
+#~ msgid "Media Apps"
+#~ msgstr "メディア関連ソフト"
+
+#~ msgid "Most Frequently Used"
+#~ msgstr "よく使われるアプリ"
+
+#~ msgid "Shortcuts"
+#~ msgstr "ショートカット"
+
+#~ msgid "Listen to Music"
+#~ msgstr "音楽を聞く"
+
+#~ msgid "Webcam"
+#~ msgstr "ウェブカム"
