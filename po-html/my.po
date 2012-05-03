@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 12:21+0000\n"
+"PO-Revision-Date: 2012-05-02 07:37+0000\n"
 "Last-Translator: Pyae Sone <Unknown>\n"
 "Language-Team: Burmese <my@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-05-03 06:00+0000\n"
+"X-Generator: Launchpad (build 15185)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -184,7 +184,7 @@ msgstr "Compatible"
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr ""
+msgstr "Dash home"
 
 #: ../en/index.html
 msgid "From"
@@ -460,7 +460,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr ""
+msgstr "Terminal Server Client"
 
 #: ../en/index.html
 msgid "Appearance"
@@ -480,7 +480,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr ""
+msgstr "System Settings…"
 
 #: ../en/index.html
 msgid "Startup Applications…"
@@ -885,6 +885,8 @@ msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
@@ -1066,7 +1068,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "စကားလုံးများ၏အင်အားများ"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
@@ -1186,11 +1188,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr ""
+msgstr "Empathy Internet Messageing"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
+msgstr "Create and edit Scalable Vector Graphics images"
 
 #: ../en/index.html
 msgid "Attached Devices"
@@ -1249,7 +1251,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr ""
+msgstr "သုံးဖက်မြင် များနှင့် အန်နီမေးရှင်းများကို ပြုလုပ်၊ ပြင်ဆင်မည်။"
 
 #: ../en/index.html
 msgid "Inbox"

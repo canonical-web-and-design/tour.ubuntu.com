@@ -8,18 +8,18 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 18:31+0000\n"
-"Last-Translator: Vytautas Bačiulis <info@infosoft.lt>\n"
+"PO-Revision-Date: 2012-05-03 05:48+0000\n"
+"Last-Translator: Arturas Norkus <Unknown>\n"
 "Language-Team: Lithuanian <lt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-05-03 06:00+0000\n"
+"X-Generator: Launchpad (build 15185)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
-msgstr "Firefox interneto naršyklė"
+msgstr "Interneto naršyklė „Firefox“"
 
 #: ../en/index.html
 msgid "Lock Screen"
@@ -33,6 +33,13 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Ubuntu Linux operacinė sistema pasileidžia greitai bet kuriame kompiuteryje, "
+"o naujesniuose veikia ypač greitai. Be nereikalingų, startavimą lėtinančių "
+"programų, sistemos paleidimas ir naršyklės atvėrimas užtrunka keliolika "
+"sekundžių - kitaip nei kitose operacinėse sistemose, kur Jums telieka "
+"spoksoti į ekraną, laukiant kol pasileis sistema bei interneto naršyklė. "
+"Taip pat Ubuntu nelėtėja ilgai ją naudojant viename kompiuteryje. Ubuntu yra "
+"sparti ir ji tokia lieka visuomet."
 
 #: ../en/index.html
 msgid "no subject"
@@ -40,7 +47,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr ""
+msgstr "Noriu patyrinėti pats"
 
 #: ../en/index.html
 msgid "Desktop"
@@ -48,11 +55,11 @@ msgstr "Darbastalis"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
-msgstr "Dėkojame už tai, kad domitės Ubuntu!"
+msgstr "Dėkojame besidomintiems Ubuntu Linux!"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr ""
+msgstr "Video redagavimas su PiTiVi"
 
 #: ../en/index.html
 msgid "Internet"
@@ -136,7 +143,7 @@ msgstr "Fizikos dėsniais paremtas dėlionės/konstruktoriaus žaidimas"
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
-msgstr ""
+msgstr "Nutolusių kompiuterių valdymo programa"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
@@ -168,7 +175,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr ""
+msgstr "Grafika"
 
 #: ../en/index.html
 msgid "Keep Connected"
@@ -180,11 +187,11 @@ msgstr "Geriausiai įvertinta"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr ""
+msgstr "Suderinamumas"
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr ""
+msgstr "Programų paleidimas, failų atvėrimas"
 
 #: ../en/index.html
 msgid "From"
@@ -196,11 +203,11 @@ msgstr "Gaukite laiškus"
 
 #: ../en/index.html
 msgid "Auto eth0"
-msgstr ""
+msgstr "Automatinis laidinis tinklas"
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr ""
+msgstr "Paskiausiai naudoti failai"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -216,11 +223,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Secure"
-msgstr "Saugus"
+msgstr "Saugumas"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr ""
+msgstr "Šiame pakete yra Interneto naršyklė „Chromium“"
 
 #: ../en/index.html
 msgid "$9.99"
@@ -228,39 +235,39 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Help"
-msgstr "Žinynas"
+msgstr "Pagalba"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr ""
+msgstr "Nutildyti"
 
 #: ../en/index.html
 msgid "All Software"
-msgstr ""
+msgstr "Visa programinė įranga"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr ""
+msgstr "Pasirengę atsisiųsti?"
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr ""
+msgstr "Reikmenys"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr ""
+msgstr "Kurti skaičiuoklės lenteles"
 
 #: ../en/index.html
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr ""
+msgstr "Išjungti"
 
 #: ../en/index.html
 msgid "Music"
-msgstr ""
+msgstr "Muzika"
 
 #: ../en/index.html
 msgid "Rhythmbox"
@@ -268,23 +275,25 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Education"
-msgstr ""
+msgstr "Švietimas"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
-msgstr ""
+msgstr "CD/DVD rašymas bei kopijavimas - „Brasero“"
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
 msgstr ""
+"Skaitykite, rašykite ir siųskite el. laiškus su Thunderbird programa. Tai "
+"paprasta ir greita."
 
 #: ../en/index.html
 msgid "wrote"
-msgstr ""
+msgstr "rašė"
 
 #: ../en/index.html
 msgid "Subject"
-msgstr ""
+msgstr "Tema"
 
 #: ../en/index.html
 msgid "Shotwell"
@@ -292,31 +301,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Documents"
-msgstr ""
+msgstr "Dokumentai"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr ""
+msgstr "Atjungti"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr ""
+msgstr "Nustatymai"
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr ""
+msgstr "Tvarkyti failus ir aplankus"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
-msgstr ""
+msgstr "Spustelėkite ir išbandykite mūsų mėgstamiausias"
 
 #: ../en/index.html
 msgid "junk"
-msgstr ""
+msgstr "šlamštas"
 
 #: ../en/index.html
 msgid "Send"
-msgstr ""
+msgstr "Siųsti"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
@@ -324,19 +333,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
+msgstr "Tikimės, kad jums patiko Ubuntu Linux demonstracija internete."
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr ""
+msgstr "Vektorinės grafikos iliustratorius „Inkscape“"
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr ""
+msgstr "Kurti pateiktis (skaidres)"
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr ""
+msgstr "Originalus laiškas"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
@@ -348,41 +357,44 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr ""
+msgstr "Ryšio informacija"
 
 #: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
+"Chromium - tai laisvos interneto naršyklės projektas, siekiantis sukurti "
+"saugesnį, greitesnį ir stabilesnį būdą visiems Interneto naudotojams "
+"naudotis Internetu."
 
 #: ../en/index.html
 msgid "Email"
-msgstr ""
+msgstr "El. paštas"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr ""
+msgstr "Išsiųsti"
 
 #: ../en/index.html
 msgid "subject"
-msgstr ""
+msgstr "tema"
 
 #: ../en/index.html
 msgid "Available"
-msgstr ""
+msgstr "Esu"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr ""
+msgstr "Visi aplankai"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr ""
+msgstr "Penk, spalio 26, 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr ""
+msgstr "Hibernuoti"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -402,7 +414,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr ""
+msgstr "Atsisakyti"
 
 #: ../en/index.html
 msgid "Jardin Polar"

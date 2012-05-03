@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 18:06+0000\n"
-"Last-Translator: Dražen Matešić <Unknown>\n"
+"PO-Revision-Date: 2012-05-02 08:04+0000\n"
+"Last-Translator: Andrej Znidarsic <andrej.znidarsic@gmail.com>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-05-03 06:00+0000\n"
+"X-Generator: Launchpad (build 15185)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -46,7 +46,7 @@ msgstr "brez zadeve"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr "Razglejte se okrog"
+msgstr "Samostojno raziskovanje"
 
 #: ../en/index.html
 msgid "Desktop"
