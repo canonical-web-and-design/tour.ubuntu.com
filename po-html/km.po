@@ -1,4 +1,4 @@
-# Finnish translation for ubuntu-online-tour
+# Khmer translation for ubuntu-online-tour
 # Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the ubuntu-online-tour package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-05-03 04:39+0000\n"
-"Last-Translator: Tomi Juntunen <Unknown>\n"
-"Language-Team: Finnish <fi@li.org>\n"
+"PO-Revision-Date: 2012-05-03 07:48+0000\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer <km@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
-msgstr "Firefox-selain"
+msgstr "កម្មវិធី​រុករក​បណ្ដាញ Firefox"
 
 #: ../en/index.html
 msgid "Lock Screen"
-msgstr "Lukitse näyttö"
+msgstr "ចាក់សោ​អេក្រង់"
 
 #: ../en/index.html
 msgid ""
@@ -33,63 +33,58 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
-"Ubuntu on nopea millä tahansa tietokoneella, mutta vieläkin nopeampi "
-"uudemmilla koneilla. Koneen käynnistyminen ja internetin selaamisen "
-"aloittaminen kestävät vain sekunteja, sillä taustalla ei ole ylimääräisiä "
-"ohjelmia hidastamassa koneen toimintaa. Toisin kuin muut käyttöjärjestelmät, "
-"Ubuntun toiminta ei hidastu ajan myötä - se on nopea, ja pysyy aina nopeana."
 
 #: ../en/index.html
 msgid "no subject"
-msgstr "ei aihetta"
+msgstr "គ្មាន​ប្រធានបទ"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr "Tutki vapaasti"
+msgstr ""
 
 #: ../en/index.html
 msgid "Desktop"
-msgstr "Työpöytä"
+msgstr "ផ្ទៃតុ"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
-msgstr "Kiitos kun tutustuit Ubuntuun!"
+msgstr "អរគុណ​ចំពោះ​ការ​រុករក​ក្នុង​អ៊ូប៊ុនទូ !"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr "PiTiVi -videoeditori"
+msgstr ""
 
 #: ../en/index.html
 msgid "Internet"
-msgstr "Internet"
+msgstr "អ៊ីនធឺណិត"
 
 #: ../en/index.html
 msgid "Science &amp; Engineering"
-msgstr "Tieteet ja suunnittelu"
+msgstr "វិទ្យាសាស្ដ្រ &amp; វិស្វកម្ម"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr "Löydä sovelluksia"
+msgstr ""
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr "Yksinäinen kukka"
+msgstr ""
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr "Syksyn unelmia"
+msgstr ""
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr "Manipuloi ajan kulkua ratkaistaksesi ongelmakohdat"
+msgstr ""
 
 #: ../en/index.html
 msgid "中文"
-msgstr "中文"
+msgstr ""
 
 #: ../en/index.html
 msgid "About Me"
-msgstr "Omat tiedot"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -101,15 +96,15 @@ msgstr ""
 #: ../en/index.html
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
-msgstr "Haluatko todella sulkea kaikki ohjelmat ja sammuttaa tietokoneen?"
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr "Nimetön 1 - LibreOffice Impress"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One"
-msgstr "Ubuntu One"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -118,52 +113,46 @@ msgid ""
 "translated into 38 languages, Ubuntu also includes essential assistive "
 "technologies, which are, of course, completely free."
 msgstr ""
-"Helppokäyttöisyys on yksi Ubuntun keskeisistä päämääristä. Uskomme, että "
-"tietokoneiden käyttö on tarkoitettu kaikille kansallisuudesta, rodusta, "
-"sukupuolesta tai rajoittuneisuudesta riippumatta. Ubuntu-käyttöjärjestelmä "
-"on myös käännetty täysin jo 38 eri kielelle, minkä lisäksi Ubuntu tukee "
-"useita käyttöä helpottavia esteettömyystoimintoja, jotka ovat saatavilla "
-"tietenkin ilmaiseksi."
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr "Lataa Ubuntu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Join now"
-msgstr "Liity nyt"
+msgstr ""
 
 #: ../en/index.html
 msgid "Applications"
-msgstr "Sovellukset"
+msgstr ""
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr "Keskiviikko 14. lokakuuta 2010"
+msgstr ""
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr "Fysiikkapohjainen arvoitus-/rakennuspeli"
+msgstr ""
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
-msgstr "Etätyöpöytien käyttö"
+msgstr ""
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr "Gwibber – sosiaaliset mediat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr "Onnellisuus"
+msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr "15.2 Kt"
+msgstr ""
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr "PBC CNC -muunnin"
+msgstr ""
 
 #: ../en/index.html
 msgid "On"
@@ -171,7 +160,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr "Surffaa netissä"
+msgstr ""
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -179,181 +168,179 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr "Grafiikka"
+msgstr ""
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr "Pysy yhteydessä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Top Rated"
-msgstr "Parhaimmat arvosanat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr "Yhteensopiva"
+msgstr ""
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr "Unity-valikko"
+msgstr ""
 
 #: ../en/index.html
 msgid "From"
-msgstr "Lähettäjä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr "Nouda viestit"
+msgstr ""
 
 #: ../en/index.html
 msgid "Auto eth0"
-msgstr "Auto eth0"
+msgstr ""
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr "Viimeksi käytetyt tiedostot"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr "Lähetä tiedostoja laitteeseen..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr "Luo asiakirjoja"
+msgstr ""
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr "(91 arviota)"
+msgstr ""
 
 #: ../en/index.html
 msgid "Secure"
-msgstr "Turvallinen"
+msgstr ""
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr "Tämä paketti sisältää Chromium-selaimen"
+msgstr ""
 
 #: ../en/index.html
 msgid "$9.99"
-msgstr "$9.99"
+msgstr ""
 
 #: ../en/index.html
 msgid "Help"
-msgstr "Ohje"
+msgstr ""
 
 #: ../en/index.html
 msgid "Mute"
-msgstr "Vaimenna"
+msgstr ""
 
 #: ../en/index.html
 msgid "All Software"
-msgstr "Kaikki sovellukset"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr "Valmiina lataamaan?"
+msgstr ""
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr "Apuohjelmat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr "Luo taulukoita"
+msgstr ""
 
 #: ../en/index.html
 msgid "Bluetooth"
-msgstr "Bluetooth"
+msgstr ""
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr "Sammuta"
+msgstr ""
 
 #: ../en/index.html
 msgid "Music"
-msgstr "Musiikki"
+msgstr ""
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr "Rytmilaatikko"
+msgstr ""
 
 #: ../en/index.html
 msgid "Education"
-msgstr "Opetusohjelmat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
-msgstr "Brasero-levynkirjoittaja"
+msgstr ""
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
 msgstr ""
-"Thunderbird-sovelluksella sähköpostien lukeminen, kirjoittaminen sekä "
-"lähettäminen käy helposti ja nopeasti."
 
 #: ../en/index.html
 msgid "wrote"
-msgstr "kirjoitti"
+msgstr ""
 
 #: ../en/index.html
 msgid "Subject"
-msgstr "Otsikko"
+msgstr ""
 
 #: ../en/index.html
 msgid "Shotwell"
-msgstr "Shotwell"
+msgstr ""
 
 #: ../en/index.html
 msgid "Documents"
-msgstr "Asiakirjat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr "Katkaise yhteys"
+msgstr ""
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr "Asetukset"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr "Selaa tiedostoja"
+msgstr ""
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
-msgstr "Tutustu Sovellusvalikoiman suosituimpiin sovelluksiin"
+msgstr ""
 
 #: ../en/index.html
 msgid "junk"
-msgstr "roskaposti"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send"
-msgstr "Lähetä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
-msgstr "Pimenevä kellonratas"
+msgstr ""
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "Toivottavasti nautit Ubuntun verkkoesittelystä."
+msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr "Inkscape-vektorikuvitus"
+msgstr ""
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr "Luo esityksiä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr "Alkuperäinen viesti"
+msgstr ""
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr "AisleRoit-pasianssi"
+msgstr ""
 
 #: ../en/index.html
 msgid "Rock Out"
@@ -361,149 +348,143 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr "Tietoja yhteydestä"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
-"Chromium on avoimen lähdekoodin internet-selain, jonka tavoitteena on "
-"tarjota netin käyttäjille turvallinen, nopea ja vakaa tapa kokea internet "
-"kaikkine sisältöineen."
 
 #: ../en/index.html
 msgid "Email"
-msgstr "Sähköposti"
+msgstr ""
 
 #: ../en/index.html
 msgid "Sent"
-msgstr "Lähetetyt"
+msgstr ""
 
 #: ../en/index.html
 msgid "subject"
-msgstr "aihe"
+msgstr ""
 
 #: ../en/index.html
 msgid "Available"
-msgstr "Tavoitettavissa"
+msgstr ""
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr "Kaikki kansiot"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr "Perjantai 26. lokakuuta 2001"
+msgstr ""
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr "Lepotila"
+msgstr ""
 
 #: ../en/index.html
 msgid "Langelinie Alle"
-msgstr "Langelinie Alle"
+msgstr ""
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr "Sinun Ubuntu, sinun tavat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr "Ajan ja päivän asetukset..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr "Äskettäin käytetyt"
+msgstr ""
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr "Peru"
+msgstr ""
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr "Vuorenhuippu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr "Aloitusnäkymä"
+msgstr ""
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr "3.3 Mt"
+msgstr ""
 
 #: ../en/index.html
 msgid "reply"
-msgstr "vastaa"
+msgstr ""
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr "Aseta sähköposti..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
-msgstr "Etsi ja lataa sovelluksia nopeasti Ubuntun sovellusvalikoimasta."
+msgstr ""
 
 #: ../en/index.html
 msgid "Clear"
-msgstr "Tyhjennä"
+msgstr ""
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr "$19.99"
+msgstr ""
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr "Dybbølsbron asema"
+msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr "Kirjaudu ulos..."
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
-"Eräät muut laajennokset käyttävät paketteja ruby, libxml-xql-perl, python-"
-"numpy ja python-lxml. Kaikki nämä paketit tulee olla asennettu, jotta "
-"kaikkia laajennoksia ja tehosteita voitaisiin käyttää."
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr "Välitä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr "Terminal Server -asiakas"
+msgstr ""
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr "Ulkoasu"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr "LibreOffice Calc"
+msgstr ""
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr "Hirvi"
+msgstr ""
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr "Vaaniva oselotti"
+msgstr ""
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr "Järjestelmäasetukset..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr "Käynnistettävät sovellukset..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Remove"
-msgstr "Poista"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -513,19 +494,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr "English"
+msgstr ""
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr "Violetit tanssijat"
+msgstr ""
 
 #: ../en/index.html
 msgid "from"
-msgstr "lähettäjä"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr "LibreOffice Impress"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -535,66 +516,59 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr "Mount Snowdon"
+msgstr ""
 
 #: ../en/index.html
 msgid "Songs"
-msgstr "Kappaleet"
+msgstr ""
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr "Esteetön"
+msgstr ""
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
-"Varmuuskopioi ja käytä tiedostojasi Ubuntun, Windowsin, internetin ja "
-"mobiililaitteiden välityksellä"
 
 #: ../en/index.html
 msgid "Title:"
-msgstr "Otsikko:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr "Asenna uusi laite..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
-msgstr "Johdanto Ubuntuun"
+msgstr ""
 
 #: ../en/index.html
 msgid "Videos"
-msgstr "Videot"
+msgstr ""
 
 #: ../en/index.html
 msgid "Braid"
-msgstr "Braid"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
-"Inkscape lataa ja tallentaa tiedostoja tukien osaa SVG (Scalable Vector "
-"Graphics) -muodon ominaisuuksista. SVG-standardia ylläpitää WWW-konsortio "
-"W3C."
 
 #: ../en/index.html
 msgid ""
 "Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
 "download it to enjoy the real thing!"
 msgstr ""
-"Kiitos kun tutustuit Ubuntuun! Muistathan, että tämä on vain esittely. Lataa "
-"Ubuntu, niin pääset oikeasti kokemaan mistä on kyse."
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr "Lukematta:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr "Banshee-musiikkisoitin"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -608,28 +582,18 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
-"Ubuntulla voit selata nettiä turvallisesti ja huolettomasti. Voit nimittäin "
-"luottaa siihen, että tiedostosi pysyvät suojattuna, sillä palomuuri ja "
-"virusturva tulevat sisäänrakennettuna. Mikäli tietoturvariskejä jostain "
-"syystä tulee, tarjoamme täysin automaattiset päivitykset, jotka voit asentaa "
-"helposti yhdellä klikkauksella. AppArmor tarjoaa myös lisäturvaa suojaamalla "
-"tärkeimpiä sovelluksiasi niin, etteivät hyökkääjät pääse järjestelmääsi "
-"käsiksi. Näiden kaikkien lisäksi Firefox ja gnome-avainnippu yhdessä Ubuntu -"
-"käyttöjärjestelmän kanssa pitävät tietosi aina turvassa. Olipa kyseessä siis "
-"pankkitietosi tai henkilökohtaisen tiedon jakaminen ystävien tai "
-"kollegoidesi kanssa, voit Ubuntun kanssa olla aina levollisin mielin."
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr "Tiedostot ja kansiot"
+msgstr ""
 
 #: ../en/index.html
 msgid "Installed"
-msgstr "Asennettu"
+msgstr ""
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr "BEEP"
+msgstr ""
 
 #: ../en/index.html
 msgid "Visible"
@@ -637,7 +601,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr "Lue lisää"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -648,143 +612,135 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chat"
-msgstr "Keskustelut"
+msgstr ""
 
 #: ../en/index.html
 msgid "Archive"
-msgstr "Arkisto"
+msgstr ""
 
 #: ../en/index.html
 msgid "Recent Apps"
-msgstr "Viimeisimmät sovellukset"
+msgstr ""
 
 #: ../en/index.html
 msgid "Home"
-msgstr "Koti"
+msgstr ""
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr "Canonical"
+msgstr ""
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr "Kehitystyökalut"
+msgstr ""
 
 #: ../en/index.html
 msgid "or"
-msgstr "tai"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr "Inkscape"
+msgstr ""
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr "Käytä internetiä"
+msgstr ""
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr "5.3 Mt"
+msgstr ""
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr "Siirry ohjattuun esittelyyn"
+msgstr ""
 
 #: ../en/index.html
 msgid "cc"
-msgstr "kopio"
+msgstr ""
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr "Kuvat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Away"
-msgstr "Poissa"
+msgstr ""
 
 #: ../en/index.html
 msgid "Check email"
-msgstr "Lue sähköposti"
+msgstr ""
 
 #: ../en/index.html
 msgid "Size:"
-msgstr "Koko:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Draft"
-msgstr "Luonnos"
+msgstr ""
 
 #: ../en/index.html
 msgid "Free"
-msgstr "Ilmainen"
+msgstr ""
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr "Synkronoi Firefox-kirjanmerkkisi ja Tomboy-muistilappusi"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
-"LibreOffice Writer -tekstinkäsittelyllä luot ammattilaistason asiakirjoja "
-"vaivattomasti."
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr "Näytöt..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr "Järjestelmä on ajan tasalla"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr "Selaa nettiä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Local"
-msgstr "Paikallinen"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
-"Mikäli haluat käyttää kirjoituksen ulkoasun tarkistusta, sinun tulee asentaa "
-"aspell -paketti ja vastaava kielipaketti, esim. aspell-en tai aspell-fi."
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr "World of Goo"
+msgstr ""
 
 #: ../en/index.html
 msgid "View photos"
-msgstr "Katso kuvia"
+msgstr ""
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
-"Shotwell-sovelluksella voit lähettää, järjestellä, muokata ja jakaa "
-"valokuviasi."
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr "Hiekkasokkelo"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr "Ubuntu One -hallintapaneeli"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
-"Musiikkikokoelmasi suoratoisto on aina mukanasi Android- ja iPhone-"
-"puhelimilla."
 
 #: ../en/index.html
 msgid "to"
-msgstr "vastaanottaja"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -798,51 +754,36 @@ msgid ""
 "of a standalone binary and/or a web plug-in are common products of Blender "
 "use."
 msgstr ""
-"Blender yhdistää 3D-mallintamisen, animaation teon, renderöinnin ja "
-"jälkikäsittelyn yhteen ohjelmistoon. Se soveltuu myös vuorovaikutteisten "
-"luomusten tekoon kuten peleihin. Blenderin oma käyttöliittymä on suunniteltu "
-"nopeaksi ja se on täysin OpenGL pohjainen. Python-sidokset mahdollistavat "
-"komentojonojen käytön; tuominen ja vieminen muihin käytettyihin "
-"formaatteihin kuten 3D Studio ja Wavefront Obj on toteutettu "
-"käyttäjäyhteisön laatimilla komentojonoilla. Blenderin yleisiä "
-"käyttökohteita ovat still-kuvat, animaatiot, mallit peleihin tai muihin "
-"kolmansien osapuolten moottoreihin, vuorovaikutteiset itsenäiset ohjelmat "
-"sekä WWW-selainten liitännäiset."
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr "Selaimesi ei tue iframes-ominaisuutta."
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
 msgstr ""
-"Tee hyvä vaikutus intuitiivisella LibreOffice Impress -esitystyökalulla."
 
 #: ../en/index.html
 msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
-"Ubuntun kotikansion kautta pääset helposti ja nopeasti käsiksi kansioihisi "
-"ja tiedostoihisi."
 
 #: ../en/index.html
 msgid "Our star apps"
-msgstr "Tähtisovellukset"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
 msgstr ""
-"Muistathan, että tämä on vain esittely. Lataa Ubuntu, niin pääset oikeasti "
-"kokemaan mistä on kyse."
 
 #: ../en/index.html
 msgid "Date"
-msgstr "Päivä"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -853,35 +794,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr "Chromium-selain"
+msgstr ""
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr "Ääninauhuri"
+msgstr ""
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr "Vastaanottaja"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fast"
-msgstr "Nopea"
+msgstr ""
 
 #: ../en/index.html
 msgid "Recent"
-msgstr "Viimeisimmät"
+msgstr ""
 
 #: ../en/index.html
 msgid "To:"
-msgstr "Vastaanottaja:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
-msgstr "Aseta sosiaaliset verkostot..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Date:"
-msgstr "Päivämäärä:"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -889,102 +830,94 @@ msgid ""
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
 msgstr ""
-"Nauti Ubuntun yksinkertaisen tyylikkäästä ja intuitiivisesta "
-"käyttöliittymästä. Ubuntu tarjoaa sinulle miellyttävän nopean ja turvallisen "
-"käyttökokemuksen, sekä tuhansia sovelluksia, joilla voit muokata Ubuntusta "
-"täysin omanlaisesi!"
 
 #: ../en/index.html
 msgid "Total:"
-msgstr "Yhteensä:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr "Lisäajurit"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr "Ubuntun sovellusvalikoima"
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr "Nimetön 1 - LibreOffice Calc"
+msgstr ""
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr "Minulla on jo tili!"
+msgstr ""
 
 #: ../en/index.html
 msgid "System"
-msgstr "Järjestelmä"
+msgstr ""
 
 #: ../en/index.html
 msgid "forward"
-msgstr "välitä"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
-"LibreOffice Calc sisältää kaiken tarpeellisen selkeiden ja tarkkojen "
-"taulukoiden luomiseksi."
 
 #: ../en/index.html
 msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
-"Jotkin tuonti- ja vientiominaisuuksista tarjotaan pakettien dia, libwmf-bin, "
-"pstoedit, skencil, imagemagick ja perlmagick avulla."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr "Kokeile Ubuntua verkkoesittelyn avulla."
+msgstr ""
 
 #: ../en/index.html
 msgid "Install"
-msgstr "Asenna"
+msgstr ""
 
 #: ../en/index.html
 msgid "Items:"
-msgstr "Kohteet:"
+msgstr ""
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr "Vehnä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr "Aihe:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Backup"
-msgstr "Varmuuskopio"
+msgstr ""
 
 #: ../en/index.html
 msgid "History"
-msgstr "Historia"
+msgstr ""
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr "16 valokuvaa"
+msgstr ""
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr "Kotikansio"
+msgstr ""
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
-msgstr "Tervetuloa Ubuntun verkkoesittelyyn!"
+msgstr ""
 
 #: ../en/index.html
 msgid "Office"
-msgstr "Toimisto"
+msgstr ""
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr "Teemat ja muutokset"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -993,27 +926,22 @@ msgid ""
 "installation CDs. No fuss. And it’s compatible with Windows too! So you can "
 "open, edit and share Microsoft Office documents stress-free."
 msgstr ""
-"Ubuntu toimii loistavasti yhteen useiden eri laitteiden kanssa. Kytke vain "
-"esimerkiksi mp3-soittimesi, kamerasi tai tulostimesi kiinni koneeseen ja "
-"laite on käyttövalmis - et tarvitse asennuslevyjä, eikä tarvitse hermoilla "
-"turhaan. Ubuntu on myös yhteensopiva Windowsin kanssa! Voit siis avata, "
-"muokata ja jakaa Microsoft Office -tiedostoja ilman turhaa päänvaivaa."
 
 #: ../en/index.html
 msgid "work"
-msgstr "työ"
+msgstr ""
 
 #: ../en/index.html
 msgid "Library"
-msgstr "Kirjasto"
+msgstr ""
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr "Yhtenäistä kontaktisi työpöydän, mobiililaitteiden ja verkon välillä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
-msgstr "Thunderbird-sähköposti"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1021,53 +949,50 @@ msgid ""
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
 msgstr ""
-"Chromium toimii perustana Google Chrome -selaimelle, joka on muunnos "
-"Chromiumista. Eri nimen ja logon lisäksi muita eroja ovat Google Chromessa "
-"muun muassa käytön seuranta ja selaimen automaattinen päivitysjärjestelmä."
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr "Ei roskapostia"
+msgstr ""
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr "Chromium"
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr "Nimetön 1 - LibreOffice Writer"
+msgstr ""
 
 #: ../en/index.html
 msgid "delete"
-msgstr "poista"
+msgstr ""
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr "Thunderbird-sähköposti"
+msgstr ""
 
 #: ../en/index.html
 msgid "Busy"
-msgstr "Varattu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr "Pieniä kukkia"
+msgstr ""
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr "Muokkaa yhteyksiä..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Printers"
-msgstr "Tulostimet"
+msgstr ""
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr "Ääniasetukset..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Search"
-msgstr "Etsi"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1078,31 +1003,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr "Kytke Bluetooth päälle"
+msgstr ""
 
 #: ../en/index.html
 msgid "Write"
-msgstr "Kirjoita"
+msgstr ""
 
 #: ../en/index.html
 msgid "Attach"
-msgstr "Liitä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Window"
-msgstr "Ikkuna"
+msgstr ""
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr "Kirjoita: (ei aihetta)"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr "Ubuntun verkkoesittely"
+msgstr ""
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr "Federica Miglio"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1114,45 +1039,43 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Offline"
-msgstr "Poissa verkosta"
+msgstr ""
 
 #: ../en/index.html
 msgid "Trash"
-msgstr "Roskakori"
+msgstr ""
 
 #: ../en/index.html
 msgid "archive"
-msgstr "arkistoi"
+msgstr ""
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr "Sanojen voima"
+msgstr ""
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr "Shotwell - valokuvien hallinta"
+msgstr ""
 
 #: ../en/index.html
 msgid "Folders"
-msgstr "Kansiot"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
 msgstr ""
-"Internetissä surffaus on nopeaa ja turvallista Ubuntua sekä Firefoxia "
-"käyttäen."
 
 #: ../en/index.html
 msgid "Format"
-msgstr "Muotoilu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr "Selaa laitteen tiedostoja..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr "Roskaposti"
+msgstr ""
 
 #: ../en/index.html
 msgid "1"
@@ -1160,88 +1083,85 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Computer"
-msgstr "Tietokone"
+msgstr ""
 
 #: ../en/index.html
 msgid "What's New"
-msgstr "Mitä uutta"
+msgstr ""
 
 #: ../en/index.html
 msgid "App Available for Download"
-msgstr "Ladattavissa"
+msgstr ""
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr "Elokuvasoitin"
+msgstr ""
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr "Huomaamaton"
+msgstr ""
 
 #: ../en/index.html
 msgid "Albums"
-msgstr "Levyt"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Inkscape supports multiple opened files and multiple views per file. "
 "Graphics can be printed and exported to png bitmaps."
 msgstr ""
-"Inkscape tukee usean tiedoston avausta ja kunkin tiedoston sisällön "
-"tarkastelua useassa eri näkymässä. Kuvat voidaan tulostaa tai viedä PNG-"
-"bittikarttakuviksi."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
-msgstr "LibreOffice Writer"
+msgstr ""
 
 #: ../en/index.html
 msgid "From:"
-msgstr "Lähettäjä:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Insert"
-msgstr "Lisää"
+msgstr ""
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr "Sammuta..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr "Kirjasimet"
+msgstr ""
 
 #: ../en/index.html
 msgid "File"
-msgstr "Tiedosto"
+msgstr ""
 
 #: ../en/index.html
 msgid "Edit"
-msgstr "Muokkaa"
+msgstr ""
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr "Bluetooth käytössä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr "Kytke Bluetooth pois päältä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Installing"
-msgstr "Asennetaan"
+msgstr ""
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr "siirry takaisin sivustolle"
+msgstr ""
 
 #: ../en/index.html
 msgid "Download"
-msgstr "Lataa"
+msgstr ""
 
 #: ../en/index.html
 msgid "Games"
-msgstr "Pelit"
+msgstr ""
 
 #: ../en/index.html
 msgid "Visolate"
@@ -1249,31 +1169,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr "Empathy-pikaviestin"
+msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr "Luo ja muokkaa Scalable Vector Graphics -piirroksia"
+msgstr ""
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr "Liitetyt laitteet"
+msgstr ""
 
 #: ../en/index.html
 msgid "View"
-msgstr "Näytä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr "Valmiustila"
+msgstr ""
 
 #: ../en/index.html
 msgid "branches"
-msgstr "haarat"
+msgstr ""
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr "Henkilökohtaisen pilvesi voima"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1293,47 +1213,42 @@ msgid ""
 "and freehand curves. As an added bonus, both vector and bitmap objects can "
 "have alpha transparency and can be arbitrarily transformed."
 msgstr ""
-"Inkscapen käyttöliittymän on tuttu CorelDrawin ja muiden vastaavien "
-"ohjelmien käyttäjille. Käytettävissä ovat suorakulmiot, ellipsit, tekstit, "
-"bittikarttakuvat ja käsivaraisesti piirrettävät kaaret. Lisäksi sekä vektori-"
-" että bittikarttakohteiden peittävyys voidaan määritellä ja niitä voidaan "
-"muuntaa mielivaltaisesti."
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr "Palauta äänet"
+msgstr ""
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr "Roskakori"
+msgstr ""
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr "Ääni ja video"
+msgstr ""
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr "Ruoho ei ole vihreämpää"
+msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr "Luo ja muokkaa 3D-malleja ja animaatioita"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr "Saapuneet"
+msgstr ""
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr "Tiedostot kaikkialla"
+msgstr ""
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr "Pysy tuotteliaana"
+msgstr ""
 
 #: ../en/index.html
 msgid "Table"
-msgstr "Taulukko"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1351,71 +1266,19 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
-"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
-"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
-"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
-"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
-"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
-"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
-"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
-"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
-"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
-"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
-"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
-"nulla."
 
 #: ../en/index.html
 msgid "Tools"
-msgstr "Työkalut"
+msgstr ""
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr "Lataukset"
+msgstr ""
 
 #: ../en/index.html
 msgid "You"
-msgstr "Sinä"
+msgstr ""
 
 #: ../en/index.html
 msgid "Blender"
-msgstr "Blender"
-
-#~ msgid "Files"
-#~ msgstr "Tiedostot"
-
-#~ msgid "Webcam"
-#~ msgstr "Web-kamera"
-
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
-
-#~ msgid "Find Files"
-#~ msgstr "Etsi tiedostoja"
-
-#~ msgid "More Apps"
-#~ msgstr "Lisää sovelluksia"
-
-#~ msgid "Browse the Web"
-#~ msgstr "Selaa verkkoa"
-
-#~ msgid "Internet Apps"
-#~ msgstr "Internet-sovellukset"
-
-#~ msgid "Add Event…"
-#~ msgstr "Lisää tapahtuma..."
-
-#~ msgid "Most Frequently Used"
-#~ msgstr "Useimmin käytetyt"
-
-#~ msgid "Media Apps"
-#~ msgstr "Mediasovellukset"
-
-#~ msgid "Listen to Music"
-#~ msgstr "Kuuntele musiikkia"
-
-#~ msgid "View Photos"
-#~ msgstr "Katso kuvia"
-
-#~ msgid "Check Email"
-#~ msgstr "Tarkista sähköposti"
+msgstr ""
