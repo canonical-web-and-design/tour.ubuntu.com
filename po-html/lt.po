@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-05-03 05:48+0000\n"
-"Last-Translator: Arturas Norkus <Unknown>\n"
+"PO-Revision-Date: 2012-05-06 19:33+0000\n"
+"Last-Translator: Mantas Kriaučiūnas <mantas@akl.lt>\n"
 "Language-Team: Lithuanian <lt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-04 05:21+0000\n"
+"X-Launchpad-Export-Date: 2012-05-07 05:14+0000\n"
 "X-Generator: Launchpad (build 15195)\n"
 
 #: ../en/index.html
@@ -215,7 +215,7 @@ msgstr "Siųskite failus į įrenginį..."
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr "Kurkite dokumentus"
+msgstr "Rašykite dokumentus"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
@@ -255,7 +255,7 @@ msgstr "Reikmenys"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr "Kurti skaičiuoklės lenteles"
+msgstr "Kurkite skaičiuoklės lenteles"
 
 #: ../en/index.html
 msgid "Bluetooth"
@@ -313,7 +313,7 @@ msgstr "Nustatymai"
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr "Tvarkyti failus ir aplankus"
+msgstr "Tvarkykite failus ir aplankus"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
@@ -341,7 +341,7 @@ msgstr "Vektorinės grafikos iliustratorius „Inkscape“"
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr "Kurti pateiktis (skaidres)"
+msgstr "Kurkite pateiktis (skaidres)"
 
 #: ../en/index.html
 msgid "Original Message"
@@ -349,7 +349,7 @@ msgstr "Originalus laiškas"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "Pasjansas AisleRiot"
 
 #: ../en/index.html
 msgid "Rock Out"
@@ -406,11 +406,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr ""
+msgstr "Laiko ir datos nustatymai..."
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr ""
+msgstr "Paskiausiai naudoti"
 
 #: ../en/index.html
 msgid "Cancel"
@@ -422,7 +422,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr ""
+msgstr "Pradinis susipažinimo langas"
 
 #: ../en/index.html
 msgid "3.3MB"
@@ -430,15 +430,17 @@ msgstr ""
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "atsakyti"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr ""
+msgstr "Nustatyti paštą..."
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
+"Raskite ir parsiųskite programas paprastai ir greitai iš Ubuntu Programų "
+"centro."
 
 #: ../en/index.html
 msgid "Clear"
@@ -712,7 +714,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr ""
+msgstr "Naršykite internete"
 
 #: ../en/index.html
 msgid "Local"
@@ -769,7 +771,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr ""
+msgstr "Jūsų naršyklė nepalaiko „iframe“."
 
 #: ../en/index.html
 msgid ""
@@ -806,7 +808,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
+msgstr "Interneto naršyklė „Chromium“"
 
 #: ../en/index.html
 msgid "Sound Recorder"
@@ -1083,7 +1085,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr ""
+msgstr "Naršyti failus įrenginyje..."
 
 #: ../en/index.html
 msgid "Junk Mail"
@@ -1122,6 +1124,9 @@ msgid ""
 "Inkscape supports multiple opened files and multiple views per file. "
 "Graphics can be printed and exported to png bitmaps."
 msgstr ""
+"Su „Inkscape“ vienu metu galite dirbti su daug failų bei matyti tą patį "
+"paveikslo failą skirtingomis peržiūromis. Darbai gali būti atspausdinti ar "
+"išsaugoti populiariu PNG paveikslėlių formatu."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1185,7 +1190,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
+msgstr "Kurkite bei tobulinkite vektorinius grafinius piešinius ar brėžinius"
 
 #: ../en/index.html
 msgid "Attached Devices"
