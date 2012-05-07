@@ -1,4 +1,4 @@
-# Faroese translation for ubuntu-online-tour
+# Sinhalese translation for ubuntu-online-tour
 # Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the ubuntu-online-tour package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-05-06 16:05+0000\n"
-"Last-Translator: Jógvan Olsen <jeggy@jebster.net>\n"
-"Language-Team: Faroese <fo@li.org>\n"
+"PO-Revision-Date: 2012-05-06 05:53+0000\n"
+"Last-Translator: පසිඳු කාවින්ද <Unknown>\n"
+"Language-Team: Sinhalese <si@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
-msgstr "Firefox net kagi"
+msgstr "ෆයර්ෆොක්ස් ජාල ගවේශකය"
 
 #: ../en/index.html
 msgid "Lock Screen"
-msgstr "Læs skíggjan"
+msgstr "තිරය අගුළුලන්න"
 
 #: ../en/index.html
 msgid ""
@@ -40,11 +40,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr "Hygg sjálvur runt"
+msgstr ""
 
 #: ../en/index.html
 msgid "Desktop"
-msgstr "Skriviborð"
+msgstr "වැඩතලය"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
@@ -52,19 +52,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr "PiTiVi sjónbanda ritstjóri"
+msgstr ""
 
 #: ../en/index.html
 msgid "Internet"
-msgstr "Alnet"
+msgstr "අන්තර්ජාලය"
 
 #: ../en/index.html
 msgid "Science &amp; Engineering"
-msgstr "Vísindi og tøkni"
+msgstr ""
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr "Finn nýtsluskipanir"
+msgstr ""
 
 #: ../en/index.html
 msgid "Not Alone"
@@ -72,7 +72,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr "Momiji Dream"
+msgstr ""
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
@@ -84,7 +84,7 @@ msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
-msgstr "Um meg"
+msgstr "මා ගැන"
 
 #: ../en/index.html
 msgid ""
@@ -97,15 +97,14 @@ msgstr ""
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
 msgstr ""
-"Ert tú sikkur í, at tú vilt lata øll forrit aftur og sløkkja telduna?"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr "Ónavngivið 1 - LibreOffice Impress"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One"
-msgstr "Ubuntu One"
+msgstr "උබුන්ටු වන්"
 
 #: ../en/index.html
 msgid ""
@@ -117,15 +116,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr ""
+msgstr "උබුන්ටු බාගන්න"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr ""
+msgstr "දැන්ම එක් වන්න"
 
 #: ../en/index.html
 msgid "Applications"
-msgstr "Nýtsluskipanir"
+msgstr "වැඩසටහන්"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
@@ -149,7 +148,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr "15.2KB"
+msgstr ""
 
 #: ../en/index.html
 msgid "PCB CNC converter"
@@ -169,7 +168,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr "Grafikkur"
+msgstr "චිත්‍රක"
 
 #: ../en/index.html
 msgid "Keep Connected"
@@ -189,11 +188,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "From"
-msgstr "Frá"
+msgstr "වෙතින්"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr "Fá teldupost"
+msgstr ""
 
 #: ../en/index.html
 msgid "Auto eth0"
@@ -201,7 +200,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr "Seinastu Brúktu fílur"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -209,7 +208,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr "Stovna skjøl"
+msgstr ""
 
 #: ../en/index.html
 msgid "(91 Ratings)"
@@ -217,7 +216,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Secure"
-msgstr "Trygt"
+msgstr ""
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
@@ -229,15 +228,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Help"
-msgstr "Hjálp"
+msgstr "උදව්"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr "Doyv"
+msgstr "නිහඬ"
 
 #: ../en/index.html
 msgid "All Software"
-msgstr "Allur ritbúnaður"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ready to download?"
@@ -253,23 +252,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Bluetooth"
-msgstr "Bluetooth"
+msgstr "බ්ලුටූත්"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr "Sløkk..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Music"
-msgstr "Tónleikur"
+msgstr "සංගීතය"
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr "Rhythmbox"
+msgstr ""
 
 #: ../en/index.html
 msgid "Education"
-msgstr "Útbúgving"
+msgstr "අධ්‍යාපනික"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
@@ -281,27 +280,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "wrote"
-msgstr "Skrivaði"
+msgstr ""
 
 #: ../en/index.html
 msgid "Subject"
-msgstr "Evni"
+msgstr "මාතෘකාව"
 
 #: ../en/index.html
 msgid "Shotwell"
-msgstr "Shotwell"
+msgstr ""
 
 #: ../en/index.html
 msgid "Documents"
-msgstr "Skjøl"
+msgstr "ප්‍රලේඛන"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr "Loys"
+msgstr "විසන්ධි කරන්න"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr "Stillingar"
+msgstr "අභිරුචි"
 
 #: ../en/index.html
 msgid "Browse files"
@@ -317,7 +316,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Send"
-msgstr "Send"
+msgstr "යවන්න"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
@@ -333,11 +332,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr "Stovna framløgur"
+msgstr ""
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr "Uppruna boð"
+msgstr ""
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
@@ -349,7 +348,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr "Upplýsingar um samband"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -359,19 +358,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Email"
-msgstr "Teldupostur"
+msgstr "විද්‍යුත් තැපෑල"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr "Sent"
+msgstr ""
 
 #: ../en/index.html
 msgid "subject"
-msgstr "evni"
+msgstr ""
 
 #: ../en/index.html
 msgid "Available"
-msgstr ""
+msgstr "ලබා ගත හැකි"
 
 #: ../en/index.html
 msgid "All Folders"
@@ -383,7 +382,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr "Koyr í dvala"
+msgstr ""
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -395,7 +394,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr "Tíð og klokku stillingar..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Recently Used"
@@ -403,19 +402,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr "Avlýs"
+msgstr "අවලංගු කරන්න"
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr "Jardin Polar"
+msgstr ""
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr "Vælkomstskíggi"
+msgstr "පිළිගැනීමේ තිරය"
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr "3,3MB"
+msgstr ""
 
 #: ../en/index.html
 msgid "reply"
@@ -431,11 +430,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Clear"
-msgstr "Tómstilla"
+msgstr "හිස් කරන්න"
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr "110,95kr."
+msgstr ""
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
@@ -443,7 +442,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr "Útrita..."
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -461,7 +460,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr "Útsjónd"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
@@ -477,15 +476,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr "Kervis stillingar..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr "Byrjanar nýtsluskipanir"
+msgstr ""
 
 #: ../en/index.html
 msgid "Remove"
-msgstr "Tak burtur"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -495,7 +494,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr "Enskt"
+msgstr ""
 
 #: ../en/index.html
 msgid "Purple Dancers"
@@ -503,7 +502,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "from"
-msgstr "frá"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -521,7 +520,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Songs"
-msgstr "Sangir"
+msgstr ""
 
 #: ../en/index.html
 msgid "Accessible"
@@ -533,7 +532,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Title:"
-msgstr "Heiti:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Setup new device…"
@@ -545,11 +544,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Videos"
-msgstr "Sjónbond"
+msgstr ""
 
 #: ../en/index.html
 msgid "Braid"
-msgstr "Braid"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -565,7 +564,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr "Ikki lisið:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Banshee Media Player"
@@ -586,23 +585,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr "Fílur og mappur"
+msgstr ""
 
 #: ../en/index.html
 msgid "Installed"
-msgstr "Innlagt"
+msgstr ""
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr "BEEP"
+msgstr ""
 
 #: ../en/index.html
 msgid "Visible"
-msgstr "Sjónligt"
+msgstr ""
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr "Lær meir"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -613,7 +612,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chat"
-msgstr "Kjatt"
+msgstr ""
 
 #: ../en/index.html
 msgid "Archive"
@@ -625,11 +624,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Home"
-msgstr "Heim"
+msgstr ""
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr "Canonical"
+msgstr ""
 
 #: ../en/index.html
 msgid "Developer Tools"
@@ -637,11 +636,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "or"
-msgstr "ella"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr "Inkscape"
+msgstr ""
 
 #: ../en/index.html
 msgid "Access the Internet"
@@ -649,7 +648,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr "5,3MB"
+msgstr ""
 
 #: ../en/index.html
 msgid "Take the guided tour"
@@ -657,15 +656,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "cc"
-msgstr "cc"
+msgstr ""
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr "Myndir"
+msgstr ""
 
 #: ../en/index.html
 msgid "Away"
-msgstr "Burtur"
+msgstr ""
 
 #: ../en/index.html
 msgid "Check email"
@@ -681,7 +680,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Free"
-msgstr "Ókeypis"
+msgstr ""
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
@@ -693,15 +692,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr "Telduskíggjar..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr "Ritbúnaðurin er dagførdur"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr "Kaga á netinum"
+msgstr ""
 
 #: ../en/index.html
 msgid "Local"
@@ -715,7 +714,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr "World of Goo"
+msgstr ""
 
 #: ../en/index.html
 msgid "View photos"
@@ -741,7 +740,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "to"
-msgstr "til"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -758,7 +757,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr "Tín kagi stuðlar ikki iframes"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
