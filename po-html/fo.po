@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-05-06 16:05+0000\n"
+"PO-Revision-Date: 2012-05-07 16:19+0000\n"
 "Last-Translator: Jógvan Olsen <jeggy@jebster.net>\n"
 "Language-Team: Faroese <fo@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-07 05:14+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2012-05-08 05:53+0000\n"
+"X-Generator: Launchpad (build 15204)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -36,11 +36,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "no subject"
-msgstr ""
+msgstr "einki evni"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr "Hygg sjálvur runt"
+msgstr "Vís tær sjálvum runt"
 
 #: ../en/index.html
 msgid "Desktop"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr ""
+msgstr "Gleði"
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -419,7 +419,7 @@ msgstr "3,3MB"
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "svara"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
@@ -507,7 +507,7 @@ msgstr "frá"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #: ../en/index.html
 msgid ""
@@ -521,7 +521,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Songs"
-msgstr "Sangir"
+msgstr ""
 
 #: ../en/index.html
 msgid "Accessible"
@@ -669,7 +669,7 @@ msgstr "Burtur"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr ""
+msgstr "Kanna teldupost"
 
 #: ../en/index.html
 msgid "Size:"
@@ -727,7 +727,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "Sand Maze"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
@@ -784,7 +784,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date"
-msgstr ""
+msgstr "Dato"
 
 #: ../en/index.html
 msgid ""
@@ -823,7 +823,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date:"
-msgstr ""
+msgstr "Dato:"
 
 #: ../en/index.html
 msgid ""
@@ -846,19 +846,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr ""
+msgstr "Ónavngivið 1 - LibreOffice Calc"
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr ""
+msgstr "Eg havi longu eina kontu!"
 
 #: ../en/index.html
 msgid "System"
-msgstr ""
+msgstr "Kervi"
 
 #: ../en/index.html
 msgid "forward"
-msgstr ""
+msgstr "frameftir"
 
 #: ../en/index.html
 msgid ""
@@ -882,15 +882,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Items:"
-msgstr ""
+msgstr "Lutir:"
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr ""
+msgstr "WildWheat"
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
+msgstr "Evni:"
 
 #: ../en/index.html
 msgid "Backup"
@@ -902,11 +902,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16 myndir"
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr ""
+msgstr "Heimaskjátta"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
@@ -934,7 +934,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Library"
-msgstr ""
+msgstr "Savn"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
@@ -961,19 +961,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr ""
+msgstr "Ónavngivið 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "delete"
-msgstr ""
+msgstr "strika"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr ""
+msgstr "Thunderbird teldupost/tíðindi"
 
 #: ../en/index.html
 msgid "Busy"
-msgstr ""
+msgstr "Upptikin"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -993,7 +993,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Search"
-msgstr ""
+msgstr "Leita"
 
 #: ../en/index.html
 msgid ""
@@ -1004,11 +1004,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr ""
+msgstr "Tendra Bluetooth"
 
 #: ../en/index.html
 msgid "Write"
-msgstr ""
+msgstr "Skriva"
 
 #: ../en/index.html
 msgid "Attach"
@@ -1020,7 +1020,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr ""
+msgstr "Skriva: (einki evni)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1028,7 +1028,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr ""
+msgstr "Federica Miglio"
 
 #: ../en/index.html
 msgid ""
@@ -1044,7 +1044,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Trash"
-msgstr ""
+msgstr "Rusk"
 
 #: ../en/index.html
 msgid "archive"
@@ -1060,7 +1060,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Folders"
-msgstr ""
+msgstr "Mappur"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
@@ -1080,11 +1080,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../en/index.html
 msgid "Computer"
-msgstr ""
+msgstr "Telda"
 
 #: ../en/index.html
 msgid "What's New"
@@ -1100,11 +1100,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr ""
+msgstr "ósjónligur"
 
 #: ../en/index.html
 msgid "Albums"
-msgstr ""
+msgstr "Album"
 
 #: ../en/index.html
 msgid ""
@@ -1114,43 +1114,43 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
-msgstr ""
+msgstr "Frá:"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr ""
+msgstr "Set inn"
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr ""
+msgstr "Sløkk..."
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr ""
+msgstr "Stavsnið"
 
 #: ../en/index.html
 msgid "File"
-msgstr ""
+msgstr "Fíla"
 
 #: ../en/index.html
 msgid "Edit"
-msgstr ""
+msgstr "Broyt"
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr ""
+msgstr "Bluetooth tendra"
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr ""
+msgstr "Sløkk Bluetooth"
 
 #: ../en/index.html
 msgid "Installing"
-msgstr ""
+msgstr "Leggur inn"
 
 #: ../en/index.html
 msgid "back to the site"
@@ -1158,11 +1158,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Download"
-msgstr ""
+msgstr "Tak niður"
 
 #: ../en/index.html
 msgid "Games"
-msgstr ""
+msgstr "Spøl"
 
 #: ../en/index.html
 msgid "Visolate"
@@ -1174,7 +1174,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
+msgstr "Stovna og ritstjórna SVG myndir"
 
 #: ../en/index.html
 msgid "Attached Devices"
@@ -1182,15 +1182,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "View"
-msgstr ""
+msgstr "Sýn"
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr ""
+msgstr "Hvílustøða"
 
 #: ../en/index.html
 msgid "branches"
-msgstr ""
+msgstr "greinar"
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
@@ -1217,11 +1217,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr ""
+msgstr "Ódoyv"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr ""
+msgstr "Rusk spannin"
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
@@ -1249,7 +1249,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Table"
-msgstr ""
+msgstr "Borð"
 
 #: ../en/index.html
 msgid ""
@@ -1267,19 +1267,32 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
 
 #: ../en/index.html
 msgid "Tools"
-msgstr ""
+msgstr "Amboð"
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr ""
+msgstr "Niðurtøkur"
 
 #: ../en/index.html
 msgid "You"
-msgstr ""
+msgstr "Tú"
 
 #: ../en/index.html
 msgid "Blender"
-msgstr ""
+msgstr "Blender"

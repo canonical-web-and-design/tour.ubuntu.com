@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-05-06 19:33+0000\n"
+"PO-Revision-Date: 2012-05-07 18:31+0000\n"
 "Last-Translator: Mantas Kriaučiūnas <mantas@akl.lt>\n"
 "Language-Team: Lithuanian <lt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-07 05:14+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2012-05-08 05:53+0000\n"
+"X-Generator: Launchpad (build 15204)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -71,7 +71,7 @@ msgstr "Mokslas ir inžinerija"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr "Raskite programas"
+msgstr "Raskite ir įdiekite programas"
 
 #: ../en/index.html
 msgid "Not Alone"
@@ -439,7 +439,7 @@ msgstr "Nustatyti paštą..."
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
-"Raskite ir parsiųskite programas paprastai ir greitai iš Ubuntu Programų "
+"Raskite bei siųskitės programas paprastai ir greitai iš Ubuntu Programų "
 "centro."
 
 #: ../en/index.html
@@ -682,7 +682,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Check email"
-msgstr ""
+msgstr "Naudokitės el. paštu"
 
 #: ../en/index.html
 msgid "Size:"
@@ -732,11 +732,13 @@ msgstr ""
 
 #: ../en/index.html
 msgid "View photos"
-msgstr ""
+msgstr "Žiūrėkite nuotraukas"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
+"Jūs galite tvarkyti, taisyti, įkelti ir dalintis savo nuotraukomis internete "
+"su „Shotwell“."
 
 #: ../en/index.html
 msgid "Sand Maze"
@@ -844,6 +846,10 @@ msgid ""
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
 msgstr ""
+"Mėgaukis stilingos bei intuityvios Ubuntu grafinės sąsajos paprastumu. "
+"Greita, saugi ir turinti tūkstančius papildomų programų įvairiausiems "
+"poreikiams, Ubuntu Linux operacinė sistema padės įgyvendinti visus Jūsų "
+"norus."
 
 #: ../en/index.html
 msgid "Total:"
@@ -915,7 +921,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16 nuotraukų"
 
 #: ../en/index.html
 msgid "Home Folder"
