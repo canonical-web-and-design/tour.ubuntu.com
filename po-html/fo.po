@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-05-07 16:19+0000\n"
-"Last-Translator: Jógvan Olsen <jeggy@jebster.net>\n"
+"PO-Revision-Date: 2012-05-08 11:37+0000\n"
+"Last-Translator: Angutivik Casper Rúnur Tausen Hansen <Unknown>\n"
 "Language-Team: Faroese <fo@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-08 05:53+0000\n"
-"X-Generator: Launchpad (build 15204)\n"
+"X-Launchpad-Export-Date: 2012-05-09 05:28+0000\n"
+"X-Generator: Launchpad (build 15213)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -33,6 +33,13 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Ubuntu koyrir skjótt á ein og hvørjari teldu, men uppaftur skjótari á "
+"nýggjum teldum. Ubuntu hevur eingin óneyðug forrit ella forrit í tú bara "
+"hevur í nakrar dagar, sum slakka um ferðina á telduni. At tendra telduna og "
+"koma á neti tekur nøkur fá sekund, Ikki sum onnur stýrisskipanir har tú "
+"bíðar inntil teldan startar og aftur bíðar inntil tú sleppur á netið. Og "
+"Ubuntu fer heldur ikki blíva seinni við tíðini. Tað er skjótt. Og vil altíð "
+"vera skjótt."
 
 #: ../en/index.html
 msgid "no subject"
@@ -117,7 +124,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr ""
+msgstr "Tak niður Ubuntu"
 
 #: ../en/index.html
 msgid "Join now"
@@ -129,7 +136,7 @@ msgstr "Nýtsluskipanir"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr ""
+msgstr "mik 14. oktobur, 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
@@ -157,7 +164,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "On"
-msgstr ""
+msgstr "Tendra"
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -185,7 +192,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr ""
+msgstr "Tólbrettis heim"
 
 #: ../en/index.html
 msgid "From"
@@ -205,7 +212,7 @@ msgstr "Seinastu Brúktu fílur"
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr ""
+msgstr "Send fílur til tóleind"
 
 #: ../en/index.html
 msgid "Create documents"
@@ -245,11 +252,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr ""
+msgstr "Eykaútgerð"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr ""
+msgstr "Stovna rokniark"
 
 #: ../en/index.html
 msgid "Bluetooth"
@@ -341,7 +348,7 @@ msgstr "Uppruna boð"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "AisleRiot kabal"
 
 #: ../en/index.html
 msgid "Rock Out"
@@ -371,15 +378,15 @@ msgstr "evni"
 
 #: ../en/index.html
 msgid "Available"
-msgstr ""
+msgstr "Tøk/ur"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr ""
+msgstr "Allar mappur"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr ""
+msgstr "grí 26. okt, 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
@@ -453,7 +460,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr ""
+msgstr "Fwd"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
@@ -465,7 +472,7 @@ msgstr "Útsjónd"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
@@ -517,15 +524,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr ""
+msgstr "Mount Snowdon"
 
 #: ../en/index.html
 msgid "Songs"
-msgstr ""
+msgstr "Sangir"
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr ""
+msgstr "Tøk/ur"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
@@ -621,7 +628,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Recent Apps"
-msgstr ""
+msgstr "Seinastu nýtsluskipanir"
 
 #: ../en/index.html
 msgid "Home"
@@ -645,7 +652,7 @@ msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "Fá atgongd til neti"
 
 #: ../en/index.html
 msgid "5.3MB"
@@ -673,7 +680,7 @@ msgstr "Kanna teldupost"
 
 #: ../en/index.html
 msgid "Size:"
-msgstr ""
+msgstr "Stødd:"
 
 #: ../en/index.html
 msgid "Draft"
@@ -795,7 +802,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
+msgstr "Chromium net kagi"
 
 #: ../en/index.html
 msgid "Sound Recorder"
@@ -878,7 +885,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "Legg inn"
 
 #: ../en/index.html
 msgid "Items:"
@@ -898,7 +905,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "History"
-msgstr ""
+msgstr "Søga"
 
 #: ../en/index.html
 msgid "16 Photos"
@@ -957,7 +964,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -1012,7 +1019,7 @@ msgstr "Skriva"
 
 #: ../en/index.html
 msgid "Attach"
-msgstr ""
+msgstr "Viðfest"
 
 #: ../en/index.html
 msgid "Window"
@@ -1040,7 +1047,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Offline"
-msgstr ""
+msgstr "Avlinju"
 
 #: ../en/index.html
 msgid "Trash"
