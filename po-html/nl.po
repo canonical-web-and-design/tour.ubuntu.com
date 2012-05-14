@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-05-05 10:40+0000\n"
+"PO-Revision-Date: 2012-05-13 21:08+0000\n"
 "Last-Translator: Rachid <Unknown>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-06 05:13+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2012-05-14 05:25+0000\n"
+"X-Generator: Launchpad (build 15238)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -33,6 +33,13 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Ubuntu start snel op elke computer en zelfs supersnel op nieuwere computers. "
+"Er is geen vertraging door onnodige programma's of proefversies van "
+"software, waardoor het slechts enkele seconden duurt om de computer op te "
+"starten en een browser te openen; dit in tegenstelling tot andere "
+"besturingssystemen die u laten staren naar het scherm, wachtend om online te "
+"gaan. Ook na verloop van tijd wordt Ubuntu niet trager. Het is snel en "
+"blijft snel."
 
 #: ../en/index.html
 msgid "no subject"
@@ -130,7 +137,7 @@ msgstr "Ubuntu downloaden"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr ""
+msgstr "Lid worden"
 
 #: ../en/index.html
 msgid "Applications"
@@ -142,7 +149,7 @@ msgstr "Woe 14 Oktober 2012"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr ""
+msgstr "Puzzel-/bouwspel"
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
@@ -355,7 +362,7 @@ msgstr "AisleRoit Patience"
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr ""
+msgstr "Rocken"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -609,6 +616,15 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
+"U kunt veilig surfen met Ubuntu – u kunt erop vertrouwen dat uw bestanden en "
+"gegevens veilig zijn. Standaard worden een firewall en virusbescherming "
+"meegeleverd. En als er een mogelijke bedreiging is, dan bieden wij "
+"automatische updates die u met één klik kunt installeren. U kunt zich extra "
+"beveiligen met AppArmor, dat uw belangrijke toepassingen beschermt zodat "
+"aanvallers geen toegang krijgen tot uw systeem. En dankzij Firefox en de "
+"gnome-sleutelbos helpt Ubuntu u uw privé-informatie privé te houden. Dus, of "
+"het nu gaat om toegang tot uw bankrekening of het delen van gevoelige "
+"gegevens met vrienden of collega's, u kunt altijd gerust zijn."
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
@@ -936,7 +952,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr ""
+msgstr "Ubuntu uitproberen in onze online demo."
 
 #: ../en/index.html
 msgid "Install"
@@ -1004,7 +1020,7 @@ msgstr "Bibliotheek"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr ""
+msgstr "Uw contacten verenigen over PC, Mobiel en het web."
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
@@ -1148,7 +1164,7 @@ msgstr "Opmaak"
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr ""
+msgstr "Door bestanden op het apparaat bladeren…"
 
 #: ../en/index.html
 msgid "Junk Mail"
