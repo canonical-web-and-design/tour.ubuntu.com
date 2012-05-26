@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-05-06 05:53+0000\n"
-"Last-Translator: පසිඳු කාවින්ද <Unknown>\n"
+"PO-Revision-Date: 2012-05-25 05:39+0000\n"
+"Last-Translator: පසිඳු කාවින්ද <info@pk-soft.tk>\n"
 "Language-Team: Sinhalese <si@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-07 05:14+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2012-05-26 05:55+0000\n"
+"X-Generator: Launchpad (build 15288)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -292,7 +292,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Documents"
-msgstr "ප්‍රලේඛන"
+msgstr "ලේඛන"
 
 #: ../en/index.html
 msgid "Disconnect"
