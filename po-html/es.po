@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-28 15:13+0000\n"
+"PO-Revision-Date: 2012-05-29 23:54+0000\n"
 "Last-Translator: Fitoschido <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-29 05:24+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-05-30 05:48+0000\n"
+"X-Generator: Launchpad (build 15316)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -731,10 +731,12 @@ msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
+"Si desea utilizar el corrector de ortografía, tendrá que instalar aspell y "
+"los respectivos paquetes de idioma, por ejemplo aspell-es o aspell-ca."
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr "World of Goo"
+msgstr "El mundo de Goo"
 
 #: ../en/index.html
 msgid "View photos"
@@ -746,7 +748,7 @@ msgstr "Puede subir, organizar, editar y compartir sus fotos con Shotwell."
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr "Sand Maze"
+msgstr "Laberinto de arena"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
@@ -757,7 +759,7 @@ msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
-"Su colección entera le acompaña con el streaming de música para Android y "
+"Su colección entera le acompaña con el streaming de música en Android y "
 "iPhone"
 
 #: ../en/index.html
@@ -903,6 +905,9 @@ msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
+"Algunas de las características de importación y exportación se proporcionan "
+"usando los paquetes dia, libwmf-bin, pstoedit, skencil, imagemagick y "
+"perlmagick."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
@@ -1120,7 +1125,7 @@ msgstr "Correo basura"
 
 #: ../en/index.html
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../en/index.html
 msgid "Computer"
@@ -1132,7 +1137,7 @@ msgstr "Novedades"
 
 #: ../en/index.html
 msgid "App Available for Download"
-msgstr ""
+msgstr "Aplicación disponible para descargar"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1170,7 +1175,7 @@ msgstr "Apagar…"
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr "Tipografías"
+msgstr "Tipografías"
 
 #: ../en/index.html
 msgid "File"
