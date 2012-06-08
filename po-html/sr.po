@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-25 21:17+0000\n"
+"PO-Revision-Date: 2012-06-07 20:51+0000\n"
 "Last-Translator: Bojan Bogdanović <Unknown>\n"
 "Language-Team: Serbian <sr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-26 05:19+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-06-08 05:16+0000\n"
+"X-Generator: Launchpad (build 15376)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -33,6 +33,12 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Убунту се учитава брзо на сваком рачунару, али је супер брз на новијим "
+"машинама. Без непотребних програма или пробног софтвера који успоравају "
+"ствари, подизање система и отварање претраживача се мери секундама. За "
+"разлику од других оперативних система који вас остављају да само гледате у "
+"екран, док чекате на интернет конекцију. И Убунту неће постати спорији "
+"временом. Он је брз. И остаће брз."
 
 #: ../en/index.html
 msgid "no subject"
@@ -40,7 +46,7 @@ msgstr "без теме"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr ""
+msgstr "Погледај наоколо"
 
 #: ../en/index.html
 msgid "Desktop"
@@ -48,11 +54,11 @@ msgstr "Десктоп"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
-msgstr ""
+msgstr "Хвала на истраживању Убунту-а!"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr ""
+msgstr "ПиТиВи Видео едитор"
 
 #: ../en/index.html
 msgid "Internet"
@@ -64,19 +70,19 @@ msgstr "Наука &amp; Техника"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr ""
+msgstr "Пронађи апликације"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr ""
+msgstr "Нисте сами"
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Момиђи Дрим"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr ""
+msgstr "Манипулишите протоком времена да решите слагалице"
 
 #: ../en/index.html
 msgid "中文"
@@ -92,6 +98,9 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
+"БИП је путовао хиљадама година кроз дубоки свемир да истражи Галаксију. "
+"Пређите страни звездани систем са БИП-бродом и пошаљите роботе на површину "
+"планете."
 
 #: ../en/index.html
 msgid ""
@@ -101,7 +110,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr ""
+msgstr "Без назива 1 - ЛибреОфис Импрес"
 
 #: ../en/index.html
 msgid "Ubuntu One"
@@ -114,14 +123,18 @@ msgid ""
 "translated into 38 languages, Ubuntu also includes essential assistive "
 "technologies, which are, of course, completely free."
 msgstr ""
+"Приступачност је центар Убунту филозофије. Ми верујемо да је рачунарство уа "
+"све без обзира на националност, расу, пол или инвалидитет. Поптуно преведен "
+"на 38 језика, Убунту такође укључује битне технологије помоћи, које су, "
+"наравно, комплетно бесплатне."
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr ""
+msgstr "Преузмите Убунту"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr ""
+msgstr "Придружите се сада"
 
 #: ../en/index.html
 msgid "Applications"
@@ -129,11 +142,11 @@ msgstr "Програми"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr ""
+msgstr "Сре 14. Октобар 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr ""
+msgstr "Слагалица на бази физике/игра конструкције"
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
@@ -145,15 +158,15 @@ msgstr "Гвибер друштвени клијент"
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr ""
+msgstr "Срећа"
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr ""
+msgstr "15,2КБ"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr ""
+msgstr "ПЦБ ЦНЦ претварач"
 
 #: ../en/index.html
 msgid "On"
@@ -161,11 +174,11 @@ msgstr "Укључен"
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr ""
+msgstr "Претражите интернет"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
-msgstr ""
+msgstr "2Д платформска/пуцачка игрица са слагалицом на бази физике"
 
 #: ../en/index.html
 msgid "Graphics"
@@ -173,7 +186,7 @@ msgstr "Графика"
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr ""
+msgstr "Останите повезани"
 
 #: ../en/index.html
 msgid "Top Rated"
@@ -181,11 +194,11 @@ msgstr "Најбоље оцењено"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr ""
+msgstr "Компатибилно"
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr ""
+msgstr "Почетна"
 
 #: ../en/index.html
 msgid "From"
@@ -193,11 +206,11 @@ msgstr "Од"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr ""
+msgstr "Преузмите пошту"
 
 #: ../en/index.html
 msgid "Auto eth0"
-msgstr ""
+msgstr "Ауто eth0"
 
 #: ../en/index.html
 msgid "Recent Files"
@@ -205,15 +218,15 @@ msgstr "Скорашње Датотеке"
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr ""
+msgstr "Пошаљите документ на уређај..."
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr ""
+msgstr "Креирајте документа"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr ""
+msgstr "(91 Оцена)"
 
 #: ../en/index.html
 msgid "Secure"
@@ -221,11 +234,11 @@ msgstr "Безбедан"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr ""
+msgstr "Овај пакет садржи Хромијум претраживач"
 
 #: ../en/index.html
 msgid "$9.99"
-msgstr ""
+msgstr "$9,99"
 
 #: ../en/index.html
 msgid "Help"
@@ -237,11 +250,11 @@ msgstr "Утишај"
 
 #: ../en/index.html
 msgid "All Software"
-msgstr ""
+msgstr "Сав софтвер"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr ""
+msgstr "Спремни за преузимање?"
 
 #: ../en/index.html
 msgid "Accessories"
@@ -249,7 +262,7 @@ msgstr "Прибор"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr ""
+msgstr "Креирајте табеле"
 
 #: ../en/index.html
 msgid "Bluetooth"
@@ -277,11 +290,11 @@ msgstr "Бразеро писач дискова"
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
-msgstr ""
+msgstr "Читајте, пишите и шаљите пошту са Тандербирдом. Лако је и брзо."
 
 #: ../en/index.html
 msgid "wrote"
-msgstr ""
+msgstr "написао"
 
 #: ../en/index.html
 msgid "Subject"
@@ -289,7 +302,7 @@ msgstr "Тема"
 
 #: ../en/index.html
 msgid "Shotwell"
-msgstr ""
+msgstr "Фото-бунар"
 
 #: ../en/index.html
 msgid "Documents"
@@ -305,7 +318,7 @@ msgstr "Поставке"
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr ""
+msgstr "Претражите документа"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
@@ -313,7 +326,7 @@ msgstr "Дођите и претражите наше омиљене"
 
 #: ../en/index.html
 msgid "junk"
-msgstr ""
+msgstr "непожељно"
 
 #: ../en/index.html
 msgid "Send"
@@ -321,11 +334,11 @@ msgstr "Пошаљи"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Сат затамњивања"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
+msgstr "Надамо се да сте уживали у Убунту интернет тури."
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -333,7 +346,7 @@ msgstr "Inkscape програм за векторско цртање"
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr ""
+msgstr "Креирајте презентације"
 
 #: ../en/index.html
 msgid "Original Message"
@@ -341,11 +354,11 @@ msgstr "Оригинална порука"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "AisleRoit пасијанс"
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr ""
+msgstr "Рок аут"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -356,6 +369,8 @@ msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
+"Хромијум је пројекат отвореног кода који има за циљ да буде сигурнији, бржи "
+"и стабилнији пут за све кориснике да искусе интернет."
 
 #: ../en/index.html
 msgid "Email"
@@ -367,7 +382,7 @@ msgstr "Послато"
 
 #: ../en/index.html
 msgid "subject"
-msgstr ""
+msgstr "тема"
 
 #: ../en/index.html
 msgid "Available"
@@ -379,7 +394,7 @@ msgstr "Sve fascikle"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr ""
+msgstr "Пет 26. Окт. 2001."
 
 #: ../en/index.html
 msgid "Hibernate"
@@ -387,15 +402,15 @@ msgstr "Хибернација"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
-msgstr ""
+msgstr "Langelinie Alle"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr ""
+msgstr "Ваш Убунту, Ваш начин"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr ""
+msgstr "Подешавање времена &amp; датума"
 
 #: ../en/index.html
 msgid "Recently Used"
@@ -407,7 +422,7 @@ msgstr "Откажи"
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Welcome Screen"
@@ -415,19 +430,19 @@ msgstr "Екран добродошлице"
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr ""
+msgstr "3,3МБ"
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "одговори"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr ""
+msgstr "Подеси пошту..."
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
-msgstr ""
+msgstr "Претражи и преузми апликације брзо из Убунту Софтверског Центра."
 
 #: ../en/index.html
 msgid "Clear"
@@ -435,11 +450,11 @@ msgstr "Очисти"
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr ""
+msgstr "$19,99"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
 msgid "Log Out…"
