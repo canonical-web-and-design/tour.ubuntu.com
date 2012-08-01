@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-25 19:49+0000\n"
+"PO-Revision-Date: 2012-07-31 15:26+0000\n"
 "Last-Translator: Emin Mastizadeh <emin25@ovi.com>\n"
 "Language-Team: Azerbaijani <az@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-26 05:19+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-08-01 05:37+0000\n"
+"X-Generator: Launchpad (build 15719)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -36,11 +36,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "no subject"
-msgstr ""
+msgstr "mövzu yoxdur"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr ""
+msgstr "Özün yoxla"
 
 #: ../en/index.html
 msgid "Desktop"
@@ -64,7 +64,7 @@ msgstr "Elm &amp; Mühəndislik"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr ""
+msgstr "Tətbiqetmələri yoxla"
 
 #: ../en/index.html
 msgid "Not Alone"
@@ -72,19 +72,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr ""
+msgstr "İnanılmaz Yuxu"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr ""
+msgstr "Pazl yığmaq üçün zaman axınını idarə edin"
 
 #: ../en/index.html
 msgid "中文"
-msgstr ""
+msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
-msgstr ""
+msgstr "Haqqımda"
 
 #: ../en/index.html
 msgid ""
@@ -97,14 +97,15 @@ msgstr ""
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
 msgstr ""
+"Bütün tətbiqləri bağlayıb kompüteri söndürmək istədiyinizdən əminsiniz?"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr ""
+msgstr "Adsız 1 - LibreOffice Impress"
 
 #: ../en/index.html
 msgid "Ubuntu One"
-msgstr ""
+msgstr "Ubuntu One"
 
 #: ../en/index.html
 msgid ""
@@ -116,23 +117,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr ""
+msgstr "Ubuntu-nu Yüklə"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr ""
+msgstr "İndi Qoşul"
 
 #: ../en/index.html
 msgid "Applications"
-msgstr ""
+msgstr "Tətbiqlər"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr ""
+msgstr "Çərşənbə, 14 Oktyabr 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr ""
+msgstr "Fizikaya əsaslanan məntiqi oyunlar."
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
@@ -140,15 +141,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr ""
+msgstr "Gwibber Sosial Şəbəkə Klienti"
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr ""
+msgstr "Xoşbəxtlik"
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr ""
+msgstr "15.2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
@@ -156,11 +157,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "On"
-msgstr ""
+msgstr "Qoşulu"
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr ""
+msgstr "İnternetdə gəz"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -168,55 +169,55 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr ""
+msgstr "Qrafikalar"
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr ""
+msgstr "Qoşulu Qal"
 
 #: ../en/index.html
 msgid "Top Rated"
-msgstr ""
+msgstr "Ən Çox Qiymətləndirilən"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr ""
+msgstr "Uyğunluq"
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr ""
+msgstr "Əsas Menyu"
 
 #: ../en/index.html
 msgid "From"
-msgstr ""
+msgstr "Kimdən"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr ""
+msgstr "Məktub Al"
 
 #: ../en/index.html
 msgid "Auto eth0"
-msgstr ""
+msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr ""
+msgstr "Son Fayllar"
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr ""
+msgstr "Faylları cihaza göndər..."
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr ""
+msgstr "Sənədlər yarat"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr ""
+msgstr "(91 Reytinq)"
 
 #: ../en/index.html
 msgid "Secure"
-msgstr ""
+msgstr "Qorumalı"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
