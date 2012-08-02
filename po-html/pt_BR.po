@@ -8,22 +8,22 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-06-26 03:35+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-08-01 21:59+0000\n"
+"Last-Translator: Raphael Jardim Lopes <Unknown>\n"
 "Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-27 06:14+0000\n"
-"X-Generator: Launchpad (build 15482)\n"
+"X-Launchpad-Export-Date: 2012-08-02 05:24+0000\n"
+"X-Generator: Launchpad (build 15719)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "Navegador de Internet Firefox"
 
 #: ../en/index.html
 msgid "Lock Screen"
-msgstr ""
+msgstr "Bloquear tela"
 
 #: ../en/index.html
 msgid ""
@@ -33,10 +33,16 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"O Ubuntu carrega rapidamente em qualquer computador, mas é super rápido em "
+"máquinas novas. Sem programas desnecessários e programas para testar fazendo "
+"as coisas ficarem mais devagar, iniciar o computador e abrir o navegador "
+"leva segundos, ao contrário de outros sistemas operacionais que deixam você "
+"olhando para a tela, esperando para conectar-se à Internet. E o Ubuntu não "
+"vai ficar mais lento com o passar to tempo. É rápido e permanece rápido."
 
 #: ../en/index.html
 msgid "no subject"
-msgstr ""
+msgstr "sem assunto"
 
 #: ../en/index.html
 msgid "Show yourself around"
@@ -44,31 +50,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Desktop"
-msgstr ""
+msgstr "Área de trabalho"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
-msgstr ""
+msgstr "Obrigado por experimentar o Ubuntu!"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr ""
+msgstr "Editor de Vídeo PiTiVi"
 
 #: ../en/index.html
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #: ../en/index.html
 msgid "Science &amp; Engineering"
-msgstr ""
+msgstr "Ciência &amp; Engenharia"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr ""
+msgstr "Encontre aplicativos"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr ""
+msgstr "Não está sozinho"
 
 #: ../en/index.html
 msgid "Momiji Dream"
@@ -76,7 +82,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr ""
+msgstr "Manipule o fluxo do tempo para resolver enigmas"
 
 #: ../en/index.html
 msgid "中文"
@@ -84,7 +90,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "About Me"
-msgstr ""
+msgstr "Sobre mim"
 
 #: ../en/index.html
 msgid ""
@@ -97,14 +103,16 @@ msgstr ""
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
 msgstr ""
+"Você tem certeza de que deseja fechar todos os programas e desligar o "
+"computador?"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr ""
+msgstr "Sem Título 1 - LibreOffice Impress"
 
 #: ../en/index.html
 msgid "Ubuntu One"
-msgstr ""
+msgstr "Ubuntu One"
 
 #: ../en/index.html
 msgid ""
@@ -116,19 +124,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr ""
+msgstr "Baixe o Ubuntu"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr ""
+msgstr "Participe agora"
 
 #: ../en/index.html
 msgid "Applications"
-msgstr ""
+msgstr "Aplicativos"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr ""
+msgstr "Quarta 14 de Outubro, 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
@@ -136,11 +144,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
-msgstr ""
+msgstr "Visualizador de área de trabalho remota"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr ""
+msgstr "Cliente de redes sociais Gwibber"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -148,11 +156,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr ""
+msgstr "15.2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr ""
+msgstr "Conversor PCB CNC"
 
 #: ../en/index.html
 msgid "On"
@@ -160,7 +168,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr ""
+msgstr "Surfar na Web"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -168,19 +176,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr ""
+msgstr "Gráficos"
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr ""
+msgstr "Manter conectado"
 
 #: ../en/index.html
 msgid "Top Rated"
-msgstr ""
+msgstr "Melhor avaliados"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr ""
+msgstr "Compatível"
 
 #: ../en/index.html
 msgid "Dash home"
@@ -188,11 +196,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "From"
-msgstr ""
+msgstr "De"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr ""
+msgstr "Receber mensagens"
 
 #: ../en/index.html
 msgid "Auto eth0"
@@ -200,83 +208,83 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Recent Files"
-msgstr ""
+msgstr "Arquivos recentes"
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr ""
+msgstr "Enviar arquivos para dispositivo..."
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr ""
+msgstr "Criar documentos"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr ""
+msgstr "(91 avaliações)"
 
 #: ../en/index.html
 msgid "Secure"
-msgstr ""
+msgstr "Seguro"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr ""
+msgstr "Este pacote contém o navegador Chromium."
 
 #: ../en/index.html
 msgid "$9.99"
-msgstr ""
+msgstr "$9.99"
 
 #: ../en/index.html
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr ""
+msgstr "Sem som"
 
 #: ../en/index.html
 msgid "All Software"
-msgstr ""
+msgstr "Todos os aplicativos"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr ""
+msgstr "Pronto para baixar?"
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr ""
+msgstr "Acessórios"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr ""
+msgstr "Criar planilhas"
 
 #: ../en/index.html
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr ""
+msgstr "Desligar"
 
 #: ../en/index.html
 msgid "Music"
-msgstr ""
+msgstr "Músicas"
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr ""
+msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
-msgstr ""
+msgstr "Educação"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
-msgstr ""
+msgstr "Gravador de discos Brasero"
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
-msgstr ""
+msgstr "Leia, escreva e envie emails com Thunderbird. É fácil e rápido."
 
 #: ../en/index.html
 msgid "wrote"
@@ -284,23 +292,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject"
-msgstr ""
+msgstr "Assunto"
 
 #: ../en/index.html
 msgid "Shotwell"
-msgstr ""
+msgstr "Shotwell"
 
 #: ../en/index.html
 msgid "Documents"
-msgstr ""
+msgstr "Documentos"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr ""
+msgstr "Desconectar"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr ""
+msgstr "Preferências"
 
 #: ../en/index.html
 msgid "Browse files"
@@ -308,7 +316,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
-msgstr ""
+msgstr "Venha e explore nossos favoritos"
 
 #: ../en/index.html
 msgid "junk"
@@ -316,7 +324,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Send"
-msgstr ""
+msgstr "Enviar"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
@@ -328,7 +336,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr ""
+msgstr "Editor de Imagens Vetoriais Inkscape"
 
 #: ../en/index.html
 msgid "Create presentations"
@@ -336,11 +344,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr ""
+msgstr "Mensagem original"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "Paciência AisleRoit"
 
 #: ../en/index.html
 msgid "Rock Out"
@@ -348,7 +356,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr ""
+msgstr "Informações da conexão"
 
 #: ../en/index.html
 msgid ""
@@ -897,7 +905,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "History"
-msgstr ""
+msgstr "Histórico"
 
 #: ../en/index.html
 msgid "16 Photos"
@@ -1075,7 +1083,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr ""
+msgstr "Spam"
 
 #: ../en/index.html
 msgid "1"
@@ -1110,6 +1118,8 @@ msgid ""
 "Inkscape supports multiple opened files and multiple views per file. "
 "Graphics can be printed and exported to png bitmaps."
 msgstr ""
+"O Inkscape permite a abertura de múltiplos arquivos e múltiplas visões por "
+"arquivo. Os gráficos podem ser impressos e exportados como bitmaps png."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1282,3 +1292,12 @@ msgstr ""
 #: ../en/index.html
 msgid "Blender"
 msgstr ""
+
+#~ msgid "Files"
+#~ msgstr "Arquivos"
+
+#~ msgid "Webcam"
+#~ msgstr "Webcam"
+
+#~ msgid "Banshee"
+#~ msgstr "Banshee"
