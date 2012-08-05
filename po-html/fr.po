@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-29 22:21+0000\n"
-"Last-Translator: Nicolas Delvaux <Unknown>\n"
+"PO-Revision-Date: 2012-08-04 15:03+0000\n"
+"Last-Translator: Pierre Slamich <pierre.slamich@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-30 05:20+0000\n"
-"X-Generator: Launchpad (build 15171)\n"
+"X-Launchpad-Export-Date: 2012-08-05 05:15+0000\n"
+"X-Generator: Launchpad (build 15742)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -43,7 +43,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "no subject"
-msgstr "sans objet"
+msgstr "Pas de sujet"
 
 #: ../en/index.html
 msgid "Show yourself around"
@@ -144,7 +144,7 @@ msgstr "Applications"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr "Mer 14 Octobre 2010"
+msgstr "Mer. 14 octobre 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
@@ -156,7 +156,7 @@ msgstr "Visionneur de bureaux distants"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr "Client de réseaux sociaux Gwibber"
+msgstr "Client de microblogage Gwibber"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -164,7 +164,7 @@ msgstr "Bonheur"
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr "15.2KB"
+msgstr "15,2Ko"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
@@ -241,7 +241,7 @@ msgstr "Ce paquet contient le navigateur Web Chromium."
 
 #: ../en/index.html
 msgid "$9.99"
-msgstr "9.99€"
+msgstr "9,99 €"
 
 #: ../en/index.html
 msgid "Help"
@@ -387,7 +387,7 @@ msgstr "Envoyé"
 
 #: ../en/index.html
 msgid "subject"
-msgstr ""
+msgstr "Sujet"
 
 #: ../en/index.html
 msgid "Available"
@@ -399,7 +399,7 @@ msgstr "Tous les dossiers"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr "Ven 26 Oct 2001"
+msgstr "Ven. 26 oct. 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
@@ -411,7 +411,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr ""
+msgstr "Votre Ubuntu, votre style"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
@@ -423,11 +423,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Jardin polaire"
 
 #: ../en/index.html
 msgid "Welcome Screen"
@@ -435,7 +435,7 @@ msgstr "Écran d'accueil"
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr "3.3MB"
+msgstr "3,3 Mo"
 
 #: ../en/index.html
 msgid "reply"
@@ -459,7 +459,7 @@ msgstr "19.99€"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Gare de Dybbølsbro"
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -496,7 +496,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Stalking Ocelot"
 
 #: ../en/index.html
 msgid "System Settings…"
@@ -544,7 +544,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Songs"
-msgstr ""
+msgstr "Morceaux"
 
 #: ../en/index.html
 msgid "Accessible"
@@ -614,7 +614,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr ""
+msgstr "Fichiers &amp; Dossiers"
 
 #: ../en/index.html
 msgid "Installed"
@@ -729,7 +729,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr ""
+msgstr "Naviguer sur le Web"
 
 #: ../en/index.html
 msgid "Local"
@@ -762,7 +762,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr ""
+msgstr "Centre de controle d'Ubuntu One"
 
 #: ../en/index.html
 msgid ""
@@ -799,7 +799,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr ""
+msgstr "Votre navigateur ne prend pas en charge iframes."
 
 #: ../en/index.html
 msgid ""
@@ -943,7 +943,7 @@ msgstr "Sauvegarde"
 
 #: ../en/index.html
 msgid "History"
-msgstr "Hstorique"
+msgstr "Historique"
 
 #: ../en/index.html
 msgid "16 Photos"
@@ -1124,7 +1124,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr "Pourriels"
+msgstr "Indésirables"
 
 #: ../en/index.html
 msgid "1"
