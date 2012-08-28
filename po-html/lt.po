@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-05-09 11:12+0000\n"
-"Last-Translator: Mantas Kriaučiūnas <mantas@akl.lt>\n"
+"PO-Revision-Date: 2012-08-22 08:34+0000\n"
+"Last-Translator: Arturas Norkus <Unknown>\n"
 "Language-Team: Lithuanian <lt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-10 06:03+0000\n"
-"X-Generator: Launchpad (build 15213)\n"
+"X-Launchpad-Export-Date: 2012-08-28 10:22+0000\n"
+"X-Generator: Launchpad (build 15864)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -43,7 +43,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "no subject"
-msgstr ""
+msgstr "be temos"
 
 #: ../en/index.html
 msgid "Show yourself around"
@@ -79,15 +79,15 @@ msgstr "Ne vienas"
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Japoniško klevo sapnas"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr ""
+msgstr "Valdykite laiko tėkmę, kad išspręstumėte galvosūkius"
 
 #: ../en/index.html
 msgid "中文"
-msgstr ""
+msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
@@ -99,6 +99,9 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
+"Bypas keliavo tūkstančius metų beribėje erdvėje naršydamas galaktiką. "
+"Skriekite per žvaigždžių sistemas su Bypo erdvėlaiviu ir siuskite robotus į "
+"planetų paviršius."
 
 #: ../en/index.html
 msgid ""
@@ -135,7 +138,7 @@ msgstr "Programos"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr ""
+msgstr "Treč. spalio 14, 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
@@ -159,7 +162,7 @@ msgstr "15.2 KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr ""
+msgstr "PCB CNC keitiklis"
 
 #: ../en/index.html
 msgid "On"
@@ -172,6 +175,7 @@ msgstr "Naršykite internete"
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
 msgstr ""
+"2D platformos/šaudyklės stiliaus galvosūkių žaidimas su fizikos dėsniais"
 
 #: ../en/index.html
 msgid "Graphics"
@@ -219,7 +223,7 @@ msgstr "Rašykite dokumentus"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr ""
+msgstr "(91 reitingas)"
 
 #: ../en/index.html
 msgid "Secure"
@@ -231,7 +235,7 @@ msgstr "Šiame pakete yra Interneto naršyklė „Chromium“"
 
 #: ../en/index.html
 msgid "$9.99"
-msgstr ""
+msgstr "9,99 $"
 
 #: ../en/index.html
 msgid "Help"
@@ -271,7 +275,7 @@ msgstr "Muzika"
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr ""
+msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
@@ -297,7 +301,7 @@ msgstr "Tema"
 
 #: ../en/index.html
 msgid "Shotwell"
-msgstr ""
+msgstr "Shotwell"
 
 #: ../en/index.html
 msgid "Documents"
@@ -329,7 +333,7 @@ msgstr "Siųsti"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Laikrodžio mechanizmas"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
@@ -398,7 +402,7 @@ msgstr "Hibernuoti"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
-msgstr ""
+msgstr "Langelino alėja"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
@@ -418,7 +422,7 @@ msgstr "Atsisakyti"
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Poliarinis sodas"
 
 #: ../en/index.html
 msgid "Welcome Screen"
@@ -426,7 +430,7 @@ msgstr "Pradinis susipažinimo langas"
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr ""
+msgstr "3.3 MB"
 
 #: ../en/index.html
 msgid "reply"
@@ -448,25 +452,28 @@ msgstr ""
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr ""
+msgstr "19,99 $"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Dybolsbro stotis"
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr ""
+msgstr "Atsijungti..."
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
+"Kiti plėtiniai naudoja ruby, libxml-xql-perl, python-numpy, ir python-lxml. "
+"Jus turite turėti šiuos paketus, kad galėtumėte naudotis visais plėtiniais "
+"ir efektais."
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr ""
+msgstr "Fwd"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
@@ -486,7 +493,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Sėlinantis ocelotas"
 
 #: ../en/index.html
 msgid "System Settings…"
@@ -505,6 +512,8 @@ msgid ""
 "Braid treats your time and attention as precious, and it does everything it "
 "can to give you a mind-expanding experience."
 msgstr ""
+"Žaidimas Braid brangins jūsų laiką bei dėmesį ir darys viską ką gali, kad "
+"duotų jums išmonę plečiančią patirtį."
 
 #: ../en/index.html
 msgid "English"
@@ -512,7 +521,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Violetiniai šokėjai"
 
 #: ../en/index.html
 msgid "from"
@@ -527,10 +536,13 @@ msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
 msgstr ""
+"Visas žaidimo veiksmas paremtas laiko manipuliavimo modeliu. Kelionės po "
+"pasaulius kur laikas elgiasi keistai. Jums teks stebėti ir mokytis, kad "
+"galėtumėte įvaldyti šiuos pasaulius."
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr ""
+msgstr "Snoudono kalnas"
 
 #: ../en/index.html
 msgid "Songs"
@@ -552,7 +564,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr ""
+msgstr "Nustatyti naują įrenginį..."
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
@@ -582,7 +594,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr ""
+msgstr "Neskaitytas:"
 
 #: ../en/index.html
 msgid "Banshee Media Player"
@@ -611,7 +623,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
@@ -619,7 +631,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr ""
+msgstr "Sužinok daugiau"
 
 #: ../en/index.html
 msgid ""
@@ -646,7 +658,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr ""
+msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
@@ -666,7 +678,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr ""
+msgstr "5.3 MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
@@ -674,7 +686,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "cc"
-msgstr ""
+msgstr "cc"
 
 #: ../en/index.html
 msgid "Pictures"
@@ -702,7 +714,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr ""
+msgstr "Laikykit Firefox žymas ir Tomboy užrašus sinchronizuotus"
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
@@ -729,10 +741,12 @@ msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
+"Jei jus norite naudotis rašybos tikrintuvu, turite įdiegti aspell ir "
+"atitinkamą kalbos paketą, pav. aspell-en ar aspell-de."
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr ""
+msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
@@ -746,7 +760,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "Smėlio labirintas"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
@@ -757,6 +771,8 @@ msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
+"Jūsų visa muzikos kolekcija seks paskui jus transliuodama į Android ir "
+"iPhone įrenginius"
 
 #: ../en/index.html
 msgid "to"
@@ -800,6 +816,8 @@ msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
 msgstr ""
+"Atminkite, tai tik demonstracija. Jūs turite atsisiusti Ubuntu, kad "
+"mėgautumėtės tikru dalyku!"
 
 #: ../en/index.html
 msgid "Date"
@@ -811,6 +829,10 @@ msgid ""
 "bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
 "goo balls that live in the beautiful World of Goo are curious to explore."
 msgstr ""
+"Griebkit ir temkit gyvus, besirangančius, kalbančius \"Goo\" burbulus. "
+"Statykite iš jų struktūras, tiltus, patrankas, zepelinus ir gigantiškus "
+"liežuvius. Milijonai smalsių \"Goo\" kamuoliukų  nekantrauja tyrinėti savo "
+"pasaulį."
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
@@ -865,11 +887,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr ""
+msgstr "Ubuntu programų centras"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr ""
+msgstr "Nepavadintas 1 - LibreOffice Calc"
 
 #: ../en/index.html
 msgid "I already have an account!"
@@ -894,6 +916,8 @@ msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
+"Kai kurios importavimo ir eksportavimo funkcijos yra pateikiamos kartu su "
+"paketais dia, libwmf-bin, pstoedit, skencil, imagemagick, ir perlmagick."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
@@ -909,7 +933,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr ""
+msgstr "Laukiniai kviečiai"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -961,11 +985,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr ""
+msgstr "Apjungia jūsų kontaktus iš darbalaukio, mobilaus ir interneto"
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
-msgstr ""
+msgstr "Thunderbird paštas"
 
 #: ../en/index.html
 msgid ""
@@ -984,7 +1008,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr ""
+msgstr "Nepavadintas 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "delete"
@@ -992,7 +1016,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr ""
+msgstr "Thunderbird paštas/naujienos"
 
 #: ../en/index.html
 msgid "Busy"
@@ -1000,11 +1024,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr ""
+msgstr "Mažos gėlės"
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr ""
+msgstr "Keisti prisijungimus..."
 
 #: ../en/index.html
 msgid "Printers"
@@ -1012,7 +1036,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr ""
+msgstr "Garso nustatymai..."
 
 #: ../en/index.html
 msgid "Search"
@@ -1043,11 +1067,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr ""
+msgstr "Rašyti: (be temos)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr ""
+msgstr "Ubuntu ekskursija internete"
 
 #: ../en/index.html
 msgid "Federica Miglio"
@@ -1071,7 +1095,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "archive"
-msgstr ""
+msgstr "archyvas"
 
 #: ../en/index.html
 msgid "Power Of Words"
@@ -1099,7 +1123,7 @@ msgstr "Naršyti failus įrenginyje..."
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr ""
+msgstr "Šlamštas"
 
 #: ../en/index.html
 msgid "1"
@@ -1196,7 +1220,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr ""
+msgstr "Empathy susirašinėjimo programa"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
@@ -1216,7 +1240,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "branches"
-msgstr ""
+msgstr "šakos"
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
@@ -1240,6 +1264,11 @@ msgid ""
 "and freehand curves. As an added bonus, both vector and bitmap objects can "
 "have alpha transparency and can be arbitrarily transformed."
 msgstr ""
+"Inkscape naudotojo aplinka turėtų priminti CorelDraw bei kitų panašių "
+"piešimo programų aplinkas. Yra kvadratai, eklipsės, teksto vienetai, "
+"rastariniai paveikslėliai bei kreivės. Papildomai tiek vektoriniai tiek "
+"rastariniai objektai gali palaikyti alfa permatomumą ir įvairiais "
+"transformacijas."
 
 #: ../en/index.html
 msgid "Unmute"
@@ -1247,7 +1276,7 @@ msgstr "Įjungti garsą"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr ""
+msgstr "Šiukšliadėžė"
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
@@ -1267,11 +1296,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr ""
+msgstr "Failai visur"
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr ""
+msgstr "Išlik produktyvus"
 
 #: ../en/index.html
 msgid "Table"
