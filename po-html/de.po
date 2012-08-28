@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 12:29+0000\n"
-"Last-Translator: Dennis Baudys <Unknown>\n"
+"PO-Revision-Date: 2012-08-26 14:16+0000\n"
+"Last-Translator: Hendrik Knackstedt <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-08-28 10:22+0000\n"
+"X-Generator: Launchpad (build 15864)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -1204,7 +1204,7 @@ msgstr "Anwendung zum Herunterladen verfügbar"
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr "Video-Wiedergabe"
+msgstr "Filmwiedergabe"
 
 #: ../en/index.html
 msgid "Invisible"
@@ -1415,3 +1415,45 @@ msgstr "Sie"
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
+
+#~ msgid "Files"
+#~ msgstr "Dateien"
+
+#~ msgid "Browse the Web"
+#~ msgstr "Im Internet surfen"
+
+#~ msgid "Internet Apps"
+#~ msgstr "Internet-Anwendungen"
+
+#~ msgid "Check Email"
+#~ msgstr "E-Mails abrufen"
+
+#~ msgid "Webcam"
+#~ msgstr "Webcam"
+
+#~ msgid "Find Files"
+#~ msgstr "Dateien finden"
+
+#~ msgid "Banshee"
+#~ msgstr "Banshee"
+
+#~ msgid "Media Apps"
+#~ msgstr "Multimedia-Anwendungen"
+
+#~ msgid "Most Frequently Used"
+#~ msgstr "Am häufigsten benutzt"
+
+#~ msgid "View Photos"
+#~ msgstr "Fotos betrachten"
+
+#~ msgid "Listen to Music"
+#~ msgstr "Musik hören"
+
+#~ msgid "Shortcuts"
+#~ msgstr "Tastenkombinationen"
+
+#~ msgid "More Apps"
+#~ msgstr "Weitere Anwendungen"
+
+#~ msgid "Add Event…"
+#~ msgstr "Ereignis hinzufügen …"
