@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-08-27 17:01+0000\n"
-"Last-Translator: Pierre Slamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2012-09-07 21:34+0000\n"
+"Last-Translator: YannUbuntu <yannubuntu@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-28 10:22+0000\n"
-"X-Generator: Launchpad (build 15864)\n"
+"X-Launchpad-Export-Date: 2012-09-08 05:32+0000\n"
+"X-Generator: Launchpad (build 15914)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -339,7 +339,7 @@ msgstr "Envoyer"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Darkening Clockwork"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
@@ -450,6 +450,7 @@ msgstr ""
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
+"Trouver et télécharger rapidement des logiciels depuis la logithèque Ubuntu."
 
 #: ../en/index.html
 msgid "Clear"
@@ -555,6 +556,8 @@ msgstr "Accessible"
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
+"Sauvegardez et accédez à vos fichiers depuis Ubuntu, Windows, le web ou un "
+"téléphone portable."
 
 #: ../en/index.html
 msgid "Title:"
@@ -711,7 +714,7 @@ msgstr "Brouillon"
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "Libre"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
@@ -720,10 +723,12 @@ msgstr ""
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
+"LibreOffice Writer vous permet de concevoir simplement des documents "
+"professionnels."
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr ""
+msgstr "Affichage…"
 
 #: ../en/index.html
 msgid "Software Up to Date"
