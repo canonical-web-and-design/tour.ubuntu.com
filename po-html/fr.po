@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-09-07 21:34+0000\n"
-"Last-Translator: YannUbuntu <yannubuntu@gmail.com>\n"
+"PO-Revision-Date: 2012-09-27 14:29+0000\n"
+"Last-Translator: Pierre Slamich <pierre.slamich@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-08 05:32+0000\n"
-"X-Generator: Launchpad (build 15914)\n"
+"X-Launchpad-Export-Date: 2012-09-28 04:55+0000\n"
+"X-Generator: Launchpad (build 16043)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -75,7 +75,7 @@ msgstr "Trouver des applications"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr ""
+msgstr "Not Alone"
 
 #: ../en/index.html
 msgid "Momiji Dream"
@@ -172,7 +172,7 @@ msgstr "Convertisseur PCB CNC"
 
 #: ../en/index.html
 msgid "On"
-msgstr ""
+msgstr "Actif"
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -365,7 +365,7 @@ msgstr "Solitaire AisleRoit"
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr ""
+msgstr "Envoyez les décibels"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -417,7 +417,7 @@ msgstr "Votre Ubuntu, votre style"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr ""
+msgstr "Réglages de la date et de l'heure"
 
 #: ../en/index.html
 msgid "Recently Used"
@@ -445,7 +445,7 @@ msgstr "répondre"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr ""
+msgstr "Configurer le courriel…"
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
@@ -540,6 +540,9 @@ msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
 msgstr ""
+"Tout la mécanique de jeu est basée sur la manipulation du temps. Voyagez "
+"dans des mondes où le temps se comporte étrangement, observez, apprenez puis "
+"maîtrisez ces mondes."
 
 #: ../en/index.html
 msgid "Mount Snowdon"
@@ -569,7 +572,7 @@ msgstr "Installer un nouveau périphérique..."
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
-msgstr ""
+msgstr "Introduction à Ubuntu"
 
 #: ../en/index.html
 msgid "Videos"
@@ -598,7 +601,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr ""
+msgstr "Non lu:"
 
 #: ../en/index.html
 msgid "Banshee Media Player"
@@ -627,7 +630,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
@@ -666,7 +669,7 @@ msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr ""
+msgstr "Outils pour développeur"
 
 #: ../en/index.html
 msgid "or"
@@ -698,11 +701,11 @@ msgstr "Images"
 
 #: ../en/index.html
 msgid "Away"
-msgstr ""
+msgstr "Absent(e)"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr ""
+msgstr "Relever le courriel"
 
 #: ../en/index.html
 msgid "Size:"
@@ -718,7 +721,7 @@ msgstr "Libre"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr ""
+msgstr "Tenez vos signets Firefox et vos notes Tomboy synchronisés"
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
@@ -732,7 +735,7 @@ msgstr "Affichage…"
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr ""
+msgstr "Logiciel à jour"
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -757,11 +760,13 @@ msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
-msgstr ""
+msgstr "Voir vos photos"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
+"Vous pouvez télécharger, organiser, retoucher et partager vos photos avec "
+"Shotwell."
 
 #: ../en/index.html
 msgid "Sand Maze"
@@ -776,6 +781,8 @@ msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
+"Votre collection complète vous suit partout avec le flux de musique vers "
+"Android et iPhone"
 
 #: ../en/index.html
 msgid "to"
@@ -813,12 +820,16 @@ msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
 msgstr ""
+"Faites bonne impression avec l'outil intuitif de présentation LibreOffice "
+"Impress."
 
 #: ../en/index.html
 msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
+"Vos dossiers et fichiers sont rapidement et facilement accessibles à partir "
+"de votre dossier personnel dans Ubuntu."
 
 #: ../en/index.html
 msgid "Our star apps"
@@ -896,7 +907,7 @@ msgstr "Logithèque Ubuntu"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr ""
+msgstr "Sans nom 1 - LibreOffice Calc"
 
 #: ../en/index.html
 msgid "I already have an account!"
@@ -915,6 +926,8 @@ msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
+"LibreOffice Calc possède tout ce dont vous avez besoin pour créer des "
+"feuilles de calcul claires et précises."
 
 #: ../en/index.html
 msgid ""
@@ -926,7 +939,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr ""
+msgstr "Essayez Ubuntu avec notre démonstration en ligne."
 
 #: ../en/index.html
 msgid "Install"
@@ -938,7 +951,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr ""
+msgstr "WildWheat"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -962,7 +975,7 @@ msgstr "Dossier personnel"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu online tour!"
-msgstr ""
+msgstr "Bienvenue sur la visite Ubuntu en ligne!"
 
 #: ../en/index.html
 msgid "Office"
@@ -979,6 +992,11 @@ msgid ""
 "installation CDs. No fuss. And it’s compatible with Windows too! So you can "
 "open, edit and share Microsoft Office documents stress-free."
 msgstr ""
+"Ubuntu fonctionne à merveille avec une large gamme de périphériques. Il vous "
+"suffit de brancher votre lecteur mp3, appareil photo ou une imprimante et "
+"vous serez opérationnel tout de suite. Aucun CD d'installation. Pas de "
+"chichi. Et il est compatible avec Windows aussi! Ainsi, vous pouvez ouvrir, "
+"modifier et partager des documents Microsoft Office sans stress."
 
 #: ../en/index.html
 msgid "work"
@@ -986,11 +1004,11 @@ msgstr "travail"
 
 #: ../en/index.html
 msgid "Library"
-msgstr ""
+msgstr "Bibliothèque"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr ""
+msgstr "Unifiez vos contacts à travers Bureau, Mobile et Web"
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
@@ -1016,7 +1034,7 @@ msgstr "Chromium"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr ""
+msgstr "Sans nom 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "delete"
@@ -1028,7 +1046,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Busy"
-msgstr ""
+msgstr "Occupé(e)"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1044,11 +1062,11 @@ msgstr "Imprimantes"
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr ""
+msgstr "Réglages du son..."
 
 #: ../en/index.html
 msgid "Search"
-msgstr ""
+msgstr "Rechercher"
 
 #: ../en/index.html
 msgid ""
@@ -1079,7 +1097,7 @@ msgstr "Écrire : (aucun sujet)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr ""
+msgstr "Découverte en ligne d'Ubuntu"
 
 #: ../en/index.html
 msgid "Federica Miglio"
@@ -1092,14 +1110,19 @@ msgid ""
 "gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
 "across 6 unique environments."
 msgstr ""
+"BEEP est un jeu 2D de plate-forme à défilement horizontal avec un gameplay "
+"basé sur la physique. Vous contrôlez un petit robot équipé d'un dispositif "
+"anti-gravité, un jet-pack et un fusil. Conduisez, sautez, volez, nagez et "
+"tirez pour frayer votre chemin à travers 24 niveaux répartis dans 6 "
+"environnements uniques."
 
 #: ../en/index.html
 msgid "Offline"
-msgstr ""
+msgstr "Hors ligne"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr ""
+msgstr "Corbeille"
 
 #: ../en/index.html
 msgid "archive"
@@ -1115,11 +1138,11 @@ msgstr "Gestionnaire de photos Shotwell"
 
 #: ../en/index.html
 msgid "Folders"
-msgstr ""
+msgstr "Dossiers"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr ""
+msgstr "Naviguer sur le Web est rapide et sécurisé avec Ubuntu et Firefox."
 
 #: ../en/index.html
 msgid "Format"
@@ -1135,7 +1158,7 @@ msgstr "Indésirables"
 
 #: ../en/index.html
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../en/index.html
 msgid "Computer"
@@ -1147,7 +1170,7 @@ msgstr "Nouveautés"
 
 #: ../en/index.html
 msgid "App Available for Download"
-msgstr ""
+msgstr "Applications disponibles au téléchargement"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1166,10 +1189,13 @@ msgid ""
 "Inkscape supports multiple opened files and multiple views per file. "
 "Graphics can be printed and exported to png bitmaps."
 msgstr ""
+"Inkscape permet l'ouverture simultanée de multiples images et de multiples "
+"vues par fichier. Les images peuvent être imprimées et exportées en bitmap "
+"au format png."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
@@ -1181,7 +1207,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr ""
+msgstr "Éteindre…"
 
 #: ../en/index.html
 msgid "Fonts"
@@ -1197,19 +1223,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr ""
+msgstr "Bluetooth : actif"
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr ""
+msgstr "Désactiver le Bluetooth"
 
 #: ../en/index.html
 msgid "Installing"
-msgstr ""
+msgstr "Installation en cours"
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr ""
+msgstr "retourner sur le site"
 
 #: ../en/index.html
 msgid "Download"
@@ -1217,23 +1243,23 @@ msgstr "Télécharger"
 
 #: ../en/index.html
 msgid "Games"
-msgstr ""
+msgstr "Jeux"
 
 #: ../en/index.html
 msgid "Visolate"
-msgstr ""
+msgstr "Visolate"
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr ""
+msgstr "Messagerie Internet Empathy"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
+msgstr "Créer et éditer des images vectorielles au format SVG"
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr ""
+msgstr "Périphériques connectés"
 
 #: ../en/index.html
 msgid "View"
@@ -1249,7 +1275,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr ""
+msgstr "Le pouvoir de votre cloud personnel"
 
 #: ../en/index.html
 msgid ""
@@ -1278,7 +1304,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr ""
+msgstr "Non muet"
 
 #: ../en/index.html
 msgid "Rubbish bin"
@@ -1328,6 +1354,19 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
 
 #: ../en/index.html
 msgid "Tools"
