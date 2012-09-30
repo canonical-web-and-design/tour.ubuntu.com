@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-09-27 14:29+0000\n"
+"PO-Revision-Date: 2012-09-29 12:13+0000\n"
 "Last-Translator: Pierre Slamich <pierre.slamich@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-28 04:55+0000\n"
-"X-Generator: Launchpad (build 16043)\n"
+"X-Launchpad-Export-Date: 2012-09-30 05:09+0000\n"
+"X-Generator: Launchpad (build 16049)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -405,7 +405,7 @@ msgstr "Ven. 26 oct. 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr ""
+msgstr "Hibernation"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -421,7 +421,7 @@ msgstr "Réglages de la date et de l'heure"
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr ""
+msgstr "Récemment utilisés"
 
 #: ../en/index.html
 msgid "Cancel"
@@ -454,7 +454,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Clear"
-msgstr ""
+msgstr "Effacer"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -511,7 +511,7 @@ msgstr "Applications au démarrage..."
 
 #: ../en/index.html
 msgid "Remove"
-msgstr ""
+msgstr "Enlever"
 
 #: ../en/index.html
 msgid ""
@@ -619,6 +619,17 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
+"Vous pouvez surfer en toute sécurité avec Ubuntu - sûr que vos fichiers et "
+"vos données resteront protégés. Un pare-feu intégré et une protection contre "
+"les virus sont livrés en standard. Et si une menace potentielle apparaît, "
+"nous fournissons des mises à jour automatiques que vous pouvez installer en "
+"un seul clic. Vous obtenez une sécurité supplémentaire avec AppArmor, qui "
+"protège vos applications importantes afin que les attaquants ne puissent pas "
+"accéder à votre système. Et grâce à Firefox et gnome-keyring, Ubuntu vous "
+"permet de garder vos informations privées... privées. Ainsi, qu'il s'agisse "
+"d' accéder à votre compte bancaire ou de  partager des données sensibles "
+"avec des amis ou des collègues, vous aurez l'esprit en paix quand vous en "
+"avez le plus besoin."
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
@@ -626,7 +637,7 @@ msgstr "Fichiers &amp; Dossiers"
 
 #: ../en/index.html
 msgid "Installed"
-msgstr ""
+msgstr "Installé"
 
 #: ../en/index.html
 msgid "BEEP"
@@ -892,6 +903,10 @@ msgid ""
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
 msgstr ""
+"Profitez de la simplicité de l'interface élégante et intuitive d'Ubuntu. "
+"Rapide, sûr et avec des milliers d'applications à choisir, Ubuntu vous donne "
+"une expérience cohérente, intégrée et simplifiée que vous pouvez vraiment "
+"personnaliser selon vos goûts."
 
 #: ../en/index.html
 msgid "Total:"
@@ -1074,6 +1089,9 @@ msgid ""
 "delicious. The most addicting and awe-inspiring puzzle game will set you on "
 "an adventure that youll never forget!"
 msgstr ""
+"Mais ils ne savent pas qu'ils sont dans un jeu, ou qu'ils sont délicieux. Ce "
+"jeu de réflexion, le plus addictif et grandiose vous emportera dans une "
+"aventure que vous n'oublierez jamais!"
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
@@ -1324,7 +1342,7 @@ msgstr "Créer et modifier des objets ou des animations en 3D"
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr ""
+msgstr "Boîte de réception"
 
 #: ../en/index.html
 msgid "Files Anywhere"
@@ -1370,7 +1388,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Tools"
-msgstr ""
+msgstr "Outils"
 
 #: ../en/index.html
 msgid "Downloads"
