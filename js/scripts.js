@@ -446,7 +446,7 @@ function blurWindows(){
 			}
 		}
 		
-		$.each($('#menu *'), function(){
+		/*$.each($('#menu *'), function(){
 			if($(this).is('img')){
 				$currentBackground = $(this).attr('src');
 				$indexLastSlash = $currentBackground.lastIndexOf('/');
@@ -460,7 +460,7 @@ function blurWindows(){
 					$(this).css('background-image',$newBackgroundLink);
 				}
 			}
-		});
+		});*/
 		$.each($('#top-right *'), function(){
 			if($(this).is('img')){
 				$currentBackground = $(this).attr('src');
