@@ -97,12 +97,12 @@
 	    }
 	    
 		#menu{
-			background:#502737;
+			background:#500D28;
 			width:70px;
 			position:absolute;
 			left: 0px; 
     		top: 24px;	
-    		border-right: 1px solid #493240;
+    		border-right: 1px solid #6e3a4d;
     		z-index: 10;
     		overflow:hidden;
 			-webkit-user-select: none;

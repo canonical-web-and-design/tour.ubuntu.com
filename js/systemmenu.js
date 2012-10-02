@@ -218,6 +218,12 @@ function SystemMenu($parent){
 			break;
 		}
 		$("#menu ul li."+$menu+" img.open-arrow").show();
+		if($menu != 'dash' && $menu != 'rubbish'){
+			var $currentBackground = $("#menu ul li."+$menu).css('background-image');
+			$indexLastSlash = $currentBackground.lastIndexOf('.');
+			$newBackgroundLink = $currentBackground.substr(0,$indexLastSlash) + '-active.png';
+			$("#menu ul li."+$menu).css('background-image',$newBackgroundLink);
+		}
 	}
 	
 	this.increaseFullscreen = function(){
@@ -241,6 +247,8 @@ function SystemMenu($parent){
 	
 	this.closeWindow = function($icon){
 		$("#menu ul li."+$icon+" img").hide();
+		var $currentBackground = $("#menu ul li."+$icon).css('background-image');
+		$("#menu ul li."+$icon).css('background-image',$currentBackground.replace('-active',''));
 		if($("#menu ul li."+$icon).hasClass('temp')){
 			$("#menu ul li."+$icon).hide();
 		}
