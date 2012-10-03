@@ -70,7 +70,7 @@
 				<div id="title"></div>
 			</div>
 			<div id="top-right">
-				<div id="message"><img src="../img/top/nomessage.jpg" class="message-logo" alt="" />
+				<div id="message"><img src="../img/top/nomessage.png" class="message-logo" alt="" />
 					<ul class="drop-down">
 						<li class="disabled"><img src="../img/top/available.jpg" alt=""/> 在线
 						</li>
@@ -228,7 +228,7 @@
 		<div id="menu">
 			<ul>
 				<li class="dash">
-					<span>主面板</span>
+					<span>主面板</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
 				<li class="home"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>主文件夹</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
@@ -260,50 +260,16 @@
 			<div class="copyDash"></div>
 			<div id="overlayContents">
 				<input type="text" name="search" value="Search"/>
-				<!--<div id="shortcuts">
-					<div id="shortcut-title"><img src="../img/overlay/shortcuts-logo.png" alt=""/> Shortcuts <p class="shortcut-arrow"></p>
-					</div>
-					<div id="shortcut-contents">
-						<div id="media-apps" class="first">
-							<div></div><div class="dashClear"></div><span>Media Apps</span>
-						</div>
-						<div id="internet-apps">
-							<div></div><div class="dashClear"></div><span>Internet Apps</span>
-						</div>
-						<div id="more-apps">
-							<div></div><div class="dashClear"></div><span>More Apps</span>
-						</div>
-						<div id="find-apps">
-							<div></div><div class="dashClear"></div><span>Find Files</span>
-						</div>
-						<div id="browse-the-web" class="first">
-							<div></div><div class="dashClear"></div><span>Browse the Web</span>
-						</div>
-						<div id="view-photos">
-							<div></div><div class="dashClear"></div><span>View Photos</span>
-						</div>
-						<div id="check-email">
-							<div></div><div class="dashClear"></div><span>Check Email</span>
-						</div>
-						<div id="listen-to-music">
-							<div></div><div class="dashClear"></div><span>Listen to Music</span>
-						</div>
-					</div>
-				</div>-->
 				<div id="display-home" class="app-container">
 					<div class="recent-apps bottom"><img src="../img/overlay/recentapps.png" alt=""/> 最近的应用 <div class="app-list"></div>
 					</div>
 					<div class="recent-files bottom"><img src="../img/overlay/recentfiles.png" alt=""/> 最近打开的文件<div class="app-list"></div>
-					</div>
-					<div class="downloads"><img src="../img/overlay/downloaded.png" alt=""/> 下载<div class="app-list"></div>
 					</div>
 				</div>
 				<div id="display-apps" class="app-container">
 					<div class="frequently bottom"><img src="../img/overlay/recentapps.png" alt=""/> 最近使用的 <div class="app-list"></div>
 					</div>
 					<div class="installed bottom"><img src="../img/overlay/installed.png" alt=""/> 已安装<div class="app-list"></div>
-					</div>
-					<div class="available"><img src="../img/overlay/available.png" alt=""/> 可供下载的应用<div class="app-list"></div>
 					</div>
 				</div>
 				<div id="display-find-files" class="app-container">
@@ -1034,7 +1000,7 @@
 				<div class="selected-details"></div>
 			</div>
 		</div>
-		<div id="welcome">
+		<!--<div id="welcome">
 			<div id="welcome-screen">
 				<div class="close"></div>
 				<h1>欢迎尝试Ubuntu 在线体验</h1>
@@ -1072,7 +1038,58 @@
 				<a class="explore-mode primary" href="#">四处看看</a>
 				<a class="tour-mode" href="#">观看此向导</a>
 			</div>
+		</div>-->
+		
+		
+		
+		<div id="welcome">
+			<div id="welcome-screen" class="selected-window">
+				<div class="control">
+					<div class="window-title">W欢迎尝试Ubuntu 在线体验</div>
+				</div>
+				<div class="welcome-header">
+					<h1>W欢迎尝试Ubuntu 在线体验</h1>
+					<h2>用我们的在线演示来尝试 Ubuntu。</h2>
+				</div>
+				<ul>
+					<li>
+						<a class="browse-files" href="#browse-files">浏览文件</a>
+					</li>
+					<li>
+						<a class="check-email" href="#check-email">检查邮件</a>
+					</li>
+					<li>
+						<a class="surf-the-web" href="#surf-the-web">浏览网络</a>
+					</li>
+					<li>
+						<a class="find-apps" href="#find-apps">寻找程序</a>
+					</li>
+					<li>
+						<a class="create-documents" href="#create-documents">创建文档</a>
+					</li>
+					<li>
+						<a class="view-photos" href="#view-photos">观看照片</a>
+					</li>
+					<li>
+						<a class="create-presentations" href="#create-presentations">创建演示文稿</a>
+					</li>
+					<li>
+						<a class="create-spreadsheets" href="#create-spreadsheets">创建表格</a>
+					</li>
+				</ul>
+				<div class="language-mode">
+					<a href="/tour/en/">English</a>
+					<span class="active">中文</span>
+				</div>
+				<a class="explore-mode primary" href="#">四处看看</a>
+				<a class="tour-mode" href="#">观看此向导</a>
+			</div>
 		</div>
+		
+		
+		
+		
+		
 		<div id="tour-guide">
 			<div class="next-button"><img src="../img/tourguide/arrow-next.png" alt="" />
 			</div>
@@ -1147,6 +1164,14 @@
 				<h3>创建演示文稿</h3>
 				<p>
 					使用直观的 LibreOffice 演示文稿 来创建一个良好的影响
+				</p>
+			</div>
+			<div class="guide-container movieplayer">
+				<div class="guide-logo"><img src="../img/tourguide/video-small.png" />
+				</div>
+				<h3>Watch vidoes</h3>
+				<p>
+					Watch videos and films to your hearts content.
 				</p>
 			</div>
 			<div class="explore-tooltip-download">

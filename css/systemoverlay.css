@@ -8,7 +8,7 @@
 	height:100%;
 	position: absolute;
 	/*background:url(../img/dash-bg-60.png);*/
-	background-color:rgba(130, 60, 80, 0.8);
+	background-color:rgba(60, 25, 59, 0.5);
 	top:0px;
 	left:0px;
 	z-index:12;
@@ -20,23 +20,19 @@
 #systemOverlay input{
 	background:url(../img/overlay/search-logo.png) no-repeat 10px center;
 	position: relative;
-	width: 450px;
+	width: 88%;
 	height:40px;
 	left:90px;
-	
 	top:30px;
-	color:#666;
+	color:#eee;
 	font-style:italic;
-	padding:0px 60px;
+	padding:0px 50px;
 	font-size:18px;
 		-moz-border-radius:4px 4px 4px 4px;
 		-webkit-border-radius:4px 4px 4px 4px;
 	border-radius:4px 4px 4px 4px;
-		-moz-box-shadow: 0px 0px 5px #fff;
-	  	-webkit-box-shadow: 0px 0px 5px #fff;
-	box-shadow: 0px 0px 5px #fff;
 	border:1px solid #fff;
-	background-color:rgba(0,0,0,0.5);
+	background-color:rgba(0,0,0,0.2);
 	outline-style:none;
 }
 
@@ -55,6 +51,7 @@
 }
 #systemOverlay img{
 	vertical-align: text-top;
+	margin-right: 8px;
 }
 #systemOverlay #shortcuts img{
 	vertical-align: middle;
@@ -74,40 +71,39 @@
 	display:none;
 	position:absolute;
 	left:110px;
-	top:120px;
+	top:100px;
 	width:91%;
 }
 
 #systemOverlay #overlayContents{
-	margin-top:24px;
+	margin-top:10px;
 }
 
 #systemOverlay #overlayContents .bottom{
-	border-bottom:2px solid #806067;
-	margin-bottom:20px;
+	margin-bottom:40px;
 } 
 
 #systemOverlay .app-container .app-list{
 	width:100%;
-	height:92px;
+	height:110px;
 	margin:20px;
 	overflow:hidden;
 }
 
 #systemOverlay .app-container .app-list div{
 	width:200px;
-	height:100px;
+	height:120px;
 	float:left;
 	text-align:center;
 }
 
 #systemOverlay .app-container .app-list div img{
-	padding:5px;
+	padding:20px;
 	height:46px;
 }
 
 #systemOverlay .app-container .app-list div img.hover{
-	background:#ffffff;
+	background-color:rgba(255,255,255,0.3);
 	-moz-border-radius:4px 4px 4px 4px;
 	-webkit-border-radius:4px 4px 4px 4px;
 	border-radius:4px 4px 4px 4px;
@@ -115,6 +111,7 @@
 
 #systemOverlay .app-container .app-list div p{
 	font-size:14px;
+	margin-top: 0px;
 }
 
 #systemOverlay #shortcuts .hover{

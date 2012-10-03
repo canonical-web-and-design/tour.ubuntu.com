@@ -83,6 +83,13 @@ function WelcomeSystem($parent){
 				_parent.guidedTourSystem.setCurrentIndex(7);
 			    _parent.systemMenu.handleMenuClick('calc');
 			break;
+			case 'watch-video':
+				$('#welcome').hide();
+				_isOpen = false;
+				_parent.guidedTourSystem.setCurrentIndex(8);
+				_parent.systemMenu.handleMenuClick('movieplayer');
+				_parent.moviePlayerSystem.addVideo();
+			break;
 			case 'explore-mode':
 				$('#welcome').hide();
 				_isOpen = false;

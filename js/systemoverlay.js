@@ -14,7 +14,7 @@ function SystemOverlay($parent){
 	var moreApps;
 	var downloadApps;
 	this.totalApps;
-	var fileList;
+	var fileList, lastOpenWindow;
 	var searching = false;
 	
 	this.init = function(){
@@ -75,68 +75,6 @@ function SystemOverlay($parent){
 		
 		this.resize();
 		
-		/*$('#systemOverlay #shortcut-title').bind('mouseover',function(){
-			$('#systemOverlay #shortcut-title .shortcut-arrow').addClass('hover');
-		});
-		
-		$('#systemOverlay #shortcut-title').bind('mouseout',function(){
-			$('#systemOverlay #shortcut-title .shortcut-arrow').removeClass('hover');
-		});
-		
-		$('#systemOverlay #shortcut-title').bind('click',function(){
-			if($('#systemOverlay #shortcut-title p').hasClass('closed')){
-				$('#systemOverlay #shortcut-title .shortcut-arrow').removeClass('closed');
-				$('#systemOverlay #shortcuts #shortcut-contents').show();
-			}else{
-				$('#systemOverlay #shortcut-title .shortcut-arrow').addClass('closed');
-				$('#systemOverlay #shortcuts #shortcut-contents').hide();
-			}
-		});
-		
-		$('#systemOverlay #shortcuts #shortcut-contents div').bind('mouseover',function(){
-			$('div', this).addClass('hover');
-		});
-		
-		$('#systemOverlay #shortcuts #shortcut-contents div').bind('mouseout',function(){
-			$('div', this).removeClass('hover');
-		});
-		
-		$('#systemOverlay #shortcuts #shortcut-contents div').bind('mousedown',function(){
-			var theID = $(this).attr('id');
-			if(theID != undefined){
-				switch(theID){
-					case 'browse-the-web':
-						_this.closeOverlay();
-						_parent.systemMenu.handleMenuClick('firefox');
-					break;
-					case 'view-photos':
-						_this.closeOverlay();
-						_parent.systemMenu.handleMenuClick('shotwell');
-					break;
-					case 'check-email':
-						_this.closeOverlay();
-						_parent.systemMenu.handleMenuClick('email');
-					break;
-					case 'listen-to-music':
-						_this.closeOverlay();
-						_parent.errorMessage.open();
-					break;
-					case 'media-apps':
-						_this.displayApps('media');
-					break;
-					case 'internet-apps':
-						_this.displayApps('internet');
-					break;
-					case 'more-apps':
-						_this.displayApps('more');
-					break;
-					case 'find-apps':
-						_this.displayFindApps();
-					break;
-					
-				}
-			}
-		});*/
 		
 		$('#systemOverlay #dash-bottom-bar .bottom-wrapper div').click(function(){
 			$('#systemOverlay #dash-bottom-bar .bottom-wrapper div').removeClass('active');
@@ -174,7 +112,7 @@ function SystemOverlay($parent){
 			if ($(this).val() == '') {
 				$(this).val(_search_);
 				$(this).css('font-style', 'italic');
-				$(this).css('color', '#666');
+				$(this).css('color', '#aaa');
 				_this.reset();
 			}
 		});
@@ -520,7 +458,7 @@ function SystemOverlay($parent){
 	this.reset = function(){
 		$('#systemOverlay input').val(_search_);
 		$('#systemOverlay input').css('font-style', 'italic');
-		$('#systemOverlay input').css('color', '#666');
+		$('#systemOverlay input').css('color', '#aaa');
 		this.hideAll();
 		$('#systemOverlay #display-home').show();
 		$('#systemOverlay #dash-bottom-bar .bottom-wrapper div').removeClass('active');
@@ -557,14 +495,13 @@ function SystemOverlay($parent){
 		 $('#systemOverlay .app-container .app-list div').unbind('mouseover');
 		 $('#systemOverlay .app-container .app-list div').unbind('mouseout');
 		 $('#systemOverlay .app-container .app-list div').unbind('click');
+		 $('#menu .dash .selected-window-arrow').hide();
+		 $('#menu .' + _parent.systemMenu.getSelectedMenu() + ' .selected-window-arrow').show();
 	}
 	
 	this.resize = function(){
-		//var shortcutsHalfWidth = $('#systemOverlay #shortcuts #shortcut-contents').width() / 2;
-		//var appsLeft = ($(document).width() / 2) - shortcutsHalfWidth - 70;
-		//$('#systemOverlay #shortcuts #shortcut-contents').css('left',appsLeft);
 		$('#systemOverlay  .bottom-wrapper').css('left',($('#dash-bottom-bar').width() / 2) - ($('#dash-bottom-bar .bottom-wrapper').width() / 2));
-		//$('#systemOverlay  .bottom-wrapper').css('left',appsLeft + shortcutsHalfWidth);
 		$('#systemOverlay').css('height',$(document).height() - 50);
+		$('#systemOverlay input').css('width',$('#dash-bottom-bar').width() - 250);
 	}
 }

@@ -12,14 +12,9 @@ function SystemMenu($parent){
 	var locked = false;
 	var menuScrollAmount = 0;
 	var scrolling = false;
+	var selectedMenu;
 	
 	this.init = function(){
-		 /*$("#menu").mouseover(function(e){
-	     	if(menuTimeout != null){
-		     		clearInterval(menuTimeout);
-		     		menuTimeout = null;
-	     	}
-	     });*/
 	     
 	     $('#menu ul li').mouseover(function() {
 				$('#tooltip-text').text($(this).text());
@@ -97,8 +92,13 @@ function SystemMenu($parent){
 	}
 	
 	this.handleMenuClick = function($menu){
+		if($menu != 'dash'){
+			selectedMenu = $menu;
+		}
 		switch($menu){
 			case 'dash':
+				$('#menu .selected-window-arrow').hide();
+				$('#menu .dash .selected-window-arrow').show();
 				_parent.systemOverlay.open();
 			break;
 			case 'home':
@@ -218,12 +218,16 @@ function SystemMenu($parent){
 			break;
 		}
 		$("#menu ul li."+$menu+" img.open-arrow").show();
-		if($menu != 'dash' && $menu != 'rubbish'){
-			var $currentBackground = $("#menu ul li."+$menu).css('background-image');
+		var $currentBackground = $("#menu ul li."+$menu).css('background-image');
+		if($menu != 'dash' && $menu != 'rubbish' && $currentBackground.indexOf('-active') == -1){
 			$indexLastSlash = $currentBackground.lastIndexOf('.');
 			$newBackgroundLink = $currentBackground.substr(0,$indexLastSlash) + '-active.png';
 			$("#menu ul li."+$menu).css('background-image',$newBackgroundLink);
 		}
+	}
+	
+	this.getSelectedMenu = function() {
+		return selectedMenu;
 	}
 	
 	this.increaseFullscreen = function(){
