@@ -54,8 +54,7 @@ function MoviePlayerSystem($parent){
 		$('#movieplayer .container .video').html('');
 	}
 	
-	this.open = function(){
-		//this.addVideo();
+	this.open = function($playvideo){
 		if(!_isOpen){
 			this.resize();
 			this.center();

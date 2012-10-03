@@ -92,7 +92,7 @@
 .folder .selected-details{
 	min-width:25px;
 	height:19px;
-	float:left;
+	float:right;
 	background:#fcfcbd;
 	margin-top:-21px;
 	border:1px solid #dbdb5a;
@@ -112,10 +112,6 @@
 	background: url(../img/folder/back.jpg) no-repeat 0px 0px;
 }
 
-#folder-window .buttons .folder-back:hover{
-	background-position: 0px -37px;
-}
-
 #folder-window .buttons .folder-forward{
 	width:30px;
 	height:37px;
@@ -123,11 +119,12 @@
 	background: url(../img/folder/forward.jpg) no-repeat 0px 0px;
 }
 
-#folder-window .buttons .folder-forward:hover{
-	background-position: 0px -37px;
+#folder-window .buttons .folder-forward:hover,
+#folder-window .buttons .folder-back:hover {
+	background-position: 0px -39px;
 }
 #folder-window .buttons .disabled{
- 	background-position: 0px -74px !important;
+ 	background-position: 0px -78px !important;
  }
 #folder-window .buttons .folder-icon-view{
 	margin:5px 0px 0px 5px;

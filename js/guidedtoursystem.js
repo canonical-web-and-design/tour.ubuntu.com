@@ -15,6 +15,7 @@ function GuidedTourSystem($parent){
 	var createdocumentsGuide;
 	var createpresentation;
 	var createspreadsheets;
+	var watchVideosGuide;
 	var arrowClicked = false;
 	
 	var welcomeGuide;
@@ -34,8 +35,9 @@ function GuidedTourSystem($parent){
 		createdocumentsGuide = {system:'writer',icon:'img/tourguide/document-small.png', title:'Create documents', desc:'LibreOffice Writer makes it easy to draft professional documents.', hash: 'create-documents'};
 		createspreadsheets  = {system:'calc',icon:'img/tourguide/calc-small.png', title:'Create spreadsheets', desc:'LibreOffice Calc has everything you need to create clear and accurate spreadsheets.', hash: 'create-spreadsheets'};
 		createpresentation = {system:'impress',icon:'img/tourguide/impress-small.png', title:'Create presentations', desc:'Make a good impression with the intuitive LibreOffice Impress presentation tool.', hash: 'create-presentations'};
+		watchVideosGuide = {system:'movieplayer',icon:'img/tourguide/impress-small.png', title:'Watch vidoes', desc:'Watch videos and films to your hearts content.', hash: 'watch-video'};
 		
-		guides = new Array(browserfilesGuide, surfthewebGuide, checkemailGuide, viewphotosGuide, findappsGuide, createdocumentsGuide, createspreadsheets, createpresentation);
+		guides = new Array(browserfilesGuide, surfthewebGuide, checkemailGuide, viewphotosGuide, findappsGuide, createdocumentsGuide, createspreadsheets, createpresentation, watchVideosGuide);
 		guideCount = guides.length;
 		$('#tour-guide .next-button').bind('click',function(){
 			if(!$(this).hasClass('disabled')){
@@ -125,26 +127,6 @@ function GuidedTourSystem($parent){
 			$('#tour-guide .prev-button').show();
 			$('#tour-guide .next-button').show();
 		}
-		
-		
-		
-		/*if(currentIndex == -1){
-			$('#tour-guide .guide-container .guide-logo').hide();
-			$('#tour-guide .prev-button').hide();
-			$('#tour-guide .next-button').hide();
-			$('#tour-guide .guide-container h3').hide();
-			$('#tour-guide .guide-container p').html(homeGuide.desc);
-		}else{
-			if(!$('#tour-guide .guide-container .guide-logo').is(':visible')){
-				$('#tour-guide .guide-container .guide-logo').show();
-				$('#tour-guide .guide-container h3').show();
-				$('#tour-guide .prev-button').show();
-				$('#tour-guide .next-button').show();
-			}
-			$('#tour-guide .guide-container .guide-logo').css('background','url('+guides[currentIndex].icon+')');
-			$('#tour-guide .guide-container h3').text(guides[currentIndex].title);
-			$('#tour-guide .guide-container p').text(guides[currentIndex].desc);
-		}*/
 	}
 
 	this.updateHash = function() {

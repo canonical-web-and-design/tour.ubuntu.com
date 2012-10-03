@@ -25,7 +25,7 @@
 		<!--[if IE 8]>
 		<link rel="stylesheet" href="../css/iefix.css" type="text/css" />
 		<![endif]-->
-		<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700' rel='stylesheet' type='text/css' />
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css' />
 		<script type="text/javascript">
 			WebFontConfig = {
 				google : {
@@ -70,7 +70,7 @@
 				<div id="title"></div>
 			</div>
 			<div id="top-right">
-				<div id="message"><img src="../img/top/nomessage.jpg" class="message-logo" alt="" />
+				<div id="message"><img src="../img/top/nomessage.png" class="message-logo" alt="" />
 					<ul class="drop-down">
 						<li class="disabled"><img src="../img/top/available.jpg" alt=""/> Available
 						</li>
@@ -228,7 +228,7 @@
 		<div id="menu">
 			<ul>
 				<li class="dash">
-					<span>Dash home</span>
+					<span>Dash home</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
 				<li class="home"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Home Folder</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
@@ -260,50 +260,16 @@
 			<div class="copyDash"></div>
 			<div id="overlayContents">
 				<input type="text" name="search" value="Search"/>
-				<!--<div id="shortcuts">
-					<div id="shortcut-title"><img src="../img/overlay/shortcuts-logo.png" alt=""/> Shortcuts <p class="shortcut-arrow"></p>
-					</div>
-					<div id="shortcut-contents">
-						<div id="media-apps" class="first">
-							<div></div><div class="dashClear"></div><span>Media Apps</span>
-						</div>
-						<div id="internet-apps">
-							<div></div><div class="dashClear"></div><span>Internet Apps</span>
-						</div>
-						<div id="more-apps">
-							<div></div><div class="dashClear"></div><span>More Apps</span>
-						</div>
-						<div id="find-apps">
-							<div></div><div class="dashClear"></div><span>Find Files</span>
-						</div>
-						<div id="browse-the-web" class="first">
-							<div></div><div class="dashClear"></div><span>Browse the Web</span>
-						</div>
-						<div id="view-photos">
-							<div></div><div class="dashClear"></div><span>View Photos</span>
-						</div>
-						<div id="check-email">
-							<div></div><div class="dashClear"></div><span>Check Email</span>
-						</div>
-						<div id="listen-to-music">
-							<div></div><div class="dashClear"></div><span>Listen to Music</span>
-						</div>
-					</div>
-				</div>-->
 				<div id="display-home" class="app-container">
-					<div class="recent-apps bottom"><img src="../img/overlay/recentapps.png" alt=""/> Recent Apps <div class="app-list"></div>
+					<div class="recent-apps bottom"><img src="../img/overlay/recentapps.png" alt=""/> Applications <div class="app-list"></div>
 					</div>
-					<div class="recent-files bottom"><img src="../img/overlay/recentfiles.png" alt=""/> Recent Files<div class="app-list"></div>
-					</div>
-					<div class="downloads"><img src="../img/overlay/downloaded.png" alt=""/> Downloads<div class="app-list"></div>
+					<div class="recent-files bottom"><img src="../img/overlay/recentfiles.png" alt=""/> Files &amp; Folders<div class="app-list"></div>
 					</div>
 				</div>
 				<div id="display-apps" class="app-container">
 					<div class="frequently bottom"><img src="../img/overlay/recentapps.png" alt=""/> Recently Used <div class="app-list"></div>
 					</div>
-					<div class="installed bottom"><img src="../img/overlay/installed.png" alt=""/> Installed<div class="app-list"></div>
-					</div>
-					<div class="available"><img src="../img/overlay/available.png" alt=""/> App Available for Download<div class="app-list"></div>
+					<div class="installed"><img src="../img/overlay/installed.png" alt=""/> Installed<div class="app-list"></div>
 					</div>
 				</div>
 				<div id="display-find-files" class="app-container">
@@ -1034,7 +1000,7 @@
 				<div class="selected-details"></div>
 			</div>
 		</div>
-		<div id="welcome">
+		<!--<div id="welcome">
 			<div id="welcome-screen">
 				<div class="close"></div>
 				<h1>Welcome to the Ubuntu online tour!</h1>
@@ -1063,6 +1029,52 @@
 					</li>
 					<li>
 						<a class="create-presentations" href="#create-presentations">Create presentations</a>
+					</li>
+				</ul>
+				<div class="language-mode">
+					<span class="active">English</span>
+					<a href="/tour/zh-CN/">中文</a>
+				</div>
+				<a class="explore-mode primary" href="#">Show yourself around</a>
+				<a class="tour-mode" href="#">Take the guided tour</a>
+			</div>
+		</div>-->
+		<div id="welcome">
+			<div id="welcome-screen" class="selected-window">
+				<div class="control">
+					<div class="window-title">Ubuntu tour</div>
+				</div>
+				<div class="welcome-header">
+					<h1>Welcome to the Ubuntu 12.10 tour!</h1>
+					<h2>Take Ubuntu for a test drive with our online demo.</h2>
+				</div>
+				<ul>
+					<li>
+						<a class="browse-files" href="#browse-files">Browse files</a>
+					</li>
+					<li>
+						<a class="check-email" href="#check-email">Check email</a>
+					</li>
+					<li>
+						<a class="surf-the-web" href="#surf-the-web">Surf the web</a>
+					</li>
+					<li>
+						<a class="find-apps" href="#find-apps">Find apps</a>
+					</li>
+					<li>
+						<a class="create-documents" href="#create-documents">Create documents</a>
+					</li>
+					<li>
+						<a class="view-photos" href="#view-photos">View photos</a>
+					</li>
+					<li>
+						<a class="create-presentations" href="#create-presentations">Create presentations</a>
+					</li>
+					<li>
+						<a class="create-spreadsheets" href="#create-spreadsheets">Create spreadsheets</a>
+					</li>
+					<li>
+						<a class="watch-video" href="#watch-video">Watch videos</a>
 					</li>
 				</ul>
 				<div class="language-mode">
@@ -1147,6 +1159,14 @@
 				<h3>Create presentations</h3>
 				<p>
 					Make a good impression with the intuitive LibreOffice Impress presentation tool.
+				</p>
+			</div>
+			<div class="guide-container movieplayer">
+				<div class="guide-logo"><img src="../img/tourguide/video-small.png" />
+				</div>
+				<h3>Watch vidoes</h3>
+				<p>
+					Watch videos and films to your hearts content.
 				</p>
 			</div>
 			<div class="explore-tooltip-download">
