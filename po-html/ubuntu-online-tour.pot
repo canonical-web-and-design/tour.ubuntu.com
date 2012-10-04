@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2012-04-24 11:09:27.171586\n"
-"PO-Revision-Date: 2012-04-24 11:09:27.171586\n"
+"POT-Creation-Date: 2012-10-05 00:32:35.293707\n"
+"PO-Revision-Date: 2012-10-05 00:32:35.293707\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: English <yourteam@example.com>\n"
 "MIME-Version: 1.0\n"
@@ -33,6 +33,10 @@ msgid "no subject"
 msgstr ""
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr ""
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr ""
 
@@ -41,7 +45,7 @@ msgid "Desktop"
 msgstr ""
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
+msgid "Get Mail"
 msgstr ""
 
 #: ../en/index.html
@@ -112,6 +116,10 @@ msgid "Download Ubuntu"
 msgstr ""
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr ""
 
@@ -152,7 +160,7 @@ msgid "On"
 msgstr ""
 
 #: ../en/index.html
-msgid "Surf the web"
+msgid "Untitled 1 - LibreOffice Writer"
 msgstr ""
 
 #: ../en/index.html
@@ -184,15 +192,11 @@ msgid "From"
 msgstr ""
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr ""
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr ""
 
 #: ../en/index.html
-msgid "Recent Files"
+msgid "Thanks for exploring Ubuntu!"
 msgstr ""
 
 #: ../en/index.html
@@ -316,10 +320,6 @@ msgid "Darkening Clockwork"
 msgstr ""
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr ""
 
@@ -430,7 +430,7 @@ msgid "$19.99"
 msgstr ""
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
+msgid "Watch videos and films to your hearts content."
 msgstr ""
 
 #: ../en/index.html
@@ -612,7 +612,7 @@ msgid "Archive"
 msgstr ""
 
 #: ../en/index.html
-msgid "Recent Apps"
+msgid "Download"
 msgstr ""
 
 #: ../en/index.html
@@ -769,9 +769,7 @@ msgid "Our star apps"
 msgstr ""
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
+msgid "The Grass Aint Greener"
 msgstr ""
 
 #: ../en/index.html
@@ -885,7 +883,15 @@ msgid "Subject:"
 msgstr ""
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
+msgstr ""
+
+#: ../en/index.html
+msgid "Ubuntu tour"
 msgstr ""
 
 #: ../en/index.html
@@ -901,7 +907,7 @@ msgid "Home Folder"
 msgstr ""
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
 msgstr ""
 
 #: ../en/index.html
@@ -952,7 +958,9 @@ msgid "Chromium"
 msgstr ""
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
 msgstr ""
 
 #: ../en/index.html
@@ -1063,6 +1071,10 @@ msgid "Format"
 msgstr ""
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr ""
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr ""
 
@@ -1080,10 +1092,6 @@ msgstr ""
 
 #: ../en/index.html
 msgid "What's New"
-msgstr ""
-
-#: ../en/index.html
-msgid "App Available for Download"
 msgstr ""
 
 #: ../en/index.html
@@ -1141,15 +1149,15 @@ msgid "Turn Off Bluetooth"
 msgstr ""
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr ""
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr ""
-
-#: ../en/index.html
-msgid "Download"
 msgstr ""
 
 #: ../en/index.html
@@ -1217,10 +1225,6 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr ""
-
-#: ../en/index.html
-msgid "The Grass Aint Greener"
 msgstr ""
 
 #: ../en/index.html
