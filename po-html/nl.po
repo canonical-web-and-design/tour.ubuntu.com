@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-05-13 21:08+0000\n"
-"Last-Translator: Rachid <Unknown>\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-14 05:25+0000\n"
-"X-Generator: Launchpad (build 15238)\n"
+"X-Launchpad-Export-Date: 2012-10-05 05:16+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -46,6 +46,10 @@ msgid "no subject"
 msgstr "Geen onderwerp"
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Dybbølsbro Station"
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr "Kijk zelf rond"
 
@@ -54,8 +58,8 @@ msgid "Desktop"
 msgstr "Bureaublad"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr "Bedankt voor het verkennen van Ubuntu!"
+msgid "Get Mail"
+msgstr "E-mail ophalen"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -136,6 +140,10 @@ msgid "Download Ubuntu"
 msgstr "Ubuntu downloaden"
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr "Lid worden"
 
@@ -176,8 +184,8 @@ msgid "On"
 msgstr "Op"
 
 #: ../en/index.html
-msgid "Surf the web"
-msgstr "Op het web surfen"
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "Naamloos 1 - LibreOffice Tekstverwerker"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -208,16 +216,12 @@ msgid "From"
 msgstr "Van"
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "E-mail ophalen"
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
-msgid "Recent Files"
-msgstr "Recente bestanden"
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Bedankt voor het verkennen van Ubuntu!"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -341,10 +345,6 @@ msgid "Darkening Clockwork"
 msgstr "Darkening Clockwork"
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "We hopen dat u heeft genoten van de Ubuntu online tour."
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr "Inkscape grafische vector-bewerker"
 
@@ -457,8 +457,8 @@ msgid "$19.99"
 msgstr "$19.99"
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
-msgstr "Dybbølsbro Station"
+msgid "Watch videos and films to your hearts content."
+msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -666,8 +666,8 @@ msgid "Archive"
 msgstr "Archief"
 
 #: ../en/index.html
-msgid "Recent Apps"
-msgstr "Recente toepassingen"
+msgid "Download"
+msgstr "Downloaden"
 
 #: ../en/index.html
 msgid "Home"
@@ -841,12 +841,8 @@ msgid "Our star apps"
 msgstr "Onze stertoepassingen"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
-"Vergeet niet dat dit alleen maar een demo is. Om het echte werk te kunnen "
-"ervaren zult u het moeten downloaden."
+msgid "The Grass Aint Greener"
+msgstr "Het gras is niet groener"
 
 #: ../en/index.html
 msgid "Date"
@@ -971,8 +967,16 @@ msgid "Subject:"
 msgstr "Onderwerp:"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
 msgstr "Reservekopie"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "History"
@@ -987,8 +991,8 @@ msgid "Home Folder"
 msgstr "Persoonlijke map"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
-msgstr "Welkom bij de Ubuntu online tour!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "We hopen dat u heeft genoten van de Ubuntu online tour."
 
 #: ../en/index.html
 msgid "Office"
@@ -1045,8 +1049,12 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
-msgstr "Naamloos 1 - LibreOffice Tekstverwerker"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Vergeet niet dat dit alleen maar een demo is. Om het echte werk te kunnen "
+"ervaren zult u het moeten downloaden."
 
 #: ../en/index.html
 msgid "delete"
@@ -1163,6 +1171,10 @@ msgid "Format"
 msgstr "Opmaak"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr "Op het web surfen"
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr "Door bestanden op het apparaat bladeren…"
 
@@ -1181,10 +1193,6 @@ msgstr "Computer"
 #: ../en/index.html
 msgid "What's New"
 msgstr "Wat is er nieuw"
-
-#: ../en/index.html
-msgid "App Available for Download"
-msgstr "Toepassing beschikbaar voor download"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1244,16 +1252,16 @@ msgid "Turn Off Bluetooth"
 msgstr "Bluetooth uitschakelen"
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr "Installeren"
 
 #: ../en/index.html
 msgid "back to the site"
 msgstr "Terug naar de website"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "Downloaden"
 
 #: ../en/index.html
 msgid "Games"
@@ -1330,10 +1338,6 @@ msgid "Sound &amp; Video"
 msgstr "Geluid &amp; video"
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr "Het gras is niet groener"
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr "3d-modellen en -animaties ontwerpen en bewerken"
 
@@ -1398,3 +1402,15 @@ msgstr "Uzelf"
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
+
+#~ msgid "Recent Files"
+#~ msgstr "Recente bestanden"
+
+#~ msgid "Recent Apps"
+#~ msgstr "Recente toepassingen"
+
+#~ msgid "App Available for Download"
+#~ msgstr "Toepassing beschikbaar voor download"
+
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "Welkom bij de Ubuntu online tour!"

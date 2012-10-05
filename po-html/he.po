@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-27 09:28+0000\n"
-"Last-Translator: Yaron <sh.yaron@gmail.com>\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-28 05:22+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-10-05 05:17+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -39,6 +39,10 @@ msgid "no subject"
 msgstr "ללא נושא"
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "תחנת Dybbølsbro"
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr "עריכת היכרות באופן עצמאי"
 
@@ -47,8 +51,8 @@ msgid "Desktop"
 msgstr "שולחן עבודה"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr "תודה על הסיור שערכת באובונטו!"
+msgid "Get Mail"
+msgstr "קבלת דוא״ל"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -119,6 +123,10 @@ msgid "Download Ubuntu"
 msgstr "הורדת אובונטו"
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr "הצטרפות כעת"
 
@@ -159,8 +167,8 @@ msgid "On"
 msgstr "ב־"
 
 #: ../en/index.html
-msgid "Surf the web"
-msgstr "גלישה באינטרנט"
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr ""
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -191,16 +199,12 @@ msgid "From"
 msgstr "מאת"
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "קבלת דוא״ל"
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr "eth0 אוטומטית"
 
 #: ../en/index.html
-msgid "Recent Files"
-msgstr "קבצים אחרונים"
+msgid "Thanks for exploring Ubuntu!"
+msgstr "תודה על הסיור שערכת באובונטו!"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -323,10 +327,6 @@ msgid "Darkening Clockwork"
 msgstr ""
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr "עורך הגרפיקה הווקטורית - אינקסקייפ"
 
@@ -437,8 +437,8 @@ msgid "$19.99"
 msgstr "$19.99"
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
-msgstr "תחנת Dybbølsbro"
+msgid "Watch videos and films to your hearts content."
+msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -621,8 +621,8 @@ msgid "Archive"
 msgstr "ארכיון"
 
 #: ../en/index.html
-msgid "Recent Apps"
-msgstr "יישומים אחרונים"
+msgid "Download"
+msgstr "הורדה"
 
 #: ../en/index.html
 msgid "Home"
@@ -778,10 +778,8 @@ msgid "Our star apps"
 msgstr ""
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
+msgid "The Grass Aint Greener"
+msgstr "הדשא לא ירוק יותר"
 
 #: ../en/index.html
 msgid "Date"
@@ -894,8 +892,16 @@ msgid "Subject:"
 msgstr "נושא:‏"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
 msgstr "גיבוי"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "History"
@@ -910,8 +916,8 @@ msgid "Home Folder"
 msgstr "תיקיית הבית"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
-msgstr "ברוך בואך לסיור המקוון באובונטו!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr ""
 
 #: ../en/index.html
 msgid "Office"
@@ -961,7 +967,9 @@ msgid "Chromium"
 msgstr "כרומיום"
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
 msgstr ""
 
 #: ../en/index.html
@@ -1072,6 +1080,10 @@ msgid "Format"
 msgstr "תבנית"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr "גלישה באינטרנט"
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr "עיון בקבצים שבהתקן…"
 
@@ -1090,10 +1102,6 @@ msgstr "מחשב"
 #: ../en/index.html
 msgid "What's New"
 msgstr "מה חדש"
-
-#: ../en/index.html
-msgid "App Available for Download"
-msgstr "יישום זמין להורדה"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1150,16 +1158,16 @@ msgid "Turn Off Bluetooth"
 msgstr ""
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr "בהתקנה"
 
 #: ../en/index.html
 msgid "back to the site"
 msgstr "חזרה לאתר"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "הורדה"
 
 #: ../en/index.html
 msgid "Games"
@@ -1229,10 +1237,6 @@ msgid "Sound &amp; Video"
 msgstr "שמע ווידאו"
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr "הדשא לא ירוק יותר"
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr "יצירה ועריכה של דגמי תלת ממד ואנימציות"
 
@@ -1284,3 +1288,15 @@ msgstr ""
 #: ../en/index.html
 msgid "Blender"
 msgstr ""
+
+#~ msgid "Recent Files"
+#~ msgstr "קבצים אחרונים"
+
+#~ msgid "Recent Apps"
+#~ msgstr "יישומים אחרונים"
+
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "ברוך בואך לסיור המקוון באובונטו!"
+
+#~ msgid "App Available for Download"
+#~ msgstr "יישום זמין להורדה"

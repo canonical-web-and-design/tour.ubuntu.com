@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-09-02 11:24+0000\n"
-"Last-Translator: Tomi Juntunen <Unknown>\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-03 05:36+0000\n"
-"X-Generator: Launchpad (build 15890)\n"
+"X-Launchpad-Export-Date: 2012-10-05 05:16+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -44,6 +44,10 @@ msgid "no subject"
 msgstr "ei aihetta"
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Dybbølsbron asema"
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr "Tutki vapaasti"
 
@@ -52,8 +56,8 @@ msgid "Desktop"
 msgstr "Työpöytä"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr "Kiitos kun tutustuit Ubuntuun!"
+msgid "Get Mail"
+msgstr "Nouda viestit"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -133,6 +137,10 @@ msgid "Download Ubuntu"
 msgstr "Lataa Ubuntu"
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr "Liity nyt"
 
@@ -173,8 +181,8 @@ msgid "On"
 msgstr ""
 
 #: ../en/index.html
-msgid "Surf the web"
-msgstr "Surffaa netissä"
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "Nimetön 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -207,16 +215,12 @@ msgid "From"
 msgstr "Lähettäjä"
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "Nouda viestit"
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
-msgid "Recent Files"
-msgstr "Viimeksi käytetyt tiedostot"
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Kiitos kun tutustuit Ubuntuun!"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -341,10 +345,6 @@ msgid "Darkening Clockwork"
 msgstr "Pimenevä kellonratas"
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "Toivottavasti nautit Ubuntun verkkoesittelystä."
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr "Inkscape-vektorikuvitus"
 
@@ -458,8 +458,8 @@ msgid "$19.99"
 msgstr "$19.99"
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
-msgstr "Dybbølsbron asema"
+msgid "Watch videos and films to your hearts content."
+msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -664,8 +664,8 @@ msgid "Archive"
 msgstr "Arkisto"
 
 #: ../en/index.html
-msgid "Recent Apps"
-msgstr "Viimeisimmät sovellukset"
+msgid "Download"
+msgstr "Lataa"
 
 #: ../en/index.html
 msgid "Home"
@@ -842,12 +842,8 @@ msgid "Our star apps"
 msgstr "Tähtisovellukset"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
-"Muistathan, että tämä on vain esittely. Lataa Ubuntu, niin pääset oikeasti "
-"kokemaan mistä on kyse."
+msgid "The Grass Aint Greener"
+msgstr "Ruoho ei ole vihreämpää"
 
 #: ../en/index.html
 msgid "Date"
@@ -968,8 +964,16 @@ msgid "Subject:"
 msgstr "Aihe:"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
 msgstr "Varmuuskopio"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr "Ubuntun esittely"
 
 #: ../en/index.html
 msgid "History"
@@ -984,8 +988,8 @@ msgid "Home Folder"
 msgstr "Kotikansio"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
-msgstr "Tervetuloa Ubuntun verkkoesittelyyn!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "Toivottavasti nautit Ubuntun verkkoesittelystä."
 
 #: ../en/index.html
 msgid "Office"
@@ -1043,8 +1047,12 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
-msgstr "Nimetön 1 - LibreOffice Writer"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Muistathan, että tämä on vain esittely. Lataa Ubuntu, niin pääset oikeasti "
+"kokemaan mistä on kyse."
 
 #: ../en/index.html
 msgid "delete"
@@ -1160,6 +1168,10 @@ msgid "Format"
 msgstr "Muotoilu"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr "Surffaa netissä"
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr "Selaa laitteen tiedostoja..."
 
@@ -1178,10 +1190,6 @@ msgstr "Tietokone"
 #: ../en/index.html
 msgid "What's New"
 msgstr "Mitä uutta"
-
-#: ../en/index.html
-msgid "App Available for Download"
-msgstr "Ladattavissa"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1241,16 +1249,16 @@ msgid "Turn Off Bluetooth"
 msgstr "Kytke Bluetooth pois päältä"
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr "Asennetaan"
 
 #: ../en/index.html
 msgid "back to the site"
 msgstr "siirry takaisin sivustolle"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "Lataa"
 
 #: ../en/index.html
 msgid "Games"
@@ -1325,10 +1333,6 @@ msgid "Sound &amp; Video"
 msgstr "Ääni ja video"
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr "Ruoho ei ole vihreämpää"
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr "Luo ja muokkaa 3D-malleja ja animaatioita"
 
@@ -1394,41 +1398,14 @@ msgstr "Sinä"
 msgid "Blender"
 msgstr "Blender"
 
-#~ msgid "Files"
-#~ msgstr "Tiedostot"
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "Tervetuloa Ubuntun verkkoesittelyyn!"
 
-#~ msgid "Webcam"
-#~ msgstr "Web-kamera"
+#~ msgid "App Available for Download"
+#~ msgstr "Ladattavissa"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
+#~ msgid "Recent Files"
+#~ msgstr "Viimeksi käytetyt tiedostot"
 
-#~ msgid "Find Files"
-#~ msgstr "Etsi tiedostoja"
-
-#~ msgid "More Apps"
-#~ msgstr "Lisää sovelluksia"
-
-#~ msgid "Browse the Web"
-#~ msgstr "Selaa verkkoa"
-
-#~ msgid "Internet Apps"
-#~ msgstr "Internet-sovellukset"
-
-#~ msgid "Add Event…"
-#~ msgstr "Lisää tapahtuma..."
-
-#~ msgid "Most Frequently Used"
-#~ msgstr "Useimmin käytetyt"
-
-#~ msgid "Media Apps"
-#~ msgstr "Mediasovellukset"
-
-#~ msgid "Listen to Music"
-#~ msgstr "Kuuntele musiikkia"
-
-#~ msgid "View Photos"
-#~ msgstr "Katso kuvia"
-
-#~ msgid "Check Email"
-#~ msgstr "Tarkista sähköposti"
+#~ msgid "Recent Apps"
+#~ msgstr "Viimeisimmät sovellukset"

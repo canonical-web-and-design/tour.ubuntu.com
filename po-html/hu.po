@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-24 11:42+0000\n"
-"Last-Translator: Gabor Kelemen <kelemeng@gnome.hu>\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-25 05:25+0000\n"
-"X-Generator: Launchpad (build 15139)\n"
+"X-Launchpad-Export-Date: 2012-10-05 05:17+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -45,6 +45,10 @@ msgid "no subject"
 msgstr "nincs tárgy"
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Dybbølsbro Station"
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr "Önállóan fedezem fel"
 
@@ -53,8 +57,8 @@ msgid "Desktop"
 msgstr "Asztal"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr "Köszönjük, hogy felfedezi az Ubuntut!"
+msgid "Get Mail"
+msgstr "Letöltés"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -134,6 +138,10 @@ msgid "Download Ubuntu"
 msgstr "Az Ubuntu letöltése"
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr "Csatlakozás most"
 
@@ -174,8 +182,8 @@ msgid "On"
 msgstr "ekkor"
 
 #: ../en/index.html
-msgid "Surf the web"
-msgstr "A világháló böngészése"
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "Névtelen 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -206,16 +214,12 @@ msgid "From"
 msgstr "Feladó"
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "Letöltés"
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
-msgid "Recent Files"
-msgstr "Legutóbbi fájlok"
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Köszönjük, hogy felfedezi az Ubuntut!"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -339,10 +343,6 @@ msgid "Darkening Clockwork"
 msgstr "Darkening Clockwork"
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "Reméljük tetszett az Ubuntu bemutató."
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr "Inkscape vektorgrafikai szerkesztő"
 
@@ -456,8 +456,8 @@ msgid "$19.99"
 msgstr "$19.99"
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
-msgstr "Dybbølsbro Station"
+msgid "Watch videos and films to your hearts content."
+msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -664,8 +664,8 @@ msgid "Archive"
 msgstr "Archívum"
 
 #: ../en/index.html
-msgid "Recent Apps"
-msgstr "Legutóbbi alkalmazások"
+msgid "Download"
+msgstr "Letöltés"
 
 #: ../en/index.html
 msgid "Home"
@@ -841,12 +841,8 @@ msgid "Our star apps"
 msgstr "Legjobb alkalmazásaink"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
-"Ne feledje, hogy ez csak egy bemutató. A valódi rendszer használatához le "
-"kell töltenie azt!"
+msgid "The Grass Aint Greener"
+msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
 msgid "Date"
@@ -968,8 +964,16 @@ msgid "Subject:"
 msgstr "Tárgy:"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
 msgstr "Biztonsági mentés"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "History"
@@ -984,8 +988,8 @@ msgid "Home Folder"
 msgstr "Saját mappa"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
-msgstr "Üdvözöljük az online Ubuntu bemutatón!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "Reméljük tetszett az Ubuntu bemutató."
 
 #: ../en/index.html
 msgid "Office"
@@ -1043,8 +1047,12 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
-msgstr "Névtelen 1 - LibreOffice Writer"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Ne feledje, hogy ez csak egy bemutató. A valódi rendszer használatához le "
+"kell töltenie azt!"
 
 #: ../en/index.html
 msgid "delete"
@@ -1161,6 +1169,10 @@ msgid "Format"
 msgstr "Formátum"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr "A világháló böngészése"
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr "Fájlok tallózása az eszközön…"
 
@@ -1179,10 +1191,6 @@ msgstr "Számítógép"
 #: ../en/index.html
 msgid "What's New"
 msgstr "Újdonságok"
-
-#: ../en/index.html
-msgid "App Available for Download"
-msgstr "Letölthető alkalmazás"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1242,16 +1250,16 @@ msgid "Turn Off Bluetooth"
 msgstr "Bluetooth kikapcsolása"
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr "Telepítés"
 
 #: ../en/index.html
 msgid "back to the site"
 msgstr "vissza az oldalra"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "Letöltés"
 
 #: ../en/index.html
 msgid "Games"
@@ -1332,10 +1340,6 @@ msgid "Sound &amp; Video"
 msgstr "Hang és videó"
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr "The Grass Aint Greener"
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr "3D modellek és animációk létrehozása és szerkesztése"
 
@@ -1401,46 +1405,14 @@ msgstr "Ön"
 msgid "Blender"
 msgstr "Blender"
 
-#~ msgid "Webcam"
-#~ msgstr "Webkamera"
+#~ msgid "App Available for Download"
+#~ msgstr "Letölthető alkalmazás"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "Üdvözöljük az online Ubuntu bemutatón!"
 
-#~ msgid "Listen to Music"
-#~ msgstr "Zenehallgatás"
+#~ msgid "Recent Files"
+#~ msgstr "Legutóbbi fájlok"
 
-#~ msgid "Shortcuts"
-#~ msgstr "Gyorsbillentyűk"
-
-#~ msgid "Internet Apps"
-#~ msgstr "Internetes alkalmazások"
-
-#~ msgid "Find Files"
-#~ msgstr "Fájlok keresése"
-
-#~ msgid "Add Event…"
-#~ msgstr "Esemény hozzáadása…"
-
-#~ msgid "Most Frequently Used"
-#~ msgstr "Leggyakrabban használt"
-
-#~ msgid "Files"
-#~ msgstr "Fájlok"
-
-#~ msgid "Check Email"
-#~ msgstr "E-mailek ellenőrzése"
-
-#~ msgid "Browse the Web"
-#~ msgstr "Webböngészés"
-
-#~ msgid "More Apps"
-#~ msgstr "További alkalmazások"
-
-#~ msgid "View Photos"
-#~ msgstr "Fotók megtekintése"
-
-#~ msgid "Media Apps"
-#~ msgstr ""
-#~ "Média-\n"
-#~ "alkalmazások"
+#~ msgid "Recent Apps"
+#~ msgstr "Legutóbbi alkalmazások"

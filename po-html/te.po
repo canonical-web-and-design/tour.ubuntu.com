@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-26 05:23+0000\n"
-"Last-Translator: Praveen Illa <mail2ipn@gmail.com>\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Telugu <te@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-27 05:10+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-10-05 05:17+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -39,6 +39,10 @@ msgid "no subject"
 msgstr ""
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr ""
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr ""
 
@@ -47,7 +51,7 @@ msgid "Desktop"
 msgstr "డెస్క్‍టాప్"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
+msgid "Get Mail"
 msgstr ""
 
 #: ../en/index.html
@@ -121,6 +125,10 @@ msgid "Download Ubuntu"
 msgstr ""
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr ""
 
@@ -161,7 +169,7 @@ msgid "On"
 msgstr ""
 
 #: ../en/index.html
-msgid "Surf the web"
+msgid "Untitled 1 - LibreOffice Writer"
 msgstr ""
 
 #: ../en/index.html
@@ -193,16 +201,12 @@ msgid "From"
 msgstr ""
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr ""
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr ""
 
 #: ../en/index.html
-msgid "Recent Files"
-msgstr "ఇటీవలి ఫైళ్లు"
+msgid "Thanks for exploring Ubuntu!"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -325,10 +329,6 @@ msgid "Darkening Clockwork"
 msgstr ""
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr ""
 
@@ -439,7 +439,7 @@ msgid "$19.99"
 msgstr ""
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
+msgid "Watch videos and films to your hearts content."
 msgstr ""
 
 #: ../en/index.html
@@ -621,8 +621,8 @@ msgid "Archive"
 msgstr ""
 
 #: ../en/index.html
-msgid "Recent Apps"
-msgstr "ఇటీవలి అనువర్తనాలు"
+msgid "Download"
+msgstr ""
 
 #: ../en/index.html
 msgid "Home"
@@ -778,9 +778,7 @@ msgid "Our star apps"
 msgstr "మా నక్షత్ర అనువర్తనాలు"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
+msgid "The Grass Aint Greener"
 msgstr ""
 
 #: ../en/index.html
@@ -894,8 +892,16 @@ msgid "Subject:"
 msgstr ""
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
 msgstr "బ్యాక్అప్"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "History"
@@ -910,7 +916,7 @@ msgid "Home Folder"
 msgstr "నివాస సంచయం"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
 msgstr ""
 
 #: ../en/index.html
@@ -961,7 +967,9 @@ msgid "Chromium"
 msgstr "క్రోమియమ్"
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
 msgstr ""
 
 #: ../en/index.html
@@ -1072,6 +1080,10 @@ msgid "Format"
 msgstr "ఆకృతి"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr ""
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr ""
 
@@ -1090,10 +1102,6 @@ msgstr "కంప్యూటర్"
 #: ../en/index.html
 msgid "What's New"
 msgstr "కొత్తవేమిటి"
-
-#: ../en/index.html
-msgid "App Available for Download"
-msgstr ""
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1150,15 +1158,15 @@ msgid "Turn Off Bluetooth"
 msgstr ""
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr ""
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr ""
-
-#: ../en/index.html
-msgid "Download"
 msgstr ""
 
 #: ../en/index.html
@@ -1229,10 +1237,6 @@ msgid "Sound &amp; Video"
 msgstr ""
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr ""
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr ""
 
@@ -1284,3 +1288,9 @@ msgstr "మీరు"
 #: ../en/index.html
 msgid "Blender"
 msgstr ""
+
+#~ msgid "Recent Files"
+#~ msgstr "ఇటీవలి ఫైళ్లు"
+
+#~ msgid "Recent Apps"
+#~ msgstr "ఇటీవలి అనువర్తనాలు"

@@ -1,23 +1,21 @@
 # Chinese (Simplified) translation for ubuntu-online-tour
-# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the ubuntu-online-tour package.
-# ZhengPeng Hou <zhengpeng-hou@ubuntu.com>, 2011.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
-"Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-24 11:16+0000\n"
-"Last-Translator: HuntXu <Unknown>\n"
-"Language-Team: Ubuntu Simplified Chinese Translators <ubuntu-l10n-"
-"admins@googlegroups.com>\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-25 05:25+0000\n"
-"X-Generator: Launchpad (build 15139)\n"
-"Language: \n"
+"X-Launchpad-Export-Date: 2012-10-05 05:17+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -44,6 +42,10 @@ msgid "no subject"
 msgstr "无主题"
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Dybbølsbro Station"
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr "四处看看"
 
@@ -52,8 +54,8 @@ msgid "Desktop"
 msgstr "桌面"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr "感谢体验 Ubuntu"
+msgid "Get Mail"
+msgstr "获取邮件"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -126,6 +128,10 @@ msgid "Download Ubuntu"
 msgstr "下载 Ubuntu"
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr "现在就加入"
 
@@ -166,8 +172,8 @@ msgid "On"
 msgstr "开启"
 
 #: ../en/index.html
-msgid "Surf the web"
-msgstr "浏览网络"
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "未命名 - LibreOffice 文字处理"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -198,16 +204,12 @@ msgid "From"
 msgstr "来自"
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "获取邮件"
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr "自动 eth0"
 
 #: ../en/index.html
-msgid "Recent Files"
-msgstr "最近打开的文件"
+msgid "Thanks for exploring Ubuntu!"
+msgstr "感谢体验 Ubuntu"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -330,10 +332,6 @@ msgid "Darkening Clockwork"
 msgstr "变暗的时钟"
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "希望您喜欢 Ubuntu 在线漫游"
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr "Inkscape 矢量图形编辑器"
 
@@ -444,8 +442,8 @@ msgid "$19.99"
 msgstr "$19.99"
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
-msgstr "Dybbølsbro Station"
+msgid "Watch videos and films to your hearts content."
+msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -632,8 +630,8 @@ msgid "Archive"
 msgstr "存档"
 
 #: ../en/index.html
-msgid "Recent Apps"
-msgstr "最近的应用"
+msgid "Download"
+msgstr "下载"
 
 #: ../en/index.html
 msgid "Home"
@@ -793,10 +791,8 @@ msgid "Our star apps"
 msgstr "金牌应用程序"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr "请注意：这个仅仅是个在线演示。您需要下载后方可享用真实的功能"
+msgid "The Grass Aint Greener"
+msgstr "爱绿"
 
 #: ../en/index.html
 msgid "Date"
@@ -910,8 +906,16 @@ msgid "Subject:"
 msgstr "主题："
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
 msgstr "备份"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr "Ubuntu教程"
 
 #: ../en/index.html
 msgid "History"
@@ -926,8 +930,8 @@ msgid "Home Folder"
 msgstr "主文件夹"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
-msgstr "欢迎尝试Ubuntu 在线体验"
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "希望您喜欢 Ubuntu 在线漫游"
 
 #: ../en/index.html
 msgid "Office"
@@ -980,8 +984,10 @@ msgid "Chromium"
 msgstr "Chromium 网页浏览器"
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
-msgstr "未命名 - LibreOffice 文字处理"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr "请注意：这个仅仅是个在线演示。您需要下载后方可享用真实的功能"
 
 #: ../en/index.html
 msgid "delete"
@@ -1094,6 +1100,10 @@ msgid "Format"
 msgstr "格式"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr "浏览网络"
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr "浏览设备上的文件..."
 
@@ -1112,10 +1122,6 @@ msgstr "计算机"
 #: ../en/index.html
 msgid "What's New"
 msgstr "更新"
-
-#: ../en/index.html
-msgid "App Available for Download"
-msgstr "可供下载的应用"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1172,16 +1178,16 @@ msgid "Turn Off Bluetooth"
 msgstr "关闭蓝牙"
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr "正在安装"
 
 #: ../en/index.html
 msgid "back to the site"
 msgstr "返回网站"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "下载"
 
 #: ../en/index.html
 msgid "Games"
@@ -1254,10 +1260,6 @@ msgid "Sound &amp; Video"
 msgstr "影音"
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr "爱绿"
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr "创建和编辑三维模型及动画"
 
@@ -1323,44 +1325,14 @@ msgstr "您"
 msgid "Blender"
 msgstr "Blender"
 
-#~ msgid "Files"
-#~ msgstr "文件"
+#~ msgid "App Available for Download"
+#~ msgstr "可供下载的应用"
 
-#~ msgid "Webcam"
-#~ msgstr "摄像头"
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "欢迎尝试Ubuntu 在线体验"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
+#~ msgid "Recent Files"
+#~ msgstr "最近打开的文件"
 
-#~ msgid "More Apps"
-#~ msgstr "更多程序"
-
-#~ msgid "Find Files"
-#~ msgstr "查找文件"
-
-#~ msgid "Browse the Web"
-#~ msgstr "浏览网络"
-
-#~ msgid "Shortcuts"
-#~ msgstr "快捷方式"
-
-#~ msgid "Check Email"
-#~ msgstr "检查邮件"
-
-#~ msgid "Internet Apps"
-#~ msgstr "互联网程序"
-
-#~ msgid "Add Event…"
-#~ msgstr "添加事件..."
-
-#~ msgid "Media Apps"
-#~ msgstr "多媒体程序"
-
-#~ msgid "Most Frequently Used"
-#~ msgstr "最常用"
-
-#~ msgid "View Photos"
-#~ msgstr "查看照片"
-
-#~ msgid "Listen to Music"
-#~ msgstr "聆听音乐"
+#~ msgid "Recent Apps"
+#~ msgstr "最近的应用"
