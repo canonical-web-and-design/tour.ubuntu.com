@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2012-10-05 00:32:35.293707\n"
-"PO-Revision-Date: 2012-10-05 00:32:35.293707\n"
+"POT-Creation-Date: 2012-10-05 19:27:09.967493\n"
+"PO-Revision-Date: 2012-10-05 19:27:09.967493\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: English <yourteam@example.com>\n"
 "MIME-Version: 1.0\n"
@@ -30,10 +30,6 @@ msgstr ""
 
 #: ../en/index.html
 msgid "no subject"
-msgstr ""
-
-#: ../en/index.html
-msgid "Dybbølsbro Station"
 msgstr ""
 
 #: ../en/index.html
@@ -157,6 +153,10 @@ msgstr ""
 
 #: ../en/index.html
 msgid "On"
+msgstr ""
+
+#: ../en/index.html
+msgid "Welcome Screen"
 msgstr ""
 
 #: ../en/index.html
@@ -402,7 +402,9 @@ msgid "Jardin Polar"
 msgstr ""
 
 #: ../en/index.html
-msgid "Welcome Screen"
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies"
+" you've created yourself."
 msgstr ""
 
 #: ../en/index.html
@@ -430,7 +432,7 @@ msgid "$19.99"
 msgstr ""
 
 #: ../en/index.html
-msgid "Watch videos and films to your hearts content."
+msgid "Dybbølsbro Station"
 msgstr ""
 
 #: ../en/index.html
@@ -1146,10 +1148,6 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr ""
-
-#: ../en/index.html
-msgid "Watch vidoes"
 msgstr ""
 
 #: ../en/index.html
