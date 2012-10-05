@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-08-17 22:56+0000\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-28 10:22+0000\n"
-"X-Generator: Launchpad (build 15864)\n"
+"X-Launchpad-Export-Date: 2012-10-05 05:17+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -44,6 +44,10 @@ msgid "no subject"
 msgstr "no subject"
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr ""
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr "Show yourself around"
 
@@ -52,8 +56,8 @@ msgid "Desktop"
 msgstr "Desktop"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr ""
+msgid "Get Mail"
+msgstr "Get Mail"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -132,6 +136,10 @@ msgid "Download Ubuntu"
 msgstr "Download Ubuntu"
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr "Join now"
 
@@ -172,7 +180,7 @@ msgid "On"
 msgstr ""
 
 #: ../en/index.html
-msgid "Surf the web"
+msgid "Untitled 1 - LibreOffice Writer"
 msgstr ""
 
 #: ../en/index.html
@@ -204,15 +212,11 @@ msgid "From"
 msgstr ""
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "Get Mail"
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr ""
 
 #: ../en/index.html
-msgid "Recent Files"
+msgid "Thanks for exploring Ubuntu!"
 msgstr ""
 
 #: ../en/index.html
@@ -336,10 +340,6 @@ msgid "Darkening Clockwork"
 msgstr ""
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr ""
 
@@ -450,7 +450,7 @@ msgid "$19.99"
 msgstr ""
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
+msgid "Watch videos and films to your hearts content."
 msgstr ""
 
 #: ../en/index.html
@@ -632,7 +632,7 @@ msgid "Archive"
 msgstr ""
 
 #: ../en/index.html
-msgid "Recent Apps"
+msgid "Download"
 msgstr ""
 
 #: ../en/index.html
@@ -789,10 +789,8 @@ msgid "Our star apps"
 msgstr ""
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
+msgid "The Grass Aint Greener"
+msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
 msgid "Date"
@@ -905,7 +903,15 @@ msgid "Subject:"
 msgstr ""
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
+msgstr ""
+
+#: ../en/index.html
+msgid "Ubuntu tour"
 msgstr ""
 
 #: ../en/index.html
@@ -921,7 +927,7 @@ msgid "Home Folder"
 msgstr ""
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
 msgstr ""
 
 #: ../en/index.html
@@ -972,7 +978,9 @@ msgid "Chromium"
 msgstr ""
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
 msgstr ""
 
 #: ../en/index.html
@@ -1083,6 +1091,10 @@ msgid "Format"
 msgstr "Format"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr ""
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr ""
 
@@ -1100,10 +1112,6 @@ msgstr ""
 
 #: ../en/index.html
 msgid "What's New"
-msgstr ""
-
-#: ../en/index.html
-msgid "App Available for Download"
 msgstr ""
 
 #: ../en/index.html
@@ -1163,15 +1171,15 @@ msgid "Turn Off Bluetooth"
 msgstr ""
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr ""
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr ""
-
-#: ../en/index.html
-msgid "Download"
 msgstr ""
 
 #: ../en/index.html
@@ -1249,10 +1257,6 @@ msgid "Sound &amp; Video"
 msgstr "Sound &amp; Video"
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr "The Grass Aint Greener"
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr "Create and edit 3D models and animations"
 
@@ -1317,9 +1321,3 @@ msgstr "You"
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
-
-#~ msgid "View Photos"
-#~ msgstr "View Photos"
-
-#~ msgid "Files"
-#~ msgstr "Files"

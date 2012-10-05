@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-09-26 16:15+0000\n"
-"Last-Translator: Hendrik Knackstedt <Unknown>\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-27 05:02+0000\n"
-"X-Generator: Launchpad (build 16033)\n"
+"X-Launchpad-Export-Date: 2012-10-05 05:16+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -46,6 +46,10 @@ msgid "no subject"
 msgstr "Kein Betreff"
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Dybbølsbro Station"
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr "Sehen Sie sich um"
 
@@ -54,8 +58,8 @@ msgid "Desktop"
 msgstr "Arbeitsfläche"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr "Vielen Dank, dass Sie Ubuntu erkunden!"
+msgid "Get Mail"
+msgstr "E-Mails empfangen"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -137,6 +141,10 @@ msgid "Download Ubuntu"
 msgstr "Ubuntu herunterladen"
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr "Jetzt mitmachen"
 
@@ -177,8 +185,8 @@ msgid "On"
 msgstr "Ein"
 
 #: ../en/index.html
-msgid "Surf the web"
-msgstr "Durch das Web surfen"
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "Unbenannt 1 – LibreOffice Writer"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -211,16 +219,12 @@ msgid "From"
 msgstr "Von"
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "E-Mails empfangen"
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
-msgid "Recent Files"
-msgstr "Zuletzt verwendete  Dateien"
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Vielen Dank, dass Sie Ubuntu erkunden!"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -344,10 +348,6 @@ msgid "Darkening Clockwork"
 msgstr "Darkening Clockwork"
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "Wir hoffen, Ihnen hat die Ubuntu-Online-Tour gefallen."
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr "Inkscape – Vektorgrafikbearbeitung"
 
@@ -460,8 +460,8 @@ msgid "$19.99"
 msgstr "$19.99"
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
-msgstr "Dybbølsbro Station"
+msgid "Watch videos and films to your hearts content."
+msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -672,8 +672,8 @@ msgid "Archive"
 msgstr "Archiv"
 
 #: ../en/index.html
-msgid "Recent Apps"
-msgstr "Zuletzt verwendete Anwendungen"
+msgid "Download"
+msgstr "Herunterladen"
 
 #: ../en/index.html
 msgid "Home"
@@ -850,12 +850,8 @@ msgid "Our star apps"
 msgstr "Unsere Lieblinge"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
-"Denken Sie daran, dass dies nur eine Demo ist. Sie müssen es herunterladen, "
-"um Ubuntu wirklich genießen zu können!"
+msgid "The Grass Aint Greener"
+msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
 msgid "Date"
@@ -982,8 +978,16 @@ msgid "Subject:"
 msgstr "Betreff:"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
 msgstr "Datensicherung"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "History"
@@ -998,8 +1002,8 @@ msgid "Home Folder"
 msgstr "Persönlicher Ordner"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
-msgstr "Willkommen zur Ubuntu-Online-Tour!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "Wir hoffen, Ihnen hat die Ubuntu-Online-Tour gefallen."
 
 #: ../en/index.html
 msgid "Office"
@@ -1059,8 +1063,12 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
-msgstr "Unbenannt 1 – LibreOffice Writer"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Denken Sie daran, dass dies nur eine Demo ist. Sie müssen es herunterladen, "
+"um Ubuntu wirklich genießen zu können!"
 
 #: ../en/index.html
 msgid "delete"
@@ -1179,6 +1187,10 @@ msgid "Format"
 msgstr "Format"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr "Durch das Web surfen"
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr "Dateien auf dem Gerät durchsuchen …"
 
@@ -1197,10 +1209,6 @@ msgstr "Rechner"
 #: ../en/index.html
 msgid "What's New"
 msgstr "Was ist neu?"
-
-#: ../en/index.html
-msgid "App Available for Download"
-msgstr "Anwendung zum Herunterladen verfügbar"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1260,16 +1268,16 @@ msgid "Turn Off Bluetooth"
 msgstr "Bluetooth ausschalten"
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr "Wird installiert"
 
 #: ../en/index.html
 msgid "back to the site"
 msgstr "Zurück zur Webseite"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "Herunterladen"
 
 #: ../en/index.html
 msgid "Games"
@@ -1347,10 +1355,6 @@ msgid "Sound &amp; Video"
 msgstr "Klang &amp; Video"
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr "The Grass Aint Greener"
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr "3D-Modelle und Animationen erstellen und bearbeiten"
 
@@ -1416,44 +1420,14 @@ msgstr "Sie"
 msgid "Blender"
 msgstr "Blender"
 
-#~ msgid "Files"
-#~ msgstr "Dateien"
+#~ msgid "Recent Files"
+#~ msgstr "Zuletzt verwendete  Dateien"
 
-#~ msgid "Browse the Web"
-#~ msgstr "Im Internet surfen"
+#~ msgid "Recent Apps"
+#~ msgstr "Zuletzt verwendete Anwendungen"
 
-#~ msgid "Internet Apps"
-#~ msgstr "Internet-Anwendungen"
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "Willkommen zur Ubuntu-Online-Tour!"
 
-#~ msgid "Check Email"
-#~ msgstr "E-Mails abrufen"
-
-#~ msgid "Webcam"
-#~ msgstr "Webcam"
-
-#~ msgid "Find Files"
-#~ msgstr "Dateien finden"
-
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
-
-#~ msgid "Media Apps"
-#~ msgstr "Multimedia-Anwendungen"
-
-#~ msgid "Most Frequently Used"
-#~ msgstr "Am häufigsten benutzt"
-
-#~ msgid "View Photos"
-#~ msgstr "Fotos betrachten"
-
-#~ msgid "Listen to Music"
-#~ msgstr "Musik hören"
-
-#~ msgid "Shortcuts"
-#~ msgstr "Tastenkombinationen"
-
-#~ msgid "More Apps"
-#~ msgstr "Weitere Anwendungen"
-
-#~ msgid "Add Event…"
-#~ msgstr "Ereignis hinzufügen …"
+#~ msgid "App Available for Download"
+#~ msgstr "Anwendung zum Herunterladen verfügbar"

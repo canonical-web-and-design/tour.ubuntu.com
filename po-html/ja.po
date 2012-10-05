@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-05-01 11:51+0000\n"
-"Last-Translator: Kentaro Kazuhama <kazken3@gmail.com>\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Japanese <ja@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-02 05:58+0000\n"
-"X-Generator: Launchpad (build 15177)\n"
+"X-Launchpad-Export-Date: 2012-10-05 05:17+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -42,6 +42,10 @@ msgid "no subject"
 msgstr "件名なし"
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Dybbølsbro Station"
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr "自分で見て回ります"
 
@@ -50,8 +54,8 @@ msgid "Desktop"
 msgstr "デスクトップ"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr "Ubuntuを試してくれてありがとう!"
+msgid "Get Mail"
+msgstr "受信"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -127,6 +131,10 @@ msgid "Download Ubuntu"
 msgstr "Ubuntuをダウンロード"
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr "参加する"
 
@@ -167,8 +175,8 @@ msgid "On"
 msgstr "On"
 
 #: ../en/index.html
-msgid "Surf the web"
-msgstr "Web を見る"
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "無題 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -199,16 +207,12 @@ msgid "From"
 msgstr "差出人"
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "受信"
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
-msgid "Recent Files"
-msgstr "最近使ったファイル"
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Ubuntuを試してくれてありがとう!"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -331,10 +335,6 @@ msgid "Darkening Clockwork"
 msgstr "Darkening Clockwork"
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "Ubuntuオンラインツアーをお楽しみいただけたら幸いです。"
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr "Inkscape ベクターグラフィックエディター"
 
@@ -447,8 +447,8 @@ msgid "$19.99"
 msgstr "$19.99"
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
-msgstr "Dybbølsbro Station"
+msgid "Watch videos and films to your hearts content."
+msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -645,8 +645,8 @@ msgid "Archive"
 msgstr "アーカイブ"
 
 #: ../en/index.html
-msgid "Recent Apps"
-msgstr "最近使ったアプリ"
+msgid "Download"
+msgstr "ダウンロード"
 
 #: ../en/index.html
 msgid "Home"
@@ -808,10 +808,8 @@ msgid "Our star apps"
 msgstr "人気のアプリ"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr "これはデモに過ぎないことをお忘れなく。ダウンロードして実際のUbuntuをお楽しみください!"
+msgid "The Grass Aint Greener"
+msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
 msgid "Date"
@@ -931,8 +929,16 @@ msgid "Subject:"
 msgstr "件名:"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
 msgstr "バックアップ"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "History"
@@ -947,8 +953,8 @@ msgid "Home Folder"
 msgstr "ホームフォルダー"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
-msgstr "Ubuntuオンラインツアーへようこそ!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "Ubuntuオンラインツアーをお楽しみいただけたら幸いです。"
 
 #: ../en/index.html
 msgid "Office"
@@ -1002,8 +1008,10 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
-msgstr "無題 1 - LibreOffice Writer"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr "これはデモに過ぎないことをお忘れなく。ダウンロードして実際のUbuntuをお楽しみください!"
 
 #: ../en/index.html
 msgid "delete"
@@ -1120,6 +1128,10 @@ msgid "Format"
 msgstr "書式"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr "Web を見る"
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr "デバイス上のファイルを閲覧..."
 
@@ -1138,10 +1150,6 @@ msgstr "コンピューター"
 #: ../en/index.html
 msgid "What's New"
 msgstr "新着ソフト"
-
-#: ../en/index.html
-msgid "App Available for Download"
-msgstr "ダウンロード可能なアプリ"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1200,16 +1208,16 @@ msgid "Turn Off Bluetooth"
 msgstr "Bluetooth を切る"
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr "インストールしています"
 
 #: ../en/index.html
 msgid "back to the site"
 msgstr "サイトに戻りますか?"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "ダウンロード"
 
 #: ../en/index.html
 msgid "Games"
@@ -1285,10 +1293,6 @@ msgid "Sound &amp; Video"
 msgstr "サウンドとビデオ"
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr "The Grass Aint Greener"
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr "3D モデルとアニメーションを作成・編集します"
 
@@ -1354,32 +1358,14 @@ msgstr "自分"
 msgid "Blender"
 msgstr "Blender"
 
-#~ msgid "Find Files"
-#~ msgstr "ファイルを探す"
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "Ubuntuオンラインツアーへようこそ!"
 
-#~ msgid "Banshee"
-#~ msgstr "Banshee"
+#~ msgid "Recent Apps"
+#~ msgstr "最近使ったアプリ"
 
-#~ msgid "Add Event…"
-#~ msgstr "イベントを追加..."
+#~ msgid "Recent Files"
+#~ msgstr "最近使ったファイル"
 
-#~ msgid "View Photos"
-#~ msgstr "写真を見る"
-
-#~ msgid "Internet Apps"
-#~ msgstr "インターネット関連ソフト"
-
-#~ msgid "Media Apps"
-#~ msgstr "メディア関連ソフト"
-
-#~ msgid "Most Frequently Used"
-#~ msgstr "よく使われるアプリ"
-
-#~ msgid "Shortcuts"
-#~ msgstr "ショートカット"
-
-#~ msgid "Listen to Music"
-#~ msgstr "音楽を聞く"
-
-#~ msgid "Webcam"
-#~ msgstr "ウェブカム"
+#~ msgid "App Available for Download"
+#~ msgstr "ダウンロード可能なアプリ"

@@ -2,21 +2,20 @@
 # Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the ubuntu-online-tour package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
-# Luca Ferretti <lferrett@gnome.org>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-29 22:54+0000\n"
-"Last-Translator: Luca Ferretti <Unknown>\n"
-"Language-Team: Italian <tp@lists.linux.it>\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-30 05:20+0000\n"
-"X-Generator: Launchpad (build 15171)\n"
+"X-Launchpad-Export-Date: 2012-10-05 05:17+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -46,6 +45,10 @@ msgid "no subject"
 msgstr "nessun oggetto"
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Dybbølsbro Station"
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr "Esplora da solo"
 
@@ -54,8 +57,8 @@ msgid "Desktop"
 msgstr "Scrivania"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr "Grazie di aver esplorato Ubuntu!"
+msgid "Get Mail"
+msgstr "Scarica posta"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -131,6 +134,10 @@ msgid "Download Ubuntu"
 msgstr "Scarica Ubuntu"
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr "Partecipa adesso"
 
@@ -171,8 +178,8 @@ msgid "On"
 msgstr "Il"
 
 #: ../en/index.html
-msgid "Surf the web"
-msgstr "Naviga nel web"
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "Senza titolo 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -203,16 +210,12 @@ msgid "From"
 msgstr "Da"
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "Scarica posta"
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr "eth0 automatica"
 
 #: ../en/index.html
-msgid "Recent Files"
-msgstr "File recenti"
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Grazie di aver esplorato Ubuntu!"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -336,10 +339,6 @@ msgid "Darkening Clockwork"
 msgstr "Ingranaggi"
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "Speriamo che il tour online di Ubuntu vi sia piaciuto."
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr "Inkscape - Editor grafica vettoriale"
 
@@ -450,8 +449,8 @@ msgid "$19.99"
 msgstr "$19.99"
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
-msgstr "Dybbølsbro Station"
+msgid "Watch videos and films to your hearts content."
+msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -650,8 +649,8 @@ msgid "Archive"
 msgstr "Archivio"
 
 #: ../en/index.html
-msgid "Recent Apps"
-msgstr "Applicazioni recenti"
+msgid "Download"
+msgstr "Scarica"
 
 #: ../en/index.html
 msgid "Home"
@@ -813,12 +812,8 @@ msgid "Our star apps"
 msgstr "Le nostre preferite"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
-"Ricorda, questa è solo una demo. È necessario scaricare Ubuntu per "
-"divertirsi sul serio :)"
+msgid "The Grass Aint Greener"
+msgstr "L'erba non è più verde"
 
 #: ../en/index.html
 msgid "Date"
@@ -939,8 +934,16 @@ msgid "Subject:"
 msgstr "Oggetto"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
 msgstr "Backup"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "History"
@@ -955,8 +958,8 @@ msgid "Home Folder"
 msgstr "Cartella home"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
-msgstr "Benvenuto nel tour online di Ubuntu!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "Speriamo che il tour online di Ubuntu vi sia piaciuto."
 
 #: ../en/index.html
 msgid "Office"
@@ -1011,8 +1014,12 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
-msgstr "Senza titolo 1 - LibreOffice Writer"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Ricorda, questa è solo una demo. È necessario scaricare Ubuntu per "
+"divertirsi sul serio :)"
 
 #: ../en/index.html
 msgid "delete"
@@ -1122,6 +1129,10 @@ msgid "Format"
 msgstr "Formato"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr "Naviga nel web"
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr "Esplora file su dispositivo..."
 
@@ -1140,10 +1151,6 @@ msgstr "Computer"
 #: ../en/index.html
 msgid "What's New"
 msgstr "Novità"
-
-#: ../en/index.html
-msgid "App Available for Download"
-msgstr "Applicazioni disponibili"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1202,16 +1209,16 @@ msgid "Turn Off Bluetooth"
 msgstr "Spegni Bluetooth"
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr "Installazione in corso"
 
 #: ../en/index.html
 msgid "back to the site"
 msgstr "torna al sito"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "Scarica"
 
 #: ../en/index.html
 msgid "Games"
@@ -1285,10 +1292,6 @@ msgid "Sound &amp; Video"
 msgstr "Audio &amp; Video"
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr "L'erba non è più verde"
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr "Crea e modifica modelli e animazioni 3D"
 
@@ -1353,3 +1356,15 @@ msgstr "Tu"
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
+
+#~ msgid "Recent Files"
+#~ msgstr "File recenti"
+
+#~ msgid "Recent Apps"
+#~ msgstr "Applicazioni recenti"
+
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "Benvenuto nel tour online di Ubuntu!"
+
+#~ msgid "App Available for Download"
+#~ msgstr "Applicazioni disponibili"

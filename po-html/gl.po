@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-04-27 23:16+0000\n"
-"Last-Translator: Fran Diéguez <Unknown>\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Galician <gl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-28 05:22+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-10-05 05:16+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -44,6 +44,10 @@ msgid "no subject"
 msgstr "sen asunto"
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Estación Dybbølsbro"
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr "Descúbrao pola súa conta"
 
@@ -52,8 +56,8 @@ msgid "Desktop"
 msgstr "Escritorio"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr "Grazas por explorar Ubuntu!"
+msgid "Get Mail"
+msgstr "Obter correo electrónico"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -133,6 +137,10 @@ msgid "Download Ubuntu"
 msgstr "Descargar Ubuntu"
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr "Rexístrate agora"
 
@@ -173,8 +181,8 @@ msgid "On"
 msgstr "Activado"
 
 #: ../en/index.html
-msgid "Surf the web"
-msgstr "Navegar o web"
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "Sen título 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -206,16 +214,12 @@ msgid "From"
 msgstr "Desde"
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "Obter correo electrónico"
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
-msgid "Recent Files"
-msgstr "Ficheiros recentes"
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Grazas por explorar Ubuntu!"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -340,10 +344,6 @@ msgid "Darkening Clockwork"
 msgstr "Mecánica en sombra"
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "Agardamos que teña desfrutado do percorrido en liña de Ubuntu."
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr "Editor de gráficos vectoriais Inkscape"
 
@@ -458,8 +458,8 @@ msgid "$19.99"
 msgstr "19.99 €"
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
-msgstr "Estación Dybbølsbro"
+msgid "Watch videos and films to your hearts content."
+msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -655,8 +655,8 @@ msgid "Archive"
 msgstr "Arquivo"
 
 #: ../en/index.html
-msgid "Recent Apps"
-msgstr "Aplicativos recentes"
+msgid "Download"
+msgstr "Descargando"
 
 #: ../en/index.html
 msgid "Home"
@@ -823,11 +823,8 @@ msgid "Our star apps"
 msgstr "Os nosos aplicativos destacados"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
+msgid "The Grass Aint Greener"
 msgstr ""
-"Lembre, isto é só unha demostración. Debe descargalo para desfrutalo!"
 
 #: ../en/index.html
 msgid "Date"
@@ -948,8 +945,16 @@ msgid "Subject:"
 msgstr "Asunto:"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
 msgstr "Copia de respaldo"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "History"
@@ -964,8 +969,8 @@ msgid "Home Folder"
 msgstr "Cartafol persoal"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
-msgstr "Benvido ao tour en liña de Ubuntu!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "Agardamos que teña desfrutado do percorrido en liña de Ubuntu."
 
 #: ../en/index.html
 msgid "Office"
@@ -1023,8 +1028,11 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
-msgstr "Sen título 1 - LibreOffice Writer"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Lembre, isto é só unha demostración. Debe descargalo para desfrutalo!"
 
 #: ../en/index.html
 msgid "delete"
@@ -1137,6 +1145,10 @@ msgid "Format"
 msgstr "Formato"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr "Navegar o web"
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr "Explorar os ficheiros no dispositivo..."
 
@@ -1155,10 +1167,6 @@ msgstr "Computador"
 #: ../en/index.html
 msgid "What's New"
 msgstr "Que hai novo"
-
-#: ../en/index.html
-msgid "App Available for Download"
-msgstr "Aplicativos dispoñíbeis para descargar"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1217,16 +1225,16 @@ msgid "Turn Off Bluetooth"
 msgstr "Desactivar Bluetooth"
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr "Instalando"
 
 #: ../en/index.html
 msgid "back to the site"
 msgstr "volver ao sitio"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "Descargando"
 
 #: ../en/index.html
 msgid "Games"
@@ -1304,10 +1312,6 @@ msgid "Sound &amp; Video"
 msgstr "Son e vídeo"
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr ""
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr "Crear e editar modelos e animacións en 3D"
 
@@ -1372,3 +1376,15 @@ msgstr "Vostede"
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
+
+#~ msgid "Recent Files"
+#~ msgstr "Ficheiros recentes"
+
+#~ msgid "Recent Apps"
+#~ msgstr "Aplicativos recentes"
+
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "Benvido ao tour en liña de Ubuntu!"
+
+#~ msgid "App Available for Download"
+#~ msgstr "Aplicativos dispoñíbeis para descargar"

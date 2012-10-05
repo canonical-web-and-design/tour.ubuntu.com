@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-24 11:09+0000\n"
-"PO-Revision-Date: 2012-09-07 12:24+0000\n"
-"Last-Translator: Sai Mawn Kham <Unknown>\n"
+"POT-Creation-Date: 2012-10-05 00:32+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Shan <shn@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-08 05:32+0000\n"
-"X-Generator: Launchpad (build 15914)\n"
+"X-Launchpad-Export-Date: 2012-10-05 05:17+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -46,6 +46,10 @@ msgid "no subject"
 msgstr "ဢမ်ႇပႆႇမီး လွင်ႈတၢင်း"
 
 #: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "တႃႈ Dybbølsbro"
+
+#: ../en/index.html
 msgid "Show yourself around"
 msgstr "ၸဝ်ႈၵဝ်ႇၼႄ ႁိမ်းႁွမ်းၸဝ်ႈၵဝ်ႇ"
 
@@ -54,8 +58,8 @@ msgid "Desktop"
 msgstr "ၼႃႈၶွမ်း"
 
 #: ../en/index.html
-msgid "Thanks for exploring Ubuntu!"
-msgstr "ၶွပ်ႈၸႂ်ထိုင် ၵွပ်ႈမႃးလဵပ်ႈႁဵၼ်းတူၺ်း ဢူးပုၼ်းတု"
+msgid "Get Mail"
+msgstr "လႆႈ ဢီးမေးလ်"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -141,6 +145,10 @@ msgid "Download Ubuntu"
 msgstr "လူတ်ႇလူင်း ဢူးပုၼ်းတု"
 
 #: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
 msgid "Join now"
 msgstr "ၶဝ်ႈႁူမ်ႈ ယၢမ်းလဵဝ်"
 
@@ -181,8 +189,8 @@ msgid "On"
 msgstr "ပိုတ်ႇ"
 
 #: ../en/index.html
-msgid "Surf the web"
-msgstr "ပိုတ်ႈတူၺ်းဝႅပ့်"
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "ၵၼ်တႅမ်ႈလိၵ်ႈ လီပရီႇ - ဢမ်ႇပႆႇလႆႈပၼ်ၸိုဝ်ႈ 1"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -215,16 +223,12 @@ msgid "From"
 msgstr "မႃးတီႈ"
 
 #: ../en/index.html
-msgid "Get Mail"
-msgstr "လႆႈ ဢီးမေးလ်"
-
-#: ../en/index.html
 msgid "Auto eth0"
 msgstr "eth0 ႁင်းၵူၺ်း"
 
 #: ../en/index.html
-msgid "Recent Files"
-msgstr "သွႆ့ ၸိူဝ်းမိူဝ်ႈၵႆႈ"
+msgid "Thanks for exploring Ubuntu!"
+msgstr "ၶွပ်ႈၸႂ်ထိုင် ၵွပ်ႈမႃးလဵပ်ႈႁဵၼ်းတူၺ်း ဢူးပုၼ်းတု"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -349,12 +353,6 @@ msgid "Darkening Clockwork"
 msgstr "Darkening Clockwork"
 
 #: ../en/index.html
-msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
-"ႁဝ်းၶႃႈ ယုမ်ႇယမ်မုင်ႈမွင်းဝႆ့ဝႃႈ ၸဝ်ႈၵဝ်ႇတေထုၵ်ႇမႅၼ်ႈၸႂ်ၼိူဝ် "
-"လွင်ႈလႄႇယဵမ်ႈတူၺ်း ဢူးပုၼ်းတု တီႈၼိူဝ် ပိုတ်ႇသၢႆ ယူႇ။"
-
-#: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
 msgstr "ၶိူင်ႈၸၼ်ႁၢင်ႈ ဝႅၵ်ႇတိူဝ်ႇ ဢိၼ်းၸၶဵပ့်"
 
@@ -470,8 +468,8 @@ msgid "$19.99"
 msgstr "$19.99"
 
 #: ../en/index.html
-msgid "Dybbølsbro Station"
-msgstr "တႃႈ Dybbølsbro"
+msgid "Watch videos and films to your hearts content."
+msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -693,8 +691,8 @@ msgid "Archive"
 msgstr "ၵၼ်ႁွမ်သိမ်း"
 
 #: ../en/index.html
-msgid "Recent Apps"
-msgstr "ဢႅပ့်ၸိူဝ်းၸႂ့်မႃး"
+msgid "Download"
+msgstr "လူတ်ႇလူင်း"
 
 #: ../en/index.html
 msgid "Home"
@@ -874,13 +872,8 @@ msgid "Our star apps"
 msgstr "ဢႅပ့် ၸိူဝ်းလႆႈလၢဝ်"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
-"တွင်းဝႆ့လႄႈ၊ ဢၼ်ၼႆ့ၵူၺ်းပဵၼ် တီႇမူဝ်ႇၵူၺ်း။ တႃႇၸဝ်ႈၵဝ်ႇတေလႆႈ "
-"ၸႂ့်တူၺ်းၶဝ်ႈႁူမ်ႈပႃးလႆ ၸိူဝ်းပဵၼ် ဢၼ်မၢၼ်ႇမႅၼ်ႈမၼ်းၼၼ့် "
-"ၸဝ်ႈၵဝ်ႇတေလႆႈလူတ်ႇလူင်းၵွၼ်ႇ။"
+msgid "The Grass Aint Greener"
+msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
 msgid "Date"
@@ -1007,8 +1000,16 @@ msgid "Subject:"
 msgstr "လွင်ႈတၢင်း"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Backup"
 msgstr "ၵႅမ်လင်"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "History"
@@ -1023,8 +1024,10 @@ msgid "Home Folder"
 msgstr "ဢိူပ်ႇငဝ်ႈ"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu online tour!"
-msgstr "ႁူမ်ၸုမ်းႁပ့်တွၼ်ႈ တီႈလေႇယဵမ်ႈ ဢူးပုၼ်းတု တီႈၼိူဝ် ပိုတ်ႇသၢႆ!"
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr ""
+"ႁဝ်းၶႃႈ ယုမ်ႇယမ်မုင်ႈမွင်းဝႆ့ဝႃႈ ၸဝ်ႈၵဝ်ႇတေထုၵ်ႇမႅၼ်ႈၸႂ်ၼိူဝ် "
+"လွင်ႈလႄႇယဵမ်ႈတူၺ်း ဢူးပုၼ်းတု တီႈၼိူဝ် ပိုတ်ႇသၢႆ ယူႇ။"
 
 #: ../en/index.html
 msgid "Office"
@@ -1087,8 +1090,13 @@ msgid "Chromium"
 msgstr "ၶရူမ်းမီယမ်"
 
 #: ../en/index.html
-msgid "Untitled 1 - LibreOffice Writer"
-msgstr "ၵၼ်တႅမ်ႈလိၵ်ႈ လီပရီႇ - ဢမ်ႇပႆႇလႆႈပၼ်ၸိုဝ်ႈ 1"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"တွင်းဝႆ့လႄႈ၊ ဢၼ်ၼႆ့ၵူၺ်းပဵၼ် တီႇမူဝ်ႇၵူၺ်း။ တႃႇၸဝ်ႈၵဝ်ႇတေလႆႈ "
+"ၸႂ့်တူၺ်းၶဝ်ႈႁူမ်ႈပႃးလႆ ၸိူဝ်းပဵၼ် ဢၼ်မၢၼ်ႇမႅၼ်ႈမၼ်းၼၼ့် "
+"ၸဝ်ႈၵဝ်ႇတေလႆႈလူတ်ႇလူင်းၵွၼ်ႇ။"
 
 #: ../en/index.html
 msgid "delete"
@@ -1210,6 +1218,10 @@ msgid "Format"
 msgstr "ပိူင်တမ်း"
 
 #: ../en/index.html
+msgid "Surf the web"
+msgstr "ပိုတ်ႈတူၺ်းဝႅပ့်"
+
+#: ../en/index.html
 msgid "Browse files on device…"
 msgstr "ပိုတ်ႇသွၵ်ႈ သွႆ့ တီႈၼိူဝ်ၶိူင်ႈ..."
 
@@ -1228,10 +1240,6 @@ msgstr "ၶွမ်ႇၽိဝ်းထိူဝ်ႇ"
 #: ../en/index.html
 msgid "What's New"
 msgstr "ၸိူဝ်းပဵၼ် ဢၼ်မႂ်ႇ"
-
-#: ../en/index.html
-msgid "App Available for Download"
-msgstr "ဢႅပ့် ၸိူဝ်းဢၼ် လူတ်ႇလူင်းလႆႈ"
 
 #: ../en/index.html
 msgid "Movie Player"
@@ -1291,16 +1299,16 @@ msgid "Turn Off Bluetooth"
 msgstr "ဢိုတ်း ၸၢတ်ႇၸိတ်ႇ"
 
 #: ../en/index.html
+msgid "Watch vidoes"
+msgstr ""
+
+#: ../en/index.html
 msgid "Installing"
 msgstr "တိုၵ့်ဢူၼ်းသႂ်ႇ"
 
 #: ../en/index.html
 msgid "back to the site"
 msgstr "ၶိုၼ်းႁူၼ်လင်ၸူး ဝႅပ့်သၢႆ့"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "လူတ်ႇလူင်း"
 
 #: ../en/index.html
 msgid "Games"
@@ -1382,10 +1390,6 @@ msgid "Sound &amp; Video"
 msgstr "သဵင် &amp; ငဝ်းတူင့်"
 
 #: ../en/index.html
-msgid "The Grass Aint Greener"
-msgstr "The Grass Aint Greener"
-
-#: ../en/index.html
 msgid "Create and edit 3D models and animations"
 msgstr "ၵေႃႈသၢင်ႈ လႄႈ ထတ်းသၢင်ႈ ႁၢင်ႈၽၢင်ႁၼ်သၢမ်ၸဵင်ႇ လႄႈ ႁၢင်ႈတူင့်ၼိုင်"
 
@@ -1450,3 +1454,15 @@ msgstr "ၸဝ်ႈၵဝ်ႇ"
 #: ../en/index.html
 msgid "Blender"
 msgstr "ပလႅၼ်ႇတႃႇ"
+
+#~ msgid "Recent Files"
+#~ msgstr "သွႆ့ ၸိူဝ်းမိူဝ်ႈၵႆႈ"
+
+#~ msgid "Recent Apps"
+#~ msgstr "ဢႅပ့်ၸိူဝ်းၸႂ့်မႃး"
+
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "ႁူမ်ၸုမ်းႁပ့်တွၼ်ႈ တီႈလေႇယဵမ်ႈ ဢူးပုၼ်းတု တီႈၼိူဝ် ပိုတ်ႇသၢႆ!"
+
+#~ msgid "App Available for Download"
+#~ msgstr "ဢႅပ့် ၸိူဝ်းဢၼ် လူတ်ႇလူင်းလႆႈ"
