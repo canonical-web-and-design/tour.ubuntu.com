@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-05 00:32+0000\n"
-"PO-Revision-Date: 2012-10-04 22:47+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-05 19:27+0000\n"
+"PO-Revision-Date: 2012-10-05 20:22+0000\n"
+"Last-Translator: ZhengPeng Hou <zhengpeng.hou@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-05 05:17+0000\n"
+"X-Launchpad-Export-Date: 2012-10-06 05:32+0000\n"
 "X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
@@ -40,10 +40,6 @@ msgstr ""
 #: ../en/index.html
 msgid "no subject"
 msgstr "无主题"
-
-#: ../en/index.html
-msgid "Dybbølsbro Station"
-msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
 msgid "Show yourself around"
@@ -87,7 +83,7 @@ msgstr "操控时间流来解决问题"
 
 #: ../en/index.html
 msgid "中文"
-msgstr ""
+msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
@@ -129,7 +125,7 @@ msgstr "下载 Ubuntu"
 
 #: ../en/index.html
 msgid "Watch videos"
-msgstr ""
+msgstr "观看视频"
 
 #: ../en/index.html
 msgid "Join now"
@@ -170,6 +166,10 @@ msgstr "PCB CNC 转换器"
 #: ../en/index.html
 msgid "On"
 msgstr "开启"
+
+#: ../en/index.html
+msgid "Welcome Screen"
+msgstr "欢迎画面"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -414,8 +414,10 @@ msgid "Jardin Polar"
 msgstr "Jardin Polar"
 
 #: ../en/index.html
-msgid "Welcome Screen"
-msgstr "欢迎画面"
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr "您可以观看所有您喜爱的电影，视频，DVD，下载或者自创的视频。"
 
 #: ../en/index.html
 msgid "3.3MB"
@@ -442,8 +444,8 @@ msgid "$19.99"
 msgstr "$19.99"
 
 #: ../en/index.html
-msgid "Watch videos and films to your hearts content."
-msgstr ""
+msgid "Dybbølsbro Station"
+msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
 msgid "Log Out…"
@@ -501,7 +503,7 @@ msgstr "Braid 珍视您的时间和精力，它会尽全部努力开拓您的思
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "英文"
 
 #: ../en/index.html
 msgid "Purple Dancers"
@@ -907,7 +909,7 @@ msgstr "主题："
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
+msgstr "欢迎使用 Ubuntu 12.10 在线教程!"
 
 #: ../en/index.html
 msgid "Backup"
@@ -1176,10 +1178,6 @@ msgstr "打开蓝牙"
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
 msgstr "关闭蓝牙"
-
-#: ../en/index.html
-msgid "Watch vidoes"
-msgstr ""
 
 #: ../en/index.html
 msgid "Installing"
