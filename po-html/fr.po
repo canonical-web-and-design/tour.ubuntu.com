@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-06 21:21+0000\n"
-"Last-Translator: Pierre Slamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2012-10-07 11:19+0000\n"
+"Last-Translator: Havok Novak <havok.novak@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-07 04:56+0000\n"
+"X-Launchpad-Export-Date: 2012-10-08 05:41+0000\n"
 "X-Generator: Launchpad (build 16061)\n"
 
 #: ../en/index.html
@@ -36,10 +36,10 @@ msgstr ""
 "Ubuntu démarre rapidement sur ​​n'importe quel ordinateur, mais il est super "
 "rapide sur les nouvelles machines. Sans programmes inutiles et versions "
 "d'essai de logiciels ralentissant le tout, le démarrage et l'ouverture d'un "
-"navigateur ne prend que quelques secondes. Contrairement à d'autres systèmes "
-"d'exploitation, il ne vous laisse pas seul face l'écran en attendant d'être "
-"en ligne. Et Ubuntu ne ralentira pas au fils du temps. C'est rapide. Et ça "
-"restera rapide."
+"navigateur ne prennent que quelques secondes. Contrairement à d'autres "
+"systèmes d'exploitation, il ne vous laisse pas seul face à l'écran en "
+"attendant d'être en ligne. Et Ubuntu ne ralentira pas au fil du temps. C'est "
+"rapide. Et ça restera rapide."
 
 #: ../en/index.html
 msgid "no subject"
@@ -126,8 +126,8 @@ msgid ""
 msgstr ""
 "L'accessibilité est au centre de la philosophie d'Ubuntu. Nous croyons que "
 "l'informatique est pour tout le monde, sans distinction de nationalité, de "
-"race, de sexe ou d'invalidité. Entièrement traduit dans 38 langues, Ubuntu "
-"intègre aussi l’essentiel des technologies d'assistance, qui sont évidemment "
+"race, de sexe ou de handicap. Entièrement traduit dans 38 langues, Ubuntu "
+"intègre aussi l'essentiel des technologies d'assistance, qui sont évidemment "
 "entièrement libres et gratuites."
 
 #: ../en/index.html
@@ -241,7 +241,7 @@ msgstr "Sécurisé"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr "Ce paquet contient le navigateur Web Chromium."
+msgstr "Ce paquet contient le navigateur web Chromium."
 
 #: ../en/index.html
 msgid "$9.99"
@@ -460,7 +460,7 @@ msgstr "Effacer"
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr "19.99€"
+msgstr "19,99 €"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
