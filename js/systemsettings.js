@@ -45,10 +45,10 @@ function SystemSettings($parent){
 	
 	this.gotMail = function($mail){
 		_gotMessage = $mail;
-		if($mail && $('#top #top-right #message .message-logo').attr('src') == '../img/top/nomessage.png'){
-			$('#top #top-right #message .message-logo').attr('src', '../img/top/gotmessage.png');
-		}else if(!$mail && $('#top #top-right #message .message-logo').attr('src') == '../img/top/gotmessage.png'){
-			$('#top #top-right #message .message-logo').attr('src', '../img/top/nomessage.png');
+		if($mail && $('#top #top-right #message .message-logo').attr('src') == '../img/top/nomessage.jpg'){
+			$('#top #top-right #message .message-logo').attr('src', '../img/top/gotmessage.jpg');
+		}else if(!$mail && $('#top #top-right #message .message-logo').attr('src') == '../img/top/gotmessage.jpg'){
+			$('#top #top-right #message .message-logo').attr('src', '../img/top/nomessage.jpg');
 		}
 	}
 	

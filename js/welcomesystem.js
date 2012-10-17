@@ -7,6 +7,8 @@ function WelcomeSystem($parent){
 	var _parent = $parent;
 	var _this = this;
 	var _isOpen = false;
+	var windowHeight = 500;//$('#welcome #welcome-screen').outerHeight();
+	var windowWidth = $('#welcome #welcome-screen').outerWidth();
 	
 	this.init = function(){
 		this.center();
@@ -138,8 +140,7 @@ function WelcomeSystem($parent){
 	}
 	
 	this.center = function(){
-	    var windowHeight = 575;//$('#welcome #welcome-screen').outerWidth(true);
-    	var left = ($(document).width() / 2) - (windowHeight / 2);
+    	var left = ($(document).width() / 2) - (windowWidth / 2);
 		var top = Math.max(24,($(document).height() / 2) - (windowHeight / 2));
 		$('#welcome #welcome-screen').css('left',left);
 		$('#welcome #welcome-screen').css('top',top); 
