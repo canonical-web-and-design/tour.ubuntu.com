@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-11-02 14:03+0000\n"
+"PO-Revision-Date: 2012-11-04 13:59+0000\n"
 "Last-Translator: Cédric VALMARY (Tot en òc) <cvalmary@yahoo.fr>\n"
 "Language-Team: Occitan (post 1500) <oc@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-11-03 05:30+0000\n"
-"X-Generator: Launchpad (build 16218)\n"
+"X-Launchpad-Export-Date: 2012-11-05 05:05+0000\n"
+"X-Generator: Launchpad (build 16232)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -394,19 +394,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr ""
+msgstr "Reglatges de la data e de l'ora"
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr ""
+msgstr "Utilizats recentament"
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr ""
+msgstr "Anullar"
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Jardin polar"
 
 #: ../en/index.html
 msgid ""
@@ -416,15 +416,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr ""
+msgstr "3,3 Mo"
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "respondre"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr ""
+msgstr "Configurar lo corrièl…"
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
@@ -432,19 +432,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Clear"
-msgstr ""
+msgstr "Escafar"
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr ""
+msgstr "19,99 €"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Gara de Dybbølsbro"
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr ""
+msgstr "Se desconnectar..."
 
 #: ../en/index.html
 msgid ""
@@ -454,39 +454,39 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr ""
+msgstr "Transferir"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr ""
+msgstr "Client Terminal Servidor"
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr ""
+msgstr "Aparéncia"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr ""
+msgstr "Buck Off"
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Stalking Ocelot"
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr ""
+msgstr "Paramètres del Sistèma..."
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr ""
+msgstr "Aplicacions a l'aviada..."
 
 #: ../en/index.html
 msgid "Remove"
-msgstr ""
+msgstr "Levar"
 
 #: ../en/index.html
 msgid ""
@@ -496,19 +496,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "Anglés"
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Dançaires Violets"
 
 #: ../en/index.html
 msgid "from"
-msgstr ""
+msgstr "de"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #: ../en/index.html
 msgid ""
@@ -518,15 +518,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr ""
+msgstr "Mont Snowdon"
 
 #: ../en/index.html
 msgid "Songs"
-msgstr ""
+msgstr "Cants"
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr ""
+msgstr "Accessible"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
@@ -534,7 +534,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Title:"
-msgstr ""
+msgstr "Títol :"
 
 #: ../en/index.html
 msgid "Setup new device…"
@@ -542,15 +542,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
-msgstr ""
+msgstr "Introduccion a Ubuntu"
 
 #: ../en/index.html
 msgid "Videos"
-msgstr ""
+msgstr "Vidèos"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Trenèla"
 
 #: ../en/index.html
 msgid ""
@@ -570,7 +570,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "Lector multimèdia Banshee"
 
 #: ../en/index.html
 msgid ""
@@ -587,23 +587,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr ""
+msgstr "Fichièrs &amp; Dorsièrs"
 
 #: ../en/index.html
 msgid "Installed"
-msgstr ""
+msgstr "Installat"
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
-msgstr ""
+msgstr "Visible"
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr ""
+msgstr "Ne saber mai"
 
 #: ../en/index.html
 msgid ""
@@ -614,7 +614,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chat"
-msgstr ""
+msgstr "Messatjariá instantanèa (chat)"
 
 #: ../en/index.html
 msgid "Archive"
