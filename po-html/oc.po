@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-11-04 13:59+0000\n"
+"PO-Revision-Date: 2012-11-05 17:36+0000\n"
 "Last-Translator: Cédric VALMARY (Tot en òc) <cvalmary@yahoo.fr>\n"
 "Language-Team: Occitan (post 1500) <oc@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-11-05 05:05+0000\n"
+"X-Launchpad-Export-Date: 2012-11-06 05:24+0000\n"
 "X-Generator: Launchpad (build 16232)\n"
 
 #: ../en/index.html
@@ -48,11 +48,11 @@ msgstr "Burèu"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr ""
+msgstr "Relevar"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr ""
+msgstr "Editor vidèo PiTiVi"
 
 #: ../en/index.html
 msgid "Internet"
@@ -618,71 +618,71 @@ msgstr "Messatjariá instantanèa (chat)"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr ""
+msgstr "Archiu"
 
 #: ../en/index.html
 msgid "Download"
-msgstr ""
+msgstr "Telecargar"
 
 #: ../en/index.html
 msgid "Home"
-msgstr ""
+msgstr "Acuèlh"
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr ""
+msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr ""
+msgstr "Aisinas per desvolopaires"
 
 #: ../en/index.html
 msgid "or"
-msgstr ""
+msgstr "o"
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "Accedir a Internet"
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr ""
+msgstr "5.3MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr ""
+msgstr "Seguissètz lo guida"
 
 #: ../en/index.html
 msgid "cc"
-msgstr ""
+msgstr "cc"
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr ""
+msgstr "Imatges"
 
 #: ../en/index.html
 msgid "Away"
-msgstr ""
+msgstr "Absent(a)"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr ""
+msgstr "Relevar lo corrièl"
 
 #: ../en/index.html
 msgid "Size:"
-msgstr ""
+msgstr "Talha :"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr ""
+msgstr "Borrolhon"
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "Gratuit"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
@@ -694,19 +694,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr ""
+msgstr "Afichatges..."
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr ""
+msgstr "Logicial a jorn"
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr ""
+msgstr "Navigar sus Internet"
 
 #: ../en/index.html
 msgid "Local"
-msgstr ""
+msgstr "Local"
 
 #: ../en/index.html
 msgid ""
@@ -716,11 +716,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr ""
+msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
-msgstr ""
+msgstr "Veire vòstras fòtos"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
@@ -728,11 +728,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "Laberint de Sabla"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr ""
+msgstr "Centre de contraròtle d'Ubuntu One"
 
 #: ../en/index.html
 msgid ""
@@ -742,7 +742,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "to"
-msgstr ""
+msgstr "a"
 
 #: ../en/index.html
 msgid ""
@@ -775,15 +775,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Our star apps"
-msgstr ""
+msgstr "Nòstras aplicacions favoritas"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr ""
+msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: ../en/index.html
 msgid ""
@@ -794,35 +794,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
+msgstr "Navigador Web Chromium"
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr ""
+msgstr "Enregistrador de sons"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr ""
+msgstr "Destinatari"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr ""
+msgstr "Rapid"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr ""
+msgstr "Consultats recentament"
 
 #: ../en/index.html
 msgid "To:"
-msgstr ""
+msgstr "A :"
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
-msgstr ""
+msgstr "Configurar lo microblogatge…"
 
 #: ../en/index.html
 msgid "Date:"
-msgstr ""
+msgstr "Data :"
 
 #: ../en/index.html
 msgid ""
@@ -833,31 +833,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Total:"
-msgstr ""
+msgstr "Total :"
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr ""
+msgstr "Pilòts suplementaris"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr ""
+msgstr "Logitèca Ubuntu"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr ""
+msgstr "Sens nom 1 - LibreOffice Calc"
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr ""
+msgstr "Ai ja un compte !"
 
 #: ../en/index.html
 msgid "System"
-msgstr ""
+msgstr "Sistèma"
 
 #: ../en/index.html
 msgid "forward"
-msgstr ""
+msgstr "avançar"
 
 #: ../en/index.html
 msgid ""
@@ -877,19 +877,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "Installar"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr ""
+msgstr "Elements :"
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr ""
+msgstr "WildWheat"
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
+msgstr "Subjècte :"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 12.10 tour!"
@@ -897,23 +897,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Backup"
-msgstr ""
+msgstr "Salvament"
 
 #: ../en/index.html
 msgid "Ubuntu tour"
-msgstr ""
+msgstr "Visita Guidada Ubuntu"
 
 #: ../en/index.html
 msgid "History"
-msgstr ""
+msgstr "Istoric"
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16 Fòtos"
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr ""
+msgstr "Dorsièr personal"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
@@ -921,11 +921,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Office"
-msgstr ""
+msgstr "Burotica"
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr ""
+msgstr "Tèmas &amp; Optimizacions"
 
 #: ../en/index.html
 msgid ""
@@ -937,11 +937,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "work"
-msgstr ""
+msgstr "trabalh"
 
 #: ../en/index.html
 msgid "Library"
-msgstr ""
+msgstr "Bibliotèca"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
@@ -949,7 +949,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
-msgstr ""
+msgstr "Client corrièl Thunderbird"
 
 #: ../en/index.html
 msgid ""
@@ -960,11 +960,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr ""
+msgstr "Pas indesirable"
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #: ../en/index.html
 msgid ""
@@ -974,35 +974,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "delete"
-msgstr ""
+msgstr "suprimir"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr ""
+msgstr "Thunderbird corrièl/forums"
 
 #: ../en/index.html
 msgid "Busy"
-msgstr ""
+msgstr "Ocupat(-ada)"
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr ""
+msgstr "Floretas"
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr ""
+msgstr "Modificacion de las connexions..."
 
 #: ../en/index.html
 msgid "Printers"
-msgstr ""
+msgstr "Estampadoiras"
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr ""
+msgstr "Reglatges del son..."
 
 #: ../en/index.html
 msgid "Search"
-msgstr ""
+msgstr "Recercar"
 
 #: ../en/index.html
 msgid ""
@@ -1013,31 +1013,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr ""
+msgstr "Activar Bluetooth"
 
 #: ../en/index.html
 msgid "Write"
-msgstr ""
+msgstr "Escriure"
 
 #: ../en/index.html
 msgid "Attach"
-msgstr ""
+msgstr "Jónher"
 
 #: ../en/index.html
 msgid "Window"
-msgstr ""
+msgstr "Fenèstra"
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr ""
+msgstr "Escriure : (pas cap de subjècte)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr ""
+msgstr "Descobèrta en linha d'Ubuntu"
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr ""
+msgstr "Federica Miglio"
 
 #: ../en/index.html
 msgid ""
@@ -1049,27 +1049,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Offline"
-msgstr ""
+msgstr "Fòra linha"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr ""
+msgstr "Escobilhièr"
 
 #: ../en/index.html
 msgid "archive"
-msgstr ""
+msgstr "archiu"
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "Poder dels mots"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Gestionari de fòtos Shotwell"
 
 #: ../en/index.html
 msgid "Folders"
-msgstr ""
+msgstr "Dorsièrs"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
@@ -1077,11 +1077,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Format"
-msgstr ""
+msgstr "Formatar"
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr ""
+msgstr "Navigar sul web"
 
 #: ../en/index.html
 msgid "Browse files on device…"
@@ -1089,31 +1089,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr ""
+msgstr "Indesirables"
 
 #: ../en/index.html
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../en/index.html
 msgid "Computer"
-msgstr ""
+msgstr "Pòste de trabalh"
 
 #: ../en/index.html
 msgid "What's New"
-msgstr ""
+msgstr "Qué de nòu ?"
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr ""
+msgstr "Lector de videòs"
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr ""
+msgstr "Invisible"
 
 #: ../en/index.html
 msgid "Albums"
-msgstr ""
+msgstr "Albums"
 
 #: ../en/index.html
 msgid ""
@@ -1123,79 +1123,79 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
-msgstr ""
+msgstr "De :"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr ""
+msgstr "Inserir"
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr ""
+msgstr "Atudar..."
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr ""
+msgstr "Poliças"
 
 #: ../en/index.html
 msgid "File"
-msgstr ""
+msgstr "Fichièr"
 
 #: ../en/index.html
 msgid "Edit"
-msgstr ""
+msgstr "Modificar"
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr ""
+msgstr "Bluetooth : actiu"
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr ""
+msgstr "Desactivar lo Bluetooth"
 
 #: ../en/index.html
 msgid "Installing"
-msgstr ""
+msgstr "Installacion en cors"
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr ""
+msgstr "tornar sul site"
 
 #: ../en/index.html
 msgid "Games"
-msgstr ""
+msgstr "Jòcs"
 
 #: ../en/index.html
 msgid "Visolate"
-msgstr ""
+msgstr "Visolate"
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr ""
+msgstr "Messatjariá Internet Empathy"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
+msgstr "Crear e editar d'imatges vectorials al format SVG"
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr ""
+msgstr "Periferics connectats"
 
 #: ../en/index.html
 msgid "View"
-msgstr ""
+msgstr "Afichar"
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr ""
+msgstr "Metre en velha"
 
 #: ../en/index.html
 msgid "branches"
-msgstr ""
+msgstr "brancas"
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
@@ -1210,7 +1210,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr ""
+msgstr "Dil 11 d'octobre de 2010"
 
 #: ../en/index.html
 msgid ""
@@ -1222,23 +1222,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr ""
+msgstr "Activar lo son"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr ""
+msgstr "Escobilhièr"
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr ""
+msgstr "Son e vidèo"
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr ""
+msgstr "Crear e modificar d'objèctes o d'animacions en 3D"
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr ""
+msgstr "Bóstia de recepcion"
 
 #: ../en/index.html
 msgid "Files Anywhere"
@@ -1250,7 +1250,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Table"
-msgstr ""
+msgstr "Tablèu"
 
 #: ../en/index.html
 msgid ""
@@ -1271,15 +1271,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Tools"
-msgstr ""
+msgstr "Aisinas"
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr ""
+msgstr "Telecargaments"
 
 #: ../en/index.html
 msgid "You"
-msgstr ""
+msgstr "Vos"
 
 #: ../en/index.html
 msgid "Blender"
