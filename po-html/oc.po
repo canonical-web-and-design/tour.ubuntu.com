@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-11-05 17:36+0000\n"
+"PO-Revision-Date: 2012-11-06 07:20+0000\n"
 "Last-Translator: Cédric VALMARY (Tot en òc) <cvalmary@yahoo.fr>\n"
 "Language-Team: Occitan (post 1500) <oc@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-11-06 05:24+0000\n"
+"X-Launchpad-Export-Date: 2012-11-07 05:09+0000\n"
 "X-Generator: Launchpad (build 16232)\n"
 
 #: ../en/index.html
@@ -208,7 +208,7 @@ msgstr "Mercé d'explorar Ubuntu&nbsp;!"
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr ""
+msgstr "Mandar de fichièrs al periferic..."
 
 #: ../en/index.html
 msgid "Create documents"
@@ -224,7 +224,7 @@ msgstr "Securizat"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr ""
+msgstr "Aqueste paquet conten lo navigador web Chromium."
 
 #: ../en/index.html
 msgid "$9.99"
@@ -281,6 +281,8 @@ msgstr "Gravadura de disc Brasero"
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
 msgstr ""
+"Legir, escriure e mandar de corrièls amb Mozilla Thunderbird. Es simple e "
+"rapid."
 
 #: ../en/index.html
 msgid "wrote"
@@ -332,7 +334,7 @@ msgstr "Inkscape, logicial de grafisme vectorial"
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr ""
+msgstr "Crear de presentacions"
 
 #: ../en/index.html
 msgid "Original Message"
@@ -340,11 +342,11 @@ msgstr "Messatge original"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "Solitari AisleRoit"
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr ""
+msgstr "Enviar los decibèls"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -355,6 +357,8 @@ msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
+"Chromium es un projècte de navigador liure que se vòl mai segur, mai rapid e "
+"mai estable pels utilizaires d'Internet."
 
 #: ../en/index.html
 msgid "Email"
@@ -374,11 +378,11 @@ msgstr "Disponible"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr ""
+msgstr "Totes los dorsièrs"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr ""
+msgstr "Div. 26 oct. 2001"
 
 #: ../en/index.html
 msgid "Hibernate"
@@ -390,7 +394,7 @@ msgstr "Langelinie Alle"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr ""
+msgstr "Vòstre Ubuntu, vòstre estil"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
@@ -413,6 +417,8 @@ msgid ""
 "You can watch all your favourite films and videos, DVDs, downloads or movies "
 "you've created yourself."
 msgstr ""
+"Podètz agachar totes vòstres filmes e vidèos preferits, de DVD, de "
+"telecargaments o de filmes qu'avètz creats vos-meteis."
 
 #: ../en/index.html
 msgid "3.3MB"
@@ -429,6 +435,7 @@ msgstr "Configurar lo corrièl…"
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
+"Trobar e telecargar rapidament de logicials dempuèi la logitèca Ubuntu."
 
 #: ../en/index.html
 msgid "Clear"
@@ -451,6 +458,9 @@ msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
+"D'autras extensions utilizan ruby, libxml-xql-perl, python-numpy e python-"
+"lxml. Vos cal installar aqueles paquets per utilizar plenament totas las "
+"extensions e totes los efièches."
 
 #: ../en/index.html
 msgid "Fwd"
@@ -493,6 +503,8 @@ msgid ""
 "Braid treats your time and attention as precious, and it does everything it "
 "can to give you a mind-expanding experience."
 msgstr ""
+"Braid considèra vòstre temps e atencion coma precioses, e fa tot çò possible "
+"per vos balhar una experiéncia pròpria per alarguir vòstra psichè."
 
 #: ../en/index.html
 msgid "English"
@@ -515,6 +527,9 @@ msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
 msgstr ""
+"Tota la mecanica del jòc es basada sus la manipulacion del temps. Viatjatz "
+"dins de mondes ont lo temps se compòrta estranhament, observatz, aprenètz "
+"puèi mestrejatz aqueles mondes."
 
 #: ../en/index.html
 msgid "Mount Snowdon"
@@ -531,6 +546,8 @@ msgstr "Accessible"
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
+"Salvatz e accedissètz a vòstres fichièrs dempuèi Ubuntu, Windows, lo web o "
+"un telefonet."
 
 #: ../en/index.html
 msgid "Title:"
@@ -538,7 +555,7 @@ msgstr "Títol :"
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr ""
+msgstr "Installar un periferic novèl..."
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
@@ -566,7 +583,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr ""
+msgstr "Pas legit :"
 
 #: ../en/index.html
 msgid "Banshee Media Player"
