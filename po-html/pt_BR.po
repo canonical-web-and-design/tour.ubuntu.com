@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-04 22:47+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-11-07 16:39+0000\n"
+"Last-Translator: Rafael Leandro <crf-rafa@live.com>\n"
 "Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:07+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2012-11-08 05:19+0000\n"
+"X-Generator: Launchpad (build 16232)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -128,7 +128,7 @@ msgstr "Baixe o Ubuntu"
 
 #: ../en/index.html
 msgid "Watch videos"
-msgstr ""
+msgstr "Assista a vídeos"
 
 #: ../en/index.html
 msgid "Join now"
@@ -405,7 +405,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr ""
+msgstr "Configurações de Data &amp; Hora"
 
 #: ../en/index.html
 msgid "Recently Used"
@@ -697,7 +697,7 @@ msgstr "Rascunho"
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "Gratuito"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
@@ -706,6 +706,7 @@ msgstr "Mantenha seus favoritos do Firefox e notas do Tomboy sincronizados"
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
+"LibreOffice Writer facilita a elaboração de documentos profissionais."
 
 #: ../en/index.html
 msgid "Displays…"
@@ -728,6 +729,8 @@ msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
+"Se você pretende usar um verificador ortográfico, tem que instalar o aspell "
+"e o respectivo pacote de lingua, e.g. aspell-en ou aspell-pt-br."
 
 #: ../en/index.html
 msgid "World of Goo"
@@ -735,11 +738,12 @@ msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
-msgstr ""
+msgstr "Ver fotos"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
+"Você pode enviar, organizar, editar e compartilhar suas fotos com o Shotwell."
 
 #: ../en/index.html
 msgid "Sand Maze"
@@ -809,7 +813,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
+msgstr "Navegador de Internet Chromium"
 
 #: ../en/index.html
 msgid "Sound Recorder"
@@ -825,7 +829,7 @@ msgstr "Rápido"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr ""
+msgstr "Recentes"
 
 #: ../en/index.html
 msgid "To:"
@@ -852,7 +856,7 @@ msgstr "Total:"
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr ""
+msgstr "Drivers adicionais"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
@@ -879,6 +883,8 @@ msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
+"LibreOffice Calc tem tudo que você precisa para criar planilhas claras e "
+"precisas."
 
 #: ../en/index.html
 msgid ""
@@ -888,11 +894,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr ""
+msgstr "Leve o Ubuntu para um teste drive com a nossa demonstração online."
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "Instalar"
 
 #: ../en/index.html
 msgid "Items:"
@@ -908,7 +914,7 @@ msgstr "Assunto:"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
+msgstr "Bem-vindo ao tour do Ubuntu 12.10"
 
 #: ../en/index.html
 msgid "Backup"
@@ -932,15 +938,15 @@ msgstr "Pasta pessoal"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
+msgstr "Esperamos que tenha gostado do tour online do Ubuntu."
 
 #: ../en/index.html
 msgid "Office"
-msgstr ""
+msgstr "Escritório"
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr ""
+msgstr "Temas &amp; Tweaks"
 
 #: ../en/index.html
 msgid ""
@@ -979,7 +985,7 @@ msgstr "Não é spam"
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #: ../en/index.html
 msgid ""
@@ -1011,7 +1017,7 @@ msgstr "Editar conexões..."
 
 #: ../en/index.html
 msgid "Printers"
-msgstr ""
+msgstr "Impressoras"
 
 #: ../en/index.html
 msgid "Sound Settings…"
@@ -1038,7 +1044,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Attach"
-msgstr ""
+msgstr "Anexar"
 
 #: ../en/index.html
 msgid "Window"
@@ -1050,7 +1056,7 @@ msgstr "Escrever: (Sem assunto)"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr ""
+msgstr "Tour online do Ubuntu"
 
 #: ../en/index.html
 msgid "Federica Miglio"
@@ -1066,7 +1072,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Offline"
-msgstr ""
+msgstr "Desconectado"
 
 #: ../en/index.html
 msgid "Trash"
@@ -1074,7 +1080,7 @@ msgstr "Lixeira"
 
 #: ../en/index.html
 msgid "archive"
-msgstr ""
+msgstr "arquivo"
 
 #: ../en/index.html
 msgid "Power Of Words"
@@ -1090,7 +1096,7 @@ msgstr "Pastas"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr ""
+msgstr "Navegar na web é mais rápido e seguro com Ubuntu e Firefox."
 
 #: ../en/index.html
 msgid "Format"
@@ -1146,7 +1152,7 @@ msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
-msgstr ""
+msgstr "De:"
 
 #: ../en/index.html
 msgid "Insert"
@@ -1198,7 +1204,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
+msgstr "Crie e edite desenhos vetoriais escaláveis"
 
 #: ../en/index.html
 msgid "Attached Devices"
