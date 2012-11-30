@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-04 22:47+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-11-29 14:31+0000\n"
+"Last-Translator: Dražen Matešić <Unknown>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:07+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2012-11-30 05:41+0000\n"
+"X-Generator: Launchpad (build 16319)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -134,7 +134,7 @@ msgstr "Prejmite Ubuntu"
 
 #: ../en/index.html
 msgid "Watch videos"
-msgstr ""
+msgstr "Poglejte video posnetke"
 
 #: ../en/index.html
 msgid "Join now"
@@ -432,6 +432,8 @@ msgid ""
 "You can watch all your favourite films and videos, DVDs, downloads or movies "
 "you've created yourself."
 msgstr ""
+"Pogledate lahko svoje priljubljene filme in video posnetke, DVDje, prejeme "
+"ali filme, ki ste jih sami ustvarili."
 
 #: ../en/index.html
 msgid "3.3MB"
@@ -966,7 +968,7 @@ msgstr "Zadeva:"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
+msgstr "Dobrodošli na ogled Ubuntuja 12.10!"
 
 #: ../en/index.html
 msgid "Backup"
@@ -974,7 +976,7 @@ msgstr "Varnostna kopija"
 
 #: ../en/index.html
 msgid "Ubuntu tour"
-msgstr ""
+msgstr "Ogled Ubuntuja"
 
 #: ../en/index.html
 msgid "History"
