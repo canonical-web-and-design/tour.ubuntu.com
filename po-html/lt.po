@@ -1,21 +1,23 @@
 # Lithuanian translation for ubuntu-online-tour
 # Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the ubuntu-online-tour package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
 #
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+# Liudas Ališauskas <liudas@akmc.lt>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2013-01-02 20:32+0000\n"
-"Last-Translator: donatas_s <donatas.stanionis@gmail.com>\n"
+"PO-Revision-Date: 2013-01-04 04:18+0000\n"
+"Last-Translator: Liudas Ališauskas <Unknown>\n"
 "Language-Team: Lithuanian <lt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-03 05:37+0000\n"
+"X-Launchpad-Export-Date: 2013-01-04 05:26+0000\n"
 "X-Generator: Launchpad (build 16393)\n"
+"Language: lt\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -123,6 +125,10 @@ msgid ""
 "translated into 38 languages, Ubuntu also includes essential assistive "
 "technologies, which are, of course, completely free."
 msgstr ""
+"Pasiekiamumas yra Ubuntu filosofijos centre. Mes tikime, kad kompiuteriai "
+"yra kiekvienam nepaisant tautybės, rasės, lyties ar neįgalumo. Pilnai "
+"išversta į 38 kalbas, Ubuntu taip pat turi esmines pagalbos technologijas, "
+"kurios žinoma yra nemokamos."
 
 #: ../en/index.html
 msgid "Download Ubuntu"
@@ -130,7 +136,7 @@ msgstr "Atsisiųskite Ubuntu"
 
 #: ../en/index.html
 msgid "Watch videos"
-msgstr ""
+msgstr "Žiūrėti vaizdo įrašus"
 
 #: ../en/index.html
 msgid "Join now"
@@ -170,7 +176,7 @@ msgstr "PCB CNC keitiklis"
 
 #: ../en/index.html
 msgid "On"
-msgstr ""
+msgstr "Įjungta"
 
 #: ../en/index.html
 msgid "Welcome Screen"
@@ -191,7 +197,7 @@ msgstr "Grafika"
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr ""
+msgstr "Likti prisijungus"
 
 #: ../en/index.html
 msgid "Top Rated"
@@ -357,7 +363,7 @@ msgstr "Pasjansas AisleRiot"
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr ""
+msgstr "Šėlk"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -406,7 +412,7 @@ msgstr "Langelino alėja"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr ""
+msgstr "Jūsų Ubuntu, Jūsų kelias"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
@@ -429,6 +435,8 @@ msgid ""
 "You can watch all your favourite films and videos, DVDs, downloads or movies "
 "you've created yourself."
 msgstr ""
+"Galite žiūrėti visus savo mėgstamus filmus ir vaizdo įrašus. DVD, "
+"atsisiųstus ar filmus sukurtus pačių."
 
 #: ../en/index.html
 msgid "3.3MB"
@@ -450,7 +458,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Clear"
-msgstr ""
+msgstr "Išvalyti"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -479,19 +487,19 @@ msgstr "Fwd"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr ""
+msgstr "Terminalo serverio klientas"
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr ""
+msgstr "Išvaizda"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr ""
+msgstr "Numesk"
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
@@ -499,15 +507,15 @@ msgstr "Sėlinantis ocelotas"
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr ""
+msgstr "Sistemos nustatymai…"
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr ""
+msgstr "Paleidžiamos programos…"
 
 #: ../en/index.html
 msgid "Remove"
-msgstr ""
+msgstr "Pašalinti"
 
 #: ../en/index.html
 msgid ""
@@ -519,7 +527,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "Anglų"
 
 #: ../en/index.html
 msgid "Purple Dancers"
@@ -527,11 +535,11 @@ msgstr "Violetiniai šokėjai"
 
 #: ../en/index.html
 msgid "from"
-msgstr ""
+msgstr "Nuo"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #: ../en/index.html
 msgid ""
@@ -548,11 +556,11 @@ msgstr "Snoudono kalnas"
 
 #: ../en/index.html
 msgid "Songs"
-msgstr ""
+msgstr "Dainos"
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr ""
+msgstr "Pasiekiamas"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
@@ -570,15 +578,15 @@ msgstr "Nustatyti naują įrenginį..."
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
-msgstr ""
+msgstr "Įžanga Ubuntu"
 
 #: ../en/index.html
 msgid "Videos"
-msgstr ""
+msgstr "Vaizdo įrašai"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Braid"
 
 #: ../en/index.html
 msgid ""
@@ -600,7 +608,7 @@ msgstr "Neskaitytas:"
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "Banshee media grotuvas"
 
 #: ../en/index.html
 msgid ""
@@ -621,7 +629,7 @@ msgstr "Failai ir Aplankai"
 
 #: ../en/index.html
 msgid "Installed"
-msgstr ""
+msgstr "Įdiegta"
 
 #: ../en/index.html
 msgid "BEEP"
@@ -644,19 +652,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chat"
-msgstr ""
+msgstr "Pokalbis"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr ""
+msgstr "Archyvas"
 
 #: ../en/index.html
 msgid "Download"
-msgstr ""
+msgstr "Atsisiųsti"
 
 #: ../en/index.html
 msgid "Home"
-msgstr ""
+msgstr "Pradžia"
 
 #: ../en/index.html
 msgid "Canonical"
@@ -664,19 +672,19 @@ msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr ""
+msgstr "Programuotojų įrankiai"
 
 #: ../en/index.html
 msgid "or"
-msgstr ""
+msgstr "arba"
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "Pasiekti internetą"
 
 #: ../en/index.html
 msgid "5.3MB"
@@ -692,11 +700,11 @@ msgstr "cc"
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr ""
+msgstr "Paveikslėliai"
 
 #: ../en/index.html
 msgid "Away"
-msgstr ""
+msgstr "Pasitraukęs"
 
 #: ../en/index.html
 msgid "Check email"
@@ -704,15 +712,15 @@ msgstr "Naudokitės el. paštu"
 
 #: ../en/index.html
 msgid "Size:"
-msgstr ""
+msgstr "Dydis:"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr ""
+msgstr "Juodraštis"
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "Laisva"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
@@ -721,14 +729,15 @@ msgstr "Laikykit Firefox žymas ir Tomboy užrašus sinchronizuotus"
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
+"LibreOffice Writer leidžia lengvai projektuoti profesionalius dokumentus."
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr ""
+msgstr "Rodo..."
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr ""
+msgstr "Programinė įranga yra atnaujinta"
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -736,7 +745,7 @@ msgstr "Naršykite internete"
 
 #: ../en/index.html
 msgid "Local"
-msgstr ""
+msgstr "Vietinis"
 
 #: ../en/index.html
 msgid ""
@@ -766,7 +775,7 @@ msgstr "Smėlio labirintas"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr ""
+msgstr "Ubuntu One valdymo skydelis"
 
 #: ../en/index.html
 msgid ""
@@ -778,7 +787,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "to"
-msgstr ""
+msgstr "kam"
 
 #: ../en/index.html
 msgid ""
@@ -802,6 +811,8 @@ msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
 msgstr ""
+"Padarykite gerą pristatymą su sąmoningu LibreOffice Impress pristatymų "
+"įrankiu."
 
 #: ../en/index.html
 msgid ""
@@ -811,7 +822,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Our star apps"
-msgstr ""
+msgstr "Mūsų rekomenduojamos programos"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -819,7 +830,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: ../en/index.html
 msgid ""
@@ -838,31 +849,31 @@ msgstr "Interneto naršyklė „Chromium“"
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr ""
+msgstr "Garso įrašinėtojas"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr ""
+msgstr "Gavėjas"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr ""
+msgstr "Greitas"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr ""
+msgstr "Vėliausi"
 
 #: ../en/index.html
 msgid "To:"
-msgstr ""
+msgstr "Kam:"
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
-msgstr ""
+msgstr "Sukurti transliavimo paskyrą…"
 
 #: ../en/index.html
 msgid "Date:"
-msgstr ""
+msgstr "Data:"
 
 #: ../en/index.html
 msgid ""
@@ -877,11 +888,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Total:"
-msgstr ""
+msgstr "Viso:"
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr ""
+msgstr "Papildomos tvarkyklės"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
@@ -893,21 +904,23 @@ msgstr "Nepavadintas 1 - LibreOffice Calc"
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr ""
+msgstr "Aš jau turiu paskyrą!"
 
 #: ../en/index.html
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 #: ../en/index.html
 msgid "forward"
-msgstr ""
+msgstr "priekin"
 
 #: ../en/index.html
 msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
+"LibreOffice Calc turi viską ko reikia, kad sukurti aiškias ir tikslias "
+"skaičiuoklės lenteles."
 
 #: ../en/index.html
 msgid ""
@@ -919,15 +932,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr ""
+msgstr "Išbandykite Ubuntu mūsų internetinėje demonstracijoje."
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "Įdiegti"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr ""
+msgstr "Objektai:"
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -935,23 +948,23 @@ msgstr "Laukiniai kviečiai"
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
+msgstr "Tema:"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
+msgstr "Jus sveikina Ubuntu 12.10 turas!"
 
 #: ../en/index.html
 msgid "Backup"
-msgstr ""
+msgstr "Atsarginė kopija"
 
 #: ../en/index.html
 msgid "Ubuntu tour"
-msgstr ""
+msgstr "Ubuntu apžiūrėjimas"
 
 #: ../en/index.html
 msgid "History"
-msgstr ""
+msgstr "Istorija"
 
 #: ../en/index.html
 msgid "16 Photos"
@@ -959,7 +972,7 @@ msgstr "16 nuotraukų"
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr ""
+msgstr "Namų aplankas"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
@@ -967,11 +980,11 @@ msgstr "Tikimės, kad jums patiko Ubuntu Linux demonstracija internete."
 
 #: ../en/index.html
 msgid "Office"
-msgstr ""
+msgstr "Biuras"
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr ""
+msgstr "Temos ir pagerinimai"
 
 #: ../en/index.html
 msgid ""
@@ -983,11 +996,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "work"
-msgstr ""
+msgstr "darbo"
 
 #: ../en/index.html
 msgid "Library"
-msgstr ""
+msgstr "Biblioteka"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
@@ -1006,11 +1019,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr ""
+msgstr "Ne šlamštas"
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr ""
+msgstr "Chromas"
 
 #: ../en/index.html
 msgid ""
@@ -1022,7 +1035,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "delete"
-msgstr ""
+msgstr "ištrinti"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
@@ -1030,7 +1043,7 @@ msgstr "Thunderbird paštas/naujienos"
 
 #: ../en/index.html
 msgid "Busy"
-msgstr ""
+msgstr "Užimtas (-a)"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1042,7 +1055,7 @@ msgstr "Keisti prisijungimus..."
 
 #: ../en/index.html
 msgid "Printers"
-msgstr ""
+msgstr "Spausdintuvai"
 
 #: ../en/index.html
 msgid "Sound Settings…"
@@ -1050,7 +1063,7 @@ msgstr "Garso nustatymai..."
 
 #: ../en/index.html
 msgid "Search"
-msgstr ""
+msgstr "Ieškoti"
 
 #: ../en/index.html
 msgid ""
@@ -1061,19 +1074,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr ""
+msgstr "Įjungti Bluetooth"
 
 #: ../en/index.html
 msgid "Write"
-msgstr ""
+msgstr "Įrašyti"
 
 #: ../en/index.html
 msgid "Attach"
-msgstr ""
+msgstr "Prisegti"
 
 #: ../en/index.html
 msgid "Window"
-msgstr ""
+msgstr "Langas"
 
 #: ../en/index.html
 msgid "Write: (no subject)"
@@ -1085,7 +1098,7 @@ msgstr "Ubuntu ekskursija internete"
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr ""
+msgstr "Federica Miglio"
 
 #: ../en/index.html
 msgid ""
@@ -1097,11 +1110,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Offline"
-msgstr ""
+msgstr "Atsijungęs (-usi)"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr ""
+msgstr "Šiukšliadėžė"
 
 #: ../en/index.html
 msgid "archive"
@@ -1109,23 +1122,23 @@ msgstr "archyvas"
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "Žodžių galia"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Shotwell fotografijų tvarkytuvė"
 
 #: ../en/index.html
 msgid "Folders"
-msgstr ""
+msgstr "Aplankai"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr ""
+msgstr "Interneto naršymas yra greitas ir saugus su Ubuntu ir Firefox."
 
 #: ../en/index.html
 msgid "Format"
-msgstr ""
+msgstr "Formatas"
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -1141,27 +1154,27 @@ msgstr "Šlamštas"
 
 #: ../en/index.html
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../en/index.html
 msgid "Computer"
-msgstr ""
+msgstr "Kompiuteris"
 
 #: ../en/index.html
 msgid "What's New"
-msgstr ""
+msgstr "Kas naujo"
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr ""
+msgstr "Filmų grotuvas"
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr ""
+msgstr "Nematomas (-a)"
 
 #: ../en/index.html
 msgid "Albums"
-msgstr ""
+msgstr "Albumai"
 
 #: ../en/index.html
 msgid ""
@@ -1174,51 +1187,51 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
-msgstr ""
+msgstr "Nuo:"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr ""
+msgstr "Įterpti"
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr ""
+msgstr "Išjungti…"
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr ""
+msgstr "Šriftai"
 
 #: ../en/index.html
 msgid "File"
-msgstr ""
+msgstr "Failas"
 
 #: ../en/index.html
 msgid "Edit"
-msgstr ""
+msgstr "Keisti"
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr ""
+msgstr "Bluetooth įjungtas"
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr ""
+msgstr "Išjungti Bluetooth"
 
 #: ../en/index.html
 msgid "Installing"
-msgstr ""
+msgstr "Diegiama"
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr ""
+msgstr "atgal į svetainę"
 
 #: ../en/index.html
 msgid "Games"
-msgstr ""
+msgstr "Žaidimai"
 
 #: ../en/index.html
 msgid "Visolate"
@@ -1234,15 +1247,15 @@ msgstr "Kurkite bei tobulinkite vektorinius grafinius piešinius ar brėžinius"
 
 #: ../en/index.html
 msgid "Attached Devices"
-msgstr ""
+msgstr "Prijungti įrenginiai"
 
 #: ../en/index.html
 msgid "View"
-msgstr ""
+msgstr "Rodymas"
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr ""
+msgstr "Sustabdyti"
 
 #: ../en/index.html
 msgid "branches"
@@ -1250,7 +1263,7 @@ msgstr "šakos"
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr ""
+msgstr "Jūsų asmeninio debesies galia"
 
 #: ../en/index.html
 msgid ""
@@ -1261,7 +1274,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr ""
+msgstr "Pir 11 Spalis, 2010"
 
 #: ../en/index.html
 msgid ""
@@ -1294,7 +1307,7 @@ msgstr "Kurkite ir redaguokite 3D modelius ir animacijas"
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr ""
+msgstr "Gauti laiškai"
 
 #: ../en/index.html
 msgid "Files Anywhere"
@@ -1306,7 +1319,7 @@ msgstr "Išlik produktyvus"
 
 #: ../en/index.html
 msgid "Table"
-msgstr ""
+msgstr "Lentelė"
 
 #: ../en/index.html
 msgid ""
@@ -1348,7 +1361,7 @@ msgstr "Atsiuntimai"
 
 #: ../en/index.html
 msgid "You"
-msgstr ""
+msgstr "Jūs"
 
 #: ../en/index.html
 msgid "Blender"
