@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2013-01-16 20:49+0000\n"
+"PO-Revision-Date: 2013-01-17 13:56+0000\n"
 "Last-Translator: admresdeserv. <jeanmarc.gailis@gmail.com>\n"
 "Language-Team: Latvian <lv@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-17 05:45+0000\n"
+"X-Launchpad-Export-Date: 2013-01-18 06:13+0000\n"
 "X-Generator: Launchpad (build 16430)\n"
 
 #: ../en/index.html
@@ -50,7 +50,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Desktop"
-msgstr ""
+msgstr "Darbvirsma"
 
 #: ../en/index.html
 msgid "Get Mail"
@@ -373,11 +373,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Email"
-msgstr ""
+msgstr "E-pasts"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr ""
+msgstr "Nosūtīts"
 
 #: ../en/index.html
 msgid "subject"
@@ -385,11 +385,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Available"
-msgstr ""
+msgstr "Pieejams"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr ""
+msgstr "Visas mapes"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
@@ -397,7 +397,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Hibernate"
-msgstr ""
+msgstr "Iemidzināt"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -413,11 +413,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr ""
+msgstr "Nesen izmantoti"
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr ""
+msgstr "Atcelt"
 
 #: ../en/index.html
 msgid "Jardin Polar"
@@ -447,7 +447,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Clear"
-msgstr ""
+msgstr "Notīrīt"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -459,7 +459,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Log Out…"
-msgstr ""
+msgstr "Izrakstīties…"
 
 #: ../en/index.html
 msgid ""
@@ -469,19 +469,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr ""
+msgstr "Pārs."
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr ""
+msgstr "Termināla servera klients"
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr ""
+msgstr "Izskats"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
@@ -511,7 +511,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "Angļu valoda"
 
 #: ../en/index.html
 msgid "Purple Dancers"
@@ -519,11 +519,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "from"
-msgstr ""
+msgstr "no"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #: ../en/index.html
 msgid ""
@@ -537,11 +537,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Songs"
-msgstr ""
+msgstr "Dziesmas"
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr ""
+msgstr "Pieejams"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
@@ -549,7 +549,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Title:"
-msgstr ""
+msgstr "Nosaukums:"
 
 #: ../en/index.html
 msgid "Setup new device…"
@@ -561,11 +561,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Videos"
-msgstr ""
+msgstr "Video"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Pīne"
 
 #: ../en/index.html
 msgid ""
@@ -585,7 +585,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "Banshee mūzikas atskaņotājs"
 
 #: ../en/index.html
 msgid ""
@@ -618,7 +618,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr ""
+msgstr "Uzzināt vairāk"
 
 #: ../en/index.html
 msgid ""
@@ -629,35 +629,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chat"
-msgstr ""
+msgstr "Tērzēšana"
 
 #: ../en/index.html
 msgid "Archive"
-msgstr ""
+msgstr "Arhīvs"
 
 #: ../en/index.html
 msgid "Download"
-msgstr ""
+msgstr "Lejupielādēt"
 
 #: ../en/index.html
 msgid "Home"
-msgstr ""
+msgstr "Mājas mape"
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr ""
+msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr ""
+msgstr "Izstrādātāju rīki"
 
 #: ../en/index.html
 msgid "or"
-msgstr ""
+msgstr "vai"
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
@@ -697,7 +697,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "Pa brīvu"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
@@ -709,7 +709,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Displays…"
-msgstr ""
+msgstr "Displeji..."
 
 #: ../en/index.html
 msgid "Software Up to Date"
@@ -717,11 +717,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr ""
+msgstr "Pārlūkojiet tīmekli"
 
 #: ../en/index.html
 msgid "Local"
-msgstr ""
+msgstr "Vietējs"
 
 #: ../en/index.html
 msgid ""
@@ -757,7 +757,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "to"
-msgstr ""
+msgstr "līdz"
 
 #: ../en/index.html
 msgid ""
@@ -790,7 +790,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Our star apps"
-msgstr ""
+msgstr "Mūsu zvaigžņu lietotnes"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -813,23 +813,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr ""
+msgstr "Skaņu Ierakstītājs"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr ""
+msgstr "Saņēmējs"
 
 #: ../en/index.html
 msgid "Fast"
-msgstr ""
+msgstr "Ātri"
 
 #: ../en/index.html
 msgid "Recent"
-msgstr ""
+msgstr "Nesens"
 
 #: ../en/index.html
 msgid "To:"
-msgstr ""
+msgstr "Līdz:"
 
 #: ../en/index.html
 msgid "Set Up Broadcast Account…"
@@ -837,7 +837,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date:"
-msgstr ""
+msgstr "Datums:"
 
 #: ../en/index.html
 msgid ""
@@ -848,11 +848,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Total:"
-msgstr ""
+msgstr "Summa:"
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr ""
+msgstr "Papildu draiveri"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
@@ -864,15 +864,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr ""
+msgstr "Man jau ir konts!"
 
 #: ../en/index.html
 msgid "System"
-msgstr ""
+msgstr "Sistēma"
 
 #: ../en/index.html
 msgid "forward"
-msgstr ""
+msgstr "uzpriekšu"
 
 #: ../en/index.html
 msgid ""
@@ -892,11 +892,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "Instalēt"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr ""
+msgstr "Vienumi:"
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -904,7 +904,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
+msgstr "Temats:"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 12.10 tour!"
@@ -912,7 +912,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Backup"
-msgstr ""
+msgstr "Dublējums"
 
 #: ../en/index.html
 msgid "Ubuntu tour"
@@ -920,7 +920,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "History"
-msgstr ""
+msgstr "Vēsture"
 
 #: ../en/index.html
 msgid "16 Photos"
@@ -928,7 +928,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr ""
+msgstr "Mājas mape"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
@@ -936,11 +936,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Office"
-msgstr ""
+msgstr "Birojs"
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr ""
+msgstr "Motīvi un piedares"
 
 #: ../en/index.html
 msgid ""
@@ -952,11 +952,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "work"
-msgstr ""
+msgstr "darbs"
 
 #: ../en/index.html
 msgid "Library"
-msgstr ""
+msgstr "Bibliotēka"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
@@ -975,7 +975,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr ""
+msgstr "Nav mēstule"
 
 #: ../en/index.html
 msgid "Chromium"
