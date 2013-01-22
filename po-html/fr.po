@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2013-01-19 16:46+0000\n"
+"PO-Revision-Date: 2013-01-21 22:09+0000\n"
 "Last-Translator: YoBoY <yoboy.leguesh@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-20 05:16+0000\n"
+"X-Launchpad-Export-Date: 2013-01-22 05:30+0000\n"
 "X-Generator: Launchpad (build 16430)\n"
 
 #: ../en/index.html
@@ -242,7 +242,7 @@ msgstr "Sécurisé"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr "Ce paquet contient le navigateur web Chromium."
+msgstr "Ce paquet contient le navigateur Web Chromium."
 
 #: ../en/index.html
 msgid "$9.99"
@@ -983,7 +983,7 @@ msgstr "Sujet :"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr "Bienvenue dans la visite guidée d'Ubuntu 12.10!"
+msgstr "Bienvenue dans la visite guidée d'Ubuntu 12.10&nbsp;!"
 
 #: ../en/index.html
 msgid "Backup"
@@ -991,7 +991,7 @@ msgstr "Sauvegarde"
 
 #: ../en/index.html
 msgid "Ubuntu tour"
-msgstr "Visite Guidée Ubuntu"
+msgstr "Visite guidée Ubuntu"
 
 #: ../en/index.html
 msgid "History"
@@ -1008,7 +1008,7 @@ msgstr "Dossier personnel"
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
 msgstr ""
-"Nous esp&eacute;rons que vous avez apr&eacute;ci&eacute; la visite d'Ubuntu "
+"Nous esp&eacute;rons que vous avez appr&eacute;ci&eacute; la visite d'Ubuntu "
 "en ligne."
 
 #: ../en/index.html
@@ -1191,7 +1191,7 @@ msgstr "Format"
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr "Naviguer sur le web"
+msgstr "Naviguer sur le Web"
 
 #: ../en/index.html
 msgid "Browse files on device…"
