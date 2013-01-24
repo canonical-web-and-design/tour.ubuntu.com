@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2013-01-17 13:56+0000\n"
+"PO-Revision-Date: 2013-01-23 14:52+0000\n"
 "Last-Translator: admresdeserv. <jeanmarc.gailis@gmail.com>\n"
 "Language-Team: Latvian <lv@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-18 06:13+0000\n"
-"X-Generator: Launchpad (build 16430)\n"
+"X-Launchpad-Export-Date: 2013-01-24 05:25+0000\n"
+"X-Generator: Launchpad (build 16445)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -405,11 +405,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr ""
+msgstr "Jus Ubuntu, jus cels"
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr ""
+msgstr "Laika un Datuma Iestatijumi"
 
 #: ../en/index.html
 msgid "Recently Used"
@@ -431,11 +431,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr ""
+msgstr "3.3MB"
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "atbildet"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
@@ -451,7 +451,7 @@ msgstr "Notīrīt"
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr ""
+msgstr "19.99 Ls"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
@@ -493,15 +493,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr ""
+msgstr "Sistēmas iestatījumi…"
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr ""
+msgstr "Starta lietotnes…"
 
 #: ../en/index.html
 msgid "Remove"
-msgstr ""
+msgstr "Izņemt"
 
 #: ../en/index.html
 msgid ""
@@ -581,7 +581,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr ""
+msgstr "Nelasits:"
 
 #: ../en/index.html
 msgid "Banshee Media Player"
@@ -606,7 +606,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Installed"
-msgstr ""
+msgstr "Instalēts"
 
 #: ../en/index.html
 msgid "BEEP"
@@ -614,7 +614,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Visible"
-msgstr ""
+msgstr "Redzams"
 
 #: ../en/index.html
 msgid "Learn More"
@@ -661,11 +661,11 @@ msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "Piekļūt internetam"
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr ""
+msgstr "5.3MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
@@ -673,27 +673,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "cc"
-msgstr ""
+msgstr "cc"
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr ""
+msgstr "Bildes"
 
 #: ../en/index.html
 msgid "Away"
-msgstr ""
+msgstr "Projām"
 
 #: ../en/index.html
 msgid "Check email"
-msgstr ""
+msgstr "Parbaudit e-pastu"
 
 #: ../en/index.html
 msgid "Size:"
-msgstr ""
+msgstr "Izmērs:"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr ""
+msgstr "Neapstiprināts"
 
 #: ../en/index.html
 msgid "Free"
@@ -713,7 +713,7 @@ msgstr "Displeji..."
 
 #: ../en/index.html
 msgid "Software Up to Date"
-msgstr ""
+msgstr "Programmatūras atjaunināšana"
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -735,7 +735,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "View photos"
-msgstr ""
+msgstr "Redzet Fotos"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
@@ -747,7 +747,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr ""
+msgstr "Ubuntu One Control Panel"
 
 #: ../en/index.html
 msgid ""
@@ -798,7 +798,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Date"
-msgstr ""
+msgstr "Datums"
 
 #: ../en/index.html
 msgid ""
@@ -809,7 +809,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
+msgstr "Chromium Web Browsers"
 
 #: ../en/index.html
 msgid "Sound Recorder"
@@ -856,11 +856,11 @@ msgstr "Papildu draiveri"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr ""
+msgstr "Ubuntu Software Centre"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr ""
+msgstr "Nenosaukts 1 - LibreOffice Calc"
 
 #: ../en/index.html
 msgid "I already have an account!"
@@ -908,7 +908,7 @@ msgstr "Temats:"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
+msgstr "Sveicināti Ubuntu 12.10 ekskursija!"
 
 #: ../en/index.html
 msgid "Backup"
@@ -916,7 +916,7 @@ msgstr "Dublējums"
 
 #: ../en/index.html
 msgid "Ubuntu tour"
-msgstr ""
+msgstr "Ubuntu ekskursija"
 
 #: ../en/index.html
 msgid "History"
@@ -924,7 +924,7 @@ msgstr "Vēsture"
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16 Fotos"
 
 #: ../en/index.html
 msgid "Home Folder"
@@ -932,7 +932,7 @@ msgstr "Mājas mape"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
+msgstr "Mēs ceram ka jums patika Ubuntu elektroniska ekskursija."
 
 #: ../en/index.html
 msgid "Office"
@@ -964,7 +964,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Thunderbird Mail"
-msgstr ""
+msgstr "Thunderbird Mail"
 
 #: ../en/index.html
 msgid ""
@@ -979,7 +979,7 @@ msgstr "Nav mēstule"
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #: ../en/index.html
 msgid ""
@@ -989,7 +989,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "delete"
-msgstr ""
+msgstr "dzēst"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
@@ -997,7 +997,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Busy"
-msgstr ""
+msgstr "Aizņemts"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1009,7 +1009,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Printers"
-msgstr ""
+msgstr "Printeri"
 
 #: ../en/index.html
 msgid "Sound Settings…"
@@ -1017,7 +1017,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Search"
-msgstr ""
+msgstr "Meklēt"
 
 #: ../en/index.html
 msgid ""
