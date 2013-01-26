@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2013-01-23 14:52+0000\n"
+"PO-Revision-Date: 2013-01-25 17:30+0000\n"
 "Last-Translator: admresdeserv. <jeanmarc.gailis@gmail.com>\n"
 "Language-Team: Latvian <lv@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-24 05:25+0000\n"
-"X-Generator: Launchpad (build 16445)\n"
+"X-Launchpad-Export-Date: 2013-01-26 05:34+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -1068,11 +1068,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Trash"
-msgstr ""
+msgstr "Miskaste"
 
 #: ../en/index.html
 msgid "archive"
-msgstr ""
+msgstr "arhīvs"
 
 #: ../en/index.html
 msgid "Power Of Words"
@@ -1080,11 +1080,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Shotwell fotogrāfiju pārvaldnieks"
 
 #: ../en/index.html
 msgid "Folders"
-msgstr ""
+msgstr "Mapes"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
@@ -1092,7 +1092,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Format"
-msgstr ""
+msgstr "Formatēt"
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -1108,27 +1108,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../en/index.html
 msgid "Computer"
-msgstr ""
+msgstr "Dators"
 
 #: ../en/index.html
 msgid "What's New"
-msgstr ""
+msgstr "Kas jauns"
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr ""
+msgstr "Filmu atskaņotājs"
 
 #: ../en/index.html
 msgid "Invisible"
-msgstr ""
+msgstr "Neredzams"
 
 #: ../en/index.html
 msgid "Albums"
-msgstr ""
+msgstr "Albūms"
 
 #: ../en/index.html
 msgid ""
@@ -1138,15 +1138,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #: ../en/index.html
 msgid "From:"
-msgstr ""
+msgstr "No:"
 
 #: ../en/index.html
 msgid "Insert"
-msgstr ""
+msgstr "Ievietot"
 
 #: ../en/index.html
 msgid "Shut Down…"
