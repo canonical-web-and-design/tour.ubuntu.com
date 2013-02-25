@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-04 22:47+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-02-24 14:08+0000\n"
+"Last-Translator: Purvesh R. Shah. <purveshrshah@gmail.com>\n"
 "Language-Team: Gujarati <gu@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:07+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2013-02-25 05:31+0000\n"
+"X-Generator: Launchpad (build 16506)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -48,7 +48,7 @@ msgstr "ડેસ્કટોપ"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr ""
+msgstr "Mail મેળવો"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
@@ -64,11 +64,11 @@ msgstr "વિજ્ઞાન અને એન્જિનિઅરિંગ"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr ""
+msgstr "એપ્લિકેશન્સ  શોધો"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr ""
+msgstr "એકલા નથી"
 
 #: ../en/index.html
 msgid "Momiji Dream"
@@ -96,15 +96,15 @@ msgstr ""
 #: ../en/index.html
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
-msgstr ""
+msgstr "શું તમે ખરેખર  બધા કાર્યક્રમો અને કોમ્પ્યુટર બંધ કરવા માંગો છો?"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr ""
+msgstr "અનામાંકિત 1 - LibreOffice Impress"
 
 #: ../en/index.html
 msgid "Ubuntu One"
-msgstr ""
+msgstr "Ubuntu One"
 
 #: ../en/index.html
 msgid ""
@@ -116,15 +116,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr ""
+msgstr "Ubuntu ડાઉનલોડ કરો"
 
 #: ../en/index.html
 msgid "Watch videos"
-msgstr ""
+msgstr "વિડિઓ જુઓ"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr ""
+msgstr "હવે જોડાવો"
 
 #: ../en/index.html
 msgid "Applications"
@@ -132,19 +132,19 @@ msgstr "કાર્યક્રમો"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr ""
+msgstr "બુધવાર 14 ઓક્ટોબર, 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr ""
+msgstr "ભૌતિકશાસ્ત્ર આધારિત ઉખાણું/construction game"
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
-msgstr ""
+msgstr "Remote Desktop Viewer"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr ""
+msgstr "Gwibber Social Client"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -152,11 +152,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr ""
+msgstr "૧૫.૨KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr ""
+msgstr "PCB CNC રૂપાંતર કરનાર"
 
 #: ../en/index.html
 msgid "On"
@@ -164,11 +164,11 @@ msgstr "પર"
 
 #: ../en/index.html
 msgid "Welcome Screen"
-msgstr ""
+msgstr "સ્વાગત સ્ક્રીન"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr ""
+msgstr "અનામાંકિત 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
@@ -180,7 +180,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr ""
+msgstr "કનેક્ટેડ રહો"
 
 #: ../en/index.html
 msgid "Top Rated"
@@ -192,7 +192,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr ""
+msgstr "Dash home"
 
 #: ../en/index.html
 msgid "From"
@@ -200,7 +200,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Auto eth0"
-msgstr ""
+msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
@@ -212,15 +212,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr ""
+msgstr "documents બનાવો"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr ""
+msgstr "(૯૧ Ratings)"
 
 #: ../en/index.html
 msgid "Secure"
-msgstr ""
+msgstr "સુરક્ષિત"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
@@ -228,7 +228,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "$9.99"
-msgstr ""
+msgstr "$૯.૯૯"
 
 #: ../en/index.html
 msgid "Help"
@@ -240,11 +240,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "All Software"
-msgstr ""
+msgstr "બધા  સોફ્ટવેર"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr ""
+msgstr "ડાઉનલોડ કરવા માટે તૈયાર છો?"
 
 #: ../en/index.html
 msgid "Accessories"
@@ -252,7 +252,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr ""
+msgstr "spreadsheets બનાવો"
 
 #: ../en/index.html
 msgid "Bluetooth"
@@ -268,7 +268,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr ""
+msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
@@ -280,11 +280,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
-msgstr ""
+msgstr "વાંચી, લખી  અને Thunderbird સાથે ઇમેઇલ્સ મોકલો. તે સરળ અને ઝડપી છે."
 
 #: ../en/index.html
 msgid "wrote"
-msgstr ""
+msgstr "લખ્યું હતું"
 
 #: ../en/index.html
 msgid "Subject"
@@ -292,7 +292,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Shotwell"
-msgstr ""
+msgstr "Shotwell"
 
 #: ../en/index.html
 msgid "Documents"
@@ -316,7 +316,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "junk"
-msgstr ""
+msgstr "junk"
 
 #: ../en/index.html
 msgid "Send"
@@ -332,11 +332,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr ""
+msgstr "presentations બનાવો"
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr ""
+msgstr "મૂળ સંદેશ"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
@@ -348,13 +348,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr ""
+msgstr "જોડાણની  માહિતી"
 
 #: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
+"ક્રોમિયમ એક ઓપન-સોર્સ બ્રાઉઝર પ્રોજેક્ટ છે, જે તમામ ઈન્ટરનેટ વપરાશકર્તાઓ "
+"માટે વેબ અનુભવ કરવા સુરક્ષિત, ઝડપી અને વધુ સ્થિર રીતે બીલ્ડ કરેલ છે."
 
 #: ../en/index.html
 msgid "Email"
@@ -374,11 +376,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr ""
+msgstr "બધાં ફોલ્ડરો"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr ""
+msgstr "શુક્ર ૨૬ ઑક્ટો ૨૦૦૧"
 
 #: ../en/index.html
 msgid "Hibernate"
@@ -394,7 +396,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Time &amp; Date Settings…"
-msgstr ""
+msgstr "સમય અને તારીખ સેટિંગ્સ"
 
 #: ../en/index.html
 msgid "Recently Used"
@@ -413,22 +415,25 @@ msgid ""
 "You can watch all your favourite films and videos, DVDs, downloads or movies "
 "you've created yourself."
 msgstr ""
+"તમે તમારા બધા મનપસંદ ફિલ્મો અને વિડિઓઝ, ડીવીડીઝ, ડાઉનલોડ્સ, અથવા ફિલ્મો જોઈ "
+"શકો છો જે તમે જાતે બનાવી છે."
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr ""
+msgstr "૩.૩MB"
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "જવાબ આપવો"
 
 #: ../en/index.html
 msgid "Set Up Mail…"
-msgstr ""
+msgstr "મેઇલ સેટ કરો..."
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
+"Ubuntu Software Centre માંથી ઝડપીરિતે એપ્લિકેશન્સ શોધો અને ડાઉનલોડ કરો."
 
 #: ../en/index.html
 msgid "Clear"
@@ -436,7 +441,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr ""
+msgstr "$૧૯.૯૯"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
@@ -454,11 +459,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr ""
+msgstr "ફોરવર્ડ"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr ""
+msgstr "ટર્મિનલ સર્વર ક્લાઈન્ટ"
 
 #: ../en/index.html
 msgid "Appearance"
@@ -466,7 +471,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
@@ -478,11 +483,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "System Settings…"
-msgstr ""
+msgstr "સિસ્ટમ સેટિંગ્સ"
 
 #: ../en/index.html
 msgid "Startup Applications…"
-msgstr ""
+msgstr "સ્ટાર્ટઅપ કાર્યક્રમો"
 
 #: ../en/index.html
 msgid "Remove"
@@ -496,7 +501,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "અંગ્રેજી"
 
 #: ../en/index.html
 msgid "Purple Dancers"
@@ -508,7 +513,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #: ../en/index.html
 msgid ""
@@ -542,11 +547,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
-msgstr ""
+msgstr "Ubuntu પરિચય"
 
 #: ../en/index.html
 msgid "Videos"
-msgstr ""
+msgstr "વિડિઓઝ"
 
 #: ../en/index.html
 msgid "Braid"
@@ -566,11 +571,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr ""
+msgstr "વાંચ્યા વગરનું"
 
 #: ../en/index.html
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "Banshee મીડિયા પ્લેયર"
 
 #: ../en/index.html
 msgid ""
@@ -587,7 +592,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr ""
+msgstr "ફાઇલ્સ અને ફોલ્ડર્સ"
 
 #: ../en/index.html
 msgid "Installed"
@@ -595,7 +600,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
@@ -603,7 +608,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr ""
+msgstr "વધુ જાણો"
 
 #: ../en/index.html
 msgid ""
