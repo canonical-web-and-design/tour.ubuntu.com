@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-11 08:53+0000\n"
-"Last-Translator: Vojtěch Trefný <vojtech.trefny@gmail.com>\n"
+"PO-Revision-Date: 2013-02-27 20:10+0000\n"
+"Last-Translator: Tadeáš Pařík <tadeas.parik@gmail.com>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:06+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2013-02-28 05:21+0000\n"
+"X-Generator: Launchpad (build 16506)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -131,7 +131,7 @@ msgstr "Stáhnout Ubuntu"
 
 #: ../en/index.html
 msgid "Watch videos"
-msgstr ""
+msgstr "Sledovat videa"
 
 #: ../en/index.html
 msgid "Join now"
@@ -428,6 +428,8 @@ msgid ""
 "You can watch all your favourite films and videos, DVDs, downloads or movies "
 "you've created yourself."
 msgstr ""
+"Můžete sledovat všechna vaše oblíbená videa, filmy, DVD nebo věci, které "
+"jste vytvořili sami."
 
 #: ../en/index.html
 msgid "3.3MB"
