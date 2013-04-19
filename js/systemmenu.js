@@ -35,7 +35,7 @@ function SystemMenu($parent){
 	}
 	
 	this.resize = function(){
-		var menuHeight = $(window).height() - 74;
+		var menuHeight = $(window).height() - 24;
 		$("#menu").css('height',menuHeight);
 		this.scrollCheck();		
 	}
@@ -279,7 +279,7 @@ function scrollUp(){
 }
 	
 function scrollDown(){
-	var maxscroll =  ($(window).height() - 74) - ($('#menu ul .rubbish').position().top + $('#menu ul .rubbish').height() + 30);
+	var maxscroll =  ($(window).height() - 24) - ($('#menu ul .rubbish').position().top + $('#menu ul .rubbish').height() + 30);
 	var pos = Math.max(maxscroll ,Math.min(0,$('#menu ul').position().top - 5));
 	$('#menu ul').css('top',pos+'px');
 	scrollingTimer = setTimeout("scrollDown()",50);
