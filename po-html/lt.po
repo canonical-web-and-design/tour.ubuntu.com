@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2013-03-23 16:07+0000\n"
+"PO-Revision-Date: 2013-04-18 10:54+0000\n"
 "Last-Translator: Mantas Kriaučiūnas <mantas@akl.lt>\n"
 "Language-Team: Lithuanian <lt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-24 05:01+0000\n"
-"X-Generator: Launchpad (build 16540)\n"
+"X-Launchpad-Export-Date: 2013-04-19 05:55+0000\n"
+"X-Generator: Launchpad (build 16567)\n"
 "Language: lt\n"
 
 #: ../en/index.html
@@ -1126,7 +1126,7 @@ msgstr "Žodžių galia"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr "Shotwell fotografijų tvarkytuvė"
+msgstr "Nuotraukų tvarkytuvė „Shotwell“"
 
 #: ../en/index.html
 msgid "Folders"
