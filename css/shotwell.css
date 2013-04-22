@@ -16,7 +16,6 @@
 	float:left;
 	width:215px;
 	margin-right:10px;
-	margin-top:5px;
 }
 
 #shotwell .nav{
@@ -62,7 +61,6 @@
 }
 
 #shotwell .container {
-	margin-top:5px;
 	float: left;
 	width:572px;
 	border-left:1px solid #bdbab7;

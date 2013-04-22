@@ -13,7 +13,6 @@
 	background:url(../img/librecalc.jpg) no-repeat;
 	width:805px;
 	height:569px;
-	margin-top:5px;
 }
 
 #libreoffice-calc-window  .control .close{
@@ -34,7 +33,6 @@
 	background:url(../img/librewriter.jpg) no-repeat;
 	width:806px;
 	height:552px;
-	margin-top:5px;
 }
 
 #libreoffice-writer-window  .control .close{
@@ -66,7 +64,6 @@
 	background:url(../img/libreimpress.jpg) no-repeat;
 	width:802px;
 	height:551px;
-	margin-top:5px;
 }
 
 #libreoffice-impress-window  .control .close{

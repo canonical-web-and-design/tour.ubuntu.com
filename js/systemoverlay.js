@@ -501,7 +501,7 @@ function SystemOverlay($parent){
 	
 	this.resize = function(){
 		$('#systemOverlay  .bottom-wrapper').css('left',($('#dash-bottom-bar').width() / 2) - ($('#dash-bottom-bar .bottom-wrapper').width() / 2));
-		$('#systemOverlay').css('height',$(document).height() - 50);
+		$('#systemOverlay').css('height',$(document).height());
 		$('#systemOverlay input').css('width',$('#dash-bottom-bar').width() - 250);
 	}
 }
