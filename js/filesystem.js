@@ -371,8 +371,8 @@ function FileSystem($parent, $startingDir){
 	this.resize = function(){
 		folderContentsWidth = $('.folder').width() - 146;
 		folderListHeight = $('.folder').height() - 51;
-		$('.folder .folder-list .list').css('height',folderListHeight);
-		$('.folder .folder-contents .contents').css('height',folderListHeight - 15);
+		$('.folder .folder-list .list').css('height',folderListHeight-30);
+		$('.folder .folder-contents .contents').css('height',folderListHeight - 17);
 		$('.folder .folder-contents .contents').css('width',folderContentsWidth);
 	}
 }

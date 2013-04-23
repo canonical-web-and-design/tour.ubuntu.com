@@ -109,21 +109,12 @@ function WelcomeSystem($parent){
 		$('#tour-guide .explore-to-welcome').bind('click',function(){
 			_this.open();
 		});
-		$('#tour-guide .explore-to-welcome').bind('mouseover',function(){
-			$('#tour-guide .explore-tooltip-welcome').show();
-		});
-		$('#tour-guide .explore-to-welcome').bind('mouseout',function(){
-			$('#tour-guide .explore-tooltip-welcome').hide();
-		});
-		$('#tour-guide .explore-to-download').bind('mouseover',function(){
-			$('#tour-guide .explore-tooltip-download').show();
-		});
-		$('#tour-guide .explore-to-download').bind('mouseout',function(){
-			$('#tour-guide .explore-tooltip-download').hide();
-		});
 		$('#tour-guide .explore-to-download').bind('click',function(){
 			_parent.errorMessage.open();
 		});
+		$('#tour-guide .explore-to-exit').bind('click',function(){
+			window.location.replace("http://www.ubuntu.com");
+		})
 		/*if($('#tour-guide').is(':visible')){
 			$('.explore-to-welcome').css('bottom',210);
 			$('.explore-to-download').css('bottom',150);

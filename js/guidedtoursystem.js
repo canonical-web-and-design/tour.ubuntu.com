@@ -119,8 +119,8 @@ function GuidedTourSystem($parent){
 		$('#tour-guide .guide-container').hide();
 		
 		if(currentIndex == -1){
-			$('#tour-guide .prev-button').hide();
-			$('#tour-guide .next-button').hide();
+			//$('#tour-guide .prev-button').hide();
+			//$('#tour-guide .next-button').hide();
 			$('#tour-guide .welcome').show();
 		}else{
 			$('#tour-guide .'+guides[currentIndex].system).show();

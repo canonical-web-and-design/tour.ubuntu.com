@@ -89,6 +89,12 @@ function init(){
 			folderXOffset = e.pageX - movingFolder.position().left;
 			folderYOffset = e.pageY - movingFolder.position().top;
 	 });
+	 
+	 $('#tour-guide').mousedown(function(e) {
+			movingFolder = $(this);
+			folderXOffset = e.pageX - movingFolder.position().left;
+			folderYOffset = e.pageY - movingFolder.position().top;
+	 });
 	 $(document).mouseup(function() {
 			movingFolder = null;
 	 });
@@ -371,6 +377,7 @@ function closeAllWindows($tourIndex){
 	libreSystem.close('calc');
 	libreSystem.close('impress');
 	softwareSystem.close();
+	moviePlayerSystem.close();
 	guidedTourSystem.setIndex(_tourIndex);
 }
 

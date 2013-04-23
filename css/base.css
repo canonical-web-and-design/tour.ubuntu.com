@@ -418,7 +418,7 @@
 			background:#3d3c39;
 		}
 		#top #top-right #power .drop-down{
-			margin-left:-235px;
+			margin-left:-232px;
 			width:247px;
 		}
 		#top #top-right #user .drop-down{
@@ -427,7 +427,7 @@
 		}
 		#top #top-right #time .drop-down{
 			width:300px;
-			margin-left:-241px;
+			margin-left:-233px;
 			margin-top:3px;
 		}
 		#top #top-right #message .drop-down{
@@ -437,7 +437,7 @@
 		}
 		#top #top-right #speakers .drop-down{
 			width:255px;
-			margin-left:-167px;
+			margin-left:-152px;
 		}
 		#top #top-right #connection .drop-down{
 			width:219px;
