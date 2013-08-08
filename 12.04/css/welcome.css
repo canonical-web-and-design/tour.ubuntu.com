@@ -1,0 +1,163 @@
+/*
+ *  Welcome Screen CSS
+ *  author: Anthony Dillon
+ */
+
+#welcome {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1000;
+	font-weight:400;
+	background:url(../img/black-bg-60.png);
+	background: rgba(0,0,0,0.6);
+	overflow:hidden;
+	display:none;
+}
+#welcome-screen {
+	padding: 124px 20px 20px 20px;
+	width: 660px;
+	left: 0;
+	top: 0;
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		-khtml-border-radius: 8px;
+	border-radius: 8px;
+		-moz-box-shadow: 0 0 10px #000;
+  		-webkit-box-shadow: 0 0 10px #000;
+	box-shadow: 0 0 10px #000;	
+	background: url("../img/welcome/background-welcome.jpg") -100px 0 no-repeat;
+	position: absolute;
+	background-color: #efedec;
+	color: #4c4c4c;
+	display: none;
+	z-index:2;
+}
+
+#welcome-screen .close{
+	background:url(../img/error/close-button.png) no-repeat;
+	height:19px;
+	width:18px;
+	position:absolute;
+	top:6px;
+	left:10px;
+	float:left;
+}
+
+#welcome-screen .close:hover{
+	background-position: 0px -19px !important;
+}
+
+#welcome-screen h1 {
+	color: #fff;
+	font-size: 24px;
+	font-weight:400;
+}
+#welcome-screen h2 {
+	padding: 10px 0;
+	font-size: 16px;
+	font-weight:400;
+}
+#welcome-screen ul {
+	margin: 20px auto;
+	padding: 0;
+	overflow: hidden;
+}
+#welcome-screen li {
+	padding-bottom: 20px;
+	float: left;
+	list-style: none;
+}
+#welcome-screen li a {
+	padding: 90px 0 0 0;
+	display: block;
+	width: 165px;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 13px;
+	color: #333;
+}
+#welcome-screen li a:hover {
+	opacity: 0.5;
+}
+#welcome-screen .browse-files {
+	background: url("../img/welcome/browse-files.png") center 6px no-repeat;
+}
+#welcome-screen .surf-the-web {
+	background: url("../img/welcome/surf-the-web.png") center 0 no-repeat;
+}
+#welcome-screen .check-email {
+	background: url("../img/welcome/check-email.png") center 0 no-repeat;
+}
+#welcome-screen .view-photos {
+	background: url("../img/welcome/view-photos.png") center 0 no-repeat;
+}
+#welcome-screen .find-apps {
+	background: url("../img/welcome/find-apps.png") center 0 no-repeat;
+}
+#welcome-screen .create-documents {
+	background: url("../img/welcome/create-documents.png") center 0 no-repeat;
+}
+#welcome-screen .create-spreadsheets {
+	background: url("../img/welcome/create-spreadsheets.png") center 0 no-repeat;
+}
+#welcome-screen .create-presentations {
+	background: url("../img/welcome/create-presentations.png") center 6px no-repeat;
+}
+#welcome-screen .explore-mode, 
+#welcome-screen .tour-mode {
+	margin-right: 15px;
+	background: url("../img/welcome/background-link-explore.png") center center repeat-x;
+	color: #333;
+}
+#welcome-screen .download,
+#welcome-screen .explore-mode, 
+#welcome-screen .tour-mode {
+	padding: 10px 20px;
+		-moz-border-radius: 4px 4px 4px 4px;
+		-webkit-border-radius: 4px 4px 4px 4px;
+	border-radius: 4px 4px 4px 4px;
+	display: block;
+	float: right;
+	font-size: 14px;
+	text-decoration: none;
+	border: 1px solid #c0b7b0;
+	cursor: pointer;
+}
+#welcome-screen .download:active,
+#welcome-screen .explore-mode:active, 
+#welcome-screen .tour-mode:active {
+	position: relative;
+	top: -1px;
+}
+
+#welcome-screen .language-mode {
+		-moz-border-radius: 4px 4px 4px 4px;
+		-webkit-border-radius: 4px 4px 4px 4px;
+	border-radius: 4px 4px 4px 4px;
+	display: block;
+	float: left;
+	font-size: 14px;
+	text-decoration: none;
+	border: 1px solid #c0b7b0;
+	cursor: pointer;
+	margin-left: 15px;
+	background: url("../img/welcome/background-link-explore.png") center center repeat-x;
+	color: #333;
+	padding: 9px 0;
+	overflow:hidden;
+}
+
+#welcome-screen .language-mode a,
+#welcome-screen .language-mode span {
+	padding:11px;
+}
+
+#welcome-screen .primary,
+#welcome-screen .language-mode span {
+	background: url("../img/welcome/background-link-download.png") center center repeat-x;
+	color: #fff;
+}

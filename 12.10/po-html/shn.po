@@ -1,0 +1,1466 @@
+# Shan translation for ubuntu-online-tour
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the ubuntu-online-tour package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-online-tour\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-05 19:27+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Shan <shn@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-10-06 05:32+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
+
+#: ../en/index.html
+msgid "Firefox Web Browser"
+msgstr "ၶိူင်ႈပိုတ်ႇဝႅပ့်သၢႆ့ မႃလိၼ်ၾႆး"
+
+#: ../en/index.html
+msgid "Lock Screen"
+msgstr "ၶတ်းသေႃး ၽိဝ်ၼႃႈၶွမ်း"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu loads quickly on any computer, but it's super-fast on newer machines. "
+"With no unnecessary programs and trial software slowing things down, booting "
+"up and opening a browser takes seconds. Unlike other operating systems that "
+"leave you staring at the screen, waiting to get online. And Ubuntu won’t "
+"grow sluggish over time. It’s fast. And it stays fast."
+msgstr ""
+"တီးၼိူဝ်ၶွမ်ႇၽိဝ်းတိူဝ်ႇလႂ်သေဢမ်ႇဝႃႈ ဢူးပုၼ်းၼႆ့ မၼ်းပိုတ်ႇလႆႈ ဝႆးဝႆး၊ "
+"ပေႃးဝႃႈပဵၼ်တီႈၼိူဝ် ၶိူင်ႈၶွမ်းဢၼ်မႂ်ႇမႂ်ႇၼႆတႄ့ ၼိုင်ႈၶႅၼ်းဝႆး။ ၵွပ်ႈဝႃႈ "
+"မၼ်းဢမ်ႇမီး ၶိူင်ႈၶူဝ်းၽရူဝ်းၶရႅမ်ႇ ဢၼ်ဢမ်ႇလူဝ်ႇ လႄႈ သွပ့်ၾ်ဝႄးလ် "
+"ဢၼ်ႁဵတ်းႁႂ်ႈၶွမ်းထိူင်းၼၼ့်။ တႃႇတေပိုတ်ႇၶွမ်း ႁႂ်ႈပေႃးၶိုၼ်ႈမႃးၼႆ့ "
+"မၼ်းၵူၼ်းတေႁိုဝ်မွၵ်ႈၸူဝ်ႈ ၶဵတ်ႇၵူၺ်း။ ဢူးပုၼ်းတူ့ၼႆ့ မၼ်းဢမ်ႇမိူၼ် "
+"ဢူဝ်ႇဢႅတ့် တၢင်ႇဢၼ်။ ဢူးပုၼ်းတူႉၼႆ့ မၼ်းတေယၢင်ႈၶိုၼ်ႈၸွမ်းၼင်ႇၶၢဝ်းယၢမ်း။ "
+"ဝႆးၵေႃႈဝႆး..။ မိူဝ်းၼႃႈၵေႃႈ တေသိုပ်ႇဝႆးၵႂႃႇ...။"
+
+#: ../en/index.html
+msgid "no subject"
+msgstr "ဢမ်ႇပႆႇမီး လွင်ႈတၢင်း"
+
+#: ../en/index.html
+msgid "Show yourself around"
+msgstr "ၸဝ်ႈၵဝ်ႇၼႄ ႁိမ်းႁွမ်းၸဝ်ႈၵဝ်ႇ"
+
+#: ../en/index.html
+msgid "Desktop"
+msgstr "ၼႃႈၶွမ်း"
+
+#: ../en/index.html
+msgid "Get Mail"
+msgstr "လႆႈ ဢီးမေးလ်"
+
+#: ../en/index.html
+msgid "PiTiVi Video Editor"
+msgstr "ၵၼ်တတ်းတေႃႇငဝ်းတူင့် PiTiVi"
+
+#: ../en/index.html
+msgid "Internet"
+msgstr "ဢိၼ်ႇထိူဝ်ႇၼႅတ့်"
+
+#: ../en/index.html
+msgid "Science &amp; Engineering"
+msgstr "ပၢႆးသၢႆႈ လႄႈ ပၢႆးၵေႃႇသၢင်ႈ"
+
+#: ../en/index.html
+msgid "Find apps"
+msgstr "သွၵ်ႈႁႃ ဢႅပ့်"
+
+#: ../en/index.html
+msgid "Not Alone"
+msgstr "ဢၼ်ၸႂ်ႈဝႃႈ ၵေႃ့လဵဝ်"
+
+#: ../en/index.html
+msgid "Momiji Dream"
+msgstr "လွင်ႈၼွၼ်းၽၼ် Momiji"
+
+#: ../en/index.html
+msgid "Manipulate the flow of time to solve puzzles"
+msgstr "ၵုမ်းထိင်းလွင်ႈၶၢဝ်းယၢမ်း တွၼ်ႈတႃႇတေၵႄးလိတ်ႈ ၽၢတ့်သႂ်ႇ"
+
+#: ../en/index.html
+msgid "中文"
+msgstr "中文"
+
+#: ../en/index.html
+msgid "About Me"
+msgstr "လွင်ႈ တူဝ်ၵဝ်ၶႃႈ"
+
+#: ../en/index.html
+msgid ""
+"BEEP has traveled for thousands of years through deep space to explore the "
+"Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
+"the surface of the planets."
+msgstr ""
+"BEEP ၼႆ့ မၼ်းဢွၵ်ႇၶၢဝ်းတၢင်းမႃး ႁူဝ်ႁဵင်ပီမၼ်းယဝ့်။ မၼ်းလတ်းၶၢမ်ႈမႃး "
+"လူမ်ႈၾႃ့လၢႆဢၼ် တွၼ်ႈတႃႇသွၵ်ႈႁႃ Galaxy ၼႆယဝ့်။ မၼ်းဢဝ် ႁိူဝ်း BEEP သေၵေႃႈ "
+"ဢွၵ်ႇၶၢဝ်းတၢင်းမႃး သေ မၼ်းသူင်ႇ ၵူၼ်းၸၢၵ်ႈၵႂႃႇၸူးတီႈၼိူဝ် ၽိဝ်ၼႃႈ "
+"လူၵ်ႈဢၼ်မၼ်းၽႅဝ်ၵႂႃႇၼၼ့်ယဝ့်။"
+
+#: ../en/index.html
+msgid ""
+"Are you sure you want to close all programs and shutdown the computer?"
+msgstr ""
+"ၸဝ်ႈၵဝ်ႇလပ့်လွင်းဝႃႈ ၸဝ်ႈၵဝ်ႇတေဢိုတ်း ၽရူဝ်းၶရႅမ်ႇတင်းမူတ်းသေ တေၵိုတ်း "
+"ၶွမ်ႇၽိဝ်းထိူဝ်ႇ?"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Impress"
+msgstr "ၵၼ်သပ်းလႅင်း လီပရီႇၵၼ်လုမ်း - ဢမ်ႇပႆႇလႆႈပၼ်ၸိုဝ်ႈ 1"
+
+#: ../en/index.html
+msgid "Ubuntu One"
+msgstr "ဢူးပုၼ်းတု ဝၼ်း"
+
+#: ../en/index.html
+msgid ""
+"Accessibility is central to the Ubuntu philosophy. We believe that computing "
+"is for everyone regardless of nationality, race, gender or disability. Fully "
+"translated into 38 languages, Ubuntu also includes essential assistive "
+"technologies, which are, of course, completely free."
+msgstr ""
+"လွင်ႈမီးတၢင်းၸႂ့်တိုဝ်းလႆႈၼႆ့ မၼ်းပဵၼ်လွၼ့်ၵႅၼ် ပၢႆးဝူၼ့် တွၼ်ႈတႃႇ "
+"ဢူးပုၼ်းတုယဝ့်။ ႁဝ်းၶႃႈယုမ်ႇယမ်ဝႆ့ ၵၼ်ပၢႆးၽၢႆႇၶွမ်းဢၼ်ဝႃႈၼႆ့ "
+"မၼ်းပဵၼ်တွၼ်ႈတႃႇ ၵူၼ်းၵူႈၵေႃ့။ ဢမ်ႇၸႂ်ႈဝႃႈ တွၼ်ႈတႃႇ ၵူၼ်းမိူင်းၼိုင်ႈၵူၺ်း "
+"ဢမ်ႇၸႂ်ႈဝႃႈ တွၼ်ႈတႃႇ ၵူၼ်းၶိူဝ်းၼိုင်ႈၵူၺ်း ဢမ်ႇၸႂ်ႈဝႃႈ ပေႃးပဵၼ် "
+"ၵူၼ်းဢမ်ႇမီး ဢမ်ႇပဵၼ်လႆႈ တေဢမ်ႇၸႂ့် ဝႃႈၼႆၶႃႈယဝ့်။  ယၢမ်းလဵဝ် "
+"ၸိူဝ်းဢၼ်ပိၼ်ႇၽႃႇသႃႇ ဢူးပုၼ်းတု ႁႂ်ႈပဵၼ် ၶေႃႈၵႂၢမ်းၽႃႇသႃႇၽႂ်မၼ်း "
+"ဢၼ်ယဝ့်တဵမ်တဵမ်ထူၼ်ႈ ထူၼ်ႈၼႆ့ မီးၵႂႃႇ 38 ၽႃႇသႃႇယဝ့်။ ၵွပ်ႈ ဢူးပုၼ်းတုၼႆ့ "
+"မၼ်းၵေႃႈပႃးဝႆ့ ပၢႆးမေႃ ဢၼ်လီမီး လီမေႃ လီႁူ့ဝႆ့ သေဢမ်ႇၵႃး ယွၼ့်မၼ်း "
+"လွတ်ႈလႅဝ်းလီ၊ ၸႂ်ႈယဝ့် ယွၼ့်မၼ်းလွတ်ႈလႅဝ်း ၼႆယဝ့်။"
+
+#: ../en/index.html
+msgid "Download Ubuntu"
+msgstr "လူတ်ႇလူင်း ဢူးပုၼ်းတု"
+
+#: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
+msgid "Join now"
+msgstr "ၶဝ်ႈႁူမ်ႈ ယၢမ်းလဵဝ်"
+
+#: ../en/index.html
+msgid "Applications"
+msgstr "ဢႅပ့်ပလီႇၶိူဝ်းသိူၼ်း"
+
+#: ../en/index.html
+msgid "Weds 14 October, 2010"
+msgstr "14 ဝၼ်းပုတ့်၊ လိူၼ်ဢွၵ်ႇထူဝ်ႇပိူဝ်ႇ၊ 2010"
+
+#: ../en/index.html
+msgid "Physics based puzzle/construction game"
+msgstr "ၽတ့်သႂ်ႇ ဢၼ်ဢင်ၼိူဝ် ပၢႆးႁၢင်ႈ/ ၵဵမ်းၵေႃႇသၢင်ႈ"
+
+#: ../en/index.html
+msgid "Remote Desktop Viewer"
+msgstr "တီႈတူၺ်း ၼႃႈၶွမ်း ဢၼ်မီးတီႈၵႆ"
+
+#: ../en/index.html
+msgid "Gwibber Social Client"
+msgstr "Gwibber ၶိူင်ႈၸႂ်ႉတႃႇၵပ်းသိုပ်ႇ တူင်ႇဝူင်း"
+
+#: ../en/index.html
+msgid "Happyness"
+msgstr "ၵၼ်မူၼ်ႈသိူဝ်း"
+
+#: ../en/index.html
+msgid "15.2KB"
+msgstr "15.2KB"
+
+#: ../en/index.html
+msgid "PCB CNC converter"
+msgstr "ၶိူင်ႈလႅၵ်ႈလၢႆႈ PCB CNC"
+
+#: ../en/index.html
+msgid "On"
+msgstr "ပိုတ်ႇ"
+
+#: ../en/index.html
+msgid "Welcome Screen"
+msgstr "ၽိဝ်ၼႃႈ ႁူမ်ၸုမ်းႁပ့်တွၼ်ႈ"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "ၵၼ်တႅမ်ႈလိၵ်ႈ လီပရီႇ - ဢမ်ႇပႆႇလႆႈပၼ်ၸိုဝ်ႈ 1"
+
+#: ../en/index.html
+msgid "A 2D platformer/shooter game with physics-based puzzles"
+msgstr ""
+"ၽတ့်သႂ်ႇ ၵဵမ်း ဢိင်ၼိူဝ် သဵၼ်ႈသၢႆတၢင်း/ၶိူင်ႈပေႃ့ ဢၼ်ႁဵၼ်သွင်ၽၢႆ "
+"ၸိူဝ်းဢိင်ၼိူဝ် ပၢႆးႁၢင်ႈ။"
+
+#: ../en/index.html
+msgid "Graphics"
+msgstr "ပၢႆးၸၼ်ႁၢင်ႈ"
+
+#: ../en/index.html
+msgid "Keep Connected"
+msgstr "သိုပ်ႇၵွင့်သိုပ်ႇၵႂႃႇ"
+
+#: ../en/index.html
+msgid "Top Rated"
+msgstr "ဢၼ်ၵူၼ်းၸႂ့်ၼမ်"
+
+#: ../en/index.html
+msgid "Compatible"
+msgstr "ဢၼ်သၢင်ႇထုၵ်ႇမႅၼ်ႈ"
+
+#: ../en/index.html
+msgid "Dash home"
+msgstr "ၽိုၼ်ငဝ်ႈ"
+
+#: ../en/index.html
+msgid "From"
+msgstr "မႃးတီႈ"
+
+#: ../en/index.html
+msgid "Auto eth0"
+msgstr "eth0 ႁင်းၵူၺ်း"
+
+#: ../en/index.html
+msgid "Thanks for exploring Ubuntu!"
+msgstr "ၶွပ်ႈၸႂ်ထိုင် ၵွပ်ႈမႃးလဵပ်ႈႁဵၼ်းတူၺ်း ဢူးပုၼ်းတု"
+
+#: ../en/index.html
+msgid "Send files to device…"
+msgstr "သူင်ႇသွႆ့ ၸူးၶိူင်ႈ..."
+
+#: ../en/index.html
+msgid "Create documents"
+msgstr "ၵေႃႇသၢင်ႈ ၽိုၼ်လိၵ်ႈ"
+
+#: ../en/index.html
+msgid "(91 Ratings)"
+msgstr "(လႆႈမႆ 91)"
+
+#: ../en/index.html
+msgid "Secure"
+msgstr "ႁူမ်ႇလူမ်ႈလီ"
+
+#: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "ပူၵ့်ႁေႃႇဢၼ်ၼႆ့ မၼ်းပႃးဝႆ့ ၶိူင်ႈပိုတ်ႇဝႅပ့်သၢႆ့ ၶရူမ်းမီယမ်ႇ"
+
+#: ../en/index.html
+msgid "$9.99"
+msgstr "$9.99"
+
+#: ../en/index.html
+msgid "Help"
+msgstr "လွင်ႈၸွႆႈထႅမ်"
+
+#: ../en/index.html
+msgid "Mute"
+msgstr "ဢိုတ်းသဵင်"
+
+#: ../en/index.html
+msgid "All Software"
+msgstr "သွပ့်ၾ်ဝႄးလ် တင်းသဵင်ႈ"
+
+#: ../en/index.html
+msgid "Ready to download?"
+msgstr "တူဝ်ႈတၼ်းတႃႇ လူတ်ႇလူင်းယဝ့်ႁႃ့?"
+
+#: ../en/index.html
+msgid "Accessories"
+msgstr "ၶိူင်ႈပိတ်းပွတ်း"
+
+#: ../en/index.html
+msgid "Create spreadsheets"
+msgstr "ၵေႃႇသၢင်ႈ ၸရၢင်းဢၢင်းၵႂၢၵ်ႈ"
+
+#: ../en/index.html
+msgid "Bluetooth"
+msgstr "ၸၢတ်ႇၸိတ်ႇ"
+
+#: ../en/index.html
+msgid "Shut Down"
+msgstr "ၵိုတ်းၸၢၵ်ႈ"
+
+#: ../en/index.html
+msgid "Music"
+msgstr "ၽဵင်းၵႂၢမ်း"
+
+#: ../en/index.html
+msgid "Rhythmbox"
+msgstr "Rhythmbox"
+
+#: ../en/index.html
+msgid "Education"
+msgstr "ၵၼ်ပၢႆးပႆႇၺႃႇ"
+
+#: ../en/index.html
+msgid "Brasero Disc Burner"
+msgstr "ၶိူင်ႈတႅမ်ႈၶႅပ်း Brasero"
+
+#: ../en/index.html
+msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
+msgstr ""
+"လူ၊ တႅမ်ႈ သေ သူင်ႇ ဢီးမေးလ်ၸွမ်း ၼူၵ့်ၾႃ့မႅပ်ႈ။ မၼ်းၼႆ့ ၸႂ်ႈလႆႈငၢႆႈသေ "
+"ၸမ့်ဝႆး။"
+
+#: ../en/index.html
+msgid "wrote"
+msgstr "တႅမ်ႈဝႆ့ယဝ့်"
+
+#: ../en/index.html
+msgid "Subject"
+msgstr "လွင်ႈတၢင်း"
+
+#: ../en/index.html
+msgid "Shotwell"
+msgstr "Shotwell"
+
+#: ../en/index.html
+msgid "Documents"
+msgstr "မၢင်လိၵ်ႈ"
+
+#: ../en/index.html
+msgid "Disconnect"
+msgstr "တတ်းၶတ်ႇလွင်ႈၵွင့်သိုပ်ႇ"
+
+#: ../en/index.html
+msgid "Preferences"
+msgstr "ငဝ်ႈၵုမ်းပိူင်"
+
+#: ../en/index.html
+msgid "Browse files"
+msgstr "ပိုတ်ႇသွၵ်ႈ သွႆ့"
+
+#: ../en/index.html
+msgid "Come and explore our favourites"
+msgstr "မႃးတူၺ်း ၸိူဝ်းဢၼ် ထုၵ်ႇမႅၼ်ႈၸႂ်ႁဝ်း"
+
+#: ../en/index.html
+msgid "junk"
+msgstr "junk"
+
+#: ../en/index.html
+msgid "Send"
+msgstr "သူင်ႇ"
+
+#: ../en/index.html
+msgid "Darkening Clockwork"
+msgstr "Darkening Clockwork"
+
+#: ../en/index.html
+msgid "Inkscape Vector Graphics Editor"
+msgstr "ၶိူင်ႈၸၼ်ႁၢင်ႈ ဝႅၵ်ႇတိူဝ်ႇ ဢိၼ်းၸၶဵပ့်"
+
+#: ../en/index.html
+msgid "Create presentations"
+msgstr "ၵေႃႈသၢင်ႈ ၵၢၼ်သပ်းလႅင်း"
+
+#: ../en/index.html
+msgid "Original Message"
+msgstr "လိၵ်ႈၵႂၢမ်းပွတ်း ငဝ်းတိုၼ်း"
+
+#: ../en/index.html
+msgid "AisleRoit Solitaire"
+msgstr "AisleRoit Solitaire"
+
+#: ../en/index.html
+msgid "Rock Out"
+msgstr "ရႂၵ့်ဢွၵ့်ထ်"
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "လွၼ့်ၶၢဝ်ႇ လွင်ႈၵွင့်သိုပ်ႇ"
+
+#: ../en/index.html
+msgid ""
+"Chromium is an open-source browser project that aims to build a safer, "
+"faster, and more stable way for all Internet users to experience the web."
+msgstr ""
+"ၶရူမ်းမီယမ် ၼႆ့ မၼ်းပဵၼ် ၶိူင်ႈပိုတ်ႇသွၵ်ႇဝႅပ့်သၢႆ ဢူဝ်းပႅၼ်းသူတ့်။ "
+"ၵွပ်ႈယိူင်းၵၢၼ်း တႃႇၵေႃႇသၢင်ႈ ႁႂ်ႈမၼ်း ၽႂ်းလီ၊ ႁူမ်လူမ်ႈလီ လႄႈ "
+"ႁႂ်ႈမၼ်းမၼ်ႈၵိုမ်းလီ တွၼ်ႈတႃႇ ၽူႈၸႂ့်တိုဝ်း ဢိၼ်ႇထိူဝ်ႇၼႅတ့် တွၼ်ႈတႃႇတေလႆႈ "
+"လွင်ႈတူဝ်ထူပ်းလီ တီႈၼိူဝ် ၼႃႈလိၵ်ႈဝႅပ့်ၼႆၶႃႈယဝ့်။"
+
+#: ../en/index.html
+msgid "Email"
+msgstr "ဢီးမေးလ်"
+
+#: ../en/index.html
+msgid "Sent"
+msgstr "ၸိူဝ်းသူင်ႇယဝ့်"
+
+#: ../en/index.html
+msgid "subject"
+msgstr "လွင်ႈတၢင်း"
+
+#: ../en/index.html
+msgid "Available"
+msgstr "တူဝ်ႈတၼ်း"
+
+#: ../en/index.html
+msgid "All Folders"
+msgstr "ဢိူပ်ႇတင်းမူတ်း"
+
+#: ../en/index.html
+msgid "Fri 26 Oct, 2001"
+msgstr "26 ဝၼ်းသုၵ်း၊ လိူၼ်ဢွၵ်ႇထူဝ်ႇပိူဝ်ႇ၊ 2001"
+
+#: ../en/index.html
+msgid "Hibernate"
+msgstr "ၶွမ်းၼွၼ်း"
+
+#: ../en/index.html
+msgid "Langelinie Alle"
+msgstr "Langelinie Alle"
+
+#: ../en/index.html
+msgid "Your Ubuntu, your way"
+msgstr "ဢူးပုၼ်းတုၸဝ်ႈၵဝ် ပဵၼ်တၢင်းၸဝ်ႈၵဝ်ႇ"
+
+#: ../en/index.html
+msgid "Time &amp; Date Settings…"
+msgstr "ၶၢဝ်းယၢမ်း &amp; ႁႅၼ်းပိူင်တႃႇ ဝၼ်းထီ့"
+
+#: ../en/index.html
+msgid "Recently Used"
+msgstr "ၸိူဝ်းၸႂ့်ၵႂႃႇ ပႆႇပေႃးႁိုင်"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "ယႃ့"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Jardin Polar"
+
+#: ../en/index.html
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr ""
+
+#: ../en/index.html
+msgid "3.3MB"
+msgstr "3.3MB"
+
+#: ../en/index.html
+msgid "reply"
+msgstr "တွပ်ႇၶိုၼ်း"
+
+#: ../en/index.html
+msgid "Set Up Mail…"
+msgstr "မၵ်းသႂ်ႇ မႄးလ်..."
+
+#: ../en/index.html
+msgid "Search and download apps fast from the Ubuntu Software Centre."
+msgstr ""
+"သွၵ်ႈႁႃ သေ လူတ်ႇလူင်းဢဝ် ဢႅပ်ႇ တီႈ ငဝ်ႈတီႈသွပ့်ၾ်ဝႄးလ် ဢူးပုၼ်းတု လႆႈဝႆးဝႆး။"
+
+#: ../en/index.html
+msgid "Clear"
+msgstr "ၽႅဝ်ႈ"
+
+#: ../en/index.html
+msgid "$19.99"
+msgstr "$19.99"
+
+#: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "တႃႈ Dybbølsbro"
+
+#: ../en/index.html
+msgid "Log Out…"
+msgstr "ၽွမ့်ဢွၵ်ႇ..."
+
+#: ../en/index.html
+msgid ""
+"Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
+"You must have these packages to make full use of all extensions and effects."
+msgstr ""
+"ယွႆးလင် ဢၼ်ၸႂ့်တၢင်ႇဢၼ်ၼႆ့ ပဵၼ် ruby, libxml-xql-perl, python-numpy, လႄႈ "
+"python-lxml. ၸဝ်ႈၵဝ်ႇတေလႆႈမီး ထုပ့်ႁေႃႇဢၼ်ၼႆ့ တွၼ်ႈတႃႇတေႁဵတ်းႁႂ်ႈၸႂ့်လႆႈ "
+"ယွႆးလင် လႄႈ ဢီႇၾႅၵ့် မၼ်းတဵမ်တဵမ်ထူၼ်ႈထူၼ်ႈ။"
+
+#: ../en/index.html
+msgid "Fwd"
+msgstr "သိုပ်ႇယိုၼ်ႈ"
+
+#: ../en/index.html
+msgid "Terminal Server Client"
+msgstr "တႃႇမီႇၼႄႇ သႃႇပိူဝ်ႇ ၵရၢႆးယႅၼ့်"
+
+#: ../en/index.html
+msgid "Appearance"
+msgstr "ႁၢင်ႈၽၢင်"
+
+#: ../en/index.html
+msgid "LibreOffice Calc"
+msgstr "ၵၼ်ပၢႆးၼပ့် လီပရီႇၵၢၼ်လုမ်း"
+
+#: ../en/index.html
+msgid "Buck Off"
+msgstr "ဢိုတ်းဝႆ့ လွင်ႈႁေ့ၵင်ႈ"
+
+#: ../en/index.html
+msgid "Stalking Ocelot"
+msgstr "Stalking Ocelot"
+
+#: ../en/index.html
+msgid "System Settings…"
+msgstr "ႁႅၼ်းပိူင် တႃႇ ပိူင်ႈသၢင်ႈ..."
+
+#: ../en/index.html
+msgid "Startup Applications…"
+msgstr "ဢႅပ်ႇပရီႇၶိူဝ်းသျိၼ်း တႄႇႁူဝ်..."
+
+#: ../en/index.html
+msgid "Remove"
+msgstr "ထွၼ်ပႅတ်ႈ"
+
+#: ../en/index.html
+msgid ""
+"Braid treats your time and attention as precious, and it does everything it "
+"can to give you a mind-expanding experience."
+msgstr ""
+"Braid ၼႆ့ မၼ်းတေၸၼ်ဢဝ် တၢင်းၶဝ်ႈၸႂ်လႄႈ ၶၢဝ်းယၢမ်းၸဝ်ႈၵဝ်ႇ "
+"ဢၼ်မီးၵႃႈၶၼ်ၼၼ့်ၶႃႈယဝ့်။ တွၼ်ႈတႃႇ ၸဝ်ႈၵဝ်ႇတေလႆႈ တူဝ်ထူပ်းလွင်ႈၸႂ်ႈၵႂၢင်ႈၼၼ့် "
+"မၼ်းတေၸွႆႈထႅမ်ႈၵူႈပိူင်ပိူင်ၶႃႈယဝ့်။"
+
+#: ../en/index.html
+msgid "English"
+msgstr "ဢၢင်းၵိတ်ႉ"
+
+#: ../en/index.html
+msgid "Purple Dancers"
+msgstr "ပီပွင်း ၸိူဝ်းမေႃၵႃႈ"
+
+#: ../en/index.html
+msgid "from"
+msgstr "မႃးတီႈ"
+
+#: ../en/index.html
+msgid "LibreOffice Impress"
+msgstr "ၵၼ်သိပ်းလႅင်း လီပရီႇၵၼ်လုမ်း"
+
+#: ../en/index.html
+msgid ""
+"All gameplay is based on time manipulation. Journey into worlds where time "
+"behaves strangely; observe, learn from, and then master these worlds."
+msgstr ""
+"လွင်ႈလဵၼ်ႈၵဵမ်းတၢင်းသဵင်ႈၼႆ့ မၼ်းဢိင်ဝႆ့ၼိူဝ် လွင်ႈၸတ်းၶၢဝ်းယၢမ်း။ "
+"မၼ်းၸၢင်ႈသိုပ်ႇၶၢဝ်းတၢင်း ၵႂႃႇၸူးၵမ်ႇၽႃႇဢၼ် ႁဝ်းၶႃႈ ၶႂ်ႈၵႂႃႇလဵပ်ႈႁဵၼ်း "
+"ၶႂ်ႈၵႂႃႇၸွပ်ႇႁႃ ဢၼ်ၵပ်းၵၢႆႇလူၺ်ႈ လွင်ႈလူၵ်ႈၵမ်ႇၽႃႇ ၼၼ့်။"
+
+#: ../en/index.html
+msgid "Mount Snowdon"
+msgstr "Mount Snowdon"
+
+#: ../en/index.html
+msgid "Songs"
+msgstr "ၽဵင်းၵႂၢမ်း"
+
+#: ../en/index.html
+msgid "Accessible"
+msgstr "ၵၼ်ၸႂ့်လႆႈ"
+
+#: ../en/index.html
+msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
+msgstr ""
+"လုၵ့်တီႈ ဢူးပုၼ်းတု၊ ဝိၼ်းတူဝ်း၊ ဝႅပ့် လႄႈ မူဝ်ႇပၢႆး သေ ႁဵတ်းၵႅမ်လင် လႄႈ "
+"ၶိုၼ်းၸႂ့် သွႆ့ၸဝ်ႈၵဝ်ႇ။"
+
+#: ../en/index.html
+msgid "Title:"
+msgstr "ႁူဝ်ၶေႃႈ"
+
+#: ../en/index.html
+msgid "Setup new device…"
+msgstr "မၵ်းသႂ်ႇ ၶိူင်ႈဢၼ်မႂ်ႇ..."
+
+#: ../en/index.html
+msgid "Introduction Ubuntu"
+msgstr "ၵပ်းသိုပ်ႇမိုတ်ႈ ဢူးပုၼ်းတု"
+
+#: ../en/index.html
+msgid "Videos"
+msgstr "ငဝ်းတူင့်"
+
+#: ../en/index.html
+msgid "Braid"
+msgstr "Braid"
+
+#: ../en/index.html
+msgid ""
+"Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
+"format, a standard maintained by the WWW consortium."
+msgstr ""
+"ဢိၼ်းၸၶဵပ့်ၼႆ့ မၼ်းပိုတ်ႇ လႄႈ သိပ်း ဢၼ်ပဵၼ် ဢၼ်ၵပ်းၵၢႆႇလူၺ်ႈ ပိူင်တမ်း SVG "
+"(Scalable Vector Graphics)၊ ဢၼ်ပဵၼ် ၸၼ့်ထၢၼ်ႈ ဢၼ် WWW ၵုၼ်ႇသူဝ်ႇတီႇယမ်ႇၶဝ် "
+"မၵ်းမၼ်ႈမႄးၶိုၼ်းဝႆ့ၼၼ့်။"
+
+#: ../en/index.html
+msgid ""
+"Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
+"download it to enjoy the real thing!"
+msgstr ""
+"ငိၼ်းၸူမ်းၶွပ်ႈၸႂ်ထိုင် ၵွပ်ႈမႃးဢႅဝ်ႇတူၺ်း ဢူးပုၼ်းတု။ ၵူၺ်းၵႃႈ "
+"တွင်းမၢႆဝႆႉပၼ်ဝႃႈ ဢၼ်ၼႆ့ မၼ်းၵူၺ်းပဵၼ် တီႇမူဝ်ႇ မၼ်းၵူၺ်းၼႆ့။ "
+"တွၼ်ႈတႃႇၸဝ်ႈၵဝ်ႇ ပေႃးတေၸႂ့်လႆ လွင်ႈမၼ်းတင်းမူတ်းၼႆ့ ၸဝ်ႈၵဝ်ႇတေလႆႈ "
+"လူတ်ႇလူင်းဢဝ် ၼႆၶႃႈဢေႃႈ။"
+
+#: ../en/index.html
+msgid "Unread:"
+msgstr "ဢၼ်ပႆႇလႆႈလူ"
+
+#: ../en/index.html
+msgid "Banshee Media Player"
+msgstr "ၶိူင်ႈပိုတ်ႇ သီႇၶၢဝ်ႇ ပႅၼ်းသျီး"
+
+#: ../en/index.html
+msgid ""
+"You can surf in safety with Ubuntu – confident that your files and data will "
+"stay protected. A built-in firewall and virus protection come as standard. "
+"And if a potential threat appears, we provide automatic updates which you "
+"can install in a single click. You get added security with AppArmor, which "
+"protects your important applications so attackers can’t access your system. "
+"And thanks to Firefox and gnome-keyring, Ubuntu helps you keep your private "
+"information private. So whether it’s accessing your bank account or sharing "
+"sensitive data with friends or colleagues, you’ll have peace of mind when "
+"you need it the most."
+msgstr ""
+"ၸဝ်ႈၵဝ်ႇၸၢင်ႈၸႂ့်လႆႈ ႁူမ်ႇႁူမ်ႇလူမ်ႈလူမ်ႈ တီႈၼႂ်း ဢူးပုၼ်းတု ၼႆ့ယူႇ။ "
+"ယွၼ့်လႆႈတမ်းၸႂ်ဝႃႈ သွႆ့ လႄႈ ၶေႃႈမုၼ်းၸဝ်ႈၵဝ်ႇၼႆ့ မၼ်းမီးဝႆ့တီႈဢၼ် "
+"ၵႅတ်ႇၶေႇဝႆ့ တီႈဢၼ်ဢမ်ႇမီးၽေးၼႆယဝ့်။ လွင်ႈဝႃႈမီး ႁူဝ့်ၾႆးလႄႈ လွင်ႈၵႅတ်ႇၶေ "
+"မူင်ႈမႅင်းၵေႃႈ မၼ်းမႃးၸွမ်းၼင်ႇ လၵ်းၸဵင်မၼ်းယဝ့်။ သင်ၸိူဝ့်ဝႃႈ "
+"လွင်ႈလွၵ်ႇငိူတ်ႈမီးမႃးသေၼႆ ႁဝ်းၶႃႈၵမ့်ထႅမ်ဝႆ့ပၼ် "
+"လွင်ႈႁဵတ်းဢၢပ့်တဵၵ့်ႁင်းမၼ်းလႄႈ ၸဝ်ႈၵဝ်ႇၵူၺ်းတေလႆႈတဵၵ်းၵမ်းၼိုင်ႈသေ "
+"ဢူၼ်းသႂ်ႇၵႂႃႇၵူၺ်း။ ၸဝ်ႈၵဝ်ႇၸၢင်ႈၽိူမ့်ထႅမ်သႂ်ႇ လွင်ႈပၢႆးႁူမ်ႇလူမ်ႇ ဢၼ်ပဵၼ် "
+"AppArmor ဢၼ်ၵႅတ်ႇၶႄပၼ်လႆႈ ဢႅပ်ႇပလီႇၶိူဝ်းသျိၼ်း "
+"ဢၼ်လမ်ႇလွင်ႈတွၼ်ႈတႃႇၸဝ်ႈၵဝ်ႇၼၼ့်။ ယွၼ့်ၼၼ်လႄႈ ၽူႈၶႂ်ႈယႃ့ၵဝ်းၶဝ် "
+"တေဢမ်ႇၸၢင်ႈၶဝ်ႈသေၸႂ့် ပိူင်ႈသၢင်ႈၸဝ်ႈၵဝ်ႇလႆႈ။ ယွၼ့်ၼၼ်လႄႈ "
+"တေလႆႈငိၼ်းၸူမ်းထိုင် မႃလိၼ်ၾႆးလႄႈ gnome-keyring ။ ဢူးပုၼ်းတုၼႆ့ "
+"မၼ်းၵေႃႈၸွႆႈထႅမ်ႈ ႁူမ်ႇသိမ်းဝႆ့ပၼ် လွင်ႈလွၼ့်ၶၢဝ်ႇသုၼ်ႇတူဝ် ၸဝ်ႈၵဝ်ႇ။ "
+"ယွၼ့်ၼၼ်လႄႈ လွင်ႈၸႂ့်တိုဝ်း မၢႆဢၶွင့် bank လႄႈသင်၊ လွင်ႈပိုၼ်ၽႄႈ "
+"ၶေႃႈမုၼ်းၸိူဝ်းဢၼ်လမ်ႇလွင်ႈတွၼ်ႈတႃႇ ဢူၺ်းၵေႃ့လႄႈ "
+"ၵူၼ်းႁဵတ်းၵၢၼ်ၸွမ်းၵၼ်လႄႈသင် မၼ်းၵေႃႈ ႁူမ်ႇလူမ်ႈလီယူႇ။  တီႈလႂ် "
+"ၶၢဝ်းလႂ်သေဢမ်ႇဝႃႈ ၸဝ်ႈၵဝ်ႇတေလႆႈမီးတၢင်းၵတ်းယဵၼ်ၸႂ် "
+"ၸဝ်ႈၵဝ်ႇတေလႆႈမီးတၢင်းၵတ်းယဵၼ်ၸႂ်ၼႆၶႃႈယဝ့်။"
+
+#: ../en/index.html
+msgid "Files &amp; Folders"
+msgstr "သွႆ့ &amp; ဢိူပ်ႇ"
+
+#: ../en/index.html
+msgid "Installed"
+msgstr "ၸိူဝ်းဢူၼ်းသႂ်ႇယဝ့်"
+
+#: ../en/index.html
+msgid "BEEP"
+msgstr "သဵင်ႁွင့်"
+
+#: ../en/index.html
+msgid "Visible"
+msgstr "ပိုတ်ႇႁၼ်"
+
+#: ../en/index.html
+msgid "Learn More"
+msgstr "လဵပ်ႈႁဵၼ်း လိူဝ်ၼႆ့"
+
+#: ../en/index.html
+msgid ""
+"Use BEEP’s anti-gravity device to directly manipulate the physics-based "
+"environments. The anti-gravity device is both a tool and a weapon. Use it to "
+"smash enemy robots, build towers and solve puzzles."
+msgstr ""
+"ၸႂ့်တိုဝ်း ဢၼ်ပဵၼ်ၶိူင်ႈ BEEP ဢၼ်ၶဵင်ႇတႃ့ႁႅင်းၸၼ်ၼင်လိၼ် သေၵေႃႈ "
+"ၵုမ်းၵမ်တူင်ႇဝူင်း ၸိူဝ်းဢၼ်ဢိင်ၼိူဝ် ပၢႆးႁၢင်ႈသေၵေႃႇသၢင်ႈဝႆ့ၼၼ့်။ "
+"ဢၼ်ပဵၼ်ၶိူင်ႈ ၶဵင်ႇတႃ့ႁႅင်းၸၼ်ၼင်လိၼ်ၼႆ့ မၼ်းပဵၼ်ၶိူင်ႈၸႂ့်တိုဝ်း သေဢမ်ႇၵႃး "
+"ပဵၼ်ပႃးတႃႇႁဵတ်း ၶိူင်ႈယိပ်း လၢၵ်ႈၼၢၵ်ႈသေလူးၵွၼ်ႇ။  ၸႂ့်တိုဝ်း ဢၼ်ၼၼ့်သေၵေႃႈ "
+"ၶိုၼ်းတိုၵ်း ၵူၼ်းၸၢၵ်ႈၽူႈၶဵၼ်၊ ၵေႃႈသၢင်ႈ ၶဵင်ႇသူင် လႄႈ ၵႄႈလိတ်ႈ "
+"ၽတ့်သႂ်ႇၵႂႃႇ။"
+
+#: ../en/index.html
+msgid "Chat"
+msgstr "ၵုမ်"
+
+#: ../en/index.html
+msgid "Archive"
+msgstr "ၵၼ်ႁွမ်သိမ်း"
+
+#: ../en/index.html
+msgid "Download"
+msgstr "လူတ်ႇလူင်း"
+
+#: ../en/index.html
+msgid "Home"
+msgstr "ငဝ်ႈ"
+
+#: ../en/index.html
+msgid "Canonical"
+msgstr "ၶႅၼ်ႇၼေႃးၼီႇၵိူဝ်ႇ"
+
+#: ../en/index.html
+msgid "Developer Tools"
+msgstr "ၶိူင်ႈတႃႇ ၽူႈၶူင်သၢင်ႈ"
+
+#: ../en/index.html
+msgid "or"
+msgstr "ဢမ်ႇၼၼ်"
+
+#: ../en/index.html
+msgid "Inkscape"
+msgstr "ဢိၼ်းၸၶဵပ့်"
+
+#: ../en/index.html
+msgid "Access the Internet"
+msgstr "ၸႂ့်တိုဝ်း ဢိၼ်ႇထိူဝ်ႇၼႅတ့်"
+
+#: ../en/index.html
+msgid "5.3MB"
+msgstr "5.3 ဢႅမ်ႇပီႇ"
+
+#: ../en/index.html
+msgid "Take the guided tour"
+msgstr "ဢဝ် လွင်ႈၸွႆႈသပ်းလႅင်း ၵၢၼ်လႄႈယဵမ်ႈတူၺ်း"
+
+#: ../en/index.html
+msgid "cc"
+msgstr "cc"
+
+#: ../en/index.html
+msgid "Pictures"
+msgstr "ႁၢင်ႈ"
+
+#: ../en/index.html
+msgid "Away"
+msgstr "တိုၵ့်မီးၵႆ"
+
+#: ../en/index.html
+msgid "Check email"
+msgstr "ၵုတ်ႇတူၺ်း ဢီးမေးလ်"
+
+#: ../en/index.html
+msgid "Size:"
+msgstr "သႅၼ်း:"
+
+#: ../en/index.html
+msgid "Draft"
+msgstr "ပိူင်လိူင်း"
+
+#: ../en/index.html
+msgid "Free"
+msgstr "ၸႂ့်လႆႈလၢႆ"
+
+#: ../en/index.html
+msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgstr ""
+"ႁဵတ်းႁႂ်ႈ ၵၼ်မၢႆၸပ်း မႃလိၼ်ၾႆး လႄႈ ၵၼ်မၢႆ တွမ်ႇပႂၢႆး ၶဝ် ၶူၼ်းၽဵင်ႇၵၼ်။"
+
+#: ../en/index.html
+msgid "LibreOffice Writer makes it easy to draft professional documents."
+msgstr ""
+"ၵၼ်တႅမ်ႈလိၵ်ႈ လီပရီႇၵၼ်လုမ်းၼႆ့ မၼ်းႁဵတ်းလႆႈငၢႆႈငၢႆႈ တွၼ်ႈတႃႇတေတႅမ်ႈ "
+"ပိူင်လိူင်းတွၼ်ႈတႃႇ ၽိုၼ်ႈလိၵ်ႈၵၢၼ်လူင်။"
+
+#: ../en/index.html
+msgid "Displays…"
+msgstr "ပိုတ်ၼႄ..."
+
+#: ../en/index.html
+msgid "Software Up to Date"
+msgstr "သွပ့်ၾ်ဝႄး ၸိူဝ်းပဵၼ် ဢၢပ့်တဵၵ့်"
+
+#: ../en/index.html
+msgid "Browse the web"
+msgstr "ပိုတ်ႇသွၵ်ႈ ၼႃႈလိၵ်ႈဝႅပ့်"
+
+#: ../en/index.html
+msgid "Local"
+msgstr "လူဝ်ႇၵႄႇ"
+
+#: ../en/index.html
+msgid ""
+"If you want to use the spellchecker, you have to install aspell and the "
+"respective language-pack, e.g. aspell-en or aspell-de."
+msgstr ""
+"ပေႃးၸဝ်ႈၵဝ်ႇ ၶႂ်ႈၸႂ့် ၶိူင်းထတ်းသၢင်ႈၶေႃႈၵႂၢမ်း spellchecker ၼႆ "
+"ၸဝ်ႈၵဝ်ႇတေလႆႈ ဢူၼ်းသႂ်ႇ aspell လႄႈ ၸိူဝ်းဢၼ်တၢင်တူဝ် ၽႃႇသႃႇၵႂၢမ်း၊ "
+"တူဝ်ယၢင်ႇမၼ်းမိူၼ် aspell-en ဢမ်ႇၼၼ် aspell-de"
+
+#: ../en/index.html
+msgid "World of Goo"
+msgstr "ၶေႃႈၵႂၢမ်း Goo"
+
+#: ../en/index.html
+msgid "View photos"
+msgstr "ၵၼ်တူၺ်း ၶႅပ်းႁၢင်ႈ"
+
+#: ../en/index.html
+msgid "You can upload, organise, edit and share your photos with Shotwell."
+msgstr ""
+"ၸႂ့် Shotwell သေ ၸဝ်ႈၵဝ်ႇၸၢင်ႈ လူတ်ႇၶိုၼ်ႈ၊ ၵဵပ်းႁွမ်၊ ထတ်းသၢင်ႈ လႄႈ "
+"ပိုၼ်ၽႄႈပၼ် ၶႅပ်းႁၢင်ၸဝ်ႈၵဝ်ႇ။"
+
+#: ../en/index.html
+msgid "Sand Maze"
+msgstr "သူင်ႇ Maze"
+
+#: ../en/index.html
+msgid "Ubuntu One Control Panel"
+msgstr "ဢွင်ႈတီႈၵုမ်းထိင်း ဢူးပုၼ်းတုဝၼ်း"
+
+#: ../en/index.html
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
+"လွင်ႈၵဵပ်းႁွမ် သဵၼ်ႈသၢႆ ၽဵင်းၵႂၢမ်းၸဝ်ႈၵဝ်ႇ ဢၼ်မီးတီႈ Android လႄႈ iPhone "
+"ၼၼ့် မၼ်းတေၸွမ်းလင်ၸဝ်ႈၵဝ်ႇ ဝႆ့ယူႇတႃႇသေ။"
+
+#: ../en/index.html
+msgid "to"
+msgstr "ၸူး"
+
+#: ../en/index.html
+msgid ""
+"Blender is an integrated 3d suite for modelling, animation, rendering, post-"
+"production, interactive creation and playback (games). Blender has its own "
+"particular user interface, which is implemented entirely in OpenGL and "
+"designed with speed in mind. Python bindings are available for scripting; "
+"import/export features for popular file formats like 3D Studio and Wavefront "
+"Obj are implemented as scripts by the community. Stills, animations, models "
+"for games or other third party engines and interactive content in the form "
+"of a standalone binary and/or a web plug-in are common products of Blender "
+"use."
+msgstr ""
+"ပလႅၼ်ႇတႃႇၼႆ့ မၼ်းႁူမ်ႈႁွမ်းၵေႃႇသၢင်ႈဝႆ့တႃႇ ၽၢင်ႈႁၢင်ႈ 3d ၊ လွင်ႈတူင့်ၼိုင်၊ "
+"လွင်ႈလျွၼ်းတႃး လွင်ႈႁဵတ်းဢွၵ်ႇ ငဝ်းႁၢင်ႈ ၸိူဝ်းပဵၼ်ၵဵမ်းလဵၼ်ႈလႆႈ လႄႈသင် "
+"ၸိူဝ်းပဵၼ်တႃႇငဝ်းတူင့်လႄႈသင်ၼႆၶႃႈယဝ့်။ ပလႅၼ်ႇတႃႇၼႆ့ မၼ်းမီး "
+"ပိူင်ၽၢင်ႁၢင်ႈႁင်းၸဝ်ႈၵဝ်ႇ ၸိူဝ်းဢၼ်ၵေႃႇသၢင်ႇ ၸွမ်း OpenGL လႄႈ ၸိူဝ်းၸၼ် "
+"Design ဝႆ့ ၸွမ်းၼင်ၸႂ်မီးၼၼ့်ၶႃႈယဝ့်။ တွၼ်ႈတႃႇတေ သူင်ႇဢွၵ်ႇ "
+"ႁႂ်ႈမၼ်းၵႂႃႇၸႂ့်လႆႈ တီႈၼႂ်း 3D Studio လႄႈ Wavfront ၼၼ့်ၵေႃႈ မၼ်းမီးပႃးဝႆ့ "
+"Python Bindings ဢၼ်တႃႇတႅမ်ႈ Script ၼႆၶႃႈယဝ့်။ တွၼ်ႈတႃႇတေႁဵတ်း ႁၢင်ႈတၢႆ "
+"လႄႈသင် တွၼ်ႈတႃႇတေႁဵတ်း ႁၢင်ႈတူင့်ၼိုင် တွၼ်ႈတႃႇ "
+"ၵၢၼ်ၸႂ့်တိုဝ်းၵူႈလွင်ႈလွင်ႈၼႆ့ ပလႅၼ်ႇတႃႇ မၼ်းၸၢင်ႈႁဵတ်းလႆႈႁင်းၵူၺ်းမၼ်း "
+"ဢမ်ႇဢိင်ၼိူဝ်ၽႂ်သေတႃ့ မၼ်းၸၢင်ႈႁဵတ်းလႆႈ ႁင်းၵူၺ်းမၼ်းယူႇ။"
+
+#: ../en/index.html
+msgid "Your browser does not support iframes."
+msgstr "ၶိူင်ႈပိုတ်ႇႁႃ ၸဝ်ႈၵဝ်ႇၼႆ့ မၼ်းဢမ်ႇၵမ့်ထႅမ်ပၼ် တွၼ်ႈတႃႇ iframes."
+
+#: ../en/index.html
+msgid ""
+"Make a good impression with the intuitive LibreOffice Impress presentation "
+"tool."
+msgstr ""
+"ၸႂ့်တိုဝ်း ၵၼ်သပ်းလႅင်း လီၵရီႇၵၼ်လုမ်းသေၵေႃႈ ႁဵတ်းႁႂ်ႈ "
+"ၸဝ်ႈၵဝ်ႇလႆႈၸိုဝ်ႈလႆႈသဵင်။"
+
+#: ../en/index.html
+msgid ""
+"It’s quick and easy to access your folders and files from Ubuntu’s home "
+"folder."
+msgstr ""
+"လုၵ့်တီႈ ငဝ်ႈဢိူပ်ႇ ဢူးပုၼ်းတု သေ ၸဝ်ႈၵဝ်ႇၸၢင်ႈ ၸႂ့်လႆႈ ဢိူပ်ႇလႄႈ သွႆ့ "
+"ငၢႆႈငၢႆႈလူမ်လူမ်။"
+
+#: ../en/index.html
+msgid "Our star apps"
+msgstr "ဢႅပ့် ၸိူဝ်းလႆႈလၢဝ်"
+
+#: ../en/index.html
+msgid "The Grass Aint Greener"
+msgstr "The Grass Aint Greener"
+
+#: ../en/index.html
+msgid "Date"
+msgstr "ဝၼ်းထီ့"
+
+#: ../en/index.html
+msgid ""
+"Drag and drop living, squirming, talking globs of goo to build structures, "
+"bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
+"goo balls that live in the beautiful World of Goo are curious to explore."
+msgstr ""
+"တွၼ်ႈတႃႇတေၵေႃႇသၢင်ႈလႆႈ ၶူဝ်၊ cannonballs, zeppelins လႄႈ giant tongues  ၼႆ့ "
+"တဵၵ်းသေၸၼ် living, squirmeing, talking ။ Goo ball ဢမ်မီးတင်းၼမ် "
+"ဢၼ်ယူႇသဝ်းတီႈၼႂ်း လူၵ်ႈၾႃ့ဢၼ်ႁၢင်ႈလီလီဢွၼ်ၸိူဝ်းၼၼ့် မၼ်းၵေႃႈ "
+"တေလႆႈတႅၵ်ႇယၢႆႈၵႂႃႇယူႇယဝ့်။"
+
+#: ../en/index.html
+msgid "Chromium Web Browser"
+msgstr "ၶိူင်ႈပိုတ်ႇဝႅပ့်သၢႆ့  ၶရူမ်းမီႇယမ်ႇ"
+
+#: ../en/index.html
+msgid "Sound Recorder"
+msgstr "ၶိူင်ႈတီ့သဵင်"
+
+#: ../en/index.html
+msgid "Recipient"
+msgstr "ၽူႈႁပ့်ၶၢမ်ႇ"
+
+#: ../en/index.html
+msgid "Fast"
+msgstr "ဝႆးဝႆး"
+
+#: ../en/index.html
+msgid "Recent"
+msgstr "ၵၢၼ်ပူၼ့်မႃး"
+
+#: ../en/index.html
+msgid "To:"
+msgstr "ထိုင်"
+
+#: ../en/index.html
+msgid "Set Up Broadcast Account…"
+msgstr "မၵ်းသႂ်ႇ ဢၶွင့် ပိုၼ်ႁၢင်ႈသဵင်"
+
+#: ../en/index.html
+msgid "Date:"
+msgstr "ဝၼ်းထီ့"
+
+#: ../en/index.html
+msgid ""
+"Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Fast, secure "
+"and with thousands of apps to choose from, Ubuntu gives you a clean and "
+"streamlined experience that you can really make your own."
+msgstr ""
+"ၶဝ်ႈႁူမ်ႈၸုမ်းၸွဢူးပုၼ်းတု၊မ်း လွင်ႈ ၽၢင်ႁၢင်ႈသၢင်းလၢင်းလီ၊ ၶႅမ့်လႅပ်ႈလီ။ "
+"ဢူးပုၼ်းတုၼႆ့ မၼ်းဝႆး၊ ပၢႆးႁူမ်ႈလူမ်ႈၶႅမ့်လႅပ်ႈသေဢမ်ႇၵႃး "
+"ဢႅပ့်တႃႇလိူၵ်ႈၸႂ့်မၼ်းၵေႃႈမီးဝႆ့ ႁူဝ်ႁဵင်မၼ်း။ ဢူးပုၼ်းတုၼႆ့ "
+"မၼ်းႁဵတ်းႁႂ်ႈၸဝ်ႈၵဝ်ႇ မီးတၢင်းတူဝ်ထူပ်းၸိုၼ်ႈၸိုၼ်ႈၸၢင်ႇၸၢင်ႇ "
+"တွၼ်ႈတႃႇတေၵေႃႇသၢင်ႈ  ႁဵတ်းဢွၵ်ႇလႆႈ ၸွမ်းၼင်ႇၸဝ်ႈၵဝ်ႇ မေႃလႆႈ ဝူၼ့်လႆႈၼၼ့်ယဝ့်။"
+
+#: ../en/index.html
+msgid "Total:"
+msgstr "တင်းမူတ်း"
+
+#: ../en/index.html
+msgid "Additional Drivers"
+msgstr "တရၢႆႇပိူဝ်ႇ ၸိူဝ်းထႅမ်သႂ်ႇလႆႈထႅင်ႈ"
+
+#: ../en/index.html
+msgid "Ubuntu Software Centre"
+msgstr "ငဝ်ႈတီႈ သွပ့်ၾ်ဝႄးလ် ဢူးပုၼ်းတု"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Calc"
+msgstr "ပၢႆးၼပ့် ၵၼ်ၸႂ့်လုမ်းလီပရီႇ - ဢမ်ႇပႆႇလႆႈပၼ်ၸိုဝ်ႈ 1"
+
+#: ../en/index.html
+msgid "I already have an account!"
+msgstr "ၵဝ်ၶႃႈ မီးဢၶွင့်ဝႆ့ယဝ့်!"
+
+#: ../en/index.html
+msgid "System"
+msgstr "ပိူင်သၢင်ႈ"
+
+#: ../en/index.html
+msgid "forward"
+msgstr "သိုပ်ႇယိုၼ်ႈ"
+
+#: ../en/index.html
+msgid ""
+"LibreOffice Calc has everything you need to create clear and accurate "
+"spreadsheets."
+msgstr ""
+"ပၢႆးၼပ့် ၵၼ်ၸႂ့်လုမ်း ၼႆ့ မၼ်းပဵၼ် တွၼ်ႈတႃႇ ဢၼ်ၸဝ်ႈၵဝ်ႇ ၶႂ်ႈႁဵတ်း "
+"ၶႂ်ႈၵေႃႇသၢင်ႈ ၽိုၼ်ႈၸရၢင်းဢၢင်းၵႂၢၵ်ႈလႆႈ သၢင်းလၢင်းလပ့်လွင်းၼၼ့်ယဝ့်။"
+
+#: ../en/index.html
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+"ဢၼ်ပဵၼ်ၵၢၼ် သူင်ႇၶဝ် လႄႈ သူင်ႇဢွၵ်ႇ ၵမ်ႈၽွင်ႈၼႆ့ မၼ်းၵမ့်ထႅမ်ပၼ်ဝႆ့ "
+"ၵွပ်ႈၸႂ့် packages dia, libwmf-bin, pstoedit, skencil, imagemagick, လႄႈ "
+"perlmagick."
+
+#: ../en/index.html
+msgid "Take Ubuntu for a test drive with our online demo."
+msgstr "ဢဝ် ဢူးပုၼ်းတုတူၺ်း တွၼ်ႈတႃႇတေၸၢမ်း ၸွမ်းဢွၼ်ႇလႅင်းတီႇမူဝ်ႇ"
+
+#: ../en/index.html
+msgid "Install"
+msgstr "ဢူၼ်းသႂ်ႇ"
+
+#: ../en/index.html
+msgid "Items:"
+msgstr "ၶိူဝ်ႁူဝ်ယွႆႈ"
+
+#: ../en/index.html
+msgid "WildWheat"
+msgstr "WildWheat"
+
+#: ../en/index.html
+msgid "Subject:"
+msgstr "လွင်ႈတၢင်း"
+
+#: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
+msgid "Backup"
+msgstr "ၵႅမ်လင်"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr ""
+
+#: ../en/index.html
+msgid "History"
+msgstr "ၵၢၼ်ႁဵတ်းမႃး"
+
+#: ../en/index.html
+msgid "16 Photos"
+msgstr "ၶႅပ်းႁၢင်ႈ16"
+
+#: ../en/index.html
+msgid "Home Folder"
+msgstr "ဢိူပ်ႇငဝ်ႈ"
+
+#: ../en/index.html
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr ""
+"ႁဝ်းၶႃႈ ယုမ်ႇယမ်မုင်ႈမွင်းဝႆ့ဝႃႈ ၸဝ်ႈၵဝ်ႇတေထုၵ်ႇမႅၼ်ႈၸႂ်ၼိူဝ် "
+"လွင်ႈလႄႇယဵမ်ႈတူၺ်း ဢူးပုၼ်းတု တီႈၼိူဝ် ပိုတ်ႇသၢႆ ယူႇ။"
+
+#: ../en/index.html
+msgid "Office"
+msgstr "ၵၼ်လုမ်း"
+
+#: ../en/index.html
+msgid "Themes &amp; Tweaks"
+msgstr "ၵၼ်ယူင့်ႁၢင်ႈ လႄႈ &amp; ၵၼ်ထႂိၵ်ႇ"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
+"player, camera or printer and you’ll be up and running straight away. No "
+"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
+"open, edit and share Microsoft Office documents stress-free."
+msgstr ""
+"ဢူးပုၼ်းတုၼႆ့ မၼ်းႁဵတ်းၵၢၼ်ပၼ်လႆႈ တီႈၼိူဝ် ၶိူင်ႈၵမ့်ၼမ်ၼမ်ယဝ့်။  ၸိူင့်ၼင်ႇ "
+"ၶိူင်ႈထႅမ်သႂ်ႇ တွၼ်ႈတႃႇ ၶိူင်ႈၽုၺ်ႇၽဵင်းၵႂၢမ်း ဢႅမ်ႇပီႇသၢမ်၊  ၵွင်ႈထႆႇ လႄႈ "
+"ၸၢၵ်ႈဢိတ်ႇဢွၵ်ႇ ၸၵႂႃႇၸိူဝ်းၼႆ့ မၼ်းၸၢင်ႈၸႂ့်တိုဝ်းၵႂႃႇလႆႈလီလီ။ "
+"မၼ်းတေဢမ်ႇမီးၶႅပ်းၸီႇတီႇ တႃႇတေဢူၼ်းသႂ်ႇ။ မၼ်းတေဢမ်ႇမီး ၽိဝ့်။ ၼႆ့ၵေႃႈ "
+"မၼ်းႁဵတ်းၵၢၼ်ၶႅမ့်လႅပ်ႈသၢင်ႇထုၵ်ႇတင်း ဝိၼ်းတူဝ်းယူႇၼင်ႇၵဝ်ႇ။ ၸဝ်ႈၵဝ်ႇ "
+"ၸၢင်ႈပိုတ်ႇ၊ ထတ်းသၢင်ႈ လႄႈ ပိုၼ်ၽႄႈ ဢၼ်ပႅၼ်ႈ ၽိုၼ်လိၵ်ႈ ၵၼ်လုမ်း Microsoft "
+"လႆႈ လီလီငၢမ်းငၢမ်းယူႇ။"
+
+#: ../en/index.html
+msgid "work"
+msgstr "ၵၢၼ်"
+
+#: ../en/index.html
+msgid "Library"
+msgstr "ႁူင်းလႅမ်း"
+
+#: ../en/index.html
+msgid "Unify you contacts across Desktop, Mobile and Web"
+msgstr ""
+"ႁဵတ်းႁႂ်ႈႁူမ်ႈတုမ်ပၼ် ၸိူဝ်းပဵၼ်သဵၼ်ႈမၢႆၵပ်းသိုပ်ႇၸဝ်ႈၵဝ်ႇ "
+"ၸိူဝ်းဢၼ်မီးတီႈၼိူဝ် ၶွမ်း၊ မူဝ်ႇပၢႆး လႄႈ ဝႅပ့်။"
+
+#: ../en/index.html
+msgid "Thunderbird Mail"
+msgstr "မႄးလ် ၼူၵ့်ၾႃ့မႅပ်ႈ"
+
+#: ../en/index.html
+msgid ""
+"Chromium serves as a base for Google Chrome, which is Chromium rebranded "
+"(name and logo) with very few additions such as usage tracking and an auto-"
+"updater system."
+msgstr ""
+"လွင်ႈၵၢၼ် ၶရူမ်းမီယမ်ၼႆ့ မၼ်းဢိင်တွၼ်ႈတႃႇ ၵူႇၵိူဝ်ႇ ၶရူမ်း ဢၼ်ပဵၼ် "
+"ၶိုၼ်းၵေႃႈသၢင်ႈႁဵတ်းဢွၵ်ႇ ၶရူမ်းမီႇယမ် (ၸိုဝ်ႈတင်းႁၢင်ႈႁိင်ႈ) ။ ၸိူဝ်းဢၼ်ပႃး "
+"လွင်ႈထႅမ်သႂ်ႇ မိူၼ်ၼင်ႇ လမ်းၸွမ်းလွင်ႈၸႂ့်တိုဝ်း လႄႈ "
+"ၶိူင်ႈႁဵင်းဢၢပ့်တဵၵ့်ႁင်းၵူၺ်း တွၼ်ႈတႃႇ ပိူင်သၢင်ႈ။"
+
+#: ../en/index.html
+msgid "Not Junk"
+msgstr "ဢမ်ႇလူတ်းပႅတ်ႈ"
+
+#: ../en/index.html
+msgid "Chromium"
+msgstr "ၶရူမ်းမီယမ်"
+
+#: ../en/index.html
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"တွင်းဝႆ့လႄႈ၊ ဢၼ်ၼႆ့ၵူၺ်းပဵၼ် တီႇမူဝ်ႇၵူၺ်း။ တႃႇၸဝ်ႈၵဝ်ႇတေလႆႈ "
+"ၸႂ့်တူၺ်းၶဝ်ႈႁူမ်ႈပႃးလႆ ၸိူဝ်းပဵၼ် ဢၼ်မၢၼ်ႇမႅၼ်ႈမၼ်းၼၼ့် "
+"ၸဝ်ႈၵဝ်ႇတေလႆႈလူတ်ႇလူင်းၵွၼ်ႇ။"
+
+#: ../en/index.html
+msgid "delete"
+msgstr "မွတ်ႇ"
+
+#: ../en/index.html
+msgid "Thunderbird Mail/News"
+msgstr "မႄးလ်/ၶၢဝ်ႇ ၼူၵ့်ၾႃ့မႅပ်ႈ"
+
+#: ../en/index.html
+msgid "Busy"
+msgstr "တိုၵ့်သုၵ့်"
+
+#: ../en/index.html
+msgid "Small Flowers"
+msgstr "မွၵ်ႇလူင်ႇလဵၵ့်"
+
+#: ../en/index.html
+msgid "Edit Connections…"
+msgstr "ထတ်းသၢင်ႈ လွင်ႈၵွင့်သိုပ်ႇ..."
+
+#: ../en/index.html
+msgid "Printers"
+msgstr "ၶိူင်ႈဢိတ်ႇဢွၵ်ႇ"
+
+#: ../en/index.html
+msgid "Sound Settings…"
+msgstr "ႁဵၼ်းပိူင်သဵင်..."
+
+#: ../en/index.html
+msgid "Search"
+msgstr "သွၵ်ႈ"
+
+#: ../en/index.html
+msgid ""
+"But they dont know that they are in a game, or that they are extremely "
+"delicious. The most addicting and awe-inspiring puzzle game will set you on "
+"an adventure that youll never forget!"
+msgstr ""
+"ၵူၺ်းၵႃႈ ၶဝ်ဢမ်ႇႁူ့ လွင်ႈဝႃႈ ၶဝ်မီးယူႇၼႂ်းၵဵမ်း ဢမ်ႇၼၼ် ယွၼ့်ၶဝ်ႁူ့ပွင့် "
+"ၼမ့်ဝၢၼ်မၼ်းၼႅၼ်ႇၵေႃႈ ပဵၼ်လႆႈ။ လွင်ႈႁူမ်ႇငမ်းလႄႈ လွင်ႈၸပ်းၸွႆး ၼိူဝ် "
+"ၵဵမ်းၽတ့်သႂ်ႇၼႆ့ မၼ်းတေႁဵတ်းႁႂ်ႈ ၸဝ်ႈၵဝ်ႇလႆႈ ၸုၼ့်ႁတ်း သေ "
+"ဢမ်ႇလိုမ်းမၼ်းလႆႈၼၼ့်ၶႃႈယဝ့်။"
+
+#: ../en/index.html
+msgid "Turn On Bluetooth"
+msgstr "ပိုတ်ႇ ၸၢတ်ႇၸိတ်ႇ"
+
+#: ../en/index.html
+msgid "Write"
+msgstr "တႅမ်ႈ"
+
+#: ../en/index.html
+msgid "Attach"
+msgstr "ႁွႆႈပႃး"
+
+#: ../en/index.html
+msgid "Window"
+msgstr "ဝိၼ်းတူဝ်း"
+
+#: ../en/index.html
+msgid "Write: (no subject)"
+msgstr "တႅမ်ႈ (ဢမ်ႇပႆႇမီး လွင်တၢင်း)"
+
+#: ../en/index.html
+msgid "Ubuntu online tour"
+msgstr "လႄႈယဵမ်ႈတူၺ်း ဢူးပုၼ်းတု တီႈၼိူဝ် ဢွၼ်ႇလၢႆး"
+
+#: ../en/index.html
+msgid "Federica Miglio"
+msgstr "Federica Miglio"
+
+#: ../en/index.html
+msgid ""
+"BEEP is a 2D side-scrolling platformer with physics-based gameplay. You "
+"control a small robot equipped with an anti-gravity device, a jet-pack and a "
+"gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
+"across 6 unique environments."
+msgstr ""
+"BEEP ၼႆ့ မၼ်းပဵၼ်ၵဵမ်း ဢၼ်ဢိင်ၼိူဝ် ပၢႆးႁၢင်ႈသေၵေႃႈသၢင်ႈဝႆ့ ဢၼ်ပဵၼ်ၵဵမ်း "
+"လႆႁၼ်သွင်ၸဵင်ႇ ၼၼ့်ယဝ့်။ ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈၵုမ်းထိင်း ၵူၼ်းၸၢၵ်ႈလဵၵ်ႈလဵၵ်ႈဢွၼ်ႇ "
+"ဢၼ်ႁဵတ်းဝႆ့ၸွမ်း ၶိူင်ႈၶဵင်ႇတႃ့ ႁႅင်းၸၼ်ၼင်လိၼ်၊တင်း ၵျႅၵ့်ၽႅၵ့် "
+"လႄႈတင်းၵွင်ႈ။ မၼ်းၸၢင်ႈႁေႃႈလူတ့်၊ ၸၢင်ႈဝႅၼ်၊ ၸၢင်ႈမိၼ်၊ ၸၢင်ႈလူၺ်းၼမ့် လႄႈ "
+"ၸၢင်ႈယိုဝ်း ဢၼ်မီးၼိူဝ်သဵၼ်ႈသၢႆတၢင်းၸဝ်ႈၵဝ်ႇ ႁၢၼ့်တေႃႇထိုင် ၸၼ့်ထၢၼ်ႈ 24။ "
+"တေလႆႈလတ်းၶၢမ်ႈ တူင်ႇဝူင်းၽူႈၶဵၼ် 6 ဢၼ်။"
+
+#: ../en/index.html
+msgid "Offline"
+msgstr "ဢမ်ႇၸႂ့်တိုဝ်းဝႆ့"
+
+#: ../en/index.html
+msgid "Trash"
+msgstr "ၵူၺ်ယုၵ်းယၵ်း"
+
+#: ../en/index.html
+msgid "archive"
+msgstr "ၵၼ်ႁွမ်သိမ်း"
+
+#: ../en/index.html
+msgid "Power Of Words"
+msgstr "ၶွၼ်ႁႅင်းတူဝ်လိၵ်ႈ"
+
+#: ../en/index.html
+msgid "Shotwell Photo Manager"
+msgstr "တီႈၵုမ်းၵမ် ၶႅပ်းႁၢင်ႈ Shotwell"
+
+#: ../en/index.html
+msgid "Folders"
+msgstr "ဢိူပ်ႇ"
+
+#: ../en/index.html
+msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
+msgstr ""
+"လွင်ႈပိုတ်ႈႁႃႇ ၼႃႈလိၵ်ႈဝႅပ့် တီႈၼႂ်း ဢူးပုၼ်းတု လႄႈ မႃလိၼ်ၾႆးၼႆ့ မၼ်း ဝႆးသေ "
+"ႁူမ်ႇလူမ်ႈလီ။"
+
+#: ../en/index.html
+msgid "Format"
+msgstr "ပိူင်တမ်း"
+
+#: ../en/index.html
+msgid "Surf the web"
+msgstr "ပိုတ်ႈတူၺ်းဝႅပ့်"
+
+#: ../en/index.html
+msgid "Browse files on device…"
+msgstr "ပိုတ်ႇသွၵ်ႈ သွႆ့ တီႈၼိူဝ်ၶိူင်ႈ..."
+
+#: ../en/index.html
+msgid "Junk Mail"
+msgstr "လူတ်းပႅတ်ႈ မႄးလ်"
+
+#: ../en/index.html
+msgid "1"
+msgstr "1"
+
+#: ../en/index.html
+msgid "Computer"
+msgstr "ၶွမ်ႇၽိဝ်းထိူဝ်ႇ"
+
+#: ../en/index.html
+msgid "What's New"
+msgstr "ၸိူဝ်းပဵၼ် ဢၼ်မႂ်ႇ"
+
+#: ../en/index.html
+msgid "Movie Player"
+msgstr "ၶိူင်ႈၸၢၵ်ႈ ၽုၺ်ႇငဝ်း"
+
+#: ../en/index.html
+msgid "Invisible"
+msgstr "လပ့်တူဝ်"
+
+#: ../en/index.html
+msgid "Albums"
+msgstr "ဢႅဝ်ႇပၢၼ်ႇ"
+
+#: ../en/index.html
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+"ဢိၼ်းၸၶဵပ့်ၼႆ့ ၵမ့်ထႅမ်ပၼ်လႆႈ ပိုတ်ႇသွႆ့လၢႆဢၼ် ႁူမ်ႈမိူဝ်ႈလဵဝ်ၵၼ် လႄႈ "
+"သွႆ့ၼိုင်ႈသွႆ့ၼႆ့ တူၺ်းလႆႈလၢႆလၢႆး။ ႁၢင်ႈၸၼ်ၸိူဝ်းၼႆ့ ၸၢင်ႈဢိတ်ႇဢွၵ်ႇ လႄႈ "
+"ၸၢင်ႈသူင်ႇဢွၵ်ႇ ႁႂ်ႈပဵၼ် ပိူင်တမ်း png bitmaps။"
+
+#: ../en/index.html
+msgid "LibreOffice Writer"
+msgstr "ၵၼ်တႅမ်ႈလိၵ်ႈ လီပရီႇၵၢၼ်လုမ်း"
+
+#: ../en/index.html
+msgid "From:"
+msgstr "မႃးတီႈ"
+
+#: ../en/index.html
+msgid "Insert"
+msgstr "ၸိမ်သႂ်ႇ"
+
+#: ../en/index.html
+msgid "Shut Down…"
+msgstr "ၵိုတ်းၸၢၵ်ႈ..."
+
+#: ../en/index.html
+msgid "Fonts"
+msgstr "ၾွၼ့်"
+
+#: ../en/index.html
+msgid "File"
+msgstr "သွႆ့"
+
+#: ../en/index.html
+msgid "Edit"
+msgstr "ထတ်း"
+
+#: ../en/index.html
+msgid "Bluetooth On"
+msgstr "ၸၢတ်ႇၸိတ်ႇပိုတ်ႇဝႆ့"
+
+#: ../en/index.html
+msgid "Turn Off Bluetooth"
+msgstr "ဢိုတ်း ၸၢတ်ႇၸိတ်ႇ"
+
+#: ../en/index.html
+msgid "Installing"
+msgstr "တိုၵ့်ဢူၼ်းသႂ်ႇ"
+
+#: ../en/index.html
+msgid "back to the site"
+msgstr "ၶိုၼ်းႁူၼ်လင်ၸူး ဝႅပ့်သၢႆ့"
+
+#: ../en/index.html
+msgid "Games"
+msgstr "ၵဵမ်း"
+
+#: ../en/index.html
+msgid "Visolate"
+msgstr "Visolate"
+
+#: ../en/index.html
+msgid "Empathy Internet Messageing"
+msgstr "Empathy ၵၼ်သူင်လိၵ်ႈၵႂၢမ်းပွတ်း ၼိူဝ်ဢိၼ်ႇထိူဝ်ႇၼႅတ့်"
+
+#: ../en/index.html
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr ""
+"ၵေႃႇသၢင်ႈ လႄႈ ထတ်းသၢင်ႈ ဢၼ်ပဵၼ် ပၢႆးၸၼ်ႁၢင်ႈ ဝႅၵ်ႇတိူဝ်ႇ "
+"ၸိူဝ်းၶႂၢၵ်ႈလႆႈႁုပ်ႈလႆႈၼၼ့်။"
+
+#: ../en/index.html
+msgid "Attached Devices"
+msgstr "ၶိူင်ႈၸိူဝ်း ၵွင့်တၢႆးဝႆ့"
+
+#: ../en/index.html
+msgid "View"
+msgstr "ၵၼ်တူၺ်း"
+
+#: ../en/index.html
+msgid "Suspend"
+msgstr "ၵိုတ်းလိုဝ်ႈ"
+
+#: ../en/index.html
+msgid "branches"
+msgstr "ၵေႃၽႄ"
+
+#: ../en/index.html
+msgid "The Power of Your Personal Cloud"
+msgstr "ၶွၼ်ႁႅင်း မွၵ်ႇၾႃ့သုၼ်ႇတူဝ် ၸဝ်ႈၵဝ်ႇ"
+
+#: ../en/index.html
+msgid ""
+"Manipulate the flow of time to solve puzzles Braid is a platform game in "
+"painterly style where you manipulate the flow of time to solve puzzles. "
+"Every puzzle in Braid is unique; there is no filler."
+msgstr ""
+"ၵုမ်းၵမ်ထိင်း လွင်ႈၶၢဝ်းယၢမ်း တွၼ်ႈတႃႇတေၵႄႈလိတ်ႈ ၽတ့်သႂ်ႇ။ Briad ၼႆ့ "
+"မၼ်းပဵၼ် သဵၼ်ႈသၢႆတၢင်းၵဵမ်း ဢၼ်ပဵၼ်ၸၸိူဝ်းၸၼ်ယွမ့်ဢဝ်ၼၼ့်ၶႃႈယဝ့်။ "
+"မၼ်းတေလႆႈၵုမ်းၵမ်ထိင်း ၶၢဝ်းယၢမ်းသေ တေလႆႈၶပ့် လႆႈၵႄႈလိတ်ႈ ဢၼ်ပဵၼ် "
+"ၽတ့်သႂ်ႇၼၼ့်ၶႃႈယဝ့်။ ၽတ့်သႂ်ႇ တီႈၼႂ်း Braid ၼႆ့ မၼ်းၵေႃႈဢမ်ႇမိူၼ်ၽႂ်။ "
+"တီႈၼၼ်ႈၼၼ့်မၼ်းဢမ်ႇမီး ၵေႃ့တူၵ်းသုမ်း။"
+
+#: ../en/index.html
+msgid "Mon 11 October, 2010"
+msgstr "11 ဝၼ်းၸၼ်၊ လိူၼ်ဢွၵ်ႇထူဝ်ႇပိူဝ်ႇ၊ 2010"
+
+#: ../en/index.html
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+"ပိူင်ၽၢင်ႈႁၢင်ႈ ဢိၼ်းသၶဵပ့်ၼႆ့ မၼ်းၵေႃႈ မိူၼ်တင်း CorelDraw လႄႈ ၼင်ႇ "
+"ၽရူဝ်းၶရႅမ်ႇ ဢၼ်ၸၼ်ႁၢင်ႈၵမ့်ၼမ်ၼမ်။ မၼ်းတေမီး ectangles, ellipses, text "
+"items, bitmap images လႄႈ freehand curves။ တွၼ်ႈသူး ဢၼ်ထႅမ်သႂ်ႇဝႆ့ "
+"ဢၼ်လိူဝ်မၼ်းတႄ့ မၼ်းတေပႃးဝႆ့ alpha transparency ဢၼ် "
+"ပိုၼ့်လင်မၼ်းပွင်ႇဝႆ့ၼၼ့်ၶႃႈယဝ့်။"
+
+#: ../en/index.html
+msgid "Unmute"
+msgstr "ပိုတ်ႇသဵင်"
+
+#: ../en/index.html
+msgid "Rubbish bin"
+msgstr "ၵူၺ်သွင်း Rubbish"
+
+#: ../en/index.html
+msgid "Sound &amp; Video"
+msgstr "သဵင် &amp; ငဝ်းတူင့်"
+
+#: ../en/index.html
+msgid "Create and edit 3D models and animations"
+msgstr "ၵေႃႈသၢင်ႈ လႄႈ ထတ်းသၢင်ႈ ႁၢင်ႈၽၢင်ႁၼ်သၢမ်ၸဵင်ႇ လႄႈ ႁၢင်ႈတူင့်ၼိုင်"
+
+#: ../en/index.html
+msgid "Inbox"
+msgstr "တိူၵ်ႈလိၵ်ႈ"
+
+#: ../en/index.html
+msgid "Files Anywhere"
+msgstr "သွႆ့ တီႈလႂ်သေဢမ်ႇဝႃႈ"
+
+#: ../en/index.html
+msgid "Stay Productive"
+msgstr "လွင်ႈႁဵတ်းဢွၵ်ႇလႆႈ"
+
+#: ../en/index.html
+msgid "Table"
+msgstr "လွၵ်းၸရၢင်း"
+
+#: ../en/index.html
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+
+#: ../en/index.html
+msgid "Tools"
+msgstr "ၶိူင်ႈ"
+
+#: ../en/index.html
+msgid "Downloads"
+msgstr "လူတ်ႇလူင်း"
+
+#: ../en/index.html
+msgid "You"
+msgstr "ၸဝ်ႈၵဝ်ႇ"
+
+#: ../en/index.html
+msgid "Blender"
+msgstr "ပလႅၼ်ႇတႃႇ"
+
+#~ msgid "Recent Files"
+#~ msgstr "သွႆ့ ၸိူဝ်းမိူဝ်ႈၵႆႈ"
+
+#~ msgid "Recent Apps"
+#~ msgstr "ဢႅပ့်ၸိူဝ်းၸႂ့်မႃး"
+
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "ႁူမ်ၸုမ်းႁပ့်တွၼ်ႈ တီႈလေႇယဵမ်ႈ ဢူးပုၼ်းတု တီႈၼိူဝ် ပိုတ်ႇသၢႆ!"
+
+#~ msgid "App Available for Download"
+#~ msgstr "ဢႅပ့် ၸိူဝ်းဢၼ် လူတ်ႇလူင်းလႆႈ"

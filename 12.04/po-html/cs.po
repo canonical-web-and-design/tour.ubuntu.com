@@ -1,0 +1,1422 @@
+# Czech translation for ubuntu-online-tour
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the ubuntu-online-tour package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-online-tour\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-04-24 11:09+0000\n"
+"PO-Revision-Date: 2012-04-30 17:40+0000\n"
+"Last-Translator: Vojtěch Trefný <vojtech.trefny@gmail.com>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-05-01 06:03+0000\n"
+"X-Generator: Launchpad (build 15171)\n"
+
+#: ../en/index.html
+msgid "Firefox Web Browser"
+msgstr "Firefox Webový prohlížeč"
+
+#: ../en/index.html
+msgid "Lock Screen"
+msgstr "Uzamknout obrazovku"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu loads quickly on any computer, but it's super-fast on newer machines. "
+"With no unnecessary programs and trial software slowing things down, booting "
+"up and opening a browser takes seconds. Unlike other operating systems that "
+"leave you staring at the screen, waiting to get online. And Ubuntu won’t "
+"grow sluggish over time. It’s fast. And it stays fast."
+msgstr ""
+"Ubuntu běží rychle na každém počítači, ale je super rychlé na nových "
+"sestavách. Bez zbytečných zpomalujících programů, zabere spuštění počítače a "
+"otevření intenetového prohlížeče jen vteřiny. Na rozdíl od jiných operačních "
+"systémů, které vás nechají zírat na obrazovku, čekat než se dostanete on-"
+"line. A Ubuntu časem nezleniví. Je rychlé. A zůstane rychlé."
+
+#: ../en/index.html
+msgid "no subject"
+msgstr "bez předmětu"
+
+#: ../en/index.html
+msgid "Show yourself around"
+msgstr "Porozhlédnout se sám"
+
+#: ../en/index.html
+msgid "Desktop"
+msgstr "Pracovní plocha"
+
+#: ../en/index.html
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Děkujeme za vyzkoušení Ubuntu"
+
+#: ../en/index.html
+msgid "PiTiVi Video Editor"
+msgstr "Editor videa PiTiVi"
+
+#: ../en/index.html
+msgid "Internet"
+msgstr "Internet"
+
+#: ../en/index.html
+msgid "Science &amp; Engineering"
+msgstr "Věda a inženýrství"
+
+#: ../en/index.html
+msgid "Find apps"
+msgstr "Instalace aplikací"
+
+#: ../en/index.html
+msgid "Not Alone"
+msgstr "Not Alone"
+
+#: ../en/index.html
+msgid "Momiji Dream"
+msgstr "Podzimní snění"
+
+#: ../en/index.html
+msgid "Manipulate the flow of time to solve puzzles"
+msgstr "Řešte problémy manipulací časem"
+
+#: ../en/index.html
+msgid "中文"
+msgstr "中文"
+
+#: ../en/index.html
+msgid "About Me"
+msgstr "O mně"
+
+#: ../en/index.html
+msgid ""
+"BEEP has traveled for thousands of years through deep space to explore the "
+"Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
+"the surface of the planets."
+msgstr ""
+"BEEP cestoval tisíce let vesmírem a zkoumal galaxii. Prozkoumejte cizí "
+"hvězdnou soustavu s lodí BEEP a pošlete roboty na povrch planet."
+
+#: ../en/index.html
+msgid ""
+"Are you sure you want to close all programs and shutdown the computer?"
+msgstr "Opravdu chcete ukončit všechny programy a vypnout počítač?"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Impress"
+msgstr "Bez názvu 1 - LibreOffice Impress"
+
+#: ../en/index.html
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+#: ../en/index.html
+msgid ""
+"Accessibility is central to the Ubuntu philosophy. We believe that computing "
+"is for everyone regardless of nationality, race, gender or disability. Fully "
+"translated into 38 languages, Ubuntu also includes essential assistive "
+"technologies, which are, of course, completely free."
+msgstr ""
+"Přístupnost je pro filosofii Ubuntu ústřední. Věříme, že práce s počítačem "
+"je pro všechny nehledě na národnost, rasu, pohlaví či handicap. Ubuntu je "
+"kompletně přeloženo do 38 jazyků a obsahuje také základní asistenční "
+"technologie, které jsou samozřejmě naprosto zdarma."
+
+#: ../en/index.html
+msgid "Download Ubuntu"
+msgstr "Stáhnout Ubuntu"
+
+#: ../en/index.html
+msgid "Join now"
+msgstr "Připojte se nyní"
+
+#: ../en/index.html
+msgid "Applications"
+msgstr "Aplikace"
+
+#: ../en/index.html
+msgid "Weds 14 October, 2010"
+msgstr "Středa 14. října 2010"
+
+#: ../en/index.html
+msgid "Physics based puzzle/construction game"
+msgstr "Na fyzice postavená logicko-kontrukční hra"
+
+#: ../en/index.html
+msgid "Remote Desktop Viewer"
+msgstr "Prohlížeč vzdálené plochy"
+
+#: ../en/index.html
+msgid "Gwibber Social Client"
+msgstr "Klient pro společenské sítě Gwibber"
+
+#: ../en/index.html
+msgid "Happyness"
+msgstr "Happyness"
+
+#: ../en/index.html
+msgid "15.2KB"
+msgstr "15,2 KB"
+
+#: ../en/index.html
+msgid "PCB CNC converter"
+msgstr "PCB CNC převodník"
+
+#: ../en/index.html
+msgid "On"
+msgstr "Dne"
+
+#: ../en/index.html
+msgid "Surf the web"
+msgstr "Prohlížení Internetu"
+
+#: ../en/index.html
+msgid "A 2D platformer/shooter game with physics-based puzzles"
+msgstr "2D arkáda/střílečka s fyzikálními hlavolamy"
+
+#: ../en/index.html
+msgid "Graphics"
+msgstr "Grafika"
+
+#: ../en/index.html
+msgid "Keep Connected"
+msgstr "Zůstaňte ve spojení"
+
+#: ../en/index.html
+msgid "Top Rated"
+msgstr "Nejlépe hodnocené"
+
+#: ../en/index.html
+msgid "Compatible"
+msgstr "Kompatibilní"
+
+#: ../en/index.html
+msgid "Dash home"
+msgstr "Hlavní nabídka Dash"
+
+#: ../en/index.html
+msgid "From"
+msgstr "Od"
+
+#: ../en/index.html
+msgid "Get Mail"
+msgstr "Přijmout"
+
+#: ../en/index.html
+msgid "Auto eth0"
+msgstr "Auto eth0"
+
+#: ../en/index.html
+msgid "Recent Files"
+msgstr "Nedávné soubory"
+
+#: ../en/index.html
+msgid "Send files to device…"
+msgstr "Odeslat soubory do zařízení..."
+
+#: ../en/index.html
+msgid "Create documents"
+msgstr "Tvorba dokumentů"
+
+#: ../en/index.html
+msgid "(91 Ratings)"
+msgstr "(91 hodnocení)"
+
+#: ../en/index.html
+msgid "Secure"
+msgstr "Bezpečné"
+
+#: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "Balíček obsahuje prohlížeč Chromium"
+
+#: ../en/index.html
+msgid "$9.99"
+msgstr "US$ 9.99"
+
+#: ../en/index.html
+msgid "Help"
+msgstr "Nápověda"
+
+#: ../en/index.html
+msgid "Mute"
+msgstr "Ztlumit"
+
+#: ../en/index.html
+msgid "All Software"
+msgstr "Veškerý software"
+
+#: ../en/index.html
+msgid "Ready to download?"
+msgstr "Přejete si Ubuntu stáhnout"
+
+#: ../en/index.html
+msgid "Accessories"
+msgstr "Příslušenství"
+
+#: ../en/index.html
+msgid "Create spreadsheets"
+msgstr "Tvorba tabulek"
+
+#: ../en/index.html
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: ../en/index.html
+msgid "Shut Down"
+msgstr "Vypnout"
+
+#: ../en/index.html
+msgid "Music"
+msgstr "Hudba"
+
+#: ../en/index.html
+msgid "Rhythmbox"
+msgstr "Rhythmbox"
+
+#: ../en/index.html
+msgid "Education"
+msgstr "Vzdělávání"
+
+#: ../en/index.html
+msgid "Brasero Disc Burner"
+msgstr "Vypalovací software Brasero"
+
+#: ../en/index.html
+msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
+msgstr ""
+"Čtení, psaní a posílání emailů je s Thunderbirdem jednoduché a rychlé."
+
+#: ../en/index.html
+msgid "wrote"
+msgstr "napsal(a)"
+
+#: ../en/index.html
+msgid "Subject"
+msgstr "Předmět"
+
+#: ../en/index.html
+msgid "Shotwell"
+msgstr "Shotwell"
+
+#: ../en/index.html
+msgid "Documents"
+msgstr "Dokumenty"
+
+#: ../en/index.html
+msgid "Disconnect"
+msgstr "Odpojit"
+
+#: ../en/index.html
+msgid "Preferences"
+msgstr "Předvolby"
+
+#: ../en/index.html
+msgid "Browse files"
+msgstr "Procházení souborů"
+
+#: ../en/index.html
+msgid "Come and explore our favourites"
+msgstr "Prohlédněte si naše oblíbené"
+
+#: ../en/index.html
+msgid "junk"
+msgstr "nevyžádaná pošta"
+
+#: ../en/index.html
+msgid "Send"
+msgstr "Odeslat"
+
+#: ../en/index.html
+msgid "Darkening Clockwork"
+msgstr "Darkening Clockwork"
+
+#: ../en/index.html
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "Doufáme, že se vám online prohlídka Ubuntu líbila."
+
+#: ../en/index.html
+msgid "Inkscape Vector Graphics Editor"
+msgstr "Inkscape - editor vektorové grafiky"
+
+#: ../en/index.html
+msgid "Create presentations"
+msgstr "Tvorba prezentací"
+
+#: ../en/index.html
+msgid "Original Message"
+msgstr "Původní zpráva"
+
+#: ../en/index.html
+msgid "AisleRoit Solitaire"
+msgstr "Solitér AisleRoit"
+
+#: ../en/index.html
+msgid "Rock Out"
+msgstr "Poslouchejte hudbu"
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "Informace o spojení"
+
+#: ../en/index.html
+msgid ""
+"Chromium is an open-source browser project that aims to build a safer, "
+"faster, and more stable way for all Internet users to experience the web."
+msgstr ""
+"Chromium je open-source projekt webového prohlížeče, který si klade za cíl "
+"vybudovat bezpečnější, rychlejší a stabilnější cestu pro všechny uživatele "
+"internetu k prozkoumávání webu."
+
+#: ../en/index.html
+msgid "Email"
+msgstr "Pošta"
+
+#: ../en/index.html
+msgid "Sent"
+msgstr "Odeslaná pošta"
+
+#: ../en/index.html
+msgid "subject"
+msgstr "Předmět"
+
+#: ../en/index.html
+msgid "Available"
+msgstr "Přítomen"
+
+#: ../en/index.html
+msgid "All Folders"
+msgstr "Všechny složky"
+
+#: ../en/index.html
+msgid "Fri 26 Oct, 2001"
+msgstr "Pátek, 26. října 2001"
+
+#: ../en/index.html
+msgid "Hibernate"
+msgstr "Uspat na disk"
+
+#: ../en/index.html
+msgid "Langelinie Alle"
+msgstr "Langelinie Alle"
+
+#: ../en/index.html
+msgid "Your Ubuntu, your way"
+msgstr "Vaše Ubuntu, vaše možnosti"
+
+#: ../en/index.html
+msgid "Time &amp; Date Settings…"
+msgstr "Nastavení data a času..."
+
+#: ../en/index.html
+msgid "Recently Used"
+msgstr "Naposledy použité"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Ladovská zima"
+
+#: ../en/index.html
+msgid "Welcome Screen"
+msgstr "Uvítací obrazovka"
+
+#: ../en/index.html
+msgid "3.3MB"
+msgstr "3,3 MB"
+
+#: ../en/index.html
+msgid "reply"
+msgstr "odpovědět"
+
+#: ../en/index.html
+msgid "Set Up Mail…"
+msgstr "Nastavit e-mail..."
+
+#: ../en/index.html
+msgid "Search and download apps fast from the Ubuntu Software Centre."
+msgstr ""
+"Vyhledávání a instalace aplikací pomocí Centra softwaru pro Ubuntu je rychlá "
+"a jednoduchá."
+
+#: ../en/index.html
+msgid "Clear"
+msgstr "Vyčistit"
+
+#: ../en/index.html
+msgid "$19.99"
+msgstr "US$ 19.99"
+
+#: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Nádraží Dybbølsbro"
+
+#: ../en/index.html
+msgid "Log Out…"
+msgstr "Odhlásit..."
+
+#: ../en/index.html
+msgid ""
+"Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
+"You must have these packages to make full use of all extensions and effects."
+msgstr ""
+"Další rozšíření používají ruby, libxml-xql-perl, python-numpy a python-xml. "
+"Pokud chcete používat všechny efekty a rozšíření, je potřeba tyto balíčky "
+"nainstalovat."
+
+#: ../en/index.html
+msgid "Fwd"
+msgstr "Fwd"
+
+#: ../en/index.html
+msgid "Terminal Server Client"
+msgstr "Klient vzdálené pracovní plochy"
+
+#: ../en/index.html
+msgid "Appearance"
+msgstr "Vzhled"
+
+#: ../en/index.html
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+#: ../en/index.html
+msgid "Buck Off"
+msgstr "Buck Off"
+
+#: ../en/index.html
+msgid "Stalking Ocelot"
+msgstr "Číhající ocelot"
+
+#: ../en/index.html
+msgid "System Settings…"
+msgstr "Nastavení systému..."
+
+#: ../en/index.html
+msgid "Startup Applications…"
+msgstr "Aplikace po spuštění..."
+
+#: ../en/index.html
+msgid "Remove"
+msgstr "Odstranit"
+
+#: ../en/index.html
+msgid ""
+"Braid treats your time and attention as precious, and it does everything it "
+"can to give you a mind-expanding experience."
+msgstr ""
+"Braid zachází s vaším časem a pozorností jako s pokladem a udělá vše proto, "
+"aby vám poskytl ohromující zkušenost."
+
+#: ../en/index.html
+msgid "English"
+msgstr "Angličtina"
+
+#: ../en/index.html
+msgid "Purple Dancers"
+msgstr "Večerní ples"
+
+#: ../en/index.html
+msgid "from"
+msgstr "Od"
+
+#: ../en/index.html
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
+
+#: ../en/index.html
+msgid ""
+"All gameplay is based on time manipulation. Journey into worlds where time "
+"behaves strangely; observe, learn from, and then master these worlds."
+msgstr ""
+"Celá hra je založena na manipulaci s časem. Vstupte světů, kde se čas chová "
+"divně, pozorujte, učte se a a pak tyto světy ovládněte."
+
+#: ../en/index.html
+msgid "Mount Snowdon"
+msgstr "Mount Snowdon"
+
+#: ../en/index.html
+msgid "Songs"
+msgstr "Skladby"
+
+#: ../en/index.html
+msgid "Accessible"
+msgstr "Přístupné"
+
+#: ../en/index.html
+msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
+msgstr ""
+"Zálohujte a přistupujte ke svým souborům z Ubuntu, Windows, webu nebo "
+"mobilního telefonu."
+
+#: ../en/index.html
+msgid "Title:"
+msgstr "Název:"
+
+#: ../en/index.html
+msgid "Setup new device…"
+msgstr "Nastavit nové zařízení..."
+
+#: ../en/index.html
+msgid "Introduction Ubuntu"
+msgstr "Představení Ubuntu"
+
+#: ../en/index.html
+msgid "Videos"
+msgstr "Videa"
+
+#: ../en/index.html
+msgid "Braid"
+msgstr "Braid"
+
+#: ../en/index.html
+msgid ""
+"Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
+"format, a standard maintained by the WWW consortium."
+msgstr ""
+"Inkscape načítá a ukládá do formátu SVG (Scalable Vector Graphics), "
+"standardu, který má na starosti konsorcium WWW."
+
+#: ../en/index.html
+msgid ""
+"Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
+"download it to enjoy the real thing!"
+msgstr ""
+"Děkujeme za vyzkoušení Ubuntu. Nezapomínejte, že, toto je pouze ukázka. "
+"Abyste poznali všechny možnosti Ubuntu, musíte si jej stáhnout a "
+"nainstalovat."
+
+#: ../en/index.html
+msgid "Unread:"
+msgstr "Nepřečtené:"
+
+#: ../en/index.html
+msgid "Banshee Media Player"
+msgstr "Multimediální přehrávač Banshee"
+
+#: ../en/index.html
+msgid ""
+"You can surf in safety with Ubuntu – confident that your files and data will "
+"stay protected. A built-in firewall and virus protection come as standard. "
+"And if a potential threat appears, we provide automatic updates which you "
+"can install in a single click. You get added security with AppArmor, which "
+"protects your important applications so attackers can’t access your system. "
+"And thanks to Firefox and gnome-keyring, Ubuntu helps you keep your private "
+"information private. So whether it’s accessing your bank account or sharing "
+"sensitive data with friends or colleagues, you’ll have peace of mind when "
+"you need it the most."
+msgstr ""
+"Můžete surfovat bezpečněji s Ubuntu - věřte, že vaše soubory a data zůstanou "
+"chráněna. Zabudovaný firewall a antivirová ochrana jsou standardní součástí. "
+"Pokud se něco přeci jen dostane skrz, nabízíme automatické záplaty, které "
+"lze nainstalovat jediným klikem myši. Dostane se vám zvýšené bezpečnosti s "
+"AppArmor, která zvyšuje zabezpečení důležitých aplikací, takže se útočníci "
+"nedostanou do vašeho systému. A díky Firefoxu a Klíčence, Ubuntu pomáhá "
+"uchovávat vaše soukromé informace soukromé. Takžeať už přistupujete ke svému "
+"účtu v bance či sdílíte citlivá data se svými přáteli a kolegy, máte klid v "
+"duši, když ho potřebujete nejvíce."
+
+#: ../en/index.html
+msgid "Files &amp; Folders"
+msgstr "Soubory a složky"
+
+#: ../en/index.html
+msgid "Installed"
+msgstr "Nainstalováno"
+
+#: ../en/index.html
+msgid "BEEP"
+msgstr "BEEP"
+
+#: ../en/index.html
+msgid "Visible"
+msgstr "Viditelné"
+
+#: ../en/index.html
+msgid "Learn More"
+msgstr "Více informací"
+
+#: ../en/index.html
+msgid ""
+"Use BEEP’s anti-gravity device to directly manipulate the physics-based "
+"environments. The anti-gravity device is both a tool and a weapon. Use it to "
+"smash enemy robots, build towers and solve puzzles."
+msgstr ""
+"Pomocí BEEPova antigravitačního zařízení můžete přímo ovládat fyzikální "
+"prostředí. Antigravitační zařízení je jak nástroj tak zbraň. Můžete jej "
+"použít ke zničení nepřátelských robotů, stavbu věží nebo řešení úkolů."
+
+#: ../en/index.html
+msgid "Chat"
+msgstr "Chat"
+
+#: ../en/index.html
+msgid "Archive"
+msgstr "Archiv"
+
+#: ../en/index.html
+msgid "Recent Apps"
+msgstr "Nedávné aplikace"
+
+#: ../en/index.html
+msgid "Home"
+msgstr "Domů"
+
+#: ../en/index.html
+msgid "Canonical"
+msgstr "Canonical"
+
+#: ../en/index.html
+msgid "Developer Tools"
+msgstr "Vývojářské nástroje"
+
+#: ../en/index.html
+msgid "or"
+msgstr "nebo"
+
+#: ../en/index.html
+msgid "Inkscape"
+msgstr "Inkscape"
+
+#: ../en/index.html
+msgid "Access the Internet"
+msgstr "Přístup k internetu"
+
+#: ../en/index.html
+msgid "5.3MB"
+msgstr "5,3 MB"
+
+#: ../en/index.html
+msgid "Take the guided tour"
+msgstr "Prohlídka s průvodcem"
+
+#: ../en/index.html
+msgid "cc"
+msgstr "Kopie"
+
+#: ../en/index.html
+msgid "Pictures"
+msgstr "Obrázky"
+
+#: ../en/index.html
+msgid "Away"
+msgstr "Pryč"
+
+#: ../en/index.html
+msgid "Check email"
+msgstr "Kontrola pošty"
+
+#: ../en/index.html
+msgid "Size:"
+msgstr "Velikost:"
+
+#: ../en/index.html
+msgid "Draft"
+msgstr "Koncepty"
+
+#: ../en/index.html
+msgid "Free"
+msgstr "zdarma"
+
+#: ../en/index.html
+msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgstr "Mějte své poznámky a záložky synchronizovány"
+
+#: ../en/index.html
+msgid "LibreOffice Writer makes it easy to draft professional documents."
+msgstr "LibreOffice Writer zjednodušuje tvorbu profesionálních dokumentů."
+
+#: ../en/index.html
+msgid "Displays…"
+msgstr "Displeje..."
+
+#: ../en/index.html
+msgid "Software Up to Date"
+msgstr "Software je aktuální"
+
+#: ../en/index.html
+msgid "Browse the web"
+msgstr "Prohlížení Internetu"
+
+#: ../en/index.html
+msgid "Local"
+msgstr "Místní"
+
+#: ../en/index.html
+msgid ""
+"If you want to use the spellchecker, you have to install aspell and the "
+"respective language-pack, e.g. aspell-en or aspell-de."
+msgstr ""
+"Pokud chcete použít kontrolu pravopisu, musíte nainstalovat aspell a "
+"odpovídající jazykový balík, např. aspell-en nebo aspell-cs."
+
+#: ../en/index.html
+msgid "World of Goo"
+msgstr "World of Goo"
+
+#: ../en/index.html
+msgid "View photos"
+msgstr "Prohlížení fotografií"
+
+#: ../en/index.html
+msgid "You can upload, organise, edit and share your photos with Shotwell."
+msgstr ""
+"S aplikací Shotwell můžete nahrávat, organizovat, upravovat a sdílet své "
+"fotografie."
+
+#: ../en/index.html
+msgid "Sand Maze"
+msgstr "Písečný labyrint"
+
+#: ../en/index.html
+msgid "Ubuntu One Control Panel"
+msgstr "Ovládací panel Ubuntu One"
+
+#: ../en/index.html
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
+"Mějte u sebe celou sbírku díky přesunu hudby do systémů Android a iPhone"
+
+#: ../en/index.html
+msgid "to"
+msgstr "Komu"
+
+#: ../en/index.html
+msgid ""
+"Blender is an integrated 3d suite for modelling, animation, rendering, post-"
+"production, interactive creation and playback (games). Blender has its own "
+"particular user interface, which is implemented entirely in OpenGL and "
+"designed with speed in mind. Python bindings are available for scripting; "
+"import/export features for popular file formats like 3D Studio and Wavefront "
+"Obj are implemented as scripts by the community. Stills, animations, models "
+"for games or other third party engines and interactive content in the form "
+"of a standalone binary and/or a web plug-in are common products of Blender "
+"use."
+msgstr ""
+"Blender je integrovaný systém 3D aplikací určených k modelování, animaci, "
+"vykreslování, post-produkce, interaktivního vytváření a přehrávání (hry). "
+"Blender má své vlastní uživatelské rozhraní, které je kompletně "
+"implementováno v OpenGL a vytvořeno tak, aby bylo dostatečně rychlé. K "
+"dispozici je rozšíření v Pythonu umožňující skriptování; možnosti "
+"importu/exportu pro populární souborové formáty jako je 3D Studio a "
+"Wavefrotn Obj. Animace, herní modely a další stroje třetích řad spolu s "
+"interaktivním obsahem jsou dostupné ve formě samostatných binárek a/nebo "
+"webových modulů."
+
+#: ../en/index.html
+msgid "Your browser does not support iframes."
+msgstr "Váš prohlížeč nepodporuje iframy"
+
+#: ../en/index.html
+msgid ""
+"Make a good impression with the intuitive LibreOffice Impress presentation "
+"tool."
+msgstr ""
+"S intuitivním nástrojem pro tvorbu prezentací LibreOffice Impress vždy "
+"uděláte dobrý dojem."
+
+#: ../en/index.html
+msgid ""
+"It’s quick and easy to access your folders and files from Ubuntu’s home "
+"folder."
+msgstr ""
+"Ke svým souborům a složkám můžete rychle a jednoduše přistupovat z "
+"domovského adresáře."
+
+#: ../en/index.html
+msgid "Our star apps"
+msgstr "Naše hvězdné aplikace"
+
+#: ../en/index.html
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Nezapomínejte, že, toto je pouze ukázka. Abyste poznali všechny možnosti "
+"Ubuntu, musíte si jej stáhnout a nainstalovat."
+
+#: ../en/index.html
+msgid "Date"
+msgstr "Datum"
+
+#: ../en/index.html
+msgid ""
+"Drag and drop living, squirming, talking globs of goo to build structures, "
+"bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
+"goo balls that live in the beautiful World of Goo are curious to explore."
+msgstr ""
+"Přetahováním žijících, kroutících se a mluvících koulí bláta stavte "
+"struktury, mosty, kanónové koule, vzducholodě nebo obří jazyky. Miliony "
+"nevinných koulí bláta žijících v překrásném World of Goo čekají, až je "
+"prozkoumáte."
+
+#: ../en/index.html
+msgid "Chromium Web Browser"
+msgstr "Internetový prohlížeč Chromium"
+
+#: ../en/index.html
+msgid "Sound Recorder"
+msgstr "Záznamník zvuku"
+
+#: ../en/index.html
+msgid "Recipient"
+msgstr "Příjemce"
+
+#: ../en/index.html
+msgid "Fast"
+msgstr "Rychlé"
+
+#: ../en/index.html
+msgid "Recent"
+msgstr "Nedávné"
+
+#: ../en/index.html
+msgid "To:"
+msgstr "Komu:"
+
+#: ../en/index.html
+msgid "Set Up Broadcast Account…"
+msgstr "Nastavit účet společenské sítě..."
+
+#: ../en/index.html
+msgid "Date:"
+msgstr "Datum:"
+
+#: ../en/index.html
+msgid ""
+"Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Fast, secure "
+"and with thousands of apps to choose from, Ubuntu gives you a clean and "
+"streamlined experience that you can really make your own."
+msgstr ""
+"Užijte si jednoduchost stylového a intuitivního rozhraní Ubuntu . Rychlé, "
+"jednoduché a s tisíci aplikací na výběr vám Ubuntu poskytuje čisté a "
+"efektivní prostředí, které si můžete přizpůsobit zcela podle svých představ."
+
+#: ../en/index.html
+msgid "Total:"
+msgstr "Celkem:"
+
+#: ../en/index.html
+msgid "Additional Drivers"
+msgstr "Dodatečné ovladače"
+
+#: ../en/index.html
+msgid "Ubuntu Software Centre"
+msgstr "Centrum softwaru pro Ubuntu"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Calc"
+msgstr "Bez názvu 1 - LibreOffice Calc"
+
+#: ../en/index.html
+msgid "I already have an account!"
+msgstr "Již mám účet!"
+
+#: ../en/index.html
+msgid "System"
+msgstr "Systém"
+
+#: ../en/index.html
+msgid "forward"
+msgstr "přeposlat"
+
+#: ../en/index.html
+msgid ""
+"LibreOffice Calc has everything you need to create clear and accurate "
+"spreadsheets."
+msgstr ""
+"LibreOffice Calc má vše, co potřebujete pro tvorbu přesných a jasných "
+"tabulek a grafů."
+
+#: ../en/index.html
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+"Některé importní a exportní volby jsou zajištěny pomocí balíčků dia, libwmf-"
+"bin, pstoedit, skencil, imagemagick a perlmagick."
+
+#: ../en/index.html
+msgid "Take Ubuntu for a test drive with our online demo."
+msgstr "Dejte Ubuntu šanci s naší online zkušební verzí."
+
+#: ../en/index.html
+msgid "Install"
+msgstr "Nainstalovat"
+
+#: ../en/index.html
+msgid "Items:"
+msgstr "Položky:"
+
+#: ../en/index.html
+msgid "WildWheat"
+msgstr "Divoká pšenice"
+
+#: ../en/index.html
+msgid "Subject:"
+msgstr "Předmět:"
+
+#: ../en/index.html
+msgid "Backup"
+msgstr "Záloha"
+
+#: ../en/index.html
+msgid "History"
+msgstr "Historie"
+
+#: ../en/index.html
+msgid "16 Photos"
+msgstr "16 fotografií"
+
+#: ../en/index.html
+msgid "Home Folder"
+msgstr "Domovský adresář"
+
+#: ../en/index.html
+msgid "Welcome to the Ubuntu online tour!"
+msgstr "Vítejte v online prohlídce Ubuntu!"
+
+#: ../en/index.html
+msgid "Office"
+msgstr "Kancelář"
+
+#: ../en/index.html
+msgid "Themes &amp; Tweaks"
+msgstr "Motivy a tweaky"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
+"player, camera or printer and you’ll be up and running straight away. No "
+"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
+"open, edit and share Microsoft Office documents stress-free."
+msgstr ""
+"Ubuntu funguje bezvadně na velkém počtu zařízení. Jednoduše připojte svůj "
+"mp3 přehrávač, fotoaparát či tiskárnu a zařízení je připraveno. Bez "
+"instalačních CD. Žádné ciráty. Též je kompatibilní s Windows! Takže můžete "
+"otevřít, upravit a sdílet dokumenty z Microsoft Office beze strachu."
+
+#: ../en/index.html
+msgid "work"
+msgstr "work"
+
+#: ../en/index.html
+msgid "Library"
+msgstr "Knihovna"
+
+#: ../en/index.html
+msgid "Unify you contacts across Desktop, Mobile and Web"
+msgstr "Sjednoťte své kontakty mezi počítače, mobilem a webem"
+
+#: ../en/index.html
+msgid "Thunderbird Mail"
+msgstr "Poštovní klient Thunderbird"
+
+#: ../en/index.html
+msgid ""
+"Chromium serves as a base for Google Chrome, which is Chromium rebranded "
+"(name and logo) with very few additions such as usage tracking and an auto-"
+"updater system."
+msgstr ""
+"Chromium složí jako základ pro Google Chrome, které je poupravenou verzí "
+"Chromia (změna jména a loga) s několika málo přídavnými funkcemi jako je "
+"použití sledování a zabudovaný aktualizační systém."
+
+#: ../en/index.html
+msgid "Not Junk"
+msgstr "Není nevyžádané"
+
+#: ../en/index.html
+msgid "Chromium"
+msgstr "Chromium"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "Bez návzu - LibreOffice Writer"
+
+#: ../en/index.html
+msgid "delete"
+msgstr "smazat"
+
+#: ../en/index.html
+msgid "Thunderbird Mail/News"
+msgstr "Poštovní klient Thunderbird"
+
+#: ../en/index.html
+msgid "Busy"
+msgstr "Zaneprázdněn"
+
+#: ../en/index.html
+msgid "Small Flowers"
+msgstr "Malé květy"
+
+#: ../en/index.html
+msgid "Edit Connections…"
+msgstr "Upravit připojení..."
+
+#: ../en/index.html
+msgid "Printers"
+msgstr "Tiskárny"
+
+#: ../en/index.html
+msgid "Sound Settings…"
+msgstr "Předvolby zvuku..."
+
+#: ../en/index.html
+msgid "Search"
+msgstr "Hledat"
+
+#: ../en/index.html
+msgid ""
+"But they dont know that they are in a game, or that they are extremely "
+"delicious. The most addicting and awe-inspiring puzzle game will set you on "
+"an adventure that youll never forget!"
+msgstr ""
+"Nevědí ale, že jsou ve hře ani, že jsou velmi chutné. Tato závislost a úžas "
+"vzbuzující hra vás odvede na dobrodružství, které nikdy nezapomenete."
+
+#: ../en/index.html
+msgid "Turn On Bluetooth"
+msgstr "Zapnout Bluetooth"
+
+#: ../en/index.html
+msgid "Write"
+msgstr "Napsat"
+
+#: ../en/index.html
+msgid "Attach"
+msgstr "Připojit"
+
+#: ../en/index.html
+msgid "Window"
+msgstr "Okno"
+
+#: ../en/index.html
+msgid "Write: (no subject)"
+msgstr "Psaní zprávy: (bez předmětu)"
+
+#: ../en/index.html
+msgid "Ubuntu online tour"
+msgstr "Online prohlídka Ubuntu"
+
+#: ../en/index.html
+msgid "Federica Miglio"
+msgstr "Federica Miglio"
+
+#: ../en/index.html
+msgid ""
+"BEEP is a 2D side-scrolling platformer with physics-based gameplay. You "
+"control a small robot equipped with an anti-gravity device, a jet-pack and a "
+"gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
+"across 6 unique environments."
+msgstr ""
+"BEEP je 2D arkáda s fyzikálními prvky. Ovládáte malého robota vybaveného "
+"antigravitačním zařízením, raketovým batohem a zbraní. Proleťte, "
+"proskákejte, proplavte a prostřílejte si cestu přes 24 úrovním v šesti "
+"různých prostředích."
+
+#: ../en/index.html
+msgid "Offline"
+msgstr "Odpojen"
+
+#: ../en/index.html
+msgid "Trash"
+msgstr "Koš"
+
+#: ../en/index.html
+msgid "archive"
+msgstr "archivovat"
+
+#: ../en/index.html
+msgid "Power Of Words"
+msgstr "Síla slov"
+
+#: ../en/index.html
+msgid "Shotwell Photo Manager"
+msgstr "Správce fotografií Shotwell"
+
+#: ../en/index.html
+msgid "Folders"
+msgstr "Složky"
+
+#: ../en/index.html
+msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
+msgstr "Procházení Internetu je s Ubuntu a Firefoxem rychlé a bezpečné."
+
+#: ../en/index.html
+msgid "Format"
+msgstr "Formát"
+
+#: ../en/index.html
+msgid "Browse files on device…"
+msgstr "Procházet soubory v zařízení..."
+
+#: ../en/index.html
+msgid "Junk Mail"
+msgstr "Spam"
+
+#: ../en/index.html
+msgid "1"
+msgstr "1"
+
+#: ../en/index.html
+msgid "Computer"
+msgstr "Počítač"
+
+#: ../en/index.html
+msgid "What's New"
+msgstr "Co je nového"
+
+#: ../en/index.html
+msgid "App Available for Download"
+msgstr "Aplikace dostupné ke stažení"
+
+#: ../en/index.html
+msgid "Movie Player"
+msgstr "Přehrávač filmů"
+
+#: ../en/index.html
+msgid "Invisible"
+msgstr "Neviditelný"
+
+#: ../en/index.html
+msgid "Albums"
+msgstr "Alba"
+
+#: ../en/index.html
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+"Inkscape podporuje více otevřených souborů najednou a různé pohledy na jeden "
+"soubor. Grafiku je možno tisknout i exportovat do formátu png."
+
+#: ../en/index.html
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
+
+#: ../en/index.html
+msgid "From:"
+msgstr "Od:"
+
+#: ../en/index.html
+msgid "Insert"
+msgstr "Vložit"
+
+#: ../en/index.html
+msgid "Shut Down…"
+msgstr "Vypnout..."
+
+#: ../en/index.html
+msgid "Fonts"
+msgstr "Písma"
+
+#: ../en/index.html
+msgid "File"
+msgstr "Soubor"
+
+#: ../en/index.html
+msgid "Edit"
+msgstr "Upravit"
+
+#: ../en/index.html
+msgid "Bluetooth On"
+msgstr "Bluetooth Zapnuto"
+
+#: ../en/index.html
+msgid "Turn Off Bluetooth"
+msgstr "Vypnout: Bluetooth"
+
+#: ../en/index.html
+msgid "Installing"
+msgstr "Instaluje se"
+
+#: ../en/index.html
+msgid "back to the site"
+msgstr "se raději chcete vrátit na stránky Ubuntu?"
+
+#: ../en/index.html
+msgid "Download"
+msgstr "Stáhnout"
+
+#: ../en/index.html
+msgid "Games"
+msgstr "Hry"
+
+#: ../en/index.html
+msgid "Visolate"
+msgstr "Visolate"
+
+#: ../en/index.html
+msgid "Empathy Internet Messageing"
+msgstr "Internetový komunikátor Empathy"
+
+#: ../en/index.html
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr "Program pro tvorbu a úpravu vektorové grafiky (SVG)"
+
+#: ../en/index.html
+msgid "Attached Devices"
+msgstr "Připojená zařízení"
+
+#: ../en/index.html
+msgid "View"
+msgstr "Zobrazit"
+
+#: ../en/index.html
+msgid "Suspend"
+msgstr "Uspat do paměti"
+
+#: ../en/index.html
+msgid "branches"
+msgstr "branches"
+
+#: ../en/index.html
+msgid "The Power of Your Personal Cloud"
+msgstr "Síla vašeho osobního cloudu"
+
+#: ../en/index.html
+msgid ""
+"Manipulate the flow of time to solve puzzles Braid is a platform game in "
+"painterly style where you manipulate the flow of time to solve puzzles. "
+"Every puzzle in Braid is unique; there is no filler."
+msgstr ""
+"Braid je plošinová hra v kresleném stylu, kde úkoly řešíte pomocí změny toku "
+"času. Každý úkol v Braid je unikátní."
+
+#: ../en/index.html
+msgid "Mon 11 October, 2010"
+msgstr "Pondělí, 11. října 2010"
+
+#: ../en/index.html
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+"Rozhraní Inkscape se podobá tomu v CorelDraw a dalších kreslících programů. "
+"Obsahuje obdélníky, elipsy, textové položky, bitmapové obrázky i ručně "
+"kreslené křivky. Kromě toho je možno vektorovým i bitmapovým objektům "
+"přidávat průhlednost a libovolně je transformovat."
+
+#: ../en/index.html
+msgid "Unmute"
+msgstr "Zrušit ztlumení"
+
+#: ../en/index.html
+msgid "Rubbish bin"
+msgstr "Koš"
+
+#: ../en/index.html
+msgid "Sound &amp; Video"
+msgstr "Zvuk a video"
+
+#: ../en/index.html
+msgid "The Grass Aint Greener"
+msgstr "Tráva není zelenější"
+
+#: ../en/index.html
+msgid "Create and edit 3D models and animations"
+msgstr "Vytváření a úprava 3D modelů a animací"
+
+#: ../en/index.html
+msgid "Inbox"
+msgstr "Doručená pošta"
+
+#: ../en/index.html
+msgid "Files Anywhere"
+msgstr "Soubory kdekoli"
+
+#: ../en/index.html
+msgid "Stay Productive"
+msgstr "Buďte produktivní"
+
+#: ../en/index.html
+msgid "Table"
+msgstr "Tabulka"
+
+#: ../en/index.html
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+
+#: ../en/index.html
+msgid "Tools"
+msgstr "Nástroje"
+
+#: ../en/index.html
+msgid "Downloads"
+msgstr "Stažené"
+
+#: ../en/index.html
+msgid "You"
+msgstr "Já"
+
+#: ../en/index.html
+msgid "Blender"
+msgstr "Blender"
+
+#~ msgid "Banshee"
+#~ msgstr "Banshee"
+
+#~ msgid "Internet Apps"
+#~ msgstr "Internetové aplikace"
+
+#~ msgid "Add Event…"
+#~ msgstr "Přidat událost..."
+
+#~ msgid "Most Frequently Used"
+#~ msgstr "Nejčastěji používané"
+
+#~ msgid "Media Apps"
+#~ msgstr "Mediální aplikace"
+
+#~ msgid "More Apps"
+#~ msgstr "Více aplikací"
+
+#~ msgid "Listen to Music"
+#~ msgstr "Poslouchat hudbu"
+
+#~ msgid "Find Files"
+#~ msgstr "Najít soubory"
+
+#~ msgid "Files"
+#~ msgstr "Soubory"
+
+#~ msgid "Webcam"
+#~ msgstr "Webkamera"

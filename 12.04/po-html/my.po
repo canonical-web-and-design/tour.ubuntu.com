@@ -1,0 +1,1316 @@
+# Burmese translation for ubuntu-online-tour
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the ubuntu-online-tour package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-online-tour\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-04-24 11:09+0000\n"
+"PO-Revision-Date: 2012-09-06 07:41+0000\n"
+"Last-Translator: Pyae Sone <Unknown>\n"
+"Language-Team: Burmese <my@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-09-07 05:14+0000\n"
+"X-Generator: Launchpad (build 15914)\n"
+
+#: ../en/index.html
+msgid "Firefox Web Browser"
+msgstr "Firefox Web Browser"
+
+#: ../en/index.html
+msgid "Lock Screen"
+msgstr "ဖန်သားပြင်ကို ပိတ်ထားမည်။"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu loads quickly on any computer, but it's super-fast on newer machines. "
+"With no unnecessary programs and trial software slowing things down, booting "
+"up and opening a browser takes seconds. Unlike other operating systems that "
+"leave you staring at the screen, waiting to get online. And Ubuntu won’t "
+"grow sluggish over time. It’s fast. And it stays fast."
+msgstr ""
+
+#: ../en/index.html
+msgid "no subject"
+msgstr "အကြောင်းအရာ မရှိ"
+
+#: ../en/index.html
+msgid "Show yourself around"
+msgstr "သင်ကိုယ်တိုင် လိုက်လံကြည့်ရှုရန်"
+
+#: ../en/index.html
+msgid "Desktop"
+msgstr "Desktop"
+
+#: ../en/index.html
+msgid "Thanks for exploring Ubuntu!"
+msgstr "ဦးဘန္တု ကိုရှာဖွေသည့်အတွက် ကျေးဇူးတင်ပါသည်။"
+
+#: ../en/index.html
+msgid "PiTiVi Video Editor"
+msgstr "PiTiVi ရုပ်သံ Editor"
+
+#: ../en/index.html
+msgid "Internet"
+msgstr "အင်တာနက်"
+
+#: ../en/index.html
+msgid "Science &amp; Engineering"
+msgstr "သိပ္ပံ နှင့် အင်ဂျင်နီယာဆိုင်ရာ"
+
+#: ../en/index.html
+msgid "Find apps"
+msgstr "apps များကိုရှာမည်။"
+
+#: ../en/index.html
+msgid "Not Alone"
+msgstr "တစ်ယောက်တည်းမဟုတ်ပါ။"
+
+#: ../en/index.html
+msgid "Momiji Dream"
+msgstr "မိုမီဂျိ အိပ်မက်"
+
+#: ../en/index.html
+msgid "Manipulate the flow of time to solve puzzles"
+msgstr ""
+
+#: ../en/index.html
+msgid "中文"
+msgstr "中文"
+
+#: ../en/index.html
+msgid "About Me"
+msgstr "ကျွန်တော့်အကြောင်း"
+
+#: ../en/index.html
+msgid ""
+"BEEP has traveled for thousands of years through deep space to explore the "
+"Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
+"the surface of the planets."
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"Are you sure you want to close all programs and shutdown the computer?"
+msgstr "ပရိုဂရမ်အားလုံးကိုပိတ်ပြီး ကွန်ပြူတာကို လုံး၀ပိတ်ဖို့သေချာပါသလား။"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Impress"
+msgstr "ခေါင်းစဉ်မဲ့ ၁ - LibreOffice Impress"
+
+#: ../en/index.html
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+#: ../en/index.html
+msgid ""
+"Accessibility is central to the Ubuntu philosophy. We believe that computing "
+"is for everyone regardless of nationality, race, gender or disability. Fully "
+"translated into 38 languages, Ubuntu also includes essential assistive "
+"technologies, which are, of course, completely free."
+msgstr ""
+
+#: ../en/index.html
+msgid "Download Ubuntu"
+msgstr "ဦးဘန္တု ကိုဒေါင်းလုတ်ဆွဲမည်။"
+
+#: ../en/index.html
+msgid "Join now"
+msgstr "ချိတ်ဆက်"
+
+#: ../en/index.html
+msgid "Applications"
+msgstr "ဆော့ဝဲလ်များ"
+
+#: ../en/index.html
+msgid "Weds 14 October, 2010"
+msgstr "ဟူး ၁၄ ​ေအာက်တိုဘာလ ၂၀၁၀"
+
+#: ../en/index.html
+msgid "Physics based puzzle/construction game"
+msgstr "ရူပဗေဒအခြေခံ ပဟေဠိ၊ ဆောက်လုပ်ရေး ကစားနည်းများ"
+
+#: ../en/index.html
+msgid "Remote Desktop Viewer"
+msgstr "Remote Desktop Viewer"
+
+#: ../en/index.html
+msgid "Gwibber Social Client"
+msgstr "Gwibber လူမှုဆက်သွယ်ရေး Client"
+
+#: ../en/index.html
+msgid "Happyness"
+msgstr "Happyness"
+
+#: ../en/index.html
+msgid "15.2KB"
+msgstr "၁၅.၂ KB"
+
+#: ../en/index.html
+msgid "PCB CNC converter"
+msgstr "PCB CNC converter"
+
+#: ../en/index.html
+msgid "On"
+msgstr "ဖွင့်"
+
+#: ../en/index.html
+msgid "Surf the web"
+msgstr "အင်တာနက်(ကွန်ရက်)သုံးမည်။"
+
+#: ../en/index.html
+msgid "A 2D platformer/shooter game with physics-based puzzles"
+msgstr ""
+
+#: ../en/index.html
+msgid "Graphics"
+msgstr "ရုပ်ပုံပန်းချီ"
+
+#: ../en/index.html
+msgid "Keep Connected"
+msgstr "Keep Connected"
+
+#: ../en/index.html
+msgid "Top Rated"
+msgstr "အမြင့်ဆုံးသတ်မှတ်ထားသော"
+
+#: ../en/index.html
+msgid "Compatible"
+msgstr "Compatible"
+
+#: ../en/index.html
+msgid "Dash home"
+msgstr "Dash home"
+
+#: ../en/index.html
+msgid "From"
+msgstr "မှ"
+
+#: ../en/index.html
+msgid "Get Mail"
+msgstr "စာများရသည်။"
+
+#: ../en/index.html
+msgid "Auto eth0"
+msgstr "Auto eth0"
+
+#: ../en/index.html
+msgid "Recent Files"
+msgstr "မကြာသေးခင်ကဖိုင်များ"
+
+#: ../en/index.html
+msgid "Send files to device…"
+msgstr "ဖိုင်များကို ကိရိယာသို့ပို့မည်။"
+
+#: ../en/index.html
+msgid "Create documents"
+msgstr "Document များဖန်တီးမည်။"
+
+#: ../en/index.html
+msgid "(91 Ratings)"
+msgstr "(၉၁ Ratings)"
+
+#: ../en/index.html
+msgid "Secure"
+msgstr "လုံခြုံစိတ်ချရသော"
+
+#: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "ဒီ Package တွင် Chromium browser ပါဝင်သည်။"
+
+#: ../en/index.html
+msgid "$9.99"
+msgstr "$၉.၉၉"
+
+#: ../en/index.html
+msgid "Help"
+msgstr "အကူအညီ"
+
+#: ../en/index.html
+msgid "Mute"
+msgstr "အသံပိတ်ထားရန်။"
+
+#: ../en/index.html
+msgid "All Software"
+msgstr "ဆော့ဝဲလ် အားလုံး"
+
+#: ../en/index.html
+msgid "Ready to download?"
+msgstr "ဒေါင်းလုတ်ဆွဲရန်အဆင်သင့်ဖြစ်ပြီလား။"
+
+#: ../en/index.html
+msgid "Accessories"
+msgstr "Accessories"
+
+#: ../en/index.html
+msgid "Create spreadsheets"
+msgstr "Spreadsheets ဖန်တီးမည်။"
+
+#: ../en/index.html
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: ../en/index.html
+msgid "Shut Down"
+msgstr "လုံးဝ ပိတ်မည်"
+
+#: ../en/index.html
+msgid "Music"
+msgstr "ဂီတ"
+
+#: ../en/index.html
+msgid "Rhythmbox"
+msgstr "Rhythmbox"
+
+#: ../en/index.html
+msgid "Education"
+msgstr "ပညာရေး"
+
+#: ../en/index.html
+msgid "Brasero Disc Burner"
+msgstr "Brasero  အခွေကူးသည့်ဆော့ဝဲလ်"
+
+#: ../en/index.html
+msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
+msgstr ""
+"အီးမေးလ် များကို Thunderbird ဖြင့် ဖတ်မည်၊ ရေးမည်၊ အရမ်းလည်းမြန်ပါတယ်။ "
+"အလွန်လည်းလွယ်ကူပါတယ်။"
+
+#: ../en/index.html
+msgid "wrote"
+msgstr "ရေးမည်။"
+
+#: ../en/index.html
+msgid "Subject"
+msgstr "အကြောင်းအရာ"
+
+#: ../en/index.html
+msgid "Shotwell"
+msgstr "Shotwell"
+
+#: ../en/index.html
+msgid "Documents"
+msgstr "Documents"
+
+#: ../en/index.html
+msgid "Disconnect"
+msgstr "အဆက်အသွယ်ဖြတ်မည်။"
+
+#: ../en/index.html
+msgid "Preferences"
+msgstr "Preferences"
+
+#: ../en/index.html
+msgid "Browse files"
+msgstr "ဖိုင်များကိုရှာမည်။"
+
+#: ../en/index.html
+msgid "Come and explore our favourites"
+msgstr "Come and explore our favourites"
+
+#: ../en/index.html
+msgid "junk"
+msgstr ""
+
+#: ../en/index.html
+msgid "Send"
+msgstr "ပို့မည်။"
+
+#: ../en/index.html
+msgid "Darkening Clockwork"
+msgstr "Darkening Clockwork"
+
+#: ../en/index.html
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr ""
+"သင် ဥဘန္တု အွန်လိုင်းအလည်အပတ်ခရီးကို ပျော်ရွှင်လိမ့်မယ်လို့မျှော်လင့်ပါတယ်။"
+
+#: ../en/index.html
+msgid "Inkscape Vector Graphics Editor"
+msgstr "Inkscape Vector Graphics Editor"
+
+#: ../en/index.html
+msgid "Create presentations"
+msgstr "Presentation များကိုဖန်တီးမည်။"
+
+#: ../en/index.html
+msgid "Original Message"
+msgstr "မူလစာ"
+
+#: ../en/index.html
+msgid "AisleRoit Solitaire"
+msgstr "AisleRoit Solitaire"
+
+#: ../en/index.html
+msgid "Rock Out"
+msgstr "Rock Out"
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "ကွန်နက်ရှင် အချက်အလက်"
+
+#: ../en/index.html
+msgid ""
+"Chromium is an open-source browser project that aims to build a safer, "
+"faster, and more stable way for all Internet users to experience the web."
+msgstr ""
+
+#: ../en/index.html
+msgid "Email"
+msgstr "အီးမေးလ်"
+
+#: ../en/index.html
+msgid "Sent"
+msgstr "ပို့မည်။"
+
+#: ../en/index.html
+msgid "subject"
+msgstr "အကြောင်းအရာ"
+
+#: ../en/index.html
+msgid "Available"
+msgstr "ရရှိနိုင်သော"
+
+#: ../en/index.html
+msgid "All Folders"
+msgstr "ဖိုလ်ဒါအားလုံး"
+
+#: ../en/index.html
+msgid "Fri 26 Oct, 2001"
+msgstr "သော၂၆ အောက်, ၂၀၀၁"
+
+#: ../en/index.html
+msgid "Hibernate"
+msgstr "လက်ရှိ အခြေအနေတိုင်းမှတ်သား၍ အပြီးထွက်မည်"
+
+#: ../en/index.html
+msgid "Langelinie Alle"
+msgstr "Langelinie Alle"
+
+#: ../en/index.html
+msgid "Your Ubuntu, your way"
+msgstr "သင်၏ဦးဘန္တု ၊ သင်၏နည်းလမ်း"
+
+#: ../en/index.html
+msgid "Time &amp; Date Settings…"
+msgstr "အချိန် &amp; နေ့စွဲ Settings…"
+
+#: ../en/index.html
+msgid "Recently Used"
+msgstr "လတ်တလော သုံးစွဲမှု"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "ပယ်ဖျက်မည်"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Jardin Polar"
+
+#: ../en/index.html
+msgid "Welcome Screen"
+msgstr "ကြိုဆိုသည့်မျက်နှာပြင်"
+
+#: ../en/index.html
+msgid "3.3MB"
+msgstr "၃.၃MB"
+
+#: ../en/index.html
+msgid "reply"
+msgstr "စာပြန်မည်။"
+
+#: ../en/index.html
+msgid "Set Up Mail…"
+msgstr ""
+
+#: ../en/index.html
+msgid "Search and download apps fast from the Ubuntu Software Centre."
+msgstr ""
+"Ubuntu Software Centre မှ app များကို ရှာဖွေမည်။ မြန်ဆန်စွာဒေါင်းလုတ်ဆွဲမည်။"
+
+#: ../en/index.html
+msgid "Clear"
+msgstr "ရှင်းလင်းပါ"
+
+#: ../en/index.html
+msgid "$19.99"
+msgstr "$၁၉.၉၉"
+
+#: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Dybbølsbro Station"
+
+#: ../en/index.html
+msgid "Log Out…"
+msgstr "အကောင့်မှ ထွက်မည် ..."
+
+#: ../en/index.html
+msgid ""
+"Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
+"You must have these packages to make full use of all extensions and effects."
+msgstr ""
+
+#: ../en/index.html
+msgid "Fwd"
+msgstr ""
+
+#: ../en/index.html
+msgid "Terminal Server Client"
+msgstr "Terminal Server Client"
+
+#: ../en/index.html
+msgid "Appearance"
+msgstr "ပုံပန်းသဏ္ဍာန်"
+
+#: ../en/index.html
+msgid "LibreOffice Calc"
+msgstr "LibreOffice ဂဏာန်းတွက်စက်"
+
+#: ../en/index.html
+msgid "Buck Off"
+msgstr ""
+
+#: ../en/index.html
+msgid "Stalking Ocelot"
+msgstr ""
+
+#: ../en/index.html
+msgid "System Settings…"
+msgstr "System Settings…"
+
+#: ../en/index.html
+msgid "Startup Applications…"
+msgstr "စက်ဖွင့်ချိန်တွင်တက်လာမည့် Application များ"
+
+#: ../en/index.html
+msgid "Remove"
+msgstr "ဖယ်ရှားပါ"
+
+#: ../en/index.html
+msgid ""
+"Braid treats your time and attention as precious, and it does everything it "
+"can to give you a mind-expanding experience."
+msgstr ""
+
+#: ../en/index.html
+msgid "English"
+msgstr "အင်္ဂလိပ်"
+
+#: ../en/index.html
+msgid "Purple Dancers"
+msgstr ""
+
+#: ../en/index.html
+msgid "from"
+msgstr "မှ"
+
+#: ../en/index.html
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
+
+#: ../en/index.html
+msgid ""
+"All gameplay is based on time manipulation. Journey into worlds where time "
+"behaves strangely; observe, learn from, and then master these worlds."
+msgstr ""
+
+#: ../en/index.html
+msgid "Mount Snowdon"
+msgstr "Mount Snowdon"
+
+#: ../en/index.html
+msgid "Songs"
+msgstr "သီချင်းများ"
+
+#: ../en/index.html
+msgid "Accessible"
+msgstr "Accessible"
+
+#: ../en/index.html
+msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
+msgstr ""
+
+#: ../en/index.html
+msgid "Title:"
+msgstr "ခေါင်းစဉ်-"
+
+#: ../en/index.html
+msgid "Setup new device…"
+msgstr "ကိရိယာအသစ်တစ်ခုတပ်ဆင်မည်။"
+
+#: ../en/index.html
+msgid "Introduction Ubuntu"
+msgstr "ဦးဘန္တုကို မိတ်ဆက်ခြင်း"
+
+#: ../en/index.html
+msgid "Videos"
+msgstr "ဗီဒီယိုများ"
+
+#: ../en/index.html
+msgid "Braid"
+msgstr "Braid"
+
+#: ../en/index.html
+msgid ""
+"Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
+"format, a standard maintained by the WWW consortium."
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
+"download it to enjoy the real thing!"
+msgstr ""
+"ဦးဘန္တုကို ရှာဖွေစမ်းသပ်သည့်အတွက်ကျေးဇူးအထူးပင်တင်ရှိအပ်ပါသည်။ ယခုသည် "
+"အစမ်းသာဖြစ်သည်ကိုမှတ်ထားစေလိုပါသည်။ အမှန်တကယ် "
+"ပျော်ရွှင်ရန်နှင့်သုံးဖို့အတွက် သင် ဒေါင်းလုတ်ဆွဲမှရပါလိမ့်မည်။"
+
+#: ../en/index.html
+msgid "Unread:"
+msgstr "မဖတ်သေးသည့် -"
+
+#: ../en/index.html
+msgid "Banshee Media Player"
+msgstr "Banshee Media Player"
+
+#: ../en/index.html
+msgid ""
+"You can surf in safety with Ubuntu – confident that your files and data will "
+"stay protected. A built-in firewall and virus protection come as standard. "
+"And if a potential threat appears, we provide automatic updates which you "
+"can install in a single click. You get added security with AppArmor, which "
+"protects your important applications so attackers can’t access your system. "
+"And thanks to Firefox and gnome-keyring, Ubuntu helps you keep your private "
+"information private. So whether it’s accessing your bank account or sharing "
+"sensitive data with friends or colleagues, you’ll have peace of mind when "
+"you need it the most."
+msgstr ""
+
+#: ../en/index.html
+msgid "Files &amp; Folders"
+msgstr "ဖိုင်များ &amp; ဖိုလ်ဒါများ"
+
+#: ../en/index.html
+msgid "Installed"
+msgstr "စက်ထဲသွင်းထားသောဆော့ဝဲများ"
+
+#: ../en/index.html
+msgid "BEEP"
+msgstr ""
+
+#: ../en/index.html
+msgid "Visible"
+msgstr "မြင်နိုင်သော"
+
+#: ../en/index.html
+msgid "Learn More"
+msgstr "နောက်ထပ်သင်မည်။"
+
+#: ../en/index.html
+msgid ""
+"Use BEEP’s anti-gravity device to directly manipulate the physics-based "
+"environments. The anti-gravity device is both a tool and a weapon. Use it to "
+"smash enemy robots, build towers and solve puzzles."
+msgstr ""
+
+#: ../en/index.html
+msgid "Chat"
+msgstr "Chat"
+
+#: ../en/index.html
+msgid "Archive"
+msgstr ""
+
+#: ../en/index.html
+msgid "Recent Apps"
+msgstr "မကြာသေးခင်က  App များ"
+
+#: ../en/index.html
+msgid "Home"
+msgstr "ပင်မ"
+
+#: ../en/index.html
+msgid "Canonical"
+msgstr "Canonical"
+
+#: ../en/index.html
+msgid "Developer Tools"
+msgstr "ကျွမ်းကျင်သူသုံး ကိရိယာ"
+
+#: ../en/index.html
+msgid "or"
+msgstr "သို့မဟုတ်"
+
+#: ../en/index.html
+msgid "Inkscape"
+msgstr "Inkscape"
+
+#: ../en/index.html
+msgid "Access the Internet"
+msgstr "အင်တာနက် သုံးမည်။"
+
+#: ../en/index.html
+msgid "5.3MB"
+msgstr "၅.၃MB"
+
+#: ../en/index.html
+msgid "Take the guided tour"
+msgstr "လမ်းညွှန်ခရီးကိုကြည့်မည်။"
+
+#: ../en/index.html
+msgid "cc"
+msgstr "cc"
+
+#: ../en/index.html
+msgid "Pictures"
+msgstr "ပုံများ"
+
+#: ../en/index.html
+msgid "Away"
+msgstr "အဝေးမှာ"
+
+#: ../en/index.html
+msgid "Check email"
+msgstr "အီးမေးလ် စစ်မည်။"
+
+#: ../en/index.html
+msgid "Size:"
+msgstr "အရွယ် အစား -"
+
+#: ../en/index.html
+msgid "Draft"
+msgstr "စာကြမ်း"
+
+#: ../en/index.html
+msgid "Free"
+msgstr "အခမဲ့"
+
+#: ../en/index.html
+msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgstr ""
+
+#: ../en/index.html
+msgid "LibreOffice Writer makes it easy to draft professional documents."
+msgstr ""
+
+#: ../en/index.html
+msgid "Displays…"
+msgstr ""
+
+#: ../en/index.html
+msgid "Software Up to Date"
+msgstr "ဆော့ဝဲလ် နောက်ဆုံးပေါ်"
+
+#: ../en/index.html
+msgid "Browse the web"
+msgstr "အင်တာနက်တွင် ရှာဖွေမည်။"
+
+#: ../en/index.html
+msgid "Local"
+msgstr "Local"
+
+#: ../en/index.html
+msgid ""
+"If you want to use the spellchecker, you have to install aspell and the "
+"respective language-pack, e.g. aspell-en or aspell-de."
+msgstr ""
+
+#: ../en/index.html
+msgid "World of Goo"
+msgstr "Goo ၏ ကမ္ဘာ"
+
+#: ../en/index.html
+msgid "View photos"
+msgstr "ဓာတ်ပုံများကို ကြည့်မည်။"
+
+#: ../en/index.html
+msgid "You can upload, organise, edit and share your photos with Shotwell."
+msgstr ""
+"သင်သည် Shotwell မှ သင်၏ဓာတ်ပုံများကို အွန်လိုင်းပေါ်တင်ခြင်း၊ စုစည်းခြင်း၊ "
+"တည်းဖြတ်ခြင်း နှင့် မျှဝေခြင်းများပြုလုပ်နိုင်ပါသည်။"
+
+#: ../en/index.html
+msgid "Sand Maze"
+msgstr "Sand Maze"
+
+#: ../en/index.html
+msgid "Ubuntu One Control Panel"
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
+
+#: ../en/index.html
+msgid "to"
+msgstr "သို့"
+
+#: ../en/index.html
+msgid ""
+"Blender is an integrated 3d suite for modelling, animation, rendering, post-"
+"production, interactive creation and playback (games). Blender has its own "
+"particular user interface, which is implemented entirely in OpenGL and "
+"designed with speed in mind. Python bindings are available for scripting; "
+"import/export features for popular file formats like 3D Studio and Wavefront "
+"Obj are implemented as scripts by the community. Stills, animations, models "
+"for games or other third party engines and interactive content in the form "
+"of a standalone binary and/or a web plug-in are common products of Blender "
+"use."
+msgstr ""
+
+#: ../en/index.html
+msgid "Your browser does not support iframes."
+msgstr "သင်၏ browser သည် iframes ကိုမထောက်ပံ့ပါ။"
+
+#: ../en/index.html
+msgid ""
+"Make a good impression with the intuitive LibreOffice Impress presentation "
+"tool."
+msgstr ""
+"Make a good impression with the intuitive LibreOffice Impress presentation "
+"tool."
+
+#: ../en/index.html
+msgid ""
+"It’s quick and easy to access your folders and files from Ubuntu’s home "
+"folder."
+msgstr ""
+"သင်၏ ဖိုင်များနှင့် ဖိုလ်ဒါများကို ဦးဘန္တု ၏ ပင်မ ဖိုလ်ဒါမှ "
+"လွယ်ကူ၊လျင်မြန်စွာ သုံးနိုင်ပါတယ်။"
+
+#: ../en/index.html
+msgid "Our star apps"
+msgstr "ကျွန်ုပ်တို့၏ကြယ်ပွင့်ပြ App  များ"
+
+#: ../en/index.html
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"ယခုသည် အစမ်းသာပြသည်ဟု မှတ်ထားစေချင်ပါသည်။ အမှန်တကယ်ပျော်ရွှင်စွာသုံးလိုပါက "
+"သင် ဒေါင်းလုတ်ချရန်လိုအပ်ပါသည်။"
+
+#: ../en/index.html
+msgid "Date"
+msgstr "နေ့စွဲ"
+
+#: ../en/index.html
+msgid ""
+"Drag and drop living, squirming, talking globs of goo to build structures, "
+"bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
+"goo balls that live in the beautiful World of Goo are curious to explore."
+msgstr ""
+
+#: ../en/index.html
+msgid "Chromium Web Browser"
+msgstr "Chromium Web Browser"
+
+#: ../en/index.html
+msgid "Sound Recorder"
+msgstr "အသံသွင်းစက်"
+
+#: ../en/index.html
+msgid "Recipient"
+msgstr "လက်ခံရရှိမည့်သူ"
+
+#: ../en/index.html
+msgid "Fast"
+msgstr "မြန်"
+
+#: ../en/index.html
+msgid "Recent"
+msgstr "မကြာသေးခင်က"
+
+#: ../en/index.html
+msgid "To:"
+msgstr "သို့-"
+
+#: ../en/index.html
+msgid "Set Up Broadcast Account…"
+msgstr ""
+
+#: ../en/index.html
+msgid "Date:"
+msgstr "ရက်စွဲ -"
+
+#: ../en/index.html
+msgid ""
+"Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Fast, secure "
+"and with thousands of apps to choose from, Ubuntu gives you a clean and "
+"streamlined experience that you can really make your own."
+msgstr ""
+
+#: ../en/index.html
+msgid "Total:"
+msgstr "စုစုပေါင်း -"
+
+#: ../en/index.html
+msgid "Additional Drivers"
+msgstr "နောက်ထပ် Driver များ"
+
+#: ../en/index.html
+msgid "Ubuntu Software Centre"
+msgstr "ဦးဘန္တုဆော့ဝဲလ်စင်တာ"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Calc"
+msgstr "အမည်မဲ့ ၁- LibreOffice ဂဏန်းတွက်စက်"
+
+#: ../en/index.html
+msgid "I already have an account!"
+msgstr "အကောင့်တစ်ခု ရှိပြီးသား"
+
+#: ../en/index.html
+msgid "System"
+msgstr "System"
+
+#: ../en/index.html
+msgid "forward"
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"LibreOffice Calc has everything you need to create clear and accurate "
+"spreadsheets."
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+
+#: ../en/index.html
+msgid "Take Ubuntu for a test drive with our online demo."
+msgstr ""
+
+#: ../en/index.html
+msgid "Install"
+msgstr "စက်ထဲသို့ထည့်သွင်းမည်။"
+
+#: ../en/index.html
+msgid "Items:"
+msgstr "Items:"
+
+#: ../en/index.html
+msgid "WildWheat"
+msgstr "WildWheat"
+
+#: ../en/index.html
+msgid "Subject:"
+msgstr "အကြောင်းအရာ-"
+
+#: ../en/index.html
+msgid "Backup"
+msgstr ""
+
+#: ../en/index.html
+msgid "History"
+msgstr "ရာဇဝင်"
+
+#: ../en/index.html
+msgid "16 Photos"
+msgstr "ဓာတ်ပုံ ၁၆ ပုံ"
+
+#: ../en/index.html
+msgid "Home Folder"
+msgstr "Home Folder"
+
+#: ../en/index.html
+msgid "Welcome to the Ubuntu online tour!"
+msgstr "ဦးဘန္တု အွန်လိုင်းအလည်အပတ်ခရီးမှ ကြိုဆိုပါသည်။"
+
+#: ../en/index.html
+msgid "Office"
+msgstr "ရုံးသုံး"
+
+#: ../en/index.html
+msgid "Themes &amp; Tweaks"
+msgstr "Themes &amp; Tweaks"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
+"player, camera or printer and you’ll be up and running straight away. No "
+"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
+"open, edit and share Microsoft Office documents stress-free."
+msgstr ""
+
+#: ../en/index.html
+msgid "work"
+msgstr "အလုပ်"
+
+#: ../en/index.html
+msgid "Library"
+msgstr "Library"
+
+#: ../en/index.html
+msgid "Unify you contacts across Desktop, Mobile and Web"
+msgstr ""
+
+#: ../en/index.html
+msgid "Thunderbird Mail"
+msgstr "Thunderbird မေးလ်"
+
+#: ../en/index.html
+msgid ""
+"Chromium serves as a base for Google Chrome, which is Chromium rebranded "
+"(name and logo) with very few additions such as usage tracking and an auto-"
+"updater system."
+msgstr ""
+
+#: ../en/index.html
+msgid "Not Junk"
+msgstr ""
+
+#: ../en/index.html
+msgid "Chromium"
+msgstr "ခရိုမီယမ်"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "ခေါင်းစဉ်မဲ့ ၁  - LibreOffice Writer"
+
+#: ../en/index.html
+msgid "delete"
+msgstr "ဖျက်မည်။"
+
+#: ../en/index.html
+msgid "Thunderbird Mail/News"
+msgstr "Thunderbird မေးလ်/သတင်း"
+
+#: ../en/index.html
+msgid "Busy"
+msgstr "အလုပ်များနေပါသည်။"
+
+#: ../en/index.html
+msgid "Small Flowers"
+msgstr "ပန်းပွင့်အသေးလေးများ"
+
+#: ../en/index.html
+msgid "Edit Connections…"
+msgstr "ကွန်နက်ရှင်ကို ပြင်ဆင်မည်။"
+
+#: ../en/index.html
+msgid "Printers"
+msgstr "Printers"
+
+#: ../en/index.html
+msgid "Sound Settings…"
+msgstr "အသံပြင်ဆင်မူ"
+
+#: ../en/index.html
+msgid "Search"
+msgstr "ရှာဖွေ"
+
+#: ../en/index.html
+msgid ""
+"But they dont know that they are in a game, or that they are extremely "
+"delicious. The most addicting and awe-inspiring puzzle game will set you on "
+"an adventure that youll never forget!"
+msgstr ""
+
+#: ../en/index.html
+msgid "Turn On Bluetooth"
+msgstr "Bluetooth ကိုဖွင့်မည်။"
+
+#: ../en/index.html
+msgid "Write"
+msgstr "ရေး"
+
+#: ../en/index.html
+msgid "Attach"
+msgstr "တွဲမည်။"
+
+#: ../en/index.html
+msgid "Window"
+msgstr "၀င်းဒိုး"
+
+#: ../en/index.html
+msgid "Write: (no subject)"
+msgstr "ရေးမည် - (အကြောင်းအရာမရှိ)"
+
+#: ../en/index.html
+msgid "Ubuntu online tour"
+msgstr "ဦးဘန္တု အွန်လိုင်းအလည်အပတ်ခရီး"
+
+#: ../en/index.html
+msgid "Federica Miglio"
+msgstr "Federica Miglio"
+
+#: ../en/index.html
+msgid ""
+"BEEP is a 2D side-scrolling platformer with physics-based gameplay. You "
+"control a small robot equipped with an anti-gravity device, a jet-pack and a "
+"gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
+"across 6 unique environments."
+msgstr ""
+
+#: ../en/index.html
+msgid "Offline"
+msgstr "လိုင်းပြင်ပ"
+
+#: ../en/index.html
+msgid "Trash"
+msgstr "အမှိုက်ပုံး"
+
+#: ../en/index.html
+msgid "archive"
+msgstr ""
+
+#: ../en/index.html
+msgid "Power Of Words"
+msgstr "စကားလုံးများ၏အင်အားများ"
+
+#: ../en/index.html
+msgid "Shotwell Photo Manager"
+msgstr "Shotwell ဓာတ်ပုံတည်းဖြတ်ဆော့ဖ်ဝဲ"
+
+#: ../en/index.html
+msgid "Folders"
+msgstr "ဖိုလ်ဒါများ"
+
+#: ../en/index.html
+msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
+msgstr ""
+"ဦးဘန္တုမှ Firefox နှင့် အင်တာနက်သုံးခြင်းသည် လျင်မြန်ပြီး "
+"လုံခြုံစိတ်ချရပါသည်။"
+
+#: ../en/index.html
+msgid "Format"
+msgstr "Format"
+
+#: ../en/index.html
+msgid "Browse files on device…"
+msgstr "ကိရိယာထဲမှ ဖိုင်များကိုရှာမည်။"
+
+#: ../en/index.html
+msgid "Junk Mail"
+msgstr ""
+
+#: ../en/index.html
+msgid "1"
+msgstr "၁"
+
+#: ../en/index.html
+msgid "Computer"
+msgstr "ကွန်ပျူတာ"
+
+#: ../en/index.html
+msgid "What's New"
+msgstr "အသစ်ဘာရှိလဲ။"
+
+#: ../en/index.html
+msgid "App Available for Download"
+msgstr "ဒေါင်းလုတ်ဆွဲရန်အတွက်ရရှိနိုင်သော App"
+
+#: ../en/index.html
+msgid "Movie Player"
+msgstr "ဗွီဒီယိုဖွင့်စက်"
+
+#: ../en/index.html
+msgid "Invisible"
+msgstr "မမြင်အောင်လုပ်ထားသည်။"
+
+#: ../en/index.html
+msgid "Albums"
+msgstr "အယ်လ်ဘမ်"
+
+#: ../en/index.html
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+
+#: ../en/index.html
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
+
+#: ../en/index.html
+msgid "From:"
+msgstr "မှ-"
+
+#: ../en/index.html
+msgid "Insert"
+msgstr "ထည့်သွင်း"
+
+#: ../en/index.html
+msgid "Shut Down…"
+msgstr "လုံးဝ ပိတ်မည် ..."
+
+#: ../en/index.html
+msgid "Fonts"
+msgstr "စာလုံးပုံစံများ"
+
+#: ../en/index.html
+msgid "File"
+msgstr "ဖိုင်"
+
+#: ../en/index.html
+msgid "Edit"
+msgstr "တည်းဖြတ်"
+
+#: ../en/index.html
+msgid "Bluetooth On"
+msgstr "Bluetooth  ကိုဖွင့်"
+
+#: ../en/index.html
+msgid "Turn Off Bluetooth"
+msgstr "Bluetooth ကိုပိတ်မည်။"
+
+#: ../en/index.html
+msgid "Installing"
+msgstr "သွင်းနေပါသည်။"
+
+#: ../en/index.html
+msgid "back to the site"
+msgstr "ဆိုဒ်သို့ပြန်သွားမည်။"
+
+#: ../en/index.html
+msgid "Download"
+msgstr "ကွန်ယက်မှ ဆွဲယူခြင်း(ဒေါင်းလုတ်)"
+
+#: ../en/index.html
+msgid "Games"
+msgstr "ကစားနည်းများ"
+
+#: ../en/index.html
+msgid "Visolate"
+msgstr ""
+
+#: ../en/index.html
+msgid "Empathy Internet Messageing"
+msgstr "Empathy Internet Messageing"
+
+#: ../en/index.html
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr "Create and edit Scalable Vector Graphics images"
+
+#: ../en/index.html
+msgid "Attached Devices"
+msgstr "ကိရိယာများကိုတွဲမည်။"
+
+#: ../en/index.html
+msgid "View"
+msgstr "မြင်ကွင်း"
+
+#: ../en/index.html
+msgid "Suspend"
+msgstr "ဆိုင်းငံ့ထားမည်"
+
+#: ../en/index.html
+msgid "branches"
+msgstr "အခွဲများ"
+
+#: ../en/index.html
+msgid "The Power of Your Personal Cloud"
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"Manipulate the flow of time to solve puzzles Braid is a platform game in "
+"painterly style where you manipulate the flow of time to solve puzzles. "
+"Every puzzle in Braid is unique; there is no filler."
+msgstr ""
+
+#: ../en/index.html
+msgid "Mon 11 October, 2010"
+msgstr "လာ ၁၁၊ အောက်၊ ၂၀၁၀"
+
+#: ../en/index.html
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+
+#: ../en/index.html
+msgid "Unmute"
+msgstr "အသံပြန်ဖွင့်ရန်"
+
+#: ../en/index.html
+msgid "Rubbish bin"
+msgstr ""
+
+#: ../en/index.html
+msgid "Sound &amp; Video"
+msgstr "အသံ &amp; ဗွီဒီယို"
+
+#: ../en/index.html
+msgid "The Grass Aint Greener"
+msgstr ""
+
+#: ../en/index.html
+msgid "Create and edit 3D models and animations"
+msgstr "သုံးဖက်မြင် များနှင့် အန်နီမေးရှင်းများကို ပြုလုပ်၊ ပြင်ဆင်မည်။"
+
+#: ../en/index.html
+msgid "Inbox"
+msgstr "စာအဝင်လက်ခံသည့်နေရာ"
+
+#: ../en/index.html
+msgid "Files Anywhere"
+msgstr "ဘယ်နေရာမဆိုရှိသည့်ဖိုင်များ"
+
+#: ../en/index.html
+msgid "Stay Productive"
+msgstr ""
+
+#: ../en/index.html
+msgid "Table"
+msgstr "ဇယား"
+
+#: ../en/index.html
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+
+#: ../en/index.html
+msgid "Tools"
+msgstr "Tools"
+
+#: ../en/index.html
+msgid "Downloads"
+msgstr "အင်တာနက် ပေါ်မှ ယူထားသောဖိုင်များ (ဒေါင်းလုတ်များ)"
+
+#: ../en/index.html
+msgid "You"
+msgstr "သင်"
+
+#: ../en/index.html
+msgid "Blender"
+msgstr "Blender"
