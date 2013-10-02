@@ -1,0 +1,14 @@
+ubuntu-online-tour (0.2-0ubuntu1) precise; urgency=low
+
+  * Add chromeless support for viewing without browser decorations
+  * Explicitly use Firefox as the browser, and run with -app
+  * Default to zh-CN index.html
+  * Add zh_CN and fi .desktop item translations
+
+ -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Wed, 18 Apr 2012 13:46:03 +0300
+
+ubuntu-online-tour (0.1-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Thu, 15 Mar 2012 13:39:40 +0200

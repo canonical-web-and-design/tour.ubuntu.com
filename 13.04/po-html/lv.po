@@ -1,0 +1,1301 @@
+# Latvian translation for ubuntu-online-tour
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the ubuntu-online-tour package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-online-tour\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-05 19:27+0000\n"
+"PO-Revision-Date: 2013-01-25 17:30+0000\n"
+"Last-Translator: admresdeserv. <jeanmarc.gailis@gmail.com>\n"
+"Language-Team: Latvian <lv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-01-26 05:34+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
+
+#: ../en/index.html
+msgid "Firefox Web Browser"
+msgstr "Firefox Interneta Parluks"
+
+#: ../en/index.html
+msgid "Lock Screen"
+msgstr "Slēgt ekrānu"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu loads quickly on any computer, but it's super-fast on newer machines. "
+"With no unnecessary programs and trial software slowing things down, booting "
+"up and opening a browser takes seconds. Unlike other operating systems that "
+"leave you staring at the screen, waiting to get online. And Ubuntu won’t "
+"grow sluggish over time. It’s fast. And it stays fast."
+msgstr ""
+"Ubuntu ātri ladejas uz jebkura datora, bet tas ir super-ātri uz jaunāku "
+"mašīnu. Bez liekām programmām un izmēģinājuma programmatūrām kas kavē "
+"lietas; ieslēgšana un pārlūku atversana aizņem tikai dazas sekundes. "
+"Atšķirībā no citām operētājsistēmām, kas atstāj jūs skatīdams uz ekrāna, "
+"jums  liekot gaidīt, lai iegūtu tiešsaistē. Un Ubuntu nepaliks lēnāks laika "
+"gaitā. Tas ir atri. Un tas paliks atri."
+
+#: ../en/index.html
+msgid "no subject"
+msgstr "bez temata"
+
+#: ../en/index.html
+msgid "Show yourself around"
+msgstr ""
+
+#: ../en/index.html
+msgid "Desktop"
+msgstr "Darbvirsma"
+
+#: ../en/index.html
+msgid "Get Mail"
+msgstr "Iegūt e-pastu"
+
+#: ../en/index.html
+msgid "PiTiVi Video Editor"
+msgstr "PiTiVi Video Redaktors"
+
+#: ../en/index.html
+msgid "Internet"
+msgstr "Internets"
+
+#: ../en/index.html
+msgid "Science &amp; Engineering"
+msgstr "Zinātne un inženierija"
+
+#: ../en/index.html
+msgid "Find apps"
+msgstr "Atrast aplikācijas"
+
+#: ../en/index.html
+msgid "Not Alone"
+msgstr "Neesat Viens"
+
+#: ../en/index.html
+msgid "Momiji Dream"
+msgstr "Momiji Sapnis"
+
+#: ../en/index.html
+msgid "Manipulate the flow of time to solve puzzles"
+msgstr "Manipulēt laiku plūsmu, lai atrisinātu puzlus"
+
+#: ../en/index.html
+msgid "中文"
+msgstr "中文"
+
+#: ../en/index.html
+msgid "About Me"
+msgstr "Par mani"
+
+#: ../en/index.html
+msgid ""
+"BEEP has traveled for thousands of years through deep space to explore the "
+"Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
+"the surface of the planets."
+msgstr ""
+"BEEP ir ceļojis tūkstošiem gadu ilgi caur dziļo kosmosa lai izpētīt "
+"galaktiku. Šķērsojiet ārēju zvaigžņu sistēmu ar BEEP-kuģi un nosūtiet "
+"robotus uz planētu virsmas."
+
+#: ../en/index.html
+msgid ""
+"Are you sure you want to close all programs and shutdown the computer?"
+msgstr "Vai tiešām vēlaties aizvērt visas programmas un izslēgt datoru?"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Impress"
+msgstr "Nenosaukts 1 - LibreOffice Impress"
+
+#: ../en/index.html
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+#: ../en/index.html
+msgid ""
+"Accessibility is central to the Ubuntu philosophy. We believe that computing "
+"is for everyone regardless of nationality, race, gender or disability. Fully "
+"translated into 38 languages, Ubuntu also includes essential assistive "
+"technologies, which are, of course, completely free."
+msgstr ""
+"Pieejamība ir Ubuntu filozofijas centrs. Mēs uzskatam ka informātika ir "
+"ikvienam, neskatoties uz tautības, rases, dzimuma vai invaliditātes. Pilnība "
+"tulkots 38 valodas (un mēs cenšamies to ari iztulkot ari latviski, ar jusu "
+"palidzibu, lai pataisit Ubuntu par 39 Valodu) , Ubuntu iekļauj ari būtiskas "
+"palīg-tehnoloģijas kuras ir, protams, pilnība brīvas."
+
+#: ../en/index.html
+msgid "Download Ubuntu"
+msgstr "Lejupielādējiet Ubuntu"
+
+#: ../en/index.html
+msgid "Watch videos"
+msgstr "Skatities Video"
+
+#: ../en/index.html
+msgid "Join now"
+msgstr "Tagad Pievienoties"
+
+#: ../en/index.html
+msgid "Applications"
+msgstr "Aplikācijas"
+
+#: ../en/index.html
+msgid "Weds 14 October, 2010"
+msgstr "Trešd. 14 oktobris, 2010"
+
+#: ../en/index.html
+msgid "Physics based puzzle/construction game"
+msgstr "Uz Fiziku balstīta puzzle / būvniecības spēle"
+
+#: ../en/index.html
+msgid "Remote Desktop Viewer"
+msgstr "Attālināto datoru pārlūks"
+
+#: ../en/index.html
+msgid "Gwibber Social Client"
+msgstr "Gwibber sociālais klients"
+
+#: ../en/index.html
+msgid "Happyness"
+msgstr "Laime"
+
+#: ../en/index.html
+msgid "15.2KB"
+msgstr "15.2KB"
+
+#: ../en/index.html
+msgid "PCB CNC converter"
+msgstr "PCB CNC konverters"
+
+#: ../en/index.html
+msgid "On"
+msgstr "Ieslēgts"
+
+#: ../en/index.html
+msgid "Welcome Screen"
+msgstr "Sveiciena ekrāns"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "Nenosaukts 1 - LibreOffice Writer"
+
+#: ../en/index.html
+msgid "A 2D platformer/shooter game with physics-based puzzles"
+msgstr "2D platformera / šāvēja spēle ar fiziku balstītus puzlus"
+
+#: ../en/index.html
+msgid "Graphics"
+msgstr "Grafika"
+
+#: ../en/index.html
+msgid "Keep Connected"
+msgstr "Paturiet Savienojumu"
+
+#: ../en/index.html
+msgid "Top Rated"
+msgstr "Augstāk novērtētās"
+
+#: ../en/index.html
+msgid "Compatible"
+msgstr "Saderīgs"
+
+#: ../en/index.html
+msgid "Dash home"
+msgstr "Paneļa mājas"
+
+#: ../en/index.html
+msgid "From"
+msgstr "No"
+
+#: ../en/index.html
+msgid "Auto eth0"
+msgstr "Auto eth0"
+
+#: ../en/index.html
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Paldies ka izmeginajat Ubuntu!"
+
+#: ../en/index.html
+msgid "Send files to device…"
+msgstr "Sutit fails uz ierīcu..."
+
+#: ../en/index.html
+msgid "Create documents"
+msgstr "Izveidot dokumentus"
+
+#: ../en/index.html
+msgid "(91 Ratings)"
+msgstr "(91 Vērtējumi)"
+
+#: ../en/index.html
+msgid "Secure"
+msgstr "Drošs"
+
+#: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "Si pakotne iekļauj Chromium Interneta parluku."
+
+#: ../en/index.html
+msgid "$9.99"
+msgstr "$9.99"
+
+#: ../en/index.html
+msgid "Help"
+msgstr "Palīdzība"
+
+#: ../en/index.html
+msgid "Mute"
+msgstr "Apklusināt"
+
+#: ../en/index.html
+msgid "All Software"
+msgstr "Visa programmatūra"
+
+#: ../en/index.html
+msgid "Ready to download?"
+msgstr "Gatavs lejupieladesanai?"
+
+#: ../en/index.html
+msgid "Accessories"
+msgstr "Piederumi"
+
+#: ../en/index.html
+msgid "Create spreadsheets"
+msgstr "Izveidot izklājlapas"
+
+#: ../en/index.html
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: ../en/index.html
+msgid "Shut Down"
+msgstr "Beigt darbu"
+
+#: ../en/index.html
+msgid "Music"
+msgstr "Mūzika"
+
+#: ../en/index.html
+msgid "Rhythmbox"
+msgstr "Rhythmbox"
+
+#: ../en/index.html
+msgid "Education"
+msgstr "Izglītība"
+
+#: ../en/index.html
+msgid "Brasero Disc Burner"
+msgstr "Brasero disku rakstītājs"
+
+#: ../en/index.html
+msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
+msgstr ""
+"Lasiet, rakstiet un sutiet e-pastus ar Thunderbird. Tas ir vienkarsa un atri."
+
+#: ../en/index.html
+msgid "wrote"
+msgstr "rakstīja"
+
+#: ../en/index.html
+msgid "Subject"
+msgstr "Temats"
+
+#: ../en/index.html
+msgid "Shotwell"
+msgstr "Shotwell"
+
+#: ../en/index.html
+msgid "Documents"
+msgstr "Dokumenti"
+
+#: ../en/index.html
+msgid "Disconnect"
+msgstr "Atvienoties"
+
+#: ../en/index.html
+msgid "Preferences"
+msgstr "Iestatījumi"
+
+#: ../en/index.html
+msgid "Browse files"
+msgstr "Pārlūkot failus"
+
+#: ../en/index.html
+msgid "Come and explore our favourites"
+msgstr "Ienāciet un izpētiet mūsu favorītus"
+
+#: ../en/index.html
+msgid "junk"
+msgstr "džonka"
+
+#: ../en/index.html
+msgid "Send"
+msgstr "Sūtīt"
+
+#: ../en/index.html
+msgid "Darkening Clockwork"
+msgstr "Tumšāka pulksteņa mehānisms"
+
+#: ../en/index.html
+msgid "Inkscape Vector Graphics Editor"
+msgstr "Inkscape vektorgrafikas redaktors"
+
+#: ../en/index.html
+msgid "Create presentations"
+msgstr "Izveidot prezentāciju"
+
+#: ../en/index.html
+msgid "Original Message"
+msgstr "Sākotnējā vēstule"
+
+#: ../en/index.html
+msgid "AisleRoit Solitaire"
+msgstr "AisleRoit Solitairais"
+
+#: ../en/index.html
+msgid "Rock Out"
+msgstr "Rock Out"
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "Pieslēguma informācija"
+
+#: ../en/index.html
+msgid ""
+"Chromium is an open-source browser project that aims to build a safer, "
+"faster, and more stable way for all Internet users to experience the web."
+msgstr ""
+
+#: ../en/index.html
+msgid "Email"
+msgstr "E-pasts"
+
+#: ../en/index.html
+msgid "Sent"
+msgstr "Nosūtīts"
+
+#: ../en/index.html
+msgid "subject"
+msgstr ""
+
+#: ../en/index.html
+msgid "Available"
+msgstr "Pieejams"
+
+#: ../en/index.html
+msgid "All Folders"
+msgstr "Visas mapes"
+
+#: ../en/index.html
+msgid "Fri 26 Oct, 2001"
+msgstr ""
+
+#: ../en/index.html
+msgid "Hibernate"
+msgstr "Iemidzināt"
+
+#: ../en/index.html
+msgid "Langelinie Alle"
+msgstr ""
+
+#: ../en/index.html
+msgid "Your Ubuntu, your way"
+msgstr "Jus Ubuntu, jus cels"
+
+#: ../en/index.html
+msgid "Time &amp; Date Settings…"
+msgstr "Laika un Datuma Iestatijumi"
+
+#: ../en/index.html
+msgid "Recently Used"
+msgstr "Nesen izmantoti"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr ""
+
+#: ../en/index.html
+msgid "3.3MB"
+msgstr "3.3MB"
+
+#: ../en/index.html
+msgid "reply"
+msgstr "atbildet"
+
+#: ../en/index.html
+msgid "Set Up Mail…"
+msgstr ""
+
+#: ../en/index.html
+msgid "Search and download apps fast from the Ubuntu Software Centre."
+msgstr ""
+
+#: ../en/index.html
+msgid "Clear"
+msgstr "Notīrīt"
+
+#: ../en/index.html
+msgid "$19.99"
+msgstr "19.99 Ls"
+
+#: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr ""
+
+#: ../en/index.html
+msgid "Log Out…"
+msgstr "Izrakstīties…"
+
+#: ../en/index.html
+msgid ""
+"Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
+"You must have these packages to make full use of all extensions and effects."
+msgstr ""
+
+#: ../en/index.html
+msgid "Fwd"
+msgstr "Pārs."
+
+#: ../en/index.html
+msgid "Terminal Server Client"
+msgstr "Termināla servera klients"
+
+#: ../en/index.html
+msgid "Appearance"
+msgstr "Izskats"
+
+#: ../en/index.html
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+#: ../en/index.html
+msgid "Buck Off"
+msgstr ""
+
+#: ../en/index.html
+msgid "Stalking Ocelot"
+msgstr ""
+
+#: ../en/index.html
+msgid "System Settings…"
+msgstr "Sistēmas iestatījumi…"
+
+#: ../en/index.html
+msgid "Startup Applications…"
+msgstr "Starta lietotnes…"
+
+#: ../en/index.html
+msgid "Remove"
+msgstr "Izņemt"
+
+#: ../en/index.html
+msgid ""
+"Braid treats your time and attention as precious, and it does everything it "
+"can to give you a mind-expanding experience."
+msgstr ""
+
+#: ../en/index.html
+msgid "English"
+msgstr "Angļu valoda"
+
+#: ../en/index.html
+msgid "Purple Dancers"
+msgstr ""
+
+#: ../en/index.html
+msgid "from"
+msgstr "no"
+
+#: ../en/index.html
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
+
+#: ../en/index.html
+msgid ""
+"All gameplay is based on time manipulation. Journey into worlds where time "
+"behaves strangely; observe, learn from, and then master these worlds."
+msgstr ""
+
+#: ../en/index.html
+msgid "Mount Snowdon"
+msgstr ""
+
+#: ../en/index.html
+msgid "Songs"
+msgstr "Dziesmas"
+
+#: ../en/index.html
+msgid "Accessible"
+msgstr "Pieejams"
+
+#: ../en/index.html
+msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
+msgstr ""
+
+#: ../en/index.html
+msgid "Title:"
+msgstr "Nosaukums:"
+
+#: ../en/index.html
+msgid "Setup new device…"
+msgstr ""
+
+#: ../en/index.html
+msgid "Introduction Ubuntu"
+msgstr ""
+
+#: ../en/index.html
+msgid "Videos"
+msgstr "Video"
+
+#: ../en/index.html
+msgid "Braid"
+msgstr "Pīne"
+
+#: ../en/index.html
+msgid ""
+"Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
+"format, a standard maintained by the WWW consortium."
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
+"download it to enjoy the real thing!"
+msgstr ""
+
+#: ../en/index.html
+msgid "Unread:"
+msgstr "Nelasits:"
+
+#: ../en/index.html
+msgid "Banshee Media Player"
+msgstr "Banshee mūzikas atskaņotājs"
+
+#: ../en/index.html
+msgid ""
+"You can surf in safety with Ubuntu – confident that your files and data will "
+"stay protected. A built-in firewall and virus protection come as standard. "
+"And if a potential threat appears, we provide automatic updates which you "
+"can install in a single click. You get added security with AppArmor, which "
+"protects your important applications so attackers can’t access your system. "
+"And thanks to Firefox and gnome-keyring, Ubuntu helps you keep your private "
+"information private. So whether it’s accessing your bank account or sharing "
+"sensitive data with friends or colleagues, you’ll have peace of mind when "
+"you need it the most."
+msgstr ""
+
+#: ../en/index.html
+msgid "Files &amp; Folders"
+msgstr ""
+
+#: ../en/index.html
+msgid "Installed"
+msgstr "Instalēts"
+
+#: ../en/index.html
+msgid "BEEP"
+msgstr ""
+
+#: ../en/index.html
+msgid "Visible"
+msgstr "Redzams"
+
+#: ../en/index.html
+msgid "Learn More"
+msgstr "Uzzināt vairāk"
+
+#: ../en/index.html
+msgid ""
+"Use BEEP’s anti-gravity device to directly manipulate the physics-based "
+"environments. The anti-gravity device is both a tool and a weapon. Use it to "
+"smash enemy robots, build towers and solve puzzles."
+msgstr ""
+
+#: ../en/index.html
+msgid "Chat"
+msgstr "Tērzēšana"
+
+#: ../en/index.html
+msgid "Archive"
+msgstr "Arhīvs"
+
+#: ../en/index.html
+msgid "Download"
+msgstr "Lejupielādēt"
+
+#: ../en/index.html
+msgid "Home"
+msgstr "Mājas mape"
+
+#: ../en/index.html
+msgid "Canonical"
+msgstr "Canonical"
+
+#: ../en/index.html
+msgid "Developer Tools"
+msgstr "Izstrādātāju rīki"
+
+#: ../en/index.html
+msgid "or"
+msgstr "vai"
+
+#: ../en/index.html
+msgid "Inkscape"
+msgstr "Inkscape"
+
+#: ../en/index.html
+msgid "Access the Internet"
+msgstr "Piekļūt internetam"
+
+#: ../en/index.html
+msgid "5.3MB"
+msgstr "5.3MB"
+
+#: ../en/index.html
+msgid "Take the guided tour"
+msgstr ""
+
+#: ../en/index.html
+msgid "cc"
+msgstr "cc"
+
+#: ../en/index.html
+msgid "Pictures"
+msgstr "Bildes"
+
+#: ../en/index.html
+msgid "Away"
+msgstr "Projām"
+
+#: ../en/index.html
+msgid "Check email"
+msgstr "Parbaudit e-pastu"
+
+#: ../en/index.html
+msgid "Size:"
+msgstr "Izmērs:"
+
+#: ../en/index.html
+msgid "Draft"
+msgstr "Neapstiprināts"
+
+#: ../en/index.html
+msgid "Free"
+msgstr "Pa brīvu"
+
+#: ../en/index.html
+msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgstr ""
+
+#: ../en/index.html
+msgid "LibreOffice Writer makes it easy to draft professional documents."
+msgstr ""
+
+#: ../en/index.html
+msgid "Displays…"
+msgstr "Displeji..."
+
+#: ../en/index.html
+msgid "Software Up to Date"
+msgstr "Programmatūras atjaunināšana"
+
+#: ../en/index.html
+msgid "Browse the web"
+msgstr "Pārlūkojiet tīmekli"
+
+#: ../en/index.html
+msgid "Local"
+msgstr "Vietējs"
+
+#: ../en/index.html
+msgid ""
+"If you want to use the spellchecker, you have to install aspell and the "
+"respective language-pack, e.g. aspell-en or aspell-de."
+msgstr ""
+
+#: ../en/index.html
+msgid "World of Goo"
+msgstr ""
+
+#: ../en/index.html
+msgid "View photos"
+msgstr "Redzet Fotos"
+
+#: ../en/index.html
+msgid "You can upload, organise, edit and share your photos with Shotwell."
+msgstr ""
+
+#: ../en/index.html
+msgid "Sand Maze"
+msgstr ""
+
+#: ../en/index.html
+msgid "Ubuntu One Control Panel"
+msgstr "Ubuntu One Control Panel"
+
+#: ../en/index.html
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
+
+#: ../en/index.html
+msgid "to"
+msgstr "līdz"
+
+#: ../en/index.html
+msgid ""
+"Blender is an integrated 3d suite for modelling, animation, rendering, post-"
+"production, interactive creation and playback (games). Blender has its own "
+"particular user interface, which is implemented entirely in OpenGL and "
+"designed with speed in mind. Python bindings are available for scripting; "
+"import/export features for popular file formats like 3D Studio and Wavefront "
+"Obj are implemented as scripts by the community. Stills, animations, models "
+"for games or other third party engines and interactive content in the form "
+"of a standalone binary and/or a web plug-in are common products of Blender "
+"use."
+msgstr ""
+
+#: ../en/index.html
+msgid "Your browser does not support iframes."
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"Make a good impression with the intuitive LibreOffice Impress presentation "
+"tool."
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"It’s quick and easy to access your folders and files from Ubuntu’s home "
+"folder."
+msgstr ""
+
+#: ../en/index.html
+msgid "Our star apps"
+msgstr "Mūsu zvaigžņu lietotnes"
+
+#: ../en/index.html
+msgid "The Grass Aint Greener"
+msgstr ""
+
+#: ../en/index.html
+msgid "Date"
+msgstr "Datums"
+
+#: ../en/index.html
+msgid ""
+"Drag and drop living, squirming, talking globs of goo to build structures, "
+"bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
+"goo balls that live in the beautiful World of Goo are curious to explore."
+msgstr ""
+
+#: ../en/index.html
+msgid "Chromium Web Browser"
+msgstr "Chromium Web Browsers"
+
+#: ../en/index.html
+msgid "Sound Recorder"
+msgstr "Skaņu Ierakstītājs"
+
+#: ../en/index.html
+msgid "Recipient"
+msgstr "Saņēmējs"
+
+#: ../en/index.html
+msgid "Fast"
+msgstr "Ātri"
+
+#: ../en/index.html
+msgid "Recent"
+msgstr "Nesens"
+
+#: ../en/index.html
+msgid "To:"
+msgstr "Līdz:"
+
+#: ../en/index.html
+msgid "Set Up Broadcast Account…"
+msgstr ""
+
+#: ../en/index.html
+msgid "Date:"
+msgstr "Datums:"
+
+#: ../en/index.html
+msgid ""
+"Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Fast, secure "
+"and with thousands of apps to choose from, Ubuntu gives you a clean and "
+"streamlined experience that you can really make your own."
+msgstr ""
+
+#: ../en/index.html
+msgid "Total:"
+msgstr "Summa:"
+
+#: ../en/index.html
+msgid "Additional Drivers"
+msgstr "Papildu draiveri"
+
+#: ../en/index.html
+msgid "Ubuntu Software Centre"
+msgstr "Ubuntu Software Centre"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Calc"
+msgstr "Nenosaukts 1 - LibreOffice Calc"
+
+#: ../en/index.html
+msgid "I already have an account!"
+msgstr "Man jau ir konts!"
+
+#: ../en/index.html
+msgid "System"
+msgstr "Sistēma"
+
+#: ../en/index.html
+msgid "forward"
+msgstr "uzpriekšu"
+
+#: ../en/index.html
+msgid ""
+"LibreOffice Calc has everything you need to create clear and accurate "
+"spreadsheets."
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+
+#: ../en/index.html
+msgid "Take Ubuntu for a test drive with our online demo."
+msgstr ""
+
+#: ../en/index.html
+msgid "Install"
+msgstr "Instalēt"
+
+#: ../en/index.html
+msgid "Items:"
+msgstr "Vienumi:"
+
+#: ../en/index.html
+msgid "WildWheat"
+msgstr ""
+
+#: ../en/index.html
+msgid "Subject:"
+msgstr "Temats:"
+
+#: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr "Sveicināti Ubuntu 12.10 ekskursija!"
+
+#: ../en/index.html
+msgid "Backup"
+msgstr "Dublējums"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr "Ubuntu ekskursija"
+
+#: ../en/index.html
+msgid "History"
+msgstr "Vēsture"
+
+#: ../en/index.html
+msgid "16 Photos"
+msgstr "16 Fotos"
+
+#: ../en/index.html
+msgid "Home Folder"
+msgstr "Mājas mape"
+
+#: ../en/index.html
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "Mēs ceram ka jums patika Ubuntu elektroniska ekskursija."
+
+#: ../en/index.html
+msgid "Office"
+msgstr "Birojs"
+
+#: ../en/index.html
+msgid "Themes &amp; Tweaks"
+msgstr "Motīvi un piedares"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
+"player, camera or printer and you’ll be up and running straight away. No "
+"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
+"open, edit and share Microsoft Office documents stress-free."
+msgstr ""
+
+#: ../en/index.html
+msgid "work"
+msgstr "darbs"
+
+#: ../en/index.html
+msgid "Library"
+msgstr "Bibliotēka"
+
+#: ../en/index.html
+msgid "Unify you contacts across Desktop, Mobile and Web"
+msgstr ""
+
+#: ../en/index.html
+msgid "Thunderbird Mail"
+msgstr "Thunderbird Mail"
+
+#: ../en/index.html
+msgid ""
+"Chromium serves as a base for Google Chrome, which is Chromium rebranded "
+"(name and logo) with very few additions such as usage tracking and an auto-"
+"updater system."
+msgstr ""
+
+#: ../en/index.html
+msgid "Not Junk"
+msgstr "Nav mēstule"
+
+#: ../en/index.html
+msgid "Chromium"
+msgstr "Chromium"
+
+#: ../en/index.html
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+
+#: ../en/index.html
+msgid "delete"
+msgstr "dzēst"
+
+#: ../en/index.html
+msgid "Thunderbird Mail/News"
+msgstr ""
+
+#: ../en/index.html
+msgid "Busy"
+msgstr "Aizņemts"
+
+#: ../en/index.html
+msgid "Small Flowers"
+msgstr ""
+
+#: ../en/index.html
+msgid "Edit Connections…"
+msgstr ""
+
+#: ../en/index.html
+msgid "Printers"
+msgstr "Printeri"
+
+#: ../en/index.html
+msgid "Sound Settings…"
+msgstr ""
+
+#: ../en/index.html
+msgid "Search"
+msgstr "Meklēt"
+
+#: ../en/index.html
+msgid ""
+"But they dont know that they are in a game, or that they are extremely "
+"delicious. The most addicting and awe-inspiring puzzle game will set you on "
+"an adventure that youll never forget!"
+msgstr ""
+
+#: ../en/index.html
+msgid "Turn On Bluetooth"
+msgstr ""
+
+#: ../en/index.html
+msgid "Write"
+msgstr ""
+
+#: ../en/index.html
+msgid "Attach"
+msgstr ""
+
+#: ../en/index.html
+msgid "Window"
+msgstr ""
+
+#: ../en/index.html
+msgid "Write: (no subject)"
+msgstr ""
+
+#: ../en/index.html
+msgid "Ubuntu online tour"
+msgstr ""
+
+#: ../en/index.html
+msgid "Federica Miglio"
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"BEEP is a 2D side-scrolling platformer with physics-based gameplay. You "
+"control a small robot equipped with an anti-gravity device, a jet-pack and a "
+"gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
+"across 6 unique environments."
+msgstr ""
+
+#: ../en/index.html
+msgid "Offline"
+msgstr ""
+
+#: ../en/index.html
+msgid "Trash"
+msgstr "Miskaste"
+
+#: ../en/index.html
+msgid "archive"
+msgstr "arhīvs"
+
+#: ../en/index.html
+msgid "Power Of Words"
+msgstr ""
+
+#: ../en/index.html
+msgid "Shotwell Photo Manager"
+msgstr "Shotwell fotogrāfiju pārvaldnieks"
+
+#: ../en/index.html
+msgid "Folders"
+msgstr "Mapes"
+
+#: ../en/index.html
+msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
+msgstr ""
+
+#: ../en/index.html
+msgid "Format"
+msgstr "Formatēt"
+
+#: ../en/index.html
+msgid "Surf the web"
+msgstr ""
+
+#: ../en/index.html
+msgid "Browse files on device…"
+msgstr ""
+
+#: ../en/index.html
+msgid "Junk Mail"
+msgstr ""
+
+#: ../en/index.html
+msgid "1"
+msgstr "1"
+
+#: ../en/index.html
+msgid "Computer"
+msgstr "Dators"
+
+#: ../en/index.html
+msgid "What's New"
+msgstr "Kas jauns"
+
+#: ../en/index.html
+msgid "Movie Player"
+msgstr "Filmu atskaņotājs"
+
+#: ../en/index.html
+msgid "Invisible"
+msgstr "Neredzams"
+
+#: ../en/index.html
+msgid "Albums"
+msgstr "Albūms"
+
+#: ../en/index.html
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+
+#: ../en/index.html
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
+
+#: ../en/index.html
+msgid "From:"
+msgstr "No:"
+
+#: ../en/index.html
+msgid "Insert"
+msgstr "Ievietot"
+
+#: ../en/index.html
+msgid "Shut Down…"
+msgstr ""
+
+#: ../en/index.html
+msgid "Fonts"
+msgstr ""
+
+#: ../en/index.html
+msgid "File"
+msgstr ""
+
+#: ../en/index.html
+msgid "Edit"
+msgstr ""
+
+#: ../en/index.html
+msgid "Bluetooth On"
+msgstr ""
+
+#: ../en/index.html
+msgid "Turn Off Bluetooth"
+msgstr ""
+
+#: ../en/index.html
+msgid "Installing"
+msgstr ""
+
+#: ../en/index.html
+msgid "back to the site"
+msgstr ""
+
+#: ../en/index.html
+msgid "Games"
+msgstr ""
+
+#: ../en/index.html
+msgid "Visolate"
+msgstr ""
+
+#: ../en/index.html
+msgid "Empathy Internet Messageing"
+msgstr ""
+
+#: ../en/index.html
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr ""
+
+#: ../en/index.html
+msgid "Attached Devices"
+msgstr ""
+
+#: ../en/index.html
+msgid "View"
+msgstr ""
+
+#: ../en/index.html
+msgid "Suspend"
+msgstr ""
+
+#: ../en/index.html
+msgid "branches"
+msgstr ""
+
+#: ../en/index.html
+msgid "The Power of Your Personal Cloud"
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"Manipulate the flow of time to solve puzzles Braid is a platform game in "
+"painterly style where you manipulate the flow of time to solve puzzles. "
+"Every puzzle in Braid is unique; there is no filler."
+msgstr ""
+
+#: ../en/index.html
+msgid "Mon 11 October, 2010"
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+
+#: ../en/index.html
+msgid "Unmute"
+msgstr ""
+
+#: ../en/index.html
+msgid "Rubbish bin"
+msgstr ""
+
+#: ../en/index.html
+msgid "Sound &amp; Video"
+msgstr ""
+
+#: ../en/index.html
+msgid "Create and edit 3D models and animations"
+msgstr ""
+
+#: ../en/index.html
+msgid "Inbox"
+msgstr ""
+
+#: ../en/index.html
+msgid "Files Anywhere"
+msgstr ""
+
+#: ../en/index.html
+msgid "Stay Productive"
+msgstr ""
+
+#: ../en/index.html
+msgid "Table"
+msgstr ""
+
+#: ../en/index.html
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+msgstr ""
+
+#: ../en/index.html
+msgid "Tools"
+msgstr ""
+
+#: ../en/index.html
+msgid "Downloads"
+msgstr ""
+
+#: ../en/index.html
+msgid "You"
+msgstr ""
+
+#: ../en/index.html
+msgid "Blender"
+msgstr ""

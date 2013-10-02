@@ -1,0 +1,29 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: trunk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-23 09:52+0300\n"
+"PO-Revision-Date: 2012-04-23 09:53+0300\n"
+"Last-Translator: Timo Jyrinki <timo.jyrinki@iki.fi>\n"
+"Language-Team: Finnish <laatu@lokalisointi.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/ubuntu-online-tour.desktop.in.h:1
+msgid "Ubuntu Online Tour"
+msgstr "Ubuntun verkkoesittely"
+
+#: ../data/ubuntu-online-tour.desktop.in.h:2
+msgid "Online Tour"
+msgstr "Verkkoesittely"
+
+#: ../data/ubuntu-online-tour.desktop.in.h:3
+msgid "Experience Ubuntu in your web browser"
+msgstr "Koe Ubuntu WWW-selaimessasi"
