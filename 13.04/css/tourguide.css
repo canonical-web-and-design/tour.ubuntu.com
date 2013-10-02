@@ -1,0 +1,132 @@
+/*
+*  Tour System CSS
+*   author: Anthony Dillon
+*/
+
+#tour-guide{
+	position:absolute;
+	top:150px;
+	right:20px;
+	width:370px;
+	height:189px;
+	background-color: rgba(0, 0, 0, 0.85);
+	z-index:100;
+	-moz-border-radius:4px 4px 4px 4px;
+	-webkit-border-radius:4px 4px 4px 4px;
+	border-radius:4px 4px 4px 4px;
+	-moz-box-shadow: 0px 0px 5px #000;
+	-webkit-box-shadow: 0px 0px 5px #000;
+	box-shadow: 0px 0px 5px #000; 
+}
+
+#tour-guide .guide-container{ 
+	width:90%;
+}
+
+#tour-guide .next-button{
+	position: relative;
+    width: 30px;
+    z-index: 2;
+	height:30px;
+	margin-right:15px;
+	margin-top: 15px;
+	float:right;
+	cursor:pointer;
+	text-align: center;
+	font-size: 30px;
+	border: 1px solid #333;
+	border-left: 0px;
+	color: #AEA79F;
+		-moz-border-radius: 0 4px 4px 0;
+		-webkit-border-radius: 0 4px 4px 0;
+	border-radius: 0 4px 4px 0;
+	line-height: .8;
+}
+
+#tour-guide .prev-button{
+	position: relative;
+    width: 30px;
+    z-index: 2;
+	height:30px;
+	margin-top: 15px;
+	float:right;
+	cursor:pointer;
+	text-align: center;
+	font-size: 30px;
+	border: 1px solid #333;
+	color: #AEA79F;
+		-moz-border-radius: 4px 0 0 4px;
+		-webkit-border-radius: 4px 0 0 4px;
+	border-radius: 4px 0 0 4px;
+	line-height: .8;
+}
+
+#tour-guide .prev-button:hover,
+#tour-guide .next-button:hover {
+	background-color:#000000;
+	color: #fff;
+}
+
+#tour-guide .tour-buttons{
+	position: absolute;
+	bottom: 0;
+	border-top: 1px solid #333;
+	width: 100%;
+}
+#tour-guide .tour-buttons div{
+	border-left: 1px solid #000;
+	border-right: 1px solid #333;
+	cursor:pointer;
+	float:left;
+	width:72px;
+	height:44px;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-left: 50px;
+	line-height: 16px;
+}
+#tour-guide .tour-buttons div:hover{
+	background-color:#000000;
+}
+#tour-guide .tour-buttons .explore-to-welcome {
+	background: url(../img/tourguide/welcome.png) no-repeat scroll 15px center;
+	border-left: 0;
+}
+#tour-guide .tour-buttons .explore-to-download {
+	background: url(../img/tourguide/download.png) no-repeat scroll 15px center;
+}
+#tour-guide .tour-buttons .explore-to-exit {
+	background: url(../img/tourguide/close.png) no-repeat scroll 15px center;
+	border-right: 0;
+}
+
+#tour-guide .guide-logo{
+	width:50px;
+	height:50px;
+	float:left;
+	background-repeat:no-repeat;
+	margin:15px 5px 0 15px;
+}
+
+#tour-guide .guide-logo img{
+	height:46px;
+}
+
+#tour-guide h3{
+	font-size:16px;
+	display:inline;
+	position:relative;
+	top:42px;
+	margin-bottom:0px;
+}
+
+#tour-guide p{
+	font-size:16px;
+	font-weight: normal;
+	position:absolute;
+	top: 70px;
+	padding: 0 15px 15px;
+	border-bottom: 1px solid #000;
+	line-height: 1.5;
+	margin-top: 0;
+}

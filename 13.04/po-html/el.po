@@ -1,0 +1,1438 @@
+# Greek translation for ubuntu-online-tour
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the ubuntu-online-tour package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-online-tour\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-05 19:27+0000\n"
+"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <el@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-10-18 05:07+0000\n"
+"X-Generator: Launchpad (build 16160)\n"
+
+#: ../en/index.html
+msgid "Firefox Web Browser"
+msgstr "Περιηγητής Firefox"
+
+#: ../en/index.html
+msgid "Lock Screen"
+msgstr "Κλείδωμα οθόνης"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu loads quickly on any computer, but it's super-fast on newer machines. "
+"With no unnecessary programs and trial software slowing things down, booting "
+"up and opening a browser takes seconds. Unlike other operating systems that "
+"leave you staring at the screen, waiting to get online. And Ubuntu won’t "
+"grow sluggish over time. It’s fast. And it stays fast."
+msgstr ""
+"Το Ubuntu είναι γρήγορο σε οποιονδήποτε υπολογιστή, όμως είναι ταχύτατο σε "
+"υπολογιστές νεότερης γενιάς. Χωρίς περιττές ή «δοκιμαστικές» εφαρμογές τύπου "
+"trial να  το επιβραδύνουν, η εκκίνηση και το άνοιγμα ενός περιηγητή είναι "
+"θέμα δευτερολέπτων. Αντίθετα με τα άλλα λειτουργικά συστήματα που σας "
+"αφήνουν στην οθόνη εκκίνησης, περιμένοντας να συνδεθείτε. Και το Ubuntu δεν "
+"γίνεται αργό με την πάροδο του χρόνου. Είναι ταχύ. Και παραμένει ταχύ."
+
+#: ../en/index.html
+msgid "no subject"
+msgstr "χωρίς θέμα"
+
+#: ../en/index.html
+msgid "Show yourself around"
+msgstr "Ρίξτε μια ματιά τριγύρω"
+
+#: ../en/index.html
+msgid "Desktop"
+msgstr "Επιφάνεια εργασίας"
+
+#: ../en/index.html
+msgid "Get Mail"
+msgstr "Λήψη αλληλογραφίας"
+
+#: ../en/index.html
+msgid "PiTiVi Video Editor"
+msgstr "Επεξεργασία βίντεο PiTiVi"
+
+#: ../en/index.html
+msgid "Internet"
+msgstr "Διαδίκτυο"
+
+#: ../en/index.html
+msgid "Science &amp; Engineering"
+msgstr "Επιστήμη &amp; τεχνολογία"
+
+#: ../en/index.html
+msgid "Find apps"
+msgstr "Εύρεση εφαρμογών"
+
+#: ../en/index.html
+msgid "Not Alone"
+msgstr "Δεν είσαι μόνος"
+
+#: ../en/index.html
+msgid "Momiji Dream"
+msgstr "Όνειρο σφενδάμου"
+
+#: ../en/index.html
+msgid "Manipulate the flow of time to solve puzzles"
+msgstr "Χειριστείτε τη ροή του χρόνου για να λύσετε πάζλ"
+
+#: ../en/index.html
+msgid "中文"
+msgstr "中文"
+
+#: ../en/index.html
+msgid "About Me"
+msgstr "Σχετικά με μένα"
+
+#: ../en/index.html
+msgid ""
+"BEEP has traveled for thousands of years through deep space to explore the "
+"Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
+"the surface of the planets."
+msgstr ""
+"Το BEEP ταξίδεψε χιλιάδες χρόνια μέσα στο αχανές σύμπαν για να εξερευνήσει "
+"το Γαλαξία. Διασχίστε ένα ξένο αστρικό σύστημα  με το σκάφος-BEEP και "
+"στείλτε ρομπότ στην επιφάνεια των πλανητών."
+
+#: ../en/index.html
+msgid ""
+"Are you sure you want to close all programs and shutdown the computer?"
+msgstr ""
+"Είστε βέβαιοι ότι θέλετε να κλείσετε όλα τα προγράμματα και να "
+"απενεργοποιήσετε τον υπολογιστή;"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Impress"
+msgstr "Χωρίς τίτλο 1 - LibreOffice Impress"
+
+#: ../en/index.html
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+#: ../en/index.html
+msgid ""
+"Accessibility is central to the Ubuntu philosophy. We believe that computing "
+"is for everyone regardless of nationality, race, gender or disability. Fully "
+"translated into 38 languages, Ubuntu also includes essential assistive "
+"technologies, which are, of course, completely free."
+msgstr ""
+"Κεντρικό σημείο της φιλοσοφίας του Ubuntu, είναι η Προσιτότητα. Πιστεύουμε "
+"ότι όλοι έχουν δικαίωμα στη χρήση υπολογιστή, ανεξάρτητα από εθνικότητα, "
+"φυλή, φύλο ή αρτιμέλεια. Μεταφρασμένο πλήρως σε 38 γλώσσες, το Ubuntu "
+"εμπεριέχει ουσιαστικές βοηθητικές τεχνολογίες, οι οποίες φυσικά παρέχονται "
+"δωρεάν."
+
+#: ../en/index.html
+msgid "Download Ubuntu"
+msgstr "Λήψη του Ubuntu"
+
+#: ../en/index.html
+msgid "Watch videos"
+msgstr ""
+
+#: ../en/index.html
+msgid "Join now"
+msgstr "Γίνε μέλος τώρα"
+
+#: ../en/index.html
+msgid "Applications"
+msgstr "Εφαρμογές"
+
+#: ../en/index.html
+msgid "Weds 14 October, 2010"
+msgstr "Τετ 14 Οκτωβρίου, 2010"
+
+#: ../en/index.html
+msgid "Physics based puzzle/construction game"
+msgstr "Παιχνίδι παζλ/κατασκευής βασισμένο στην Φυσική"
+
+#: ../en/index.html
+msgid "Remote Desktop Viewer"
+msgstr "Προβολή απομακρυσμένης επιφάνειας εργασίας"
+
+#: ../en/index.html
+msgid "Gwibber Social Client"
+msgstr "Λογισμικό κοινωνικής δικτύωσης Gwibber"
+
+#: ../en/index.html
+msgid "Happyness"
+msgstr "Ευτυχία"
+
+#: ../en/index.html
+msgid "15.2KB"
+msgstr "15.2KB"
+
+#: ../en/index.html
+msgid "PCB CNC converter"
+msgstr "Μετατροπές PCB CNC"
+
+#: ../en/index.html
+msgid "On"
+msgstr "Ενεργό"
+
+#: ../en/index.html
+msgid "Welcome Screen"
+msgstr "Οθόνη καλωσορίσματος"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "Χωρίς τίτλο 1 - LibreOffice Writer"
+
+#: ../en/index.html
+msgid "A 2D platformer/shooter game with physics-based puzzles"
+msgstr "Ένα δισδιάστατο παιχνίδι σκόπευσης με παζλ βασισμένο στη Φυσική"
+
+#: ../en/index.html
+msgid "Graphics"
+msgstr "Γραφικά"
+
+#: ../en/index.html
+msgid "Keep Connected"
+msgstr "Διατήρηση σύνδεσης"
+
+#: ../en/index.html
+msgid "Top Rated"
+msgstr "Κορυφαία"
+
+#: ../en/index.html
+msgid "Compatible"
+msgstr "Συμβατό"
+
+#: ../en/index.html
+msgid "Dash home"
+msgstr "Αρχή του Dash"
+
+#: ../en/index.html
+msgid "From"
+msgstr "Από"
+
+#: ../en/index.html
+msgid "Auto eth0"
+msgstr "Auto eth0"
+
+#: ../en/index.html
+msgid "Thanks for exploring Ubuntu!"
+msgstr "Ευχαριστούμε που εξερευνάτε το Ubuntu!"
+
+#: ../en/index.html
+msgid "Send files to device…"
+msgstr "Αποστολή αρχείων σε συσκευή…"
+
+#: ../en/index.html
+msgid "Create documents"
+msgstr "Δημιουργία εγγράφων"
+
+#: ../en/index.html
+msgid "(91 Ratings)"
+msgstr "(91 αξιολογήσεις)"
+
+#: ../en/index.html
+msgid "Secure"
+msgstr "Ασφαλές"
+
+#: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "Το πακέτο αυτό περιέχει τον περιηγητή Chromium"
+
+#: ../en/index.html
+msgid "$9.99"
+msgstr "9.99€"
+
+#: ../en/index.html
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: ../en/index.html
+msgid "Mute"
+msgstr "Σίγαση"
+
+#: ../en/index.html
+msgid "All Software"
+msgstr "Όλο το λογισμικό"
+
+#: ../en/index.html
+msgid "Ready to download?"
+msgstr "Είστε έτοιμοι για λήψη;"
+
+#: ../en/index.html
+msgid "Accessories"
+msgstr "Βοηθήματα"
+
+#: ../en/index.html
+msgid "Create spreadsheets"
+msgstr "Δημιουργία λογιστικών φύλλων"
+
+#: ../en/index.html
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: ../en/index.html
+msgid "Shut Down"
+msgstr "Τερματισμός"
+
+#: ../en/index.html
+msgid "Music"
+msgstr "Μουσική"
+
+#: ../en/index.html
+msgid "Rhythmbox"
+msgstr "Rhythmbox"
+
+#: ../en/index.html
+msgid "Education"
+msgstr "Εκπαίδευση"
+
+#: ../en/index.html
+msgid "Brasero Disc Burner"
+msgstr "Εγγραφή δίσκων CD/DVD"
+
+#: ../en/index.html
+msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
+msgstr ""
+"Διαχειριστείτε τα μηνύματα ηλεκτρονικής αλληλογραφίας σας με το Thunderbird. "
+"Εύκολα και γρήγορα."
+
+#: ../en/index.html
+msgid "wrote"
+msgstr "έγραψε"
+
+#: ../en/index.html
+msgid "Subject"
+msgstr "Θέμα"
+
+#: ../en/index.html
+msgid "Shotwell"
+msgstr "Shotwell"
+
+#: ../en/index.html
+msgid "Documents"
+msgstr "Έγγραφα"
+
+#: ../en/index.html
+msgid "Disconnect"
+msgstr "Αποσύνδεση"
+
+#: ../en/index.html
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+#: ../en/index.html
+msgid "Browse files"
+msgstr "Περιήγηση αρχείων"
+
+#: ../en/index.html
+msgid "Come and explore our favourites"
+msgstr "Εξερευνήστε τα αγαπημένα μας"
+
+#: ../en/index.html
+msgid "junk"
+msgstr "ανεπιθύμητα"
+
+#: ../en/index.html
+msgid "Send"
+msgstr "Αποστολή"
+
+#: ../en/index.html
+msgid "Darkening Clockwork"
+msgstr "Μελανός χρόνος"
+
+#: ../en/index.html
+msgid "Inkscape Vector Graphics Editor"
+msgstr "Επεξεργασία διανυσματικών γραφικών Inkscape"
+
+#: ../en/index.html
+msgid "Create presentations"
+msgstr "Δημιουργία παρουσιάσεων"
+
+#: ../en/index.html
+msgid "Original Message"
+msgstr "Αρχικό μήνυμα"
+
+#: ../en/index.html
+msgid "AisleRoit Solitaire"
+msgstr "Πασιέντζα AisleRoit"
+
+#: ../en/index.html
+msgid "Rock Out"
+msgstr "Ροκάρετε"
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "Πληροφορίες σύνδεσης"
+
+#: ../en/index.html
+msgid ""
+"Chromium is an open-source browser project that aims to build a safer, "
+"faster, and more stable way for all Internet users to experience the web."
+msgstr ""
+"Το Chromium είναι ένα ανοιχτού κώδικα πρόγραμμα που στοχεύει να χτίσει έναν "
+"ασφαλέστερο, γρηγορότερο, και πιο σταθερό λογισμικό για όλους τους χρήστες "
+"διαδικτύου."
+
+#: ../en/index.html
+msgid "Email"
+msgstr "Ηλεκ. αλληλογραφία"
+
+#: ../en/index.html
+msgid "Sent"
+msgstr "Απεσταλμένα"
+
+#: ../en/index.html
+msgid "subject"
+msgstr "θέμα"
+
+#: ../en/index.html
+msgid "Available"
+msgstr "Διαθέσιμος/η"
+
+#: ../en/index.html
+msgid "All Folders"
+msgstr "Όλοι οι φάκελοι"
+
+#: ../en/index.html
+msgid "Fri 26 Oct, 2001"
+msgstr "Παρ 26 Οκτ. 2001"
+
+#: ../en/index.html
+msgid "Hibernate"
+msgstr "Αδρανοποίηση"
+
+#: ../en/index.html
+msgid "Langelinie Alle"
+msgstr "Langelinie Alle"
+
+#: ../en/index.html
+msgid "Your Ubuntu, your way"
+msgstr "Το δικό σας Ubuntu, ο δικός σας τρόπος"
+
+#: ../en/index.html
+msgid "Time &amp; Date Settings…"
+msgstr "Ρυθμίσεις Ώρας &amp; και Ημ/νιας..."
+
+#: ../en/index.html
+msgid "Recently Used"
+msgstr "Χρησιμοποιήθηκαν πρόσφατα"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Jardin Polar"
+
+#: ../en/index.html
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr ""
+
+#: ../en/index.html
+msgid "3.3MB"
+msgstr "3.3MB"
+
+#: ../en/index.html
+msgid "reply"
+msgstr "απάντηση"
+
+#: ../en/index.html
+msgid "Set Up Mail…"
+msgstr "Ρύθμιση ηλεκτρονικής αλληλογραφίας..."
+
+#: ../en/index.html
+msgid "Search and download apps fast from the Ubuntu Software Centre."
+msgstr ""
+"Αναζητήστε και κάνετε λήψη εφαρμογών γρήγορα από το Κέντρο λογισμικού Ubuntu."
+
+#: ../en/index.html
+msgid "Clear"
+msgstr "Καθαρισμός"
+
+#: ../en/index.html
+msgid "$19.99"
+msgstr "19.99€"
+
+#: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Σταθμός Dybbølsbro"
+
+#: ../en/index.html
+msgid "Log Out…"
+msgstr "Αποσύνδεση…"
+
+#: ../en/index.html
+msgid ""
+"Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
+"You must have these packages to make full use of all extensions and effects."
+msgstr ""
+"Άλλες επεκτάσεις χρησιμοποιούν ruby, libxml-xql-perl, python-numpy, και "
+"python-lxml. Πρέπει να έχετε αυτά τα πακέτα για να κάνετε χρήση όλων των "
+"επεκτάσεων και των εφέ."
+
+#: ../en/index.html
+msgid "Fwd"
+msgstr "Προωθ."
+
+#: ../en/index.html
+msgid "Terminal Server Client"
+msgstr "Πελάτης τερματικού εξυπηρετητή"
+
+#: ../en/index.html
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+#: ../en/index.html
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+#: ../en/index.html
+msgid "Buck Off"
+msgstr "Αποτινάξτε"
+
+#: ../en/index.html
+msgid "Stalking Ocelot"
+msgstr "Αιλουροπάρδαλη θηρευτής"
+
+#: ../en/index.html
+msgid "System Settings…"
+msgstr "Ρυθμίσεις συστήματος…"
+
+#: ../en/index.html
+msgid "Startup Applications…"
+msgstr "Εφαρμογές κατά την εκκίνηση…"
+
+#: ../en/index.html
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: ../en/index.html
+msgid ""
+"Braid treats your time and attention as precious, and it does everything it "
+"can to give you a mind-expanding experience."
+msgstr ""
+"Το Braid θεωρεί πολύτιμο τον χρόνο και και την προσοχή σας, κάνοντας "
+"οτιδήποτε είναι δυνατόν για να σας προσφέρει μια ανεπανάληπτη εμπειρία."
+
+#: ../en/index.html
+msgid "English"
+msgstr "Αγγλικά"
+
+#: ../en/index.html
+msgid "Purple Dancers"
+msgstr "Πορφυροί χορευτές"
+
+#: ../en/index.html
+msgid "from"
+msgstr "από"
+
+#: ../en/index.html
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
+
+#: ../en/index.html
+msgid ""
+"All gameplay is based on time manipulation. Journey into worlds where time "
+"behaves strangely; observe, learn from, and then master these worlds."
+msgstr ""
+"Το παιχνίδι βασίζεται στην χειραγώγηση του χρόνου. Ταξιδέψτε σε κόσμους όπου "
+"ο χρόνος συμπεριφέρεται παράξενα. Παρατηρήστε, μάθετε και κατακτήστε τους "
+"κόσμους αυτούς."
+
+#: ../en/index.html
+msgid "Mount Snowdon"
+msgstr "Όρος Snowdon"
+
+#: ../en/index.html
+msgid "Songs"
+msgstr "Τραγούδια"
+
+#: ../en/index.html
+msgid "Accessible"
+msgstr "Προσβάσιμο"
+
+#: ../en/index.html
+msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
+msgstr ""
+"Κρατήστε αντίγραφα και προσπελάστε τα αρχεία σας από το Ubuntu, τα Windows, "
+"το διαδίκτυο ή από το κινητό σας τηλέφωνο"
+
+#: ../en/index.html
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: ../en/index.html
+msgid "Setup new device…"
+msgstr "Ρύθμιση νέας συσκευής..."
+
+#: ../en/index.html
+msgid "Introduction Ubuntu"
+msgstr "Εισαγωγή στο Ubuntu"
+
+#: ../en/index.html
+msgid "Videos"
+msgstr "Βίντεο"
+
+#: ../en/index.html
+msgid "Braid"
+msgstr "Braid"
+
+#: ../en/index.html
+msgid ""
+"Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
+"format, a standard maintained by the WWW consortium."
+msgstr ""
+"Το Inkscape φορτώνει και αποθηκεύει ένα υποσύνολο της μορφής SVG (Scalable "
+"Vector Graphics), ένα πρότυπο που συντηρείται από την κοινοπραξία WWW."
+
+#: ../en/index.html
+msgid ""
+"Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
+"download it to enjoy the real thing!"
+msgstr ""
+"Ευχαριστούμε για την εξερεύνησή σας στο Ubuntu! Θυμηθείτε ότι το παρόν είναι "
+"μία δοκιμαστική του έκδοση. Θα πρέπει να κάνετε  λήψη του Ubuntu ώστε να το "
+"απολαύσετε στην πραγματικότητα!"
+
+#: ../en/index.html
+msgid "Unread:"
+msgstr "Μη αναγνωσμένα:"
+
+#: ../en/index.html
+msgid "Banshee Media Player"
+msgstr "Αναπαραγωγή πολυμέσων Banshee"
+
+#: ../en/index.html
+msgid ""
+"You can surf in safety with Ubuntu – confident that your files and data will "
+"stay protected. A built-in firewall and virus protection come as standard. "
+"And if a potential threat appears, we provide automatic updates which you "
+"can install in a single click. You get added security with AppArmor, which "
+"protects your important applications so attackers can’t access your system. "
+"And thanks to Firefox and gnome-keyring, Ubuntu helps you keep your private "
+"information private. So whether it’s accessing your bank account or sharing "
+"sensitive data with friends or colleagues, you’ll have peace of mind when "
+"you need it the most."
+msgstr ""
+"Μπορείτε να περιηγηθείτε με ασφάλεια με το Ubuntu – βέβαιοι πως τα αρχεία "
+"σας και τα δεδομένα σας θα παραμείνουν προστατευμένα. Ενσωματωμένο τείχος "
+"προστασίας και προστασία από ιούς παρέχονται από προεπιλογή. Ακόμη και εάν "
+"παρουσιαστεί πιθανή απειλή, εμείς προσφέρουμε αυτόματες ενημερώσεις που "
+"μπορείτε να εγκαταστήσετε με ένα κλικ. Έχετε πρόσθετη ασφάλεια με το "
+"AppArmor, που προστατεύει τις σημαντικές εφαρμογές σας, έτσι ώστε οι "
+"εισβολείς να μην έχουν πρόσβαση στο σύστημά σας. Επίσης χάρις στο Firefox "
+"και το gnome-keyring, το Ubuntu σάς βοηθά να διατηρήσετε τα προσωπικά σας "
+"δεδομένα, προσωπικά. Έτσι, όποτε έχετε πρόσβαση στον τραπεζικό σας "
+"λογαριασμό ή μοιράζεστε ευαίσθητες πληροφορίες με φίλους, θα έχετε απόλυτη "
+"ηρεμία εκεί που την χρειάζεστε περισσότερο."
+
+#: ../en/index.html
+msgid "Files &amp; Folders"
+msgstr "Αρχεία &amp; φάκελοι"
+
+#: ../en/index.html
+msgid "Installed"
+msgstr "Εγκατεστημένο"
+
+#: ../en/index.html
+msgid "BEEP"
+msgstr "BEEP"
+
+#: ../en/index.html
+msgid "Visible"
+msgstr "Ορατό"
+
+#: ../en/index.html
+msgid "Learn More"
+msgstr "Μάθετε περισσότερα"
+
+#: ../en/index.html
+msgid ""
+"Use BEEP’s anti-gravity device to directly manipulate the physics-based "
+"environments. The anti-gravity device is both a tool and a weapon. Use it to "
+"smash enemy robots, build towers and solve puzzles."
+msgstr ""
+"Χρησιμοποιήστε τη συσκευή αντιβαρύτητας του BEEP για να χειριστείτε άμεσα τα "
+"περιβάλλοντα που υπόκεινται σε νόμους της Φυσικής. Η συσκευή αντιβαρύτητας "
+"αποτελεί εργαλείο αλλά και όπλο. Χρησιμοποιήστε την για να διαλύσετε εχθρικά "
+"ρομπότ, να χτίσετε πύργους και να λύσετε παζλ."
+
+#: ../en/index.html
+msgid "Chat"
+msgstr "Συνομιλία"
+
+#: ../en/index.html
+msgid "Archive"
+msgstr "Αρχειοθήκη"
+
+#: ../en/index.html
+msgid "Download"
+msgstr "Λήψη"
+
+#: ../en/index.html
+msgid "Home"
+msgstr "Αρχή"
+
+#: ../en/index.html
+msgid "Canonical"
+msgstr "Canonical"
+
+#: ../en/index.html
+msgid "Developer Tools"
+msgstr "Εργαλεία ανάπτυξης"
+
+#: ../en/index.html
+msgid "or"
+msgstr "ή"
+
+#: ../en/index.html
+msgid "Inkscape"
+msgstr "Σχεδίαση Inkscape"
+
+#: ../en/index.html
+msgid "Access the Internet"
+msgstr "Πρόσβαση στο Διαδίκτυο"
+
+#: ../en/index.html
+msgid "5.3MB"
+msgstr "5.3MB"
+
+#: ../en/index.html
+msgid "Take the guided tour"
+msgstr "Κάντε χρήση της καθοδηγούμενης περιήγησης"
+
+#: ../en/index.html
+msgid "cc"
+msgstr "κοινοποίηση"
+
+#: ../en/index.html
+msgid "Pictures"
+msgstr "Εικόνες"
+
+#: ../en/index.html
+msgid "Away"
+msgstr "Απουσιάζει"
+
+#: ../en/index.html
+msgid "Check email"
+msgstr "Έλεγχος αλληλογραφίας"
+
+#: ../en/index.html
+msgid "Size:"
+msgstr "Μέγεθος:"
+
+#: ../en/index.html
+msgid "Draft"
+msgstr "Πρόχειρο"
+
+#: ../en/index.html
+msgid "Free"
+msgstr "Ελεύθερα"
+
+#: ../en/index.html
+msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgstr ""
+"Διατηρήστε τους σελιδοδείκτες σας στον firefox και τις σημειώσεις σας στο "
+"Tomboy συγχρονισμένα"
+
+#: ../en/index.html
+msgid "LibreOffice Writer makes it easy to draft professional documents."
+msgstr ""
+"Ο επεξεργαστής κειμένου του Libreoffice καθιστά εύκολη την επεξεργασία "
+"επαγγελματικών εγγράφων."
+
+#: ../en/index.html
+msgid "Displays…"
+msgstr "Οθόνες…"
+
+#: ../en/index.html
+msgid "Software Up to Date"
+msgstr "Το λογισμικό είναι ενημερωμένο"
+
+#: ../en/index.html
+msgid "Browse the web"
+msgstr "Περιήγηση στον παγκόσμιο ιστό"
+
+#: ../en/index.html
+msgid "Local"
+msgstr "Τοπικό"
+
+#: ../en/index.html
+msgid ""
+"If you want to use the spellchecker, you have to install aspell and the "
+"respective language-pack, e.g. aspell-en or aspell-de."
+msgstr ""
+"Αν επιθυμείτε τη χρήση ελέγχου ορθογραφίας, θα πρέπει να εγκαταστήσετε το "
+"aspell και το αντίστοιχο πακέτο γλώσσας, π.χ. το aspell-el ή το aspell-en."
+
+#: ../en/index.html
+msgid "World of Goo"
+msgstr "World of Goo"
+
+#: ../en/index.html
+msgid "View photos"
+msgstr "Προβολή φωτογραφιών"
+
+#: ../en/index.html
+msgid "You can upload, organise, edit and share your photos with Shotwell."
+msgstr ""
+"Μπορείτε να ανεβάσετε, να οργανώσετε, να επεξεργαστείτε και να μοιραστείτε "
+"τις φωτογραφίες σας με το Shotwell."
+
+#: ../en/index.html
+msgid "Sand Maze"
+msgstr "Αμμώδης λαβύρινθος"
+
+#: ../en/index.html
+msgid "Ubuntu One Control Panel"
+msgstr "Πίνακας ελέγχου Ubuntu One"
+
+#: ../en/index.html
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
+"Ολόκληρη η συλλογή σας σάς ακολουθεί παντού με τη μουσική διαθέσιμη σε "
+"Androind και iPhone"
+
+#: ../en/index.html
+msgid "to"
+msgstr "προς"
+
+#: ../en/index.html
+msgid ""
+"Blender is an integrated 3d suite for modelling, animation, rendering, post-"
+"production, interactive creation and playback (games). Blender has its own "
+"particular user interface, which is implemented entirely in OpenGL and "
+"designed with speed in mind. Python bindings are available for scripting; "
+"import/export features for popular file formats like 3D Studio and Wavefront "
+"Obj are implemented as scripts by the community. Stills, animations, models "
+"for games or other third party engines and interactive content in the form "
+"of a standalone binary and/or a web plug-in are common products of Blender "
+"use."
+msgstr ""
+"Το Blender είναι μια σουίτα 3Δ (3D) για τη μοντελοποίηση, δημιουργία "
+"κινούμενων σχεδίων 3Δ, βελτίωση ταινιών, διαδραστική δημιουργία και "
+"αναπαραγωγή (ειδικά για παιχνίδια). Το Blender έχει το δικό του περιβάλλον "
+"χρήσης, που είναι υλοποιημένο εξ ολοκλήρου σε OpenGL και είναι σχεδιασμένο "
+"με γνώμονα την ταχύτητα. Οι συνδέσεις Python σάς βοηθούν στη συγγραφή "
+"προγραμμάτων εντολών· η δυνατότητα εισαγωγής/εξαγωγής για δημοφιλείς μορφές "
+"αρχείων όπως 3D Studio και Wavefront Obj είναι υλοποιημένα ως τέτοια "
+"προγράμματα εντολών από την ίδια την κοινότητα. Με το Blender μπορείτε να "
+"φτιάξετε πανέμορφες εικόνες, κινούμενα σχέδια, μοντέλα χαρακτήρων για "
+"παιχνίδια ή και για μηχανές δημιουργίας παιχνιδιών ή κάθε λογισμικό που "
+"δέχεται μοντέλα χαρακτήρων."
+
+#: ../en/index.html
+msgid "Your browser does not support iframes."
+msgstr "Ο περιηγητής σας δεν υποστηρίζει iframes."
+
+#: ../en/index.html
+msgid ""
+"Make a good impression with the intuitive LibreOffice Impress presentation "
+"tool."
+msgstr ""
+"Κάνετε καλή εντύπωση με το ευρηματικό εργαλείο παρουσιάσεων Impress του "
+"LibreOffice."
+
+#: ../en/index.html
+msgid ""
+"It’s quick and easy to access your folders and files from Ubuntu’s home "
+"folder."
+msgstr ""
+"Είναι γρήγορο και εύκολο να αποκτήσετε πρόσβαση στους φακέλους και τα αρχεία "
+"σας  από τον προσωπικό φάκελο του Ubuntu."
+
+#: ../en/index.html
+msgid "Our star apps"
+msgstr "Οι κορυφαίες εφαρμογές μας"
+
+#: ../en/index.html
+msgid "The Grass Aint Greener"
+msgstr "Το γρασίδι δεν είναι πιο πράσινο"
+
+#: ../en/index.html
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: ../en/index.html
+msgid ""
+"Drag and drop living, squirming, talking globs of goo to build structures, "
+"bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
+"goo balls that live in the beautiful World of Goo are curious to explore."
+msgstr ""
+"Σύρσιμο και εναπόθεση ζωντανών οργανισμών που μιλούν, για να κατασκευάσετε "
+"δομές, γέφυρες, αερόστατα και τεράστιες γλώσσες. Τα εκατομμύρια των αθώων "
+"σφαιρικών οργανισμών που ζουν στον πανέμορφο Κόσμου του Goo (World of Goo) "
+"είναι γεμάτα περιέργεια για να εξερευνήσουν μαζί σας."
+
+#: ../en/index.html
+msgid "Chromium Web Browser"
+msgstr "Περιηγητής διαδικτύου Chromium"
+
+#: ../en/index.html
+msgid "Sound Recorder"
+msgstr "Εγγραφή ήχου"
+
+#: ../en/index.html
+msgid "Recipient"
+msgstr "Παραλήπτης"
+
+#: ../en/index.html
+msgid "Fast"
+msgstr "Γρήγορα"
+
+#: ../en/index.html
+msgid "Recent"
+msgstr "Πρόσφατα"
+
+#: ../en/index.html
+msgid "To:"
+msgstr "Προς:"
+
+#: ../en/index.html
+msgid "Set Up Broadcast Account…"
+msgstr "Δημιουργία λογαριασμού μετάδοσης…"
+
+#: ../en/index.html
+msgid "Date:"
+msgstr "Ημερομηνία:"
+
+#: ../en/index.html
+msgid ""
+"Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Fast, secure "
+"and with thousands of apps to choose from, Ubuntu gives you a clean and "
+"streamlined experience that you can really make your own."
+msgstr ""
+"Απολαύστε την απλότητα και το στυλ του έξυπνου περιβάλλοντος του Ubuntu. "
+"Γρήγορο, ασφαλές και με χιλιάδες εφαρμογές για να διαλέξετε, το Ubuntu σας "
+"προσφέρει μια ξεκάθαρη, βελτιστοποιημένη εμπειρία που μπορείτε πραγματικά να "
+"την κάνετε δική σας."
+
+#: ../en/index.html
+msgid "Total:"
+msgstr "Σύνολο:"
+
+#: ../en/index.html
+msgid "Additional Drivers"
+msgstr "Πρόσθετοι οδηγοί υλικού"
+
+#: ../en/index.html
+msgid "Ubuntu Software Centre"
+msgstr "Κέντρο λογισμικού Ubuntu"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Calc"
+msgstr "Χωρίς Τίτλο 1 - LibreOffice Calc"
+
+#: ../en/index.html
+msgid "I already have an account!"
+msgstr "Έχω ήδη λογαριασμό!"
+
+#: ../en/index.html
+msgid "System"
+msgstr "Σύστημα"
+
+#: ../en/index.html
+msgid "forward"
+msgstr "προώθηση"
+
+#: ../en/index.html
+msgid ""
+"LibreOffice Calc has everything you need to create clear and accurate "
+"spreadsheets."
+msgstr ""
+"Το LibreOffice Calc διαθέτει ό,τι χρειάζεστε για να δημιουργήσετε ακριβή και "
+"ξεκάθαρα λογιστικά φύλλα."
+
+#: ../en/index.html
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+"Μερικά από τα χαρακτηριστικά εισαγωγής και εξαγωγής παρέχονται "
+"χρησιμοποιώντας τα πακέτα dia, libwmf-bin, pstoedit, skencil, imagemagick, "
+"και perlmagick."
+
+#: ../en/index.html
+msgid "Take Ubuntu for a test drive with our online demo."
+msgstr ""
+"Κάντε μια δοκιμαστική «βόλτα» με το Ubuntu, χρησιμοποιώντας τη διαδικτυακή "
+"εφαρμογή επίδειξης."
+
+#: ../en/index.html
+msgid "Install"
+msgstr "Εγκατάσταση"
+
+#: ../en/index.html
+msgid "Items:"
+msgstr "Αντικείμενα:"
+
+#: ../en/index.html
+msgid "WildWheat"
+msgstr "Άγριο σιτάρι"
+
+#: ../en/index.html
+msgid "Subject:"
+msgstr "Θέμα:"
+
+#: ../en/index.html
+msgid "Welcome to the Ubuntu 12.10 tour!"
+msgstr ""
+
+#: ../en/index.html
+msgid "Backup"
+msgstr "Αντίγραφο ασφαλείας"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr ""
+
+#: ../en/index.html
+msgid "History"
+msgstr "Ιστορικό"
+
+#: ../en/index.html
+msgid "16 Photos"
+msgstr "16 φωτογραφίες"
+
+#: ../en/index.html
+msgid "Home Folder"
+msgstr "Αρχικός φάκελος"
+
+#: ../en/index.html
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "Ελπίζουμε να απολαύσατε την διαδικτυακή περιήγηση του Ubuntu."
+
+#: ../en/index.html
+msgid "Office"
+msgstr "Εφαρμογές γραφείου"
+
+#: ../en/index.html
+msgid "Themes &amp; Tweaks"
+msgstr "Οπτικά θέματα &amp; μικροβελτιώσεις"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
+"player, camera or printer and you’ll be up and running straight away. No "
+"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
+"open, edit and share Microsoft Office documents stress-free."
+msgstr ""
+"Το  Ubuntu λειτουργεί απροβλημάτιστα με μια πλειάδα συσκευών. Απλά συνδέστε "
+"τον εκτυπωτή, την κάμερα ή τη συσκευή MP3 σας και είναι έτοιμα για χρήση. "
+"Χωρίς CD εγκατάστασης. Χωρίς κόπο. Και είναι σύμβατό και με Windows! Έτσι, "
+"μπορείτε να ανοίξετε, να επεξεργαστείτε και να μοιραστείτε αρχεία του "
+"Microsoft Office χωρίς άγχος."
+
+#: ../en/index.html
+msgid "work"
+msgstr "εργασία"
+
+#: ../en/index.html
+msgid "Library"
+msgstr "Βιβλιοθήκη"
+
+#: ../en/index.html
+msgid "Unify you contacts across Desktop, Mobile and Web"
+msgstr ""
+"Ενοποιείστε τις επαφές σας από την επιφάνεια εργασίας σας, το κινητό "
+"τηλέφωνο και το διαδίκτυο"
+
+#: ../en/index.html
+msgid "Thunderbird Mail"
+msgstr "Ηλεκτρονική αλληλογραφία Thunderbird"
+
+#: ../en/index.html
+msgid ""
+"Chromium serves as a base for Google Chrome, which is Chromium rebranded "
+"(name and logo) with very few additions such as usage tracking and an auto-"
+"updater system."
+msgstr ""
+"Ο Chromium αποτελεί τη βάση για τον Google Chrome, ο οποίος είναι μια "
+"μετονομασμένη εκδοχή του Chromium με μερικές προσθήκες, όπως καταγραφή "
+"χρήσης και αυτοματοποιημένο σύστημα αναβαθμίσεων."
+
+#: ../en/index.html
+msgid "Not Junk"
+msgstr "Μη ανεπιθύμητο"
+
+#: ../en/index.html
+msgid "Chromium"
+msgstr "Chromium"
+
+#: ../en/index.html
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Θυμηθείτε, αυτό είναι απλά μια επίδειξη. Θα πρέπει να το κατεβάστε για να το "
+"απολαύσετε πραγματικά!"
+
+#: ../en/index.html
+msgid "delete"
+msgstr "διαγραφή"
+
+#: ../en/index.html
+msgid "Thunderbird Mail/News"
+msgstr "Λογισμικό Thunderbird (Αλληλογραφία/Νέα)"
+
+#: ../en/index.html
+msgid "Busy"
+msgstr "Απασχολημένος/η"
+
+#: ../en/index.html
+msgid "Small Flowers"
+msgstr "Λουλουδάκια"
+
+#: ../en/index.html
+msgid "Edit Connections…"
+msgstr "Επεξεργασία συνδέσεων..."
+
+#: ../en/index.html
+msgid "Printers"
+msgstr "Εκτυπωτές"
+
+#: ../en/index.html
+msgid "Sound Settings…"
+msgstr "Ρυθμίσεις ήχου..."
+
+#: ../en/index.html
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: ../en/index.html
+msgid ""
+"But they dont know that they are in a game, or that they are extremely "
+"delicious. The most addicting and awe-inspiring puzzle game will set you on "
+"an adventure that youll never forget!"
+msgstr ""
+"Όμως δεν γνωρίζουν ότι βρίσκονται μέσα σε παιχνίδι, ούτε ότι είναι άκρως "
+"γευστικοί. Ένα παιχνίδι παζλ που προκαλεί εθισμό και δέος και το οποίο θα "
+"σας βάλει σε μια περιπέτεια που δε θα ξεχάσετε ποτέ!"
+
+#: ../en/index.html
+msgid "Turn On Bluetooth"
+msgstr "Ενεργοποίηση Bluetooth"
+
+#: ../en/index.html
+msgid "Write"
+msgstr "Εγγραφή"
+
+#: ../en/index.html
+msgid "Attach"
+msgstr "Επισύναψη"
+
+#: ../en/index.html
+msgid "Window"
+msgstr "Παράθυρο"
+
+#: ../en/index.html
+msgid "Write: (no subject)"
+msgstr "Εγγραφή: (χωρίς θέμα)"
+
+#: ../en/index.html
+msgid "Ubuntu online tour"
+msgstr "Περιήγηση του Ubuntu από ιστοσελίδα"
+
+#: ../en/index.html
+msgid "Federica Miglio"
+msgstr "Federica Miglio"
+
+#: ../en/index.html
+msgid ""
+"BEEP is a 2D side-scrolling platformer with physics-based gameplay. You "
+"control a small robot equipped with an anti-gravity device, a jet-pack and a "
+"gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
+"across 6 unique environments."
+msgstr ""
+"Το BEEP είναι ένα δισδιάστατο παιχνίδι πλατφόρμας πλάγιας κύλισης, βασισμένο "
+"σε κανόνες της Φυσικής. Ελέγχετε ένα μικρό ρομπότ εξοπλισμένο με μία συσκευή "
+"αντιβαρύτητας, αεριωθούμενο μηχανισμό και όπλο. Οδηγήστε, πηδήξτε, πετάξτε, "
+"κολυμπήστε και ανοίξτε δρόμο πυροβολώντας μέσα από 24 επίπεδα σκορπισμένα σε "
+"6 μοναδικά περιβάλλοντα."
+
+#: ../en/index.html
+msgid "Offline"
+msgstr "Εκτός σύνδεσης"
+
+#: ../en/index.html
+msgid "Trash"
+msgstr "Απορρίμματα"
+
+#: ../en/index.html
+msgid "archive"
+msgstr "αρχείο"
+
+#: ../en/index.html
+msgid "Power Of Words"
+msgstr "Η δύναμη των λέξεων"
+
+#: ../en/index.html
+msgid "Shotwell Photo Manager"
+msgstr "Διαχείριση εικόνων Shotwell"
+
+#: ../en/index.html
+msgid "Folders"
+msgstr "Φάκελοι"
+
+#: ../en/index.html
+msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
+msgstr ""
+"Η περιήγηση στο διαδίκτυο είναι γρήγορη και ασφαλής με τη χρήση του Ubuntu "
+"και του Firefox."
+
+#: ../en/index.html
+msgid "Format"
+msgstr "Διαμόρφωση"
+
+#: ../en/index.html
+msgid "Surf the web"
+msgstr "Περιήγηση στο διαδίκτυο"
+
+#: ../en/index.html
+msgid "Browse files on device…"
+msgstr "Περιήγηση αρχείων στη συσκευή..."
+
+#: ../en/index.html
+msgid "Junk Mail"
+msgstr "Ανεπιθύμητη αλληλογραφία"
+
+#: ../en/index.html
+msgid "1"
+msgstr "1"
+
+#: ../en/index.html
+msgid "Computer"
+msgstr "Υπολογιστής"
+
+#: ../en/index.html
+msgid "What's New"
+msgstr "Τι νέο υπάρχει"
+
+#: ../en/index.html
+msgid "Movie Player"
+msgstr "Αναπαραγωγή πολυμέσων"
+
+#: ../en/index.html
+msgid "Invisible"
+msgstr "Αόρατος/η"
+
+#: ../en/index.html
+msgid "Albums"
+msgstr "Άλμπουμ"
+
+#: ../en/index.html
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+"Το Inkscape υποστηρίζει πολλαπλά ανοιχτά αρχεία και πολλαπλές προβολές ανά "
+"αρχείο. Τα γραφικά μπορούν να εκτυπωθούν και να εξαχθούν σε αρχεία ράστερ "
+"τύπου png."
+
+#: ../en/index.html
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
+
+#: ../en/index.html
+msgid "From:"
+msgstr "Από:"
+
+#: ../en/index.html
+msgid "Insert"
+msgstr "Εισαγωγή"
+
+#: ../en/index.html
+msgid "Shut Down…"
+msgstr "Τερματισμός…"
+
+#: ../en/index.html
+msgid "Fonts"
+msgstr "Γραμματοσειρές"
+
+#: ../en/index.html
+msgid "File"
+msgstr "Αρχείο"
+
+#: ../en/index.html
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: ../en/index.html
+msgid "Bluetooth On"
+msgstr "Bluetooth ενεργό"
+
+#: ../en/index.html
+msgid "Turn Off Bluetooth"
+msgstr "Απενεργοποίηση Bluetooth"
+
+#: ../en/index.html
+msgid "Installing"
+msgstr "Γίνεται εγκατάσταση"
+
+#: ../en/index.html
+msgid "back to the site"
+msgstr "πίσω στη σελίδα"
+
+#: ../en/index.html
+msgid "Games"
+msgstr "Παιχνίδια"
+
+#: ../en/index.html
+msgid "Visolate"
+msgstr "Visolate"
+
+#: ../en/index.html
+msgid "Empathy Internet Messageing"
+msgstr "Εφαρμογή διαδικτυακών μηνυμάτων Empathy"
+
+#: ../en/index.html
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr ""
+"Δημιουργία και επεξεργασία διανυσματικών εικόνων τύπου Scalable Vector "
+"Graphics"
+
+#: ../en/index.html
+msgid "Attached Devices"
+msgstr "Προσαρτημένες συσκευές"
+
+#: ../en/index.html
+msgid "View"
+msgstr "Προβολή"
+
+#: ../en/index.html
+msgid "Suspend"
+msgstr "Αναστολή"
+
+#: ../en/index.html
+msgid "branches"
+msgstr "κλάδοι"
+
+#: ../en/index.html
+msgid "The Power of Your Personal Cloud"
+msgstr "Η δύναμη του προσωπικού σας σύννεφου"
+
+#: ../en/index.html
+msgid ""
+"Manipulate the flow of time to solve puzzles Braid is a platform game in "
+"painterly style where you manipulate the flow of time to solve puzzles. "
+"Every puzzle in Braid is unique; there is no filler."
+msgstr ""
+"Το Braid είναι ένα παιχνίδι με γραφικό περιβάλλον όπου μπορείτε να "
+"διαχειριστείτε τη ροή του χρόνου για την επίλυση πολλών παζλ. Κάθε παζλ στο "
+"Braid είναι μοναδικό και ευρηματικό· δεν υπάρχουν παζλ κακής ποιότητας."
+
+#: ../en/index.html
+msgid "Mon 11 October, 2010"
+msgstr "Δευ 11 Οκτωβρίου 2010"
+
+#: ../en/index.html
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+"Η διεπαφή χρήστη του Inkscape πρέπει να είναι γνώριμη από το CorelDraw και "
+"παρόμοιων προγραμμάτων σχεδίασης. Υπάρχουν ορθογώνια, ελλείψεις, στοιχεία "
+"κειμένου, εικόνες ράστερ και ελεύθερες καμπύλες. Σαν επιπλέον μπόνους, τόσο "
+"τα διανυσματικά όσο και αντικείμενα ράστερ μπορούν να έχουν διαφάνεια άλφα "
+"και να μετατραπούν σε άλλες μορφές όπως θέλετε."
+
+#: ../en/index.html
+msgid "Unmute"
+msgstr "Άρση σίγασης"
+
+#: ../en/index.html
+msgid "Rubbish bin"
+msgstr "Κάδο απορριμάτων"
+
+#: ../en/index.html
+msgid "Sound &amp; Video"
+msgstr "Ήχος &amp; βίντεο"
+
+#: ../en/index.html
+msgid "Create and edit 3D models and animations"
+msgstr "Δημιουργία και επεξεργασία τρισδιάστατων (3D) μοντέλων και γραφικών"
+
+#: ../en/index.html
+msgid "Inbox"
+msgstr "Εισερχόμενα"
+
+#: ../en/index.html
+msgid "Files Anywhere"
+msgstr "Αρχεία παντού"
+
+#: ../en/index.html
+msgid "Stay Productive"
+msgstr "Παραμείνετε παραγωγικοί"
+
+#: ../en/index.html
+msgid "Table"
+msgstr "Πίνακας"
+
+#: ../en/index.html
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+
+#: ../en/index.html
+msgid "Tools"
+msgstr "Εργαλεία"
+
+#: ../en/index.html
+msgid "Downloads"
+msgstr "Λήψεις"
+
+#: ../en/index.html
+msgid "You"
+msgstr "Εσείς"
+
+#: ../en/index.html
+msgid "Blender"
+msgstr "Blender"
+
+#~ msgid "Recent Files"
+#~ msgstr "Πρόσφατα αρχεία"
+
+#~ msgid "Recent Apps"
+#~ msgstr "Πρόσφατες εφαρμογές"
+
+#~ msgid "App Available for Download"
+#~ msgstr "Διαθέσιμη εφαρμογή για λήψη"
+
+#~ msgid "Welcome to the Ubuntu online tour!"
+#~ msgstr "Καλωσήρθατε στην online περιήγηση του Ubuntu!"
