@@ -29,12 +29,12 @@ function FileSystem($parent, $startingDir){
 	
 	this.init = function(){
 		
-		list_of_files.push(new Folder(_documents_folder_, '/'+_home_folder_));
-		list_of_files.push(new Folder(_downloads_folder_, '/'+_home_folder_));
-		list_of_files.push(new Folder(_music_folder_, '/'+_home_folder_));
-		list_of_files.push(new Folder(_videos_folder_, '/'+_home_folder_));
-		list_of_files.push(new Folder(_pictures_folder_, '/'+_home_folder_));
-		list_of_files.push(new Folder(_desktop_folder_, '/'+_home_folder_));
+		list_of_files.push(new Folder(_documents_folder_, '/'+_home_folder_, 'icon-documents'));
+		list_of_files.push(new Folder(_downloads_folder_, '/'+_home_folder_, 'icon-downloads'));
+		list_of_files.push(new Folder(_music_folder_, '/'+_home_folder_, 'icon-music'));
+		list_of_files.push(new Folder(_videos_folder_, '/'+_home_folder_, 'icon-videos'));
+		list_of_files.push(new Folder(_pictures_folder_, '/'+_home_folder_, 'icon-pictures'));
+		list_of_files.push(new Folder(_desktop_folder_, '/'+_home_folder_, 'icon-desktop'));
 		
 		
 		list_of_files.push(new Folder(_canonical_folder_, '/'+_home_folder_+'/'+_documents_folder_));
