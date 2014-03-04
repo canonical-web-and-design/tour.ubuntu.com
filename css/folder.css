@@ -176,42 +176,68 @@
 }
 
  
-  .folder .folder-contents .contents .file.display-icon p{
- 	width: 53px;
- 	overflow:hidden;
- 	margin:0 auto;
- 	padding:2px;
- 	-moz-border-radius: 4px 4px 4px 4px;
-  	-webkit-border-radius: 4px 4px 4px 4px;
-  	border-radius: 4px 4px 4px 4px;
-  }
+.folder .folder-contents .contents .file.display-icon p{
+	width: 53px;
+	overflow:hidden;
+	margin:0 auto;
+	padding:2px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	-webkit-border-radius: 4px 4px 4px 4px;
+	border-radius: 4px 4px 4px 4px;
+}
 
-  .folder .buttons .folder-search{
+.folder .buttons .folder-search{
 	width:36px;
 	height:38px;
 	overflow:hidden;
 	background: url(../img/folder/search.jpg) no-repeat 0px 0px;
 }
+
 .folder .buttons .folder-search:hover{
 	background-position: 0px -38px;
- }
+}
  
 .folder .folder-contents .contents .display-icon{
- 	width:130px;
- 	height:80px;
- 	float:left;
- 	text-align: center;
- 	margin:10px;
- 	line-height: 12px;
- }
+	width:130px;
+	height:80px;
+	float:left;
+	text-align: center;
+	margin:10px;
+	line-height: 12px;
+}
  
 .file-folder.display-icon p{
- 	background:url(../img/folder/folder-icon.png) no-repeat 0px 0px;
- 	height:38px;
- 	width:47px;
- 	overflow:hidden;
- 	margin:0 auto;
- }
+	background:url(../img/folder/icon-nautilus-folder-generic.png) no-repeat 0px 0px;
+	height:38px;
+	width:47px;
+	overflow:hidden;
+	margin:0 auto;
+}
+
+.file-folder.display-icon.icon-documents p{
+	background-image:url(../img/folder/icon-nautilus-folder-document.png);
+}
+
+.file-folder.display-icon.icon-downloads p{
+	background-image:url(../img/folder/icon-nautilus-folder-downloads.png);
+}
+
+.file-folder.display-icon.icon-music p{
+	background-image:url(../img/folder/icon-nautilus-folder-music.png);
+}
+
+.file-folder.display-icon.icon-videos p{
+	background-image:url(../img/folder/icon-nautilus-folder-videos.png);
+}
+
+.file-folder.display-icon.icon-pictures p{
+	background-image:url(../img/folder/icon-nautilus-folder-pictures.png);
+}
+
+.file-folder.display-icon.icon-desktop p{
+	background-image:url(../img/folder/icon-nautilus-folder-desktop.png);
+}
+
  .display-compact{
  	float:none;
  	height: 28px;
@@ -262,11 +288,11 @@
   }
   
   .contents .display-icon.over p{
-  	background-position: 0px -39px;
+  	background-position: 0px -40px;
   }
   
    .display-icon.selected p{
-   		background-position: 0px -78px !important;
+   		background-position: 0px -80px !important;
    }
    
   .contents .display-compact.over p{
