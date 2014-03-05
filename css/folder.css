@@ -11,7 +11,7 @@
 }
 
 #folder-window .bottom-buttons{
-	background: #f2f1f0;
+	background:url(../img/folder/image-nautilus-background.png) repeat-x;
 	height:37px;
 	width:100%;
 	border-bottom: 1px solid #d7d4d2;
@@ -21,13 +21,19 @@
 	float:left; 
 }
 
-#folder-window .bottom-buttons div{
+.folder.window .bottom-buttons div{
+	color: #b6b3ab;
 	height:21px;
-	border:1px solid #b7b7b7;
-	margin:2px 0 0 -1px;
+	border:1px solid #353431;
+	margin:0;
 	padding:5px;
 	overflow: hidden;
 	line-height:24px;
+	background:url(../img/folder/image-nautilus-breadcrumb.png) repeat-x;
+}
+
+.folder.window.selected-window .bottom-buttons div {
+	color: #DFDBD2;
 }
 
 #folder-window .bottom-buttons div:first-of-type {
@@ -50,8 +56,7 @@
 
 #folder-window .bottom-buttons div.selected{
 	font-weight:bold;
-	background:url(../img/folder/breadcrumb-selected.png);
-	background-position: 0 -29px;
+	background:url(../img/folder/image-nautilus-breadcrumb-selected.png);
 }
 #folder-window .bottom-buttons div img{
 	margin-top: -4px;
@@ -151,22 +156,23 @@
 }
 
 #folder-window .buttons .folder-back{
-	width:36px;
+	width:34px;
 	height:34px;
 	overflow:hidden;
-	background: url(../img/folder/back.jpg) no-repeat 0px -34px;
+	background: url(../img/folder/image-nautilus-back.png) no-repeat 0px -33px;
 }
 
 #folder-window .buttons .folder-forward{
-	width:36px;
+	width:34px;
 	height:34px;
 	overflow:hidden;
-	background: url(../img/folder/forward.jpg) no-repeat 0px -34px;
+	background: url(../img/folder/image-nautilus-forward.png) no-repeat 0px -33px;
 }
 
 #folder-window .buttons .disabled{
  	background-position: 0px 0px !important;
- }
+}
+
 #folder-window .buttons .folder-icon-view{
 	margin:5px 0px 0px 5px;
 }
@@ -175,7 +181,6 @@
 	background-color:#e7e5e4;
 }
 
- 
 .folder .folder-contents .contents .file.display-icon p{
 	width: 53px;
 	overflow:hidden;
