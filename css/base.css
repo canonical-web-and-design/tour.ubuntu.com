@@ -452,10 +452,10 @@
 		}
 		#top #top-right #time .system-calendar{
 			background:url(../img/top/calendar.jpg) no-repeat;
-			width:254px;
-			height:185px;
-			margin-left:20px;
-			margin-top:10px;
+			width:291px;
+			height:292px;
+			margin-left:0;
+			margin-top:0;
 		}
 		#top #top-right div img.disabled{opacity:0.4;filter:alpha(opacity=40)}
 		#top #top-right div ul{
