@@ -11,8 +11,8 @@
 
 #libreoffice-calc-window .content{
 	background:url(../img/librecalc.jpg) no-repeat;
-	width:805px;
-	height:569px;
+	width:795px;
+	height:534px;
 }
 
 #libreoffice-calc-window  .control .close{
@@ -31,8 +31,8 @@
 
 #libreoffice-writer-window .content{
 	background:url(../img/librewriter.jpg) no-repeat;
-	width:806px;
-	height:552px;
+	width:793px;
+	height:532px;
 }
 
 #libreoffice-writer-window  .control .close{
@@ -62,8 +62,8 @@
 
 #libreoffice-impress-window .content{
 	background:url(../img/libreimpress.jpg) no-repeat;
-	width:802px;
-	height:551px;
+	width:793px;
+	height:527px;
 }
 
 #libreoffice-impress-window  .control .close{
