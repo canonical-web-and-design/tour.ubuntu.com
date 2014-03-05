@@ -76,7 +76,7 @@
 	list-style: none;
 }
 #welcome-screen li a {
-	padding: 28px 0 22px 57px;
+	padding: 24px 0 24px 59px;
 	display: block;
 	width: 160px;
 	text-decoration: none;
@@ -102,49 +102,49 @@
     margin-top: -20px;
 }
 #welcome-screen .browse-files {
-	background: url("../img/welcome/browse-files.png") no-repeat 12px 15px;
+	background: url("../img/welcome/browse-files.png") no-repeat 10px center;
 }
 #welcome-screen .surf-the-web {
-	background: url("../img/welcome/surf-the-web.png") no-repeat 12px 15px;
+	background: url("../img/welcome/surf-the-web.png") no-repeat 10px center;
 	border-right:0px;
 	border-top:1px solid #fff;
 }
 #welcome-screen .check-email {
-	background: url("../img/welcome/check-email.png") no-repeat 12px 15px;
+	background: url("../img/welcome/check-email.png") no-repeat 10px center;
 	border-top:1px solid #fff;
 }
 #welcome-screen .watch-video {
-	background: url("../img/welcome/watch-video.png") no-repeat 12px 15px;
+	background: url("../img/welcome/watch-video.png") no-repeat 10px center;
 	border-right:0px;
 	border-bottom:0px;
 }
 #welcome-screen .view-photos {
-	background: url("../img/welcome/view-photos.png") no-repeat 12px 15px;
+	background: url("../img/welcome/view-photos.png") no-repeat 10px center;
 	border-right:0px;
 }
 #welcome-screen .find-apps {
-	background: url("../img/welcome/find-apps.png") no-repeat 12px 15px;
+	background: url("../img/welcome/find-apps.png") no-repeat 10px center;
 }
 #welcome-screen .create-documents {
-	background: url("../img/welcome/create-documents.png") no-repeat 15px 15px;
+	background: url("../img/welcome/create-documents.png") no-repeat 10px center;
 }
 #welcome-screen .create-spreadsheets {
-	background: url("../img/welcome/create-spreadsheets.png") no-repeat 15px 15px;
+	background: url("../img/welcome/create-spreadsheets.png") no-repeat 10px center;
 	border-bottom:0px;
 }
 #welcome-screen .create-presentations {
-	background: url("../img/welcome/create-presentations.png") no-repeat 15px 15px;
+	background: url("../img/welcome/create-presentations.png") no-repeat 10px center;
 	border-bottom: 0px;
 }
 #welcome-screen .listen-music{
-	background: url("../img/welcome/listen-to-music.png") no-repeat 12px 15px;
+	background: url("../img/welcome/listen-to-music.png") no-repeat 10px center;
 }
 #welcome-screen .system-indicators{
-	background: url("../img/welcome/indicators.png") no-repeat 12px 15px;
+	background: url("../img/welcome/indicators.png") no-repeat 10px center;
 	border-bottom:1px solid #d5d5d5;
 }
 #welcome-screen .applications{
-	background: url("../img/welcome/applications.png") no-repeat 12px 15px;
+	background: url("../img/welcome/applications.png") no-repeat 10px center;
 	border-right:0px;
 	border-bottom:1px solid #d5d5d5;
 }
