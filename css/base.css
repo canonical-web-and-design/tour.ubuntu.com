@@ -102,7 +102,7 @@
 			position:absolute;
 			left: 0px; 
     		top: 24px;	
-    		border-right: 1px solid #6e3a4d;
+    		border-right: 1px solid rgba(255,255,255,0.2);
     		z-index: 10;
     		overflow:hidden;
 			-webkit-user-select: none;
@@ -256,8 +256,17 @@
 		#menu .uone{
 			background-image:url(../img/menu/icon-ubuntuone.png);
 		}
+		#menu .uonemusic{
+			background-image:url(../img/menu/icon-ubuntuonemusic.png);
+		}
+		#menu .amazon{
+			background-image:url(../img/menu/icon-amazon.png);
+		}
 		#menu .software{
 			background-image:url(../img/menu/icon-software.png);
+		}
+		#menu .settings{
+			background-image:url(../img/menu/icon-systemsettings.png);
 		}
 		#menu .email{
 			background-image:url(../img/menu/icon-thunderbird.png);
@@ -405,6 +414,11 @@
 		}
 		#top #top-right div .drop-down li.disabled{
 			color:#666;
+		}
+		#top #top-right div .drop-down li .key-combo{
+			float: right;
+			color: #666;
+			background-color:transparent;
 		}
 		#top #top-right div .drop-down li.disabled:hover{
 			background:#464641;

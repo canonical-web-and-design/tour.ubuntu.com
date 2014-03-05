@@ -22,7 +22,7 @@
 }
 
 .folder.window .bottom-buttons div{
-	color: #b6b3ab;
+	color: #807d78;
 	height:21px;
 	border:1px solid #353431;
 	margin:0;
@@ -58,11 +58,26 @@
 	font-weight:bold;
 	background:url(../img/folder/image-nautilus-breadcrumb-selected.png);
 }
+
 #folder-window .bottom-buttons div img{
 	margin-top: -4px;
 	vertical-align: top;
 	margin-top: 4px;
 	margin-right: 3px;
+}
+
+.folder.window  .bottom-buttons div .home{
+	display: block;
+	float: left;
+	width: 16px;
+	height: 16px;
+	padding: 0;
+	margin: 4px 4px 0 0px;
+	background: url(../img/folder/icon-nautilus-mono-home.png) center 48px;
+}
+
+.folder.window.selected-window .bottom-buttons div .home{
+	background-position: center 32px;
 }
 
 #folder-window .bottom-buttons span{
