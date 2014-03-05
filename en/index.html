@@ -70,33 +70,23 @@
 				<div id="title"></div>
 			</div>
 			<div id="top-right">
-				<div id="message"><img src="../img/top/nomessage.jpg" class="message-logo" alt="" />
+				<div id="connection"><img src="../img/top/connection.png" alt=""/>
 					<ul class="drop-down">
-						<li class="disabled"><img src="../img/top/available.jpg" alt=""/> Available
-						</li>
-						<li class="disabled"><img src="../img/top/away.jpg" alt=""/> Away
-						</li>
-						<li class="disabled"><img src="../img/top/busy.jpg" alt=""/> Busy
-						</li>
-						<li class="disabled"><img src="../img/top/invisible.jpg" alt=""/> Invisible
-						</li>
-						<li class="disabled"><img src="../img/top/offline.jpg" alt=""/> Offline
-						</li>
-						<li class="divider"></li>
-						<li class="disabled"><img src="../img/top/chat.png" alt=""/> Chat
-						</li>
-						<li class="divider"></li>
-						<li class="disabled"><img src="../img/top/broadcast.png" alt=""/> Set Up Broadcast Account…
-						</li>
-						<li class="divider"></li>
-						<li class="disabled"><img src="../img/top/mail.png" alt=""/> Set Up Mail…
-						</li>
-						<li class="divider"></li>
-						<li class="disabled"><img src="../img/top/uone.png" alt=""/> Ubuntu One
-						</li>
-						<li class="divider"></li>
 						<li class="disabled">
-							Clear
+							Auto eth0
+						</li>
+						<li class="disabled">
+							Disconnect
+						</li>
+						<li class="divider"></li>
+						<!--<li class="disabled"><img src="../img/top/wireless-icon.png" alt=""/> My Wireless Connection</li>
+						<li class="disabled">Disconnect</li>
+						<li class="divider"></li>-->
+						<li class="disabled">
+							Connection Information
+						</li>
+						<li class="disabled">
+							Edit Connections…
 						</li>
 					</ul>
 				</div>
@@ -129,24 +119,15 @@
 						</li>
 					</ul>
 				</div>
-				<div id="connection"><img src="../img/top/connection.png" alt=""/>
+				<div id="message"><img src="../img/top/nomessage.jpg" class="message-logo" alt="" />
 					<ul class="drop-down">
-						<li class="disabled">
-							Auto eth0
-						</li>
-						<li class="disabled">
-							Disconnect
-						</li>
+						<li class="disabled available">Available</li>
+						<li class="disabled away">Away</li>
+						<li class="disabled busy">Busy</li>
+						<li class="disabled invisible">Invisible</li>
+						<li class="disabled offline">Offline</li>
 						<li class="divider"></li>
-						<!--<li class="disabled"><img src="../img/top/wireless-icon.png" alt=""/> My Wireless Connection</li>
-						<li class="disabled">Disconnect</li>
-						<li class="divider"></li>-->
-						<li class="disabled">
-							Connection Information
-						</li>
-						<li class="disabled">
-							Edit Connections…
-						</li>
+						<li class="disabled">Clear</li>
 					</ul>
 				</div>
 				<div id="speakers"><img src="../img/top/speakers3.png" class="speakers-logo"  alt=""/>
@@ -178,36 +159,32 @@
 				<div id="power"><img src="../img/top/power.png"  alt=""/>
 					<ul class="drop-down">
 						<li class="disabled">
-							System Settings…
+							About This Computer
 						</li>
 						<li class="disabled">
-							Displays…
-						</li>
-						<li class="disabled">
-							Startup Applications…
-						</li>
-						<li class="disabled">
-							Software Up to Date
+							Ubuntu Help
 						</li>
 						<li class="divider"></li>
 						<li class="disabled">
-							Attached Devices
-						</li>
-						<li class="disabled">
-							Printers
+							System Settings&hellip;
 						</li>
 						<li class="divider"></li>
 						<li class="disabled">
-							Lock Screen
+							Lock <span class="key-combo">Ctrl+Alt+L</span>
 						</li>
+						<li class="disabled user">
+							Guest Session
+						</li>
+						<li class="divider"></li>
 						<li class="disabled">
-							Log Out…
+							Logout
 						</li>
+						<li class="divider"></li>
 						<li class="disabled">
 							Suspend
 						</li>
 						<li class="disabled">
-							Hibernate
+							Restart&hellip;
 						</li>
 						<li>
 							Shut Down…
@@ -230,17 +207,21 @@
 				</li>
 				<li class="firefox"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Firefox Web Browser</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
-				<li class="software"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Ubuntu Software Centre</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
-				</li>
 				<li class="writer"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>LibreOffice Writer</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
-				</li>
-				<li class="impress"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>LibreOffice Impress</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
 				<li class="calc"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>LibreOffice Calc</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
+				<li class="impress"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>LibreOffice Impress</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
+				</li>
+				<li class="software"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Ubuntu Software Centre</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
+				</li>
 				<li class="uone"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Ubuntu One</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
-				<li class="email"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Thunderbird Mail</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
+				<li class="amazon"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Amazon</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
+				</li>
+				<li class="uonemusic"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Ubuntu One Music</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
+				</li>
+				<li class="settings"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>System Settings</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
 				<li class="shotwell temp"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Shotwell Photo Manager</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
