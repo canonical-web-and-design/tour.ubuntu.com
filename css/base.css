@@ -98,7 +98,7 @@
 	    
 		#menu{
 			background:#782220;
-			width:70px;
+			width:64px;
 			position:absolute;
 			left: 0px; 
     		top: 24px;	
@@ -178,7 +178,7 @@
 		
 		#menu ul{
 			margin-top:6px;
-			padding-left: 12px;
+			padding-left: 5px;
 			position:absolute;
 			top:0px;
 			height:100%;
@@ -186,11 +186,11 @@
 		
 		#menu ul li{
 			list-style: none;
-			height:46px;
-			width:52px;
+			height:54px;
+			width:54px;
 			color:transparent;
 			padding-top:6px;
-			margin-bottom:6px;
+			margin-bottom:-1px;
 			background-repeat: no-repeat;
 			 -moz-transition:-moz-box-shadow .3s linear;
 			 -webkit-transition:-webkit-box-shadow .3s linear;
@@ -223,7 +223,7 @@
 		#systemOverlay .copyDash{
 			position:absolute;
 			top:30px;
-			left:12px;
+			left:5px;
 			background-image:url(../img/menu/icon-dash.png);
 			background-repeat: no-repeat;
 			height:52px;
@@ -293,7 +293,7 @@
     		width:100%;
     		height:24px;
     		color: #DFDBD2;
-			z-index:9;
+			z-index:11;
 		}
 		
 		#top.dashOpen{
