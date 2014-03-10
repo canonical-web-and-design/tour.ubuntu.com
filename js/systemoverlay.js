@@ -25,11 +25,12 @@ function SystemOverlay($parent){
 															  {name:_blender_app_, image:'img/software-centre/logo-blender.png'},
 															  {name:_braid_app_,image:'img/software-centre/logo-braid.png'});
 															  
-		mediaApps = new Array({name:_banshee_app_,image:'banshee.png'},
+		mediaApps = new Array({name:_rhythmbox_app_,image:'rhythmbox.png'},
 															  {name:_brasero_app_,image:'brasero.png' },
 															  {name:_movie_player_app_,image:'movieplayer.png'},
 															  {name:_shotwell_app_,image:'shotwell.png'},
 															  {name:_pitivi_app_, image:'pitivi.png'},
+															  {name:_ubuntu_one_music_app_, image:'ubuntuonemusic.png'},
 															  {name:_sound_recorder_app_,image:'soundrecorder.png'});
 															  
 		internetApps = new Array({name:_empathy_app_,image:'empathy.png'},
@@ -37,12 +38,15 @@ function SystemOverlay($parent){
 																  {name:_firefox_app_,image:'firefox.png'},
 																  {name:_gwibber_app_, image:'gwibber.png'},
 																  {name:_remote_desktop_app_,image:'remotedesktop.png'},
-																  {name:_terminal_app_, image:'terminalserver.png'});
+																  {name:_terminal_app_, image:'terminalserver.png'},
+																  {name:_amazon_app_, image:'amazon.png'},
+																  {name:_ubuntu_one_app_, image:'ubuntuone.png'});
 
 		moreApps = new Array({name:_about_me_app_,image:'aboutme.png'},
 														    {name:_additional_drivers_app_,image:'additionaldrivers.png' },
 														    {name:_aisleroit_app_,image:'solitaire.png'},
 														    {name:_appearance_app_, image:'appearance.png'},
+															{name:_ubuntu_software_center_app_, image:'ubuntusoftwarecenter.png'},
 														    {name:_bluetooth_app_,image:'bluetooth.png'});	
 														    
 		this.totalApps = mediaApps.concat(internetApps, moreApps);
