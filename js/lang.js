@@ -74,7 +74,7 @@ var _blender_desc_ = $.trim(hiddenTranslation.find('._blender_desc_').text());
 var _braid_app_ = $.trim(hiddenTranslation.find('._braid_app_').text());
 var _braid_sub_ = $.trim(hiddenTranslation.find('._braid_sub_').text());
 var _braid_desc_ = $.trim(hiddenTranslation.find('._braid_desc_').text());
-var _banshee_app_ = $.trim(hiddenTranslation.find('._banshee_app_').text());
+var _rhythmbox_app_ = $.trim(hiddenTranslation.find('._rhythmbox_app_').text());
 var _brasero_app_ = $.trim(hiddenTranslation.find('._brasero_app_').text());
 var _movie_player_app_ = $.trim(hiddenTranslation.find('._movie_player_app_').text());
 var _shotwell_app_ = $.trim(hiddenTranslation.find('._shotwell_app_').text());
@@ -82,6 +82,7 @@ var _pitivi_app_ = $.trim(hiddenTranslation.find('._pitivi_app_').text());
 var _sound_recorder_app_ = $.trim(hiddenTranslation.find('._sound_recorder_app_').text());
 var _empathy_app_ = $.trim(hiddenTranslation.find('._empathy_app_').text());
 var _thunderbird_app_ = $.trim(hiddenTranslation.find('._thunderbird_app_').text());
+var _ubuntu_one_app_ = $.trim(hiddenTranslation.find('._ubuntu_one_app_').text());
 var _firefox_app_ = $.trim(hiddenTranslation.find('._firefox_app_').text());
 var _gwibber_app_ = $.trim(hiddenTranslation.find('._gwibber_app_').text());
 var _remote_desktop_app_ = $.trim(hiddenTranslation.find('._remote_desktop_app_').text());
@@ -91,6 +92,9 @@ var _additional_drivers_app_ = $.trim(hiddenTranslation.find('._additional_drive
 var _aisleroit_app_ = $.trim(hiddenTranslation.find('._aisleroit_app_').text());
 var _appearance_app_ = $.trim(hiddenTranslation.find('._appearance_app_').text());
 var _bluetooth_app_ = $.trim(hiddenTranslation.find('._bluetooth_app_').text());
+var _ubuntu_software_center_app_ = $.trim(hiddenTranslation.find('._ubuntu_software_center_app_').text());
+var _ubuntu_one_music_app_ = $.trim(hiddenTranslation.find('._ubuntu_one_music_app_').text());
+var _amazon_app_ = $.trim(hiddenTranslation.find('._amazon_app_').text());
 
 /*
  * Dash
