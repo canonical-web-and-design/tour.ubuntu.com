@@ -1,5 +1,0 @@
-# Here you can specify the files to extract translations from, one per line.
-# For now, it will also be used to decide which files to merge translations
-# back to.
-# Lines starting with a hash will be interpreted as comments and be gfnored.
-en/index.html
