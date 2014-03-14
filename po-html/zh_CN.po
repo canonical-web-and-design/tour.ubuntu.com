@@ -7,23 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-05 20:22+0000\n"
-"Last-Translator: ZhengPeng Hou <zhengpeng.hou@gmail.com>\n"
+"POT-Creation-Date: 2014-03-11 10:57+0000\n"
+"PO-Revision-Date: 2014-03-14 03:41+0000\n"
+"Last-Translator: Carlos Gong <Unknown>\n"
 "Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:07+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2014-03-14 07:06+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
 msgstr "Firefox 网络浏览器"
-
-#: ../en/index.html
-msgid "Lock Screen"
-msgstr "锁定屏幕"
 
 #: ../en/index.html
 msgid ""
@@ -56,6 +52,10 @@ msgstr "获取邮件"
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
 msgstr "PiTiVi 视频编辑器"
+
+#: ../en/index.html
+msgid "Welcome screen"
+msgstr "欢迎屏幕"
 
 #: ../en/index.html
 msgid "Internet"
@@ -102,6 +102,10 @@ msgid ""
 msgstr "您确定要关闭所有程序并关闭计算机？"
 
 #: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "此软件包含有 Chromium 浏览器"
+
+#: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
 msgstr "未命名 1 - LibreOffice 演示文稿"
 
@@ -144,12 +148,12 @@ msgid "Physics based puzzle/construction game"
 msgstr "包含物理学知识的拼图游戏"
 
 #: ../en/index.html
-msgid "Remote Desktop Viewer"
-msgstr "远程桌面查看器"
-
-#: ../en/index.html
 msgid "Gwibber Social Client"
 msgstr "硅博社交网络客户端"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -168,8 +172,10 @@ msgid "On"
 msgstr "开启"
 
 #: ../en/index.html
-msgid "Welcome Screen"
-msgstr "欢迎画面"
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr "您可以观看所有您喜爱的电影，视频，DVD，下载或者自创的视频。"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -196,10 +202,6 @@ msgid "Compatible"
 msgstr "兼容"
 
 #: ../en/index.html
-msgid "Dash home"
-msgstr "主面板"
-
-#: ../en/index.html
 msgid "From"
 msgstr "来自"
 
@@ -208,8 +210,16 @@ msgid "Auto eth0"
 msgstr "自动 eth0"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 14.04 tour!"
+msgstr "欢迎您体验 Ubuntu  14.04!"
+
+#: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
 msgstr "感谢体验 Ubuntu"
+
+#: ../en/index.html
+msgid "Guest Session"
+msgstr "客人会话"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -224,20 +234,20 @@ msgid "(91 Ratings)"
 msgstr "(91 次打分)"
 
 #: ../en/index.html
-msgid "Secure"
-msgstr "安全"
+msgid "Installed"
+msgstr "已安装"
 
 #: ../en/index.html
-msgid "This package contains the Chromium browser"
-msgstr "此软件包含有 Chromium 浏览器"
+msgid "Exit the Tour"
+msgstr "退出体验"
 
 #: ../en/index.html
 msgid "$9.99"
 msgstr "$9.99"
 
 #: ../en/index.html
-msgid "Help"
-msgstr "帮助"
+msgid "Secure"
+msgstr "安全"
 
 #: ../en/index.html
 msgid "Mute"
@@ -320,8 +330,8 @@ msgid "Come and explore our favourites"
 msgstr "来看看我们喜欢的软件"
 
 #: ../en/index.html
-msgid "junk"
-msgstr "垃圾"
+msgid "Shut Down…"
+msgstr "关机..."
 
 #: ../en/index.html
 msgid "Send"
@@ -330,6 +340,10 @@ msgstr "发送"
 #: ../en/index.html
 msgid "Darkening Clockwork"
 msgstr "变暗的时钟"
+
+#: ../en/index.html
+msgid "Ubuntu One Music"
+msgstr "Ubuntu One 音乐"
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -352,10 +366,6 @@ msgid "Rock Out"
 msgstr "随处聆听"
 
 #: ../en/index.html
-msgid "Connection Information"
-msgstr "连接信息"
-
-#: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
@@ -374,20 +384,12 @@ msgid "subject"
 msgstr "主题"
 
 #: ../en/index.html
-msgid "Available"
-msgstr "在线"
-
-#: ../en/index.html
 msgid "All Folders"
 msgstr "全部文件夹"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
 msgstr "2001年10月26日星期五"
-
-#: ../en/index.html
-msgid "Hibernate"
-msgstr "休眠"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -398,46 +400,36 @@ msgid "Your Ubuntu, your way"
 msgstr "你的 Ubuntu，你做主"
 
 #: ../en/index.html
-msgid "Time &amp; Date Settings…"
-msgstr "时间设置..."
+msgid "Downloads"
+msgstr "下载"
 
 #: ../en/index.html
 msgid "Recently Used"
 msgstr "最近使用的"
 
 #: ../en/index.html
-msgid "Cancel"
-msgstr "取消"
+msgid "Ubuntu Help"
+msgstr "Ubuntu 帮助"
 
 #: ../en/index.html
-msgid "Jardin Polar"
-msgstr "Jardin Polar"
+msgid "Amazon"
+msgstr "亚马逊"
 
 #: ../en/index.html
-msgid ""
-"You can watch all your favourite films and videos, DVDs, downloads or movies "
-"you've created yourself."
-msgstr "您可以观看所有您喜爱的电影，视频，DVD，下载或者自创的视频。"
-
-#: ../en/index.html
-msgid "3.3MB"
-msgstr "3.3MB"
+msgid "Ctrl+Alt+L"
+msgstr "Ctrl+Alt+L"
 
 #: ../en/index.html
 msgid "reply"
 msgstr "回复"
 
 #: ../en/index.html
-msgid "Set Up Mail…"
-msgstr "设置电子邮箱..."
+msgid "Title:"
+msgstr "标题："
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr "快速从Ubuntu软件中心搜索和下载应用。"
-
-#: ../en/index.html
-msgid "Clear"
-msgstr "清空"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -448,8 +440,12 @@ msgid "Dybbølsbro Station"
 msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
-msgid "Log Out…"
-msgstr "注销..."
+msgid "About This Computer"
+msgstr "关于这台计算机"
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "连接信息"
 
 #: ../en/index.html
 msgid ""
@@ -458,6 +454,10 @@ msgid ""
 msgstr ""
 "其它插件需要 ruby,  libxme-xql-perl,  python-numpy 和 python-"
 "lxml。为了让这些插件和特效工作，您需要安装这些软件包。"
+
+#: ../en/index.html
+msgid "Places"
+msgstr "位置"
 
 #: ../en/index.html
 msgid "Fwd"
@@ -484,12 +484,10 @@ msgid "Stalking Ocelot"
 msgstr "潜行的山猫"
 
 #: ../en/index.html
-msgid "System Settings…"
-msgstr "系统设置..."
-
-#: ../en/index.html
-msgid "Startup Applications…"
-msgstr "启动应用程序..."
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr "所有收藏都可以同步到您的 Android 和 iPhone 手机上去"
 
 #: ../en/index.html
 msgid "Remove"
@@ -510,8 +508,8 @@ msgid "Purple Dancers"
 msgstr "紫色花语"
 
 #: ../en/index.html
-msgid "from"
-msgstr "来自"
+msgid "Ubuntu One Control Panel"
+msgstr "Ubuntu One 控制面板"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -540,16 +538,18 @@ msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr "在 Ubuntu、Windows、网页和手机上备份并访问您的文件"
 
 #: ../en/index.html
-msgid "Title:"
-msgstr "标题："
-
-#: ../en/index.html
 msgid "Setup new device…"
 msgstr "设置新设备..."
 
 #: ../en/index.html
-msgid "Introduction Ubuntu"
-msgstr "Ubuntu 简介"
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+"Inkscape 的用户界面与 CorelDraw 和同类的画图软件相似。它带有矩形、椭圆、文字、位图和自由曲线工具。此外，向量和位图对象都可以有 "
+"Alpha 透明度，并均可任意变形。"
 
 #: ../en/index.html
 msgid "Videos"
@@ -576,10 +576,6 @@ msgid "Unread:"
 msgstr "未读:"
 
 #: ../en/index.html
-msgid "Banshee Media Player"
-msgstr "Banshee 媒体播放器"
-
-#: ../en/index.html
 msgid ""
 "You can surf in safety with Ubuntu – confident that your files and data will "
 "stay protected. A built-in firewall and virus protection come as standard. "
@@ -601,8 +597,10 @@ msgid "Files &amp; Folders"
 msgstr "文件和文件夹..."
 
 #: ../en/index.html
-msgid "Installed"
-msgstr "已安装"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr "请注意：这个仅仅是个在线演示。您需要下载后方可享用真实的功能"
 
 #: ../en/index.html
 msgid "BEEP"
@@ -622,18 +620,6 @@ msgid ""
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
 msgstr "使用 BEEP 的反重力装置来直接操控物理设施。反重力装置不仅是一种工具，还是一样武器。使用它来打击敌方的机器人、建造铁塔并解决问题。"
-
-#: ../en/index.html
-msgid "Chat"
-msgstr "聊天"
-
-#: ../en/index.html
-msgid "Archive"
-msgstr "存档"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "下载"
 
 #: ../en/index.html
 msgid "Home"
@@ -676,14 +662,6 @@ msgid "Pictures"
 msgstr "图片"
 
 #: ../en/index.html
-msgid "Away"
-msgstr "离开"
-
-#: ../en/index.html
-msgid "Check email"
-msgstr "检查邮件"
-
-#: ../en/index.html
 msgid "Size:"
 msgstr "大小："
 
@@ -704,12 +682,8 @@ msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr "LibreOffice 文稿 让撰写专业文档变得更简单。"
 
 #: ../en/index.html
-msgid "Displays…"
-msgstr "显示..."
-
-#: ../en/index.html
-msgid "Software Up to Date"
-msgstr "软件已为最新"
+msgid "Sound Settings…"
+msgstr "声音设定..."
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -742,14 +716,12 @@ msgid "Sand Maze"
 msgstr "沙漠迷宫"
 
 #: ../en/index.html
-msgid "Ubuntu One Control Panel"
-msgstr "Ubuntu One 控制面板"
+msgid "from"
+msgstr "来自"
 
 #: ../en/index.html
-msgid ""
-"Your entire collection follows you around with music streaming to Android "
-"and iPhone"
-msgstr "所有收藏都可以同步到您的 Android 和 iPhone 手机上去"
+msgid "Introduction Ubuntu"
+msgstr "Ubuntu 简介"
 
 #: ../en/index.html
 msgid "to"
@@ -793,12 +765,16 @@ msgid "Our star apps"
 msgstr "金牌应用程序"
 
 #: ../en/index.html
+msgid "Logout"
+msgstr "注销"
+
+#: ../en/index.html
 msgid "The Grass Aint Greener"
 msgstr "爱绿"
 
 #: ../en/index.html
-msgid "Date"
-msgstr "日期"
+msgid "forward"
+msgstr "转发"
 
 #: ../en/index.html
 msgid ""
@@ -812,10 +788,6 @@ msgid "Chromium Web Browser"
 msgstr "Chromium 网页浏览器"
 
 #: ../en/index.html
-msgid "Sound Recorder"
-msgstr "录音机"
-
-#: ../en/index.html
 msgid "Recipient"
 msgstr "收件人"
 
@@ -824,16 +796,16 @@ msgid "Fast"
 msgstr "快速"
 
 #: ../en/index.html
+msgid "Restart"
+msgstr "重启"
+
+#: ../en/index.html
 msgid "Recent"
 msgstr "最近的"
 
 #: ../en/index.html
 msgid "To:"
 msgstr "收件人："
-
-#: ../en/index.html
-msgid "Set Up Broadcast Account…"
-msgstr "设定社交网络帐号…"
 
 #: ../en/index.html
 msgid "Date:"
@@ -849,10 +821,6 @@ msgstr "享受 Ubuntu 独具风格的直观界面。Ubuntu 快速、安全、拥
 #: ../en/index.html
 msgid "Total:"
 msgstr "总计："
-
-#: ../en/index.html
-msgid "Additional Drivers"
-msgstr "附加驱动"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
@@ -871,8 +839,8 @@ msgid "System"
 msgstr "系统"
 
 #: ../en/index.html
-msgid "forward"
-msgstr "转发"
+msgid "Date"
+msgstr "日期"
 
 #: ../en/index.html
 msgid ""
@@ -900,16 +868,12 @@ msgid "Items:"
 msgstr "条目："
 
 #: ../en/index.html
-msgid "WildWheat"
-msgstr "麦田"
+msgid "Ubuntu Software Center"
+msgstr "Ubuntu 软件中心"
 
 #: ../en/index.html
 msgid "Subject:"
 msgstr "主题："
-
-#: ../en/index.html
-msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr "欢迎使用 Ubuntu 12.10 在线教程!"
 
 #: ../en/index.html
 msgid "Backup"
@@ -967,8 +931,12 @@ msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr "在桌面，手机和网页上同步您的联系人"
 
 #: ../en/index.html
-msgid "Thunderbird Mail"
-msgstr "Thunderbird 邮件客户端"
+msgid "WildWheat"
+msgstr "麦田"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "取消"
 
 #: ../en/index.html
 msgid ""
@@ -986,10 +954,8 @@ msgid "Chromium"
 msgstr "Chromium 网页浏览器"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr "请注意：这个仅仅是个在线演示。您需要下载后方可享用真实的功能"
+msgid "Archive"
+msgstr "存档"
 
 #: ../en/index.html
 msgid "delete"
@@ -1000,8 +966,8 @@ msgid "Thunderbird Mail/News"
 msgstr "Thunderbird 邮件/新闻"
 
 #: ../en/index.html
-msgid "Busy"
-msgstr "忙碌"
+msgid "Write: (no subject)"
+msgstr "撰写"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1012,16 +978,12 @@ msgid "Edit Connections…"
 msgstr "编辑连接..."
 
 #: ../en/index.html
-msgid "Printers"
-msgstr "打印机"
+msgid "Check email"
+msgstr "检查邮件"
 
 #: ../en/index.html
-msgid "Sound Settings…"
-msgstr "声音设定..."
-
-#: ../en/index.html
-msgid "Search"
-msgstr "搜索"
+msgid "Additional Drivers"
+msgstr "附加驱动"
 
 #: ../en/index.html
 msgid ""
@@ -1043,12 +1005,12 @@ msgid "Attach"
 msgstr "附加"
 
 #: ../en/index.html
-msgid "Window"
-msgstr "窗口"
+msgid "Rhythmbox Media Player"
+msgstr "Rhythmbox 媒体播放器"
 
 #: ../en/index.html
-msgid "Write: (no subject)"
-msgstr "撰写"
+msgid "System Settings"
+msgstr "系统设置…"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1070,8 +1032,8 @@ msgstr ""
 "设有6个完全不同的场景。"
 
 #: ../en/index.html
-msgid "Offline"
-msgstr "离线"
+msgid "You"
+msgstr "您"
 
 #: ../en/index.html
 msgid "Trash"
@@ -1098,8 +1060,10 @@ msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
 msgstr "使用Ubuntu 和 Firefox可以安全快速的浏览网络。"
 
 #: ../en/index.html
-msgid "Format"
-msgstr "格式"
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr "Inkscape 支持同时打开多个文件，以及每个文件多个查看器。图片可以打印或导出为 png 位图。"
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -1118,8 +1082,8 @@ msgid "1"
 msgstr "1"
 
 #: ../en/index.html
-msgid "Computer"
-msgstr "计算机"
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr "创建和编辑可缩放矢量图形(SVG)图像"
 
 #: ../en/index.html
 msgid "What's New"
@@ -1130,18 +1094,16 @@ msgid "Movie Player"
 msgstr "电影播放机"
 
 #: ../en/index.html
-msgid "Invisible"
-msgstr "隐身"
+msgid "Dash home"
+msgstr "主面板"
 
 #: ../en/index.html
 msgid "Albums"
 msgstr "专辑"
 
 #: ../en/index.html
-msgid ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
-msgstr "Inkscape 支持同时打开多个文件，以及每个文件多个查看器。图片可以打印或导出为 png 位图。"
+msgid "Search your computer and online sources"
+msgstr "搜索您的本地和在线资源"
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1152,24 +1114,16 @@ msgid "From:"
 msgstr "发件人："
 
 #: ../en/index.html
-msgid "Insert"
-msgstr "插入"
+msgid "Remote Desktop Viewer"
+msgstr "远程桌面查看器"
 
 #: ../en/index.html
-msgid "Shut Down…"
-msgstr "关机..."
+msgid "junk"
+msgstr "垃圾"
 
 #: ../en/index.html
 msgid "Fonts"
 msgstr "字体"
-
-#: ../en/index.html
-msgid "File"
-msgstr "文件"
-
-#: ../en/index.html
-msgid "Edit"
-msgstr "编辑"
 
 #: ../en/index.html
 msgid "Bluetooth On"
@@ -1196,20 +1150,8 @@ msgid "Visolate"
 msgstr "Visolate"
 
 #: ../en/index.html
-msgid "Empathy Internet Messageing"
-msgstr "Empathy 即时通讯"
-
-#: ../en/index.html
-msgid "Create and edit Scalable Vector Graphics images"
-msgstr "创建和编辑可缩放矢量图形(SVG)图像"
-
-#: ../en/index.html
-msgid "Attached Devices"
-msgstr "已连接的设备"
-
-#: ../en/index.html
-msgid "View"
-msgstr "查看"
+msgid "Sound Recorder"
+msgstr "录音机"
 
 #: ../en/index.html
 msgid "Suspend"
@@ -1236,14 +1178,8 @@ msgid "Mon 11 October, 2010"
 msgstr "2010年10月11日星期一"
 
 #: ../en/index.html
-msgid ""
-"Inkscape user interface should be familiar from CorelDraw and similar "
-"drawing programs. There are rectangles, ellipses, text items, bitmap images "
-"and freehand curves. As an added bonus, both vector and bitmap objects can "
-"have alpha transparency and can be arbitrarily transformed."
-msgstr ""
-"Inkscape 的用户界面与 CorelDraw 和同类的画图软件相似。它带有矩形、椭圆、文字、位图和自由曲线工具。此外，向量和位图对象都可以有 "
-"Alpha 透明度，并均可任意变形。"
+msgid "Lock"
+msgstr "锁定屏幕"
 
 #: ../en/index.html
 msgid "Unmute"
@@ -1274,8 +1210,8 @@ msgid "Stay Productive"
 msgstr "保持效率"
 
 #: ../en/index.html
-msgid "Table"
-msgstr "表格"
+msgid "Empathy Internet Messageing"
+msgstr "Empathy 即时通讯"
 
 #: ../en/index.html
 msgid ""
@@ -1308,29 +1244,9 @@ msgstr ""
 "nulla."
 
 #: ../en/index.html
-msgid "Tools"
-msgstr "工具"
-
-#: ../en/index.html
-msgid "Downloads"
-msgstr "下载"
-
-#: ../en/index.html
-msgid "You"
-msgstr "您"
+msgid "3.3MB"
+msgstr "3.3MB"
 
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
-
-#~ msgid "App Available for Download"
-#~ msgstr "可供下载的应用"
-
-#~ msgid "Welcome to the Ubuntu online tour!"
-#~ msgstr "欢迎尝试Ubuntu 在线体验"
-
-#~ msgid "Recent Files"
-#~ msgstr "最近打开的文件"
-
-#~ msgid "Recent Apps"
-#~ msgstr "最近的应用"

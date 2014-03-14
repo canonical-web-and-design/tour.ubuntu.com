@@ -7,23 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"POT-Creation-Date: 2014-03-11 10:57+0000\n"
+"PO-Revision-Date: 2014-03-13 11:12+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Indonesian <id@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:07+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2014-03-14 07:05+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
 msgstr "Firefox Peramban Web"
-
-#: ../en/index.html
-msgid "Lock Screen"
-msgstr "Kunci Layar"
 
 #: ../en/index.html
 msgid ""
@@ -59,6 +55,10 @@ msgstr "Ambil Surel"
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
 msgstr "PiTiVi Penyunting Video"
+
+#: ../en/index.html
+msgid "Welcome screen"
+msgstr ""
 
 #: ../en/index.html
 msgid "Internet"
@@ -105,6 +105,10 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "Paket ini memuat peramban Chromium"
+
+#: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
 msgstr ""
 
@@ -145,12 +149,12 @@ msgid "Physics based puzzle/construction game"
 msgstr ""
 
 #: ../en/index.html
-msgid "Remote Desktop Viewer"
-msgstr ""
-
-#: ../en/index.html
 msgid "Gwibber Social Client"
 msgstr "Gwibber Klien Sosial"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -169,8 +173,10 @@ msgid "On"
 msgstr ""
 
 #: ../en/index.html
-msgid "Welcome Screen"
-msgstr "Layar Selamat Datang"
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -197,10 +203,6 @@ msgid "Compatible"
 msgstr "Kompatibel"
 
 #: ../en/index.html
-msgid "Dash home"
-msgstr ""
-
-#: ../en/index.html
 msgid "From"
 msgstr "Dari"
 
@@ -209,8 +211,16 @@ msgid "Auto eth0"
 msgstr ""
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 14.04 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
 msgstr "Terima kasih telah mengeksplorasi Ubuntu!"
+
+#: ../en/index.html
+msgid "Guest Session"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -225,20 +235,20 @@ msgid "(91 Ratings)"
 msgstr ""
 
 #: ../en/index.html
-msgid "Secure"
-msgstr "Aman"
+msgid "Installed"
+msgstr "Terpasang"
 
 #: ../en/index.html
-msgid "This package contains the Chromium browser"
-msgstr "Paket ini memuat peramban Chromium"
+msgid "Exit the Tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "$9.99"
 msgstr "$9.99"
 
 #: ../en/index.html
-msgid "Help"
-msgstr "Bantuan"
+msgid "Secure"
+msgstr "Aman"
 
 #: ../en/index.html
 msgid "Mute"
@@ -322,8 +332,8 @@ msgid "Come and explore our favourites"
 msgstr ""
 
 #: ../en/index.html
-msgid "junk"
-msgstr "sampah"
+msgid "Shut Down…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send"
@@ -331,6 +341,10 @@ msgstr "Kirim"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
+msgstr ""
+
+#: ../en/index.html
+msgid "Ubuntu One Music"
 msgstr ""
 
 #: ../en/index.html
@@ -354,10 +368,6 @@ msgid "Rock Out"
 msgstr "Rock Out"
 
 #: ../en/index.html
-msgid "Connection Information"
-msgstr "Informasi Sambungan"
-
-#: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
@@ -376,20 +386,12 @@ msgid "subject"
 msgstr "subjek"
 
 #: ../en/index.html
-msgid "Available"
-msgstr "Ada"
-
-#: ../en/index.html
 msgid "All Folders"
 msgstr "Semua Folder"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
 msgstr "Jum 26 Okt, 2001"
-
-#: ../en/index.html
-msgid "Hibernate"
-msgstr "Hibernasi"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -400,46 +402,36 @@ msgid "Your Ubuntu, your way"
 msgstr ""
 
 #: ../en/index.html
-msgid "Time &amp; Date Settings…"
-msgstr ""
+msgid "Downloads"
+msgstr "Unduhan"
 
 #: ../en/index.html
 msgid "Recently Used"
 msgstr ""
 
 #: ../en/index.html
-msgid "Cancel"
-msgstr "Batal"
-
-#: ../en/index.html
-msgid "Jardin Polar"
-msgstr "Jardin Polar"
-
-#: ../en/index.html
-msgid ""
-"You can watch all your favourite films and videos, DVDs, downloads or movies "
-"you've created yourself."
+msgid "Ubuntu Help"
 msgstr ""
 
 #: ../en/index.html
-msgid "3.3MB"
-msgstr "3,3MB"
+msgid "Amazon"
+msgstr ""
+
+#: ../en/index.html
+msgid "Ctrl+Alt+L"
+msgstr ""
 
 #: ../en/index.html
 msgid "reply"
 msgstr "balas"
 
 #: ../en/index.html
-msgid "Set Up Mail…"
-msgstr "Siapkan Surel..."
+msgid "Title:"
+msgstr "Judul:"
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
-
-#: ../en/index.html
-msgid "Clear"
-msgstr "Bersihkan"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -450,13 +442,21 @@ msgid "Dybbølsbro Station"
 msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
-msgid "Log Out…"
-msgstr "Keluar..."
+msgid "About This Computer"
+msgstr ""
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "Informasi Sambungan"
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
+msgstr ""
+
+#: ../en/index.html
+msgid "Places"
 msgstr ""
 
 #: ../en/index.html
@@ -484,12 +484,10 @@ msgid "Stalking Ocelot"
 msgstr "Stalking Ocelot"
 
 #: ../en/index.html
-msgid "System Settings…"
-msgstr "Pengaturan SIstem..."
-
-#: ../en/index.html
-msgid "Startup Applications…"
-msgstr "Aplikasi Awal Mula..."
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
 
 #: ../en/index.html
 msgid "Remove"
@@ -510,8 +508,8 @@ msgid "Purple Dancers"
 msgstr "Purple Dancers"
 
 #: ../en/index.html
-msgid "from"
-msgstr "dari"
+msgid "Ubuntu One Control Panel"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -540,15 +538,15 @@ msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
 
 #: ../en/index.html
-msgid "Title:"
-msgstr "Judul:"
-
-#: ../en/index.html
 msgid "Setup new device…"
 msgstr ""
 
 #: ../en/index.html
-msgid "Introduction Ubuntu"
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
 msgstr ""
 
 #: ../en/index.html
@@ -576,10 +574,6 @@ msgid "Unread:"
 msgstr ""
 
 #: ../en/index.html
-msgid "Banshee Media Player"
-msgstr "Banshee Pemutar Media"
-
-#: ../en/index.html
 msgid ""
 "You can surf in safety with Ubuntu – confident that your files and data will "
 "stay protected. A built-in firewall and virus protection come as standard. "
@@ -597,8 +591,10 @@ msgid "Files &amp; Folders"
 msgstr ""
 
 #: ../en/index.html
-msgid "Installed"
-msgstr "Terpasang"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
 
 #: ../en/index.html
 msgid "BEEP"
@@ -617,18 +613,6 @@ msgid ""
 "Use BEEP’s anti-gravity device to directly manipulate the physics-based "
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
-msgstr ""
-
-#: ../en/index.html
-msgid "Chat"
-msgstr "Mengobrol"
-
-#: ../en/index.html
-msgid "Archive"
-msgstr "Arsip"
-
-#: ../en/index.html
-msgid "Download"
 msgstr ""
 
 #: ../en/index.html
@@ -672,14 +656,6 @@ msgid "Pictures"
 msgstr "Gambar"
 
 #: ../en/index.html
-msgid "Away"
-msgstr "Pergi"
-
-#: ../en/index.html
-msgid "Check email"
-msgstr "Periksa surel"
-
-#: ../en/index.html
 msgid "Size:"
 msgstr ""
 
@@ -700,11 +676,7 @@ msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
 
 #: ../en/index.html
-msgid "Displays…"
-msgstr ""
-
-#: ../en/index.html
-msgid "Software Up to Date"
+msgid "Sound Settings…"
 msgstr ""
 
 #: ../en/index.html
@@ -738,13 +710,11 @@ msgid "Sand Maze"
 msgstr ""
 
 #: ../en/index.html
-msgid "Ubuntu One Control Panel"
-msgstr ""
+msgid "from"
+msgstr "dari"
 
 #: ../en/index.html
-msgid ""
-"Your entire collection follows you around with music streaming to Android "
-"and iPhone"
+msgid "Introduction Ubuntu"
 msgstr ""
 
 #: ../en/index.html
@@ -785,12 +755,16 @@ msgid "Our star apps"
 msgstr ""
 
 #: ../en/index.html
+msgid "Logout"
+msgstr ""
+
+#: ../en/index.html
 msgid "The Grass Aint Greener"
 msgstr ""
 
 #: ../en/index.html
-msgid "Date"
-msgstr "Tanggal"
+msgid "forward"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -804,10 +778,6 @@ msgid "Chromium Web Browser"
 msgstr "Chromium Peramban Web"
 
 #: ../en/index.html
-msgid "Sound Recorder"
-msgstr "Perekam Suara"
-
-#: ../en/index.html
 msgid "Recipient"
 msgstr "Penerima"
 
@@ -816,15 +786,15 @@ msgid "Fast"
 msgstr "Cepat"
 
 #: ../en/index.html
+msgid "Restart"
+msgstr ""
+
+#: ../en/index.html
 msgid "Recent"
 msgstr ""
 
 #: ../en/index.html
 msgid "To:"
-msgstr ""
-
-#: ../en/index.html
-msgid "Set Up Broadcast Account…"
 msgstr ""
 
 #: ../en/index.html
@@ -843,10 +813,6 @@ msgid "Total:"
 msgstr "Total:"
 
 #: ../en/index.html
-msgid "Additional Drivers"
-msgstr ""
-
-#: ../en/index.html
 msgid "Ubuntu Software Centre"
 msgstr ""
 
@@ -863,8 +829,8 @@ msgid "System"
 msgstr "Sistem"
 
 #: ../en/index.html
-msgid "forward"
-msgstr ""
+msgid "Date"
+msgstr "Tanggal"
 
 #: ../en/index.html
 msgid ""
@@ -891,16 +857,12 @@ msgid "Items:"
 msgstr ""
 
 #: ../en/index.html
-msgid "WildWheat"
-msgstr "WildWheat"
+msgid "Ubuntu Software Center"
+msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
 msgstr "Subjek:"
-
-#: ../en/index.html
-msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
 
 #: ../en/index.html
 msgid "Backup"
@@ -955,8 +917,12 @@ msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr ""
 
 #: ../en/index.html
-msgid "Thunderbird Mail"
-msgstr ""
+msgid "WildWheat"
+msgstr "WildWheat"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "Batal"
 
 #: ../en/index.html
 msgid ""
@@ -974,10 +940,8 @@ msgid "Chromium"
 msgstr ""
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
+msgid "Archive"
+msgstr "Arsip"
 
 #: ../en/index.html
 msgid "delete"
@@ -988,7 +952,7 @@ msgid "Thunderbird Mail/News"
 msgstr ""
 
 #: ../en/index.html
-msgid "Busy"
+msgid "Write: (no subject)"
 msgstr ""
 
 #: ../en/index.html
@@ -1000,15 +964,11 @@ msgid "Edit Connections…"
 msgstr ""
 
 #: ../en/index.html
-msgid "Printers"
-msgstr ""
+msgid "Check email"
+msgstr "Periksa surel"
 
 #: ../en/index.html
-msgid "Sound Settings…"
-msgstr ""
-
-#: ../en/index.html
-msgid "Search"
+msgid "Additional Drivers"
 msgstr ""
 
 #: ../en/index.html
@@ -1031,11 +991,11 @@ msgid "Attach"
 msgstr ""
 
 #: ../en/index.html
-msgid "Window"
+msgid "Rhythmbox Media Player"
 msgstr ""
 
 #: ../en/index.html
-msgid "Write: (no subject)"
+msgid "System Settings"
 msgstr ""
 
 #: ../en/index.html
@@ -1055,8 +1015,8 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Offline"
-msgstr ""
+msgid "You"
+msgstr "Anda"
 
 #: ../en/index.html
 msgid "Trash"
@@ -1083,7 +1043,9 @@ msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
 msgstr ""
 
 #: ../en/index.html
-msgid "Format"
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
 msgstr ""
 
 #: ../en/index.html
@@ -1103,7 +1065,7 @@ msgid "1"
 msgstr ""
 
 #: ../en/index.html
-msgid "Computer"
+msgid "Create and edit Scalable Vector Graphics images"
 msgstr ""
 
 #: ../en/index.html
@@ -1115,7 +1077,7 @@ msgid "Movie Player"
 msgstr ""
 
 #: ../en/index.html
-msgid "Invisible"
+msgid "Dash home"
 msgstr ""
 
 #: ../en/index.html
@@ -1123,9 +1085,7 @@ msgid "Albums"
 msgstr ""
 
 #: ../en/index.html
-msgid ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
+msgid "Search your computer and online sources"
 msgstr ""
 
 #: ../en/index.html
@@ -1137,23 +1097,15 @@ msgid "From:"
 msgstr ""
 
 #: ../en/index.html
-msgid "Insert"
+msgid "Remote Desktop Viewer"
 msgstr ""
 
 #: ../en/index.html
-msgid "Shut Down…"
-msgstr ""
+msgid "junk"
+msgstr "sampah"
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr ""
-
-#: ../en/index.html
-msgid "File"
-msgstr ""
-
-#: ../en/index.html
-msgid "Edit"
 msgstr ""
 
 #: ../en/index.html
@@ -1181,20 +1133,8 @@ msgid "Visolate"
 msgstr ""
 
 #: ../en/index.html
-msgid "Empathy Internet Messageing"
-msgstr ""
-
-#: ../en/index.html
-msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
-
-#: ../en/index.html
-msgid "Attached Devices"
-msgstr ""
-
-#: ../en/index.html
-msgid "View"
-msgstr ""
+msgid "Sound Recorder"
+msgstr "Perekam Suara"
 
 #: ../en/index.html
 msgid "Suspend"
@@ -1220,11 +1160,7 @@ msgid "Mon 11 October, 2010"
 msgstr "Sen 11 Oktober, 2010"
 
 #: ../en/index.html
-msgid ""
-"Inkscape user interface should be familiar from CorelDraw and similar "
-"drawing programs. There are rectangles, ellipses, text items, bitmap images "
-"and freehand curves. As an added bonus, both vector and bitmap objects can "
-"have alpha transparency and can be arbitrarily transformed."
+msgid "Lock"
 msgstr ""
 
 #: ../en/index.html
@@ -1256,8 +1192,8 @@ msgid "Stay Productive"
 msgstr "Tetap Produktif"
 
 #: ../en/index.html
-msgid "Table"
-msgstr "Tabel"
+msgid "Empathy Internet Messageing"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1290,20 +1226,9 @@ msgstr ""
 "nulla."
 
 #: ../en/index.html
-msgid "Tools"
-msgstr "Perkakas"
-
-#: ../en/index.html
-msgid "Downloads"
-msgstr "Unduhan"
-
-#: ../en/index.html
-msgid "You"
-msgstr "Anda"
+msgid "3.3MB"
+msgstr "3,3MB"
 
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
-
-#~ msgid "Recent Files"
-#~ msgstr "Berkas Terkini"

@@ -7,23 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"POT-Creation-Date: 2014-03-11 10:57+0000\n"
+"PO-Revision-Date: 2014-03-13 11:12+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Shan <shn@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:07+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2014-03-14 07:05+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
 msgstr "ၶိူင်ႈပိုတ်ႇဝႅပ့်သၢႆ့ မႃလိၼ်ၾႆး"
-
-#: ../en/index.html
-msgid "Lock Screen"
-msgstr "ၶတ်းသေႃး ၽိဝ်ၼႃႈၶွမ်း"
 
 #: ../en/index.html
 msgid ""
@@ -60,6 +56,10 @@ msgstr "လႆႈ ဢီးမေးလ်"
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
 msgstr "ၵၼ်တတ်းတေႃႇငဝ်းတူင့် PiTiVi"
+
+#: ../en/index.html
+msgid "Welcome screen"
+msgstr ""
 
 #: ../en/index.html
 msgid "Internet"
@@ -112,6 +112,10 @@ msgstr ""
 "ၶွမ်ႇၽိဝ်းထိူဝ်ႇ?"
 
 #: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "ပူၵ့်ႁေႃႇဢၼ်ၼႆ့ မၼ်းပႃးဝႆ့ ၶိူင်ႈပိုတ်ႇဝႅပ့်သၢႆ့ ၶရူမ်းမီယမ်ႇ"
+
+#: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
 msgstr "ၵၼ်သပ်းလႅင်း လီပရီႇၵၼ်လုမ်း - ဢမ်ႇပႆႇလႆႈပၼ်ၸိုဝ်ႈ 1"
 
@@ -161,12 +165,12 @@ msgid "Physics based puzzle/construction game"
 msgstr "ၽတ့်သႂ်ႇ ဢၼ်ဢင်ၼိူဝ် ပၢႆးႁၢင်ႈ/ ၵဵမ်းၵေႃႇသၢင်ႈ"
 
 #: ../en/index.html
-msgid "Remote Desktop Viewer"
-msgstr "တီႈတူၺ်း ၼႃႈၶွမ်း ဢၼ်မီးတီႈၵႆ"
-
-#: ../en/index.html
 msgid "Gwibber Social Client"
 msgstr "Gwibber ၶိူင်ႈၸႂ်ႉတႃႇၵပ်းသိုပ်ႇ တူင်ႇဝူင်း"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -185,8 +189,10 @@ msgid "On"
 msgstr "ပိုတ်ႇ"
 
 #: ../en/index.html
-msgid "Welcome Screen"
-msgstr "ၽိဝ်ၼႃႈ ႁူမ်ၸုမ်းႁပ့်တွၼ်ႈ"
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -215,10 +221,6 @@ msgid "Compatible"
 msgstr "ဢၼ်သၢင်ႇထုၵ်ႇမႅၼ်ႈ"
 
 #: ../en/index.html
-msgid "Dash home"
-msgstr "ၽိုၼ်ငဝ်ႈ"
-
-#: ../en/index.html
 msgid "From"
 msgstr "မႃးတီႈ"
 
@@ -227,8 +229,16 @@ msgid "Auto eth0"
 msgstr "eth0 ႁင်းၵူၺ်း"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 14.04 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
 msgstr "ၶွပ်ႈၸႂ်ထိုင် ၵွပ်ႈမႃးလဵပ်ႈႁဵၼ်းတူၺ်း ဢူးပုၼ်းတု"
+
+#: ../en/index.html
+msgid "Guest Session"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -243,20 +253,20 @@ msgid "(91 Ratings)"
 msgstr "(လႆႈမႆ 91)"
 
 #: ../en/index.html
-msgid "Secure"
-msgstr "ႁူမ်ႇလူမ်ႈလီ"
+msgid "Installed"
+msgstr "ၸိူဝ်းဢူၼ်းသႂ်ႇယဝ့်"
 
 #: ../en/index.html
-msgid "This package contains the Chromium browser"
-msgstr "ပူၵ့်ႁေႃႇဢၼ်ၼႆ့ မၼ်းပႃးဝႆ့ ၶိူင်ႈပိုတ်ႇဝႅပ့်သၢႆ့ ၶရူမ်းမီယမ်ႇ"
+msgid "Exit the Tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "$9.99"
 msgstr "$9.99"
 
 #: ../en/index.html
-msgid "Help"
-msgstr "လွင်ႈၸွႆႈထႅမ်"
+msgid "Secure"
+msgstr "ႁူမ်ႇလူမ်ႈလီ"
 
 #: ../en/index.html
 msgid "Mute"
@@ -341,8 +351,8 @@ msgid "Come and explore our favourites"
 msgstr "မႃးတူၺ်း ၸိူဝ်းဢၼ် ထုၵ်ႇမႅၼ်ႈၸႂ်ႁဝ်း"
 
 #: ../en/index.html
-msgid "junk"
-msgstr "junk"
+msgid "Shut Down…"
+msgstr "ၵိုတ်းၸၢၵ်ႈ..."
 
 #: ../en/index.html
 msgid "Send"
@@ -351,6 +361,10 @@ msgstr "သူင်ႇ"
 #: ../en/index.html
 msgid "Darkening Clockwork"
 msgstr "Darkening Clockwork"
+
+#: ../en/index.html
+msgid "Ubuntu One Music"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -371,10 +385,6 @@ msgstr "AisleRoit Solitaire"
 #: ../en/index.html
 msgid "Rock Out"
 msgstr "ရႂၵ့်ဢွၵ့်ထ်"
-
-#: ../en/index.html
-msgid "Connection Information"
-msgstr "လွၼ့်ၶၢဝ်ႇ လွင်ႈၵွင့်သိုပ်ႇ"
 
 #: ../en/index.html
 msgid ""
@@ -399,20 +409,12 @@ msgid "subject"
 msgstr "လွင်ႈတၢင်း"
 
 #: ../en/index.html
-msgid "Available"
-msgstr "တူဝ်ႈတၼ်း"
-
-#: ../en/index.html
 msgid "All Folders"
 msgstr "ဢိူပ်ႇတင်းမူတ်း"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
 msgstr "26 ဝၼ်းသုၵ်း၊ လိူၼ်ဢွၵ်ႇထူဝ်ႇပိူဝ်ႇ၊ 2001"
-
-#: ../en/index.html
-msgid "Hibernate"
-msgstr "ၶွမ်းၼွၼ်း"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -423,47 +425,37 @@ msgid "Your Ubuntu, your way"
 msgstr "ဢူးပုၼ်းတုၸဝ်ႈၵဝ် ပဵၼ်တၢင်းၸဝ်ႈၵဝ်ႇ"
 
 #: ../en/index.html
-msgid "Time &amp; Date Settings…"
-msgstr "ၶၢဝ်းယၢမ်း &amp; ႁႅၼ်းပိူင်တႃႇ ဝၼ်းထီ့"
+msgid "Downloads"
+msgstr "လူတ်ႇလူင်း"
 
 #: ../en/index.html
 msgid "Recently Used"
 msgstr "ၸိူဝ်းၸႂ့်ၵႂႃႇ ပႆႇပေႃးႁိုင်"
 
 #: ../en/index.html
-msgid "Cancel"
-msgstr "ယႃ့"
-
-#: ../en/index.html
-msgid "Jardin Polar"
-msgstr "Jardin Polar"
-
-#: ../en/index.html
-msgid ""
-"You can watch all your favourite films and videos, DVDs, downloads or movies "
-"you've created yourself."
+msgid "Ubuntu Help"
 msgstr ""
 
 #: ../en/index.html
-msgid "3.3MB"
-msgstr "3.3MB"
+msgid "Amazon"
+msgstr ""
+
+#: ../en/index.html
+msgid "Ctrl+Alt+L"
+msgstr ""
 
 #: ../en/index.html
 msgid "reply"
 msgstr "တွပ်ႇၶိုၼ်း"
 
 #: ../en/index.html
-msgid "Set Up Mail…"
-msgstr "မၵ်းသႂ်ႇ မႄးလ်..."
+msgid "Title:"
+msgstr "ႁူဝ်ၶေႃႈ"
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
 "သွၵ်ႈႁႃ သေ လူတ်ႇလူင်းဢဝ် ဢႅပ်ႇ တီႈ ငဝ်ႈတီႈသွပ့်ၾ်ဝႄးလ် ဢူးပုၼ်းတု လႆႈဝႆးဝႆး။"
-
-#: ../en/index.html
-msgid "Clear"
-msgstr "ၽႅဝ်ႈ"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -474,8 +466,12 @@ msgid "Dybbølsbro Station"
 msgstr "တႃႈ Dybbølsbro"
 
 #: ../en/index.html
-msgid "Log Out…"
-msgstr "ၽွမ့်ဢွၵ်ႇ..."
+msgid "About This Computer"
+msgstr ""
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "လွၼ့်ၶၢဝ်ႇ လွင်ႈၵွင့်သိုပ်ႇ"
 
 #: ../en/index.html
 msgid ""
@@ -485,6 +481,10 @@ msgstr ""
 "ယွႆးလင် ဢၼ်ၸႂ့်တၢင်ႇဢၼ်ၼႆ့ ပဵၼ် ruby, libxml-xql-perl, python-numpy, လႄႈ "
 "python-lxml. ၸဝ်ႈၵဝ်ႇတေလႆႈမီး ထုပ့်ႁေႃႇဢၼ်ၼႆ့ တွၼ်ႈတႃႇတေႁဵတ်းႁႂ်ႈၸႂ့်လႆႈ "
 "ယွႆးလင် လႄႈ ဢီႇၾႅၵ့် မၼ်းတဵမ်တဵမ်ထူၼ်ႈထူၼ်ႈ။"
+
+#: ../en/index.html
+msgid "Places"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
@@ -511,12 +511,12 @@ msgid "Stalking Ocelot"
 msgstr "Stalking Ocelot"
 
 #: ../en/index.html
-msgid "System Settings…"
-msgstr "ႁႅၼ်းပိူင် တႃႇ ပိူင်ႈသၢင်ႈ..."
-
-#: ../en/index.html
-msgid "Startup Applications…"
-msgstr "ဢႅပ်ႇပရီႇၶိူဝ်းသျိၼ်း တႄႇႁူဝ်..."
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
+"လွင်ႈၵဵပ်းႁွမ် သဵၼ်ႈသၢႆ ၽဵင်းၵႂၢမ်းၸဝ်ႈၵဝ်ႇ ဢၼ်မီးတီႈ Android လႄႈ iPhone "
+"ၼၼ့် မၼ်းတေၸွမ်းလင်ၸဝ်ႈၵဝ်ႇ ဝႆ့ယူႇတႃႇသေ။"
 
 #: ../en/index.html
 msgid "Remove"
@@ -540,8 +540,8 @@ msgid "Purple Dancers"
 msgstr "ပီပွင်း ၸိူဝ်းမေႃၵႃႈ"
 
 #: ../en/index.html
-msgid "from"
-msgstr "မႃးတီႈ"
+msgid "Ubuntu One Control Panel"
+msgstr "ဢွင်ႈတီႈၵုမ်းထိင်း ဢူးပုၼ်းတုဝၼ်း"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -575,16 +575,21 @@ msgstr ""
 "ၶိုၼ်းၸႂ့် သွႆ့ၸဝ်ႈၵဝ်ႇ။"
 
 #: ../en/index.html
-msgid "Title:"
-msgstr "ႁူဝ်ၶေႃႈ"
-
-#: ../en/index.html
 msgid "Setup new device…"
 msgstr "မၵ်းသႂ်ႇ ၶိူင်ႈဢၼ်မႂ်ႇ..."
 
 #: ../en/index.html
-msgid "Introduction Ubuntu"
-msgstr "ၵပ်းသိုပ်ႇမိုတ်ႈ ဢူးပုၼ်းတု"
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+"ပိူင်ၽၢင်ႈႁၢင်ႈ ဢိၼ်းသၶဵပ့်ၼႆ့ မၼ်းၵေႃႈ မိူၼ်တင်း CorelDraw လႄႈ ၼင်ႇ "
+"ၽရူဝ်းၶရႅမ်ႇ ဢၼ်ၸၼ်ႁၢင်ႈၵမ့်ၼမ်ၼမ်။ မၼ်းတေမီး ectangles, ellipses, text "
+"items, bitmap images လႄႈ freehand curves။ တွၼ်ႈသူး ဢၼ်ထႅမ်သႂ်ႇဝႆ့ "
+"ဢၼ်လိူဝ်မၼ်းတႄ့ မၼ်းတေပႃးဝႆ့ alpha transparency ဢၼ် "
+"ပိုၼ့်လင်မၼ်းပွင်ႇဝႆ့ၼၼ့်ၶႃႈယဝ့်။"
 
 #: ../en/index.html
 msgid "Videos"
@@ -616,10 +621,6 @@ msgstr ""
 #: ../en/index.html
 msgid "Unread:"
 msgstr "ဢၼ်ပႆႇလႆႈလူ"
-
-#: ../en/index.html
-msgid "Banshee Media Player"
-msgstr "ၶိူင်ႈပိုတ်ႇ သီႇၶၢဝ်ႇ ပႅၼ်းသျီး"
 
 #: ../en/index.html
 msgid ""
@@ -656,8 +657,13 @@ msgid "Files &amp; Folders"
 msgstr "သွႆ့ &amp; ဢိူပ်ႇ"
 
 #: ../en/index.html
-msgid "Installed"
-msgstr "ၸိူဝ်းဢူၼ်းသႂ်ႇယဝ့်"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"တွင်းဝႆ့လႄႈ၊ ဢၼ်ၼႆ့ၵူၺ်းပဵၼ် တီႇမူဝ်ႇၵူၺ်း။ တႃႇၸဝ်ႈၵဝ်ႇတေလႆႈ "
+"ၸႂ့်တူၺ်းၶဝ်ႈႁူမ်ႈပႃးလႆ ၸိူဝ်းပဵၼ် ဢၼ်မၢၼ်ႇမႅၼ်ႈမၼ်းၼၼ့် "
+"ၸဝ်ႈၵဝ်ႇတေလႆႈလူတ်ႇလူင်းၵွၼ်ႇ။"
 
 #: ../en/index.html
 msgid "BEEP"
@@ -683,18 +689,6 @@ msgstr ""
 "ပဵၼ်ပႃးတႃႇႁဵတ်း ၶိူင်ႈယိပ်း လၢၵ်ႈၼၢၵ်ႈသေလူးၵွၼ်ႇ။  ၸႂ့်တိုဝ်း ဢၼ်ၼၼ့်သေၵေႃႈ "
 "ၶိုၼ်းတိုၵ်း ၵူၼ်းၸၢၵ်ႈၽူႈၶဵၼ်၊ ၵေႃႈသၢင်ႈ ၶဵင်ႇသူင် လႄႈ ၵႄႈလိတ်ႈ "
 "ၽတ့်သႂ်ႇၵႂႃႇ။"
-
-#: ../en/index.html
-msgid "Chat"
-msgstr "ၵုမ်"
-
-#: ../en/index.html
-msgid "Archive"
-msgstr "ၵၼ်ႁွမ်သိမ်း"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "လူတ်ႇလူင်း"
 
 #: ../en/index.html
 msgid "Home"
@@ -737,14 +731,6 @@ msgid "Pictures"
 msgstr "ႁၢင်ႈ"
 
 #: ../en/index.html
-msgid "Away"
-msgstr "တိုၵ့်မီးၵႆ"
-
-#: ../en/index.html
-msgid "Check email"
-msgstr "ၵုတ်ႇတူၺ်း ဢီးမေးလ်"
-
-#: ../en/index.html
 msgid "Size:"
 msgstr "သႅၼ်း:"
 
@@ -768,12 +754,8 @@ msgstr ""
 "ပိူင်လိူင်းတွၼ်ႈတႃႇ ၽိုၼ်ႈလိၵ်ႈၵၢၼ်လူင်။"
 
 #: ../en/index.html
-msgid "Displays…"
-msgstr "ပိုတ်ၼႄ..."
-
-#: ../en/index.html
-msgid "Software Up to Date"
-msgstr "သွပ့်ၾ်ဝႄး ၸိူဝ်းပဵၼ် ဢၢပ့်တဵၵ့်"
+msgid "Sound Settings…"
+msgstr "ႁဵၼ်းပိူင်သဵင်..."
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -811,16 +793,12 @@ msgid "Sand Maze"
 msgstr "သူင်ႇ Maze"
 
 #: ../en/index.html
-msgid "Ubuntu One Control Panel"
-msgstr "ဢွင်ႈတီႈၵုမ်းထိင်း ဢူးပုၼ်းတုဝၼ်း"
+msgid "from"
+msgstr "မႃးတီႈ"
 
 #: ../en/index.html
-msgid ""
-"Your entire collection follows you around with music streaming to Android "
-"and iPhone"
-msgstr ""
-"လွင်ႈၵဵပ်းႁွမ် သဵၼ်ႈသၢႆ ၽဵင်းၵႂၢမ်းၸဝ်ႈၵဝ်ႇ ဢၼ်မီးတီႈ Android လႄႈ iPhone "
-"ၼၼ့် မၼ်းတေၸွမ်းလင်ၸဝ်ႈၵဝ်ႇ ဝႆ့ယူႇတႃႇသေ။"
+msgid "Introduction Ubuntu"
+msgstr "ၵပ်းသိုပ်ႇမိုတ်ႈ ဢူးပုၼ်းတု"
 
 #: ../en/index.html
 msgid "to"
@@ -874,12 +852,16 @@ msgid "Our star apps"
 msgstr "ဢႅပ့် ၸိူဝ်းလႆႈလၢဝ်"
 
 #: ../en/index.html
+msgid "Logout"
+msgstr ""
+
+#: ../en/index.html
 msgid "The Grass Aint Greener"
 msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
-msgid "Date"
-msgstr "ဝၼ်းထီ့"
+msgid "forward"
+msgstr "သိုပ်ႇယိုၼ်ႈ"
 
 #: ../en/index.html
 msgid ""
@@ -897,10 +879,6 @@ msgid "Chromium Web Browser"
 msgstr "ၶိူင်ႈပိုတ်ႇဝႅပ့်သၢႆ့  ၶရူမ်းမီႇယမ်ႇ"
 
 #: ../en/index.html
-msgid "Sound Recorder"
-msgstr "ၶိူင်ႈတီ့သဵင်"
-
-#: ../en/index.html
 msgid "Recipient"
 msgstr "ၽူႈႁပ့်ၶၢမ်ႇ"
 
@@ -909,16 +887,16 @@ msgid "Fast"
 msgstr "ဝႆးဝႆး"
 
 #: ../en/index.html
+msgid "Restart"
+msgstr ""
+
+#: ../en/index.html
 msgid "Recent"
 msgstr "ၵၢၼ်ပူၼ့်မႃး"
 
 #: ../en/index.html
 msgid "To:"
 msgstr "ထိုင်"
-
-#: ../en/index.html
-msgid "Set Up Broadcast Account…"
-msgstr "မၵ်းသႂ်ႇ ဢၶွင့် ပိုၼ်ႁၢင်ႈသဵင်"
 
 #: ../en/index.html
 msgid "Date:"
@@ -941,10 +919,6 @@ msgid "Total:"
 msgstr "တင်းမူတ်း"
 
 #: ../en/index.html
-msgid "Additional Drivers"
-msgstr "တရၢႆႇပိူဝ်ႇ ၸိူဝ်းထႅမ်သႂ်ႇလႆႈထႅင်ႈ"
-
-#: ../en/index.html
 msgid "Ubuntu Software Centre"
 msgstr "ငဝ်ႈတီႈ သွပ့်ၾ်ဝႄးလ် ဢူးပုၼ်းတု"
 
@@ -961,8 +935,8 @@ msgid "System"
 msgstr "ပိူင်သၢင်ႈ"
 
 #: ../en/index.html
-msgid "forward"
-msgstr "သိုပ်ႇယိုၼ်ႈ"
+msgid "Date"
+msgstr "ဝၼ်းထီ့"
 
 #: ../en/index.html
 msgid ""
@@ -994,16 +968,12 @@ msgid "Items:"
 msgstr "ၶိူဝ်ႁူဝ်ယွႆႈ"
 
 #: ../en/index.html
-msgid "WildWheat"
-msgstr "WildWheat"
+msgid "Ubuntu Software Center"
+msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
 msgstr "လွင်ႈတၢင်း"
-
-#: ../en/index.html
-msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
 
 #: ../en/index.html
 msgid "Backup"
@@ -1069,8 +1039,12 @@ msgstr ""
 "ၸိူဝ်းဢၼ်မီးတီႈၼိူဝ် ၶွမ်း၊ မူဝ်ႇပၢႆး လႄႈ ဝႅပ့်။"
 
 #: ../en/index.html
-msgid "Thunderbird Mail"
-msgstr "မႄးလ် ၼူၵ့်ၾႃ့မႅပ်ႈ"
+msgid "WildWheat"
+msgstr "WildWheat"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "ယႃ့"
 
 #: ../en/index.html
 msgid ""
@@ -1092,13 +1066,8 @@ msgid "Chromium"
 msgstr "ၶရူမ်းမီယမ်"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
-"တွင်းဝႆ့လႄႈ၊ ဢၼ်ၼႆ့ၵူၺ်းပဵၼ် တီႇမူဝ်ႇၵူၺ်း။ တႃႇၸဝ်ႈၵဝ်ႇတေလႆႈ "
-"ၸႂ့်တူၺ်းၶဝ်ႈႁူမ်ႈပႃးလႆ ၸိူဝ်းပဵၼ် ဢၼ်မၢၼ်ႇမႅၼ်ႈမၼ်းၼၼ့် "
-"ၸဝ်ႈၵဝ်ႇတေလႆႈလူတ်ႇလူင်းၵွၼ်ႇ။"
+msgid "Archive"
+msgstr "ၵၼ်ႁွမ်သိမ်း"
 
 #: ../en/index.html
 msgid "delete"
@@ -1109,8 +1078,8 @@ msgid "Thunderbird Mail/News"
 msgstr "မႄးလ်/ၶၢဝ်ႇ ၼူၵ့်ၾႃ့မႅပ်ႈ"
 
 #: ../en/index.html
-msgid "Busy"
-msgstr "တိုၵ့်သုၵ့်"
+msgid "Write: (no subject)"
+msgstr "တႅမ်ႈ (ဢမ်ႇပႆႇမီး လွင်တၢင်း)"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1121,16 +1090,12 @@ msgid "Edit Connections…"
 msgstr "ထတ်းသၢင်ႈ လွင်ႈၵွင့်သိုပ်ႇ..."
 
 #: ../en/index.html
-msgid "Printers"
-msgstr "ၶိူင်ႈဢိတ်ႇဢွၵ်ႇ"
+msgid "Check email"
+msgstr "ၵုတ်ႇတူၺ်း ဢီးမေးလ်"
 
 #: ../en/index.html
-msgid "Sound Settings…"
-msgstr "ႁဵၼ်းပိူင်သဵင်..."
-
-#: ../en/index.html
-msgid "Search"
-msgstr "သွၵ်ႈ"
+msgid "Additional Drivers"
+msgstr "တရၢႆႇပိူဝ်ႇ ၸိူဝ်းထႅမ်သႂ်ႇလႆႈထႅင်ႈ"
 
 #: ../en/index.html
 msgid ""
@@ -1156,12 +1121,12 @@ msgid "Attach"
 msgstr "ႁွႆႈပႃး"
 
 #: ../en/index.html
-msgid "Window"
-msgstr "ဝိၼ်းတူဝ်း"
+msgid "Rhythmbox Media Player"
+msgstr ""
 
 #: ../en/index.html
-msgid "Write: (no subject)"
-msgstr "တႅမ်ႈ (ဢမ်ႇပႆႇမီး လွင်တၢင်း)"
+msgid "System Settings"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1186,8 +1151,8 @@ msgstr ""
 "တေလႆႈလတ်းၶၢမ်ႈ တူင်ႇဝူင်းၽူႈၶဵၼ် 6 ဢၼ်။"
 
 #: ../en/index.html
-msgid "Offline"
-msgstr "ဢမ်ႇၸႂ့်တိုဝ်းဝႆ့"
+msgid "You"
+msgstr "ၸဝ်ႈၵဝ်ႇ"
 
 #: ../en/index.html
 msgid "Trash"
@@ -1216,8 +1181,13 @@ msgstr ""
 "ႁူမ်ႇလူမ်ႈလီ။"
 
 #: ../en/index.html
-msgid "Format"
-msgstr "ပိူင်တမ်း"
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+"ဢိၼ်းၸၶဵပ့်ၼႆ့ ၵမ့်ထႅမ်ပၼ်လႆႈ ပိုတ်ႇသွႆ့လၢႆဢၼ် ႁူမ်ႈမိူဝ်ႈလဵဝ်ၵၼ် လႄႈ "
+"သွႆ့ၼိုင်ႈသွႆ့ၼႆ့ တူၺ်းလႆႈလၢႆလၢႆး။ ႁၢင်ႈၸၼ်ၸိူဝ်းၼႆ့ ၸၢင်ႈဢိတ်ႇဢွၵ်ႇ လႄႈ "
+"ၸၢင်ႈသူင်ႇဢွၵ်ႇ ႁႂ်ႈပဵၼ် ပိူင်တမ်း png bitmaps။"
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -1236,8 +1206,10 @@ msgid "1"
 msgstr "1"
 
 #: ../en/index.html
-msgid "Computer"
-msgstr "ၶွမ်ႇၽိဝ်းထိူဝ်ႇ"
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr ""
+"ၵေႃႇသၢင်ႈ လႄႈ ထတ်းသၢင်ႈ ဢၼ်ပဵၼ် ပၢႆးၸၼ်ႁၢင်ႈ ဝႅၵ်ႇတိူဝ်ႇ "
+"ၸိူဝ်းၶႂၢၵ်ႈလႆႈႁုပ်ႈလႆႈၼၼ့်။"
 
 #: ../en/index.html
 msgid "What's New"
@@ -1248,21 +1220,16 @@ msgid "Movie Player"
 msgstr "ၶိူင်ႈၸၢၵ်ႈ ၽုၺ်ႇငဝ်း"
 
 #: ../en/index.html
-msgid "Invisible"
-msgstr "လပ့်တူဝ်"
+msgid "Dash home"
+msgstr "ၽိုၼ်ငဝ်ႈ"
 
 #: ../en/index.html
 msgid "Albums"
 msgstr "ဢႅဝ်ႇပၢၼ်ႇ"
 
 #: ../en/index.html
-msgid ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
+msgid "Search your computer and online sources"
 msgstr ""
-"ဢိၼ်းၸၶဵပ့်ၼႆ့ ၵမ့်ထႅမ်ပၼ်လႆႈ ပိုတ်ႇသွႆ့လၢႆဢၼ် ႁူမ်ႈမိူဝ်ႈလဵဝ်ၵၼ် လႄႈ "
-"သွႆ့ၼိုင်ႈသွႆ့ၼႆ့ တူၺ်းလႆႈလၢႆလၢႆး။ ႁၢင်ႈၸၼ်ၸိူဝ်းၼႆ့ ၸၢင်ႈဢိတ်ႇဢွၵ်ႇ လႄႈ "
-"ၸၢင်ႈသူင်ႇဢွၵ်ႇ ႁႂ်ႈပဵၼ် ပိူင်တမ်း png bitmaps။"
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1273,24 +1240,16 @@ msgid "From:"
 msgstr "မႃးတီႈ"
 
 #: ../en/index.html
-msgid "Insert"
-msgstr "ၸိမ်သႂ်ႇ"
+msgid "Remote Desktop Viewer"
+msgstr "တီႈတူၺ်း ၼႃႈၶွမ်း ဢၼ်မီးတီႈၵႆ"
 
 #: ../en/index.html
-msgid "Shut Down…"
-msgstr "ၵိုတ်းၸၢၵ်ႈ..."
+msgid "junk"
+msgstr "junk"
 
 #: ../en/index.html
 msgid "Fonts"
 msgstr "ၾွၼ့်"
-
-#: ../en/index.html
-msgid "File"
-msgstr "သွႆ့"
-
-#: ../en/index.html
-msgid "Edit"
-msgstr "ထတ်း"
 
 #: ../en/index.html
 msgid "Bluetooth On"
@@ -1317,22 +1276,8 @@ msgid "Visolate"
 msgstr "Visolate"
 
 #: ../en/index.html
-msgid "Empathy Internet Messageing"
-msgstr "Empathy ၵၼ်သူင်လိၵ်ႈၵႂၢမ်းပွတ်း ၼိူဝ်ဢိၼ်ႇထိူဝ်ႇၼႅတ့်"
-
-#: ../en/index.html
-msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
-"ၵေႃႇသၢင်ႈ လႄႈ ထတ်းသၢင်ႈ ဢၼ်ပဵၼ် ပၢႆးၸၼ်ႁၢင်ႈ ဝႅၵ်ႇတိူဝ်ႇ "
-"ၸိူဝ်းၶႂၢၵ်ႈလႆႈႁုပ်ႈလႆႈၼၼ့်။"
-
-#: ../en/index.html
-msgid "Attached Devices"
-msgstr "ၶိူင်ႈၸိူဝ်း ၵွင့်တၢႆးဝႆ့"
-
-#: ../en/index.html
-msgid "View"
-msgstr "ၵၼ်တူၺ်း"
+msgid "Sound Recorder"
+msgstr "ၶိူင်ႈတီ့သဵင်"
 
 #: ../en/index.html
 msgid "Suspend"
@@ -1363,17 +1308,8 @@ msgid "Mon 11 October, 2010"
 msgstr "11 ဝၼ်းၸၼ်၊ လိူၼ်ဢွၵ်ႇထူဝ်ႇပိူဝ်ႇ၊ 2010"
 
 #: ../en/index.html
-msgid ""
-"Inkscape user interface should be familiar from CorelDraw and similar "
-"drawing programs. There are rectangles, ellipses, text items, bitmap images "
-"and freehand curves. As an added bonus, both vector and bitmap objects can "
-"have alpha transparency and can be arbitrarily transformed."
+msgid "Lock"
 msgstr ""
-"ပိူင်ၽၢင်ႈႁၢင်ႈ ဢိၼ်းသၶဵပ့်ၼႆ့ မၼ်းၵေႃႈ မိူၼ်တင်း CorelDraw လႄႈ ၼင်ႇ "
-"ၽရူဝ်းၶရႅမ်ႇ ဢၼ်ၸၼ်ႁၢင်ႈၵမ့်ၼမ်ၼမ်။ မၼ်းတေမီး ectangles, ellipses, text "
-"items, bitmap images လႄႈ freehand curves။ တွၼ်ႈသူး ဢၼ်ထႅမ်သႂ်ႇဝႆ့ "
-"ဢၼ်လိူဝ်မၼ်းတႄ့ မၼ်းတေပႃးဝႆ့ alpha transparency ဢၼ် "
-"ပိုၼ့်လင်မၼ်းပွင်ႇဝႆ့ၼၼ့်ၶႃႈယဝ့်။"
 
 #: ../en/index.html
 msgid "Unmute"
@@ -1404,8 +1340,8 @@ msgid "Stay Productive"
 msgstr "လွင်ႈႁဵတ်းဢွၵ်ႇလႆႈ"
 
 #: ../en/index.html
-msgid "Table"
-msgstr "လွၵ်းၸရၢင်း"
+msgid "Empathy Internet Messageing"
+msgstr "Empathy ၵၼ်သူင်လိၵ်ႈၵႂၢမ်းပွတ်း ၼိူဝ်ဢိၼ်ႇထိူဝ်ႇၼႅတ့်"
 
 #: ../en/index.html
 msgid ""
@@ -1438,29 +1374,9 @@ msgstr ""
 "nulla."
 
 #: ../en/index.html
-msgid "Tools"
-msgstr "ၶိူင်ႈ"
-
-#: ../en/index.html
-msgid "Downloads"
-msgstr "လူတ်ႇလူင်း"
-
-#: ../en/index.html
-msgid "You"
-msgstr "ၸဝ်ႈၵဝ်ႇ"
+msgid "3.3MB"
+msgstr "3.3MB"
 
 #: ../en/index.html
 msgid "Blender"
 msgstr "ပလႅၼ်ႇတႃႇ"
-
-#~ msgid "Recent Files"
-#~ msgstr "သွႆ့ ၸိူဝ်းမိူဝ်ႈၵႆႈ"
-
-#~ msgid "Recent Apps"
-#~ msgstr "ဢႅပ့်ၸိူဝ်းၸႂ့်မႃး"
-
-#~ msgid "Welcome to the Ubuntu online tour!"
-#~ msgstr "ႁူမ်ၸုမ်းႁပ့်တွၼ်ႈ တီႈလေႇယဵမ်ႈ ဢူးပုၼ်းတု တီႈၼိူဝ် ပိုတ်ႇသၢႆ!"
-
-#~ msgid "App Available for Download"
-#~ msgstr "ဢႅပ့် ၸိူဝ်းဢၼ် လူတ်ႇလူင်းလႆႈ"
