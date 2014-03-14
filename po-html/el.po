@@ -7,23 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"POT-Creation-Date: 2014-03-11 10:57+0000\n"
+"PO-Revision-Date: 2014-03-13 11:12+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek <el@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:07+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2014-03-14 07:05+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
 msgstr "Περιηγητής Firefox"
-
-#: ../en/index.html
-msgid "Lock Screen"
-msgstr "Κλείδωμα οθόνης"
 
 #: ../en/index.html
 msgid ""
@@ -59,6 +55,10 @@ msgstr "Λήψη αλληλογραφίας"
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
 msgstr "Επεξεργασία βίντεο PiTiVi"
+
+#: ../en/index.html
+msgid "Welcome screen"
+msgstr ""
 
 #: ../en/index.html
 msgid "Internet"
@@ -110,6 +110,10 @@ msgstr ""
 "απενεργοποιήσετε τον υπολογιστή;"
 
 #: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "Το πακέτο αυτό περιέχει τον περιηγητή Chromium"
+
+#: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
 msgstr "Χωρίς τίτλο 1 - LibreOffice Impress"
 
@@ -155,12 +159,12 @@ msgid "Physics based puzzle/construction game"
 msgstr "Παιχνίδι παζλ/κατασκευής βασισμένο στην Φυσική"
 
 #: ../en/index.html
-msgid "Remote Desktop Viewer"
-msgstr "Προβολή απομακρυσμένης επιφάνειας εργασίας"
-
-#: ../en/index.html
 msgid "Gwibber Social Client"
 msgstr "Λογισμικό κοινωνικής δικτύωσης Gwibber"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -179,8 +183,10 @@ msgid "On"
 msgstr "Ενεργό"
 
 #: ../en/index.html
-msgid "Welcome Screen"
-msgstr "Οθόνη καλωσορίσματος"
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -207,10 +213,6 @@ msgid "Compatible"
 msgstr "Συμβατό"
 
 #: ../en/index.html
-msgid "Dash home"
-msgstr "Αρχή του Dash"
-
-#: ../en/index.html
 msgid "From"
 msgstr "Από"
 
@@ -219,8 +221,16 @@ msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 14.04 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
 msgstr "Ευχαριστούμε που εξερευνάτε το Ubuntu!"
+
+#: ../en/index.html
+msgid "Guest Session"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -235,20 +245,20 @@ msgid "(91 Ratings)"
 msgstr "(91 αξιολογήσεις)"
 
 #: ../en/index.html
-msgid "Secure"
-msgstr "Ασφαλές"
+msgid "Installed"
+msgstr "Εγκατεστημένο"
 
 #: ../en/index.html
-msgid "This package contains the Chromium browser"
-msgstr "Το πακέτο αυτό περιέχει τον περιηγητή Chromium"
+msgid "Exit the Tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "$9.99"
 msgstr "9.99€"
 
 #: ../en/index.html
-msgid "Help"
-msgstr "Βοήθεια"
+msgid "Secure"
+msgstr "Ασφαλές"
 
 #: ../en/index.html
 msgid "Mute"
@@ -333,8 +343,8 @@ msgid "Come and explore our favourites"
 msgstr "Εξερευνήστε τα αγαπημένα μας"
 
 #: ../en/index.html
-msgid "junk"
-msgstr "ανεπιθύμητα"
+msgid "Shut Down…"
+msgstr "Τερματισμός…"
 
 #: ../en/index.html
 msgid "Send"
@@ -343,6 +353,10 @@ msgstr "Αποστολή"
 #: ../en/index.html
 msgid "Darkening Clockwork"
 msgstr "Μελανός χρόνος"
+
+#: ../en/index.html
+msgid "Ubuntu One Music"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -363,10 +377,6 @@ msgstr "Πασιέντζα AisleRoit"
 #: ../en/index.html
 msgid "Rock Out"
 msgstr "Ροκάρετε"
-
-#: ../en/index.html
-msgid "Connection Information"
-msgstr "Πληροφορίες σύνδεσης"
 
 #: ../en/index.html
 msgid ""
@@ -390,20 +400,12 @@ msgid "subject"
 msgstr "θέμα"
 
 #: ../en/index.html
-msgid "Available"
-msgstr "Διαθέσιμος/η"
-
-#: ../en/index.html
 msgid "All Folders"
 msgstr "Όλοι οι φάκελοι"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
 msgstr "Παρ 26 Οκτ. 2001"
-
-#: ../en/index.html
-msgid "Hibernate"
-msgstr "Αδρανοποίηση"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -414,47 +416,37 @@ msgid "Your Ubuntu, your way"
 msgstr "Το δικό σας Ubuntu, ο δικός σας τρόπος"
 
 #: ../en/index.html
-msgid "Time &amp; Date Settings…"
-msgstr "Ρυθμίσεις Ώρας &amp; και Ημ/νιας..."
+msgid "Downloads"
+msgstr "Λήψεις"
 
 #: ../en/index.html
 msgid "Recently Used"
 msgstr "Χρησιμοποιήθηκαν πρόσφατα"
 
 #: ../en/index.html
-msgid "Cancel"
-msgstr "Ακύρωση"
-
-#: ../en/index.html
-msgid "Jardin Polar"
-msgstr "Jardin Polar"
-
-#: ../en/index.html
-msgid ""
-"You can watch all your favourite films and videos, DVDs, downloads or movies "
-"you've created yourself."
+msgid "Ubuntu Help"
 msgstr ""
 
 #: ../en/index.html
-msgid "3.3MB"
-msgstr "3.3MB"
+msgid "Amazon"
+msgstr ""
+
+#: ../en/index.html
+msgid "Ctrl+Alt+L"
+msgstr ""
 
 #: ../en/index.html
 msgid "reply"
 msgstr "απάντηση"
 
 #: ../en/index.html
-msgid "Set Up Mail…"
-msgstr "Ρύθμιση ηλεκτρονικής αλληλογραφίας..."
+msgid "Title:"
+msgstr "Τίτλος:"
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
 "Αναζητήστε και κάνετε λήψη εφαρμογών γρήγορα από το Κέντρο λογισμικού Ubuntu."
-
-#: ../en/index.html
-msgid "Clear"
-msgstr "Καθαρισμός"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -465,8 +457,12 @@ msgid "Dybbølsbro Station"
 msgstr "Σταθμός Dybbølsbro"
 
 #: ../en/index.html
-msgid "Log Out…"
-msgstr "Αποσύνδεση…"
+msgid "About This Computer"
+msgstr ""
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "Πληροφορίες σύνδεσης"
 
 #: ../en/index.html
 msgid ""
@@ -476,6 +472,10 @@ msgstr ""
 "Άλλες επεκτάσεις χρησιμοποιούν ruby, libxml-xql-perl, python-numpy, και "
 "python-lxml. Πρέπει να έχετε αυτά τα πακέτα για να κάνετε χρήση όλων των "
 "επεκτάσεων και των εφέ."
+
+#: ../en/index.html
+msgid "Places"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
@@ -502,12 +502,12 @@ msgid "Stalking Ocelot"
 msgstr "Αιλουροπάρδαλη θηρευτής"
 
 #: ../en/index.html
-msgid "System Settings…"
-msgstr "Ρυθμίσεις συστήματος…"
-
-#: ../en/index.html
-msgid "Startup Applications…"
-msgstr "Εφαρμογές κατά την εκκίνηση…"
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
+"Ολόκληρη η συλλογή σας σάς ακολουθεί παντού με τη μουσική διαθέσιμη σε "
+"Androind και iPhone"
 
 #: ../en/index.html
 msgid "Remove"
@@ -530,8 +530,8 @@ msgid "Purple Dancers"
 msgstr "Πορφυροί χορευτές"
 
 #: ../en/index.html
-msgid "from"
-msgstr "από"
+msgid "Ubuntu One Control Panel"
+msgstr "Πίνακας ελέγχου Ubuntu One"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -565,16 +565,21 @@ msgstr ""
 "το διαδίκτυο ή από το κινητό σας τηλέφωνο"
 
 #: ../en/index.html
-msgid "Title:"
-msgstr "Τίτλος:"
-
-#: ../en/index.html
 msgid "Setup new device…"
 msgstr "Ρύθμιση νέας συσκευής..."
 
 #: ../en/index.html
-msgid "Introduction Ubuntu"
-msgstr "Εισαγωγή στο Ubuntu"
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+"Η διεπαφή χρήστη του Inkscape πρέπει να είναι γνώριμη από το CorelDraw και "
+"παρόμοιων προγραμμάτων σχεδίασης. Υπάρχουν ορθογώνια, ελλείψεις, στοιχεία "
+"κειμένου, εικόνες ράστερ και ελεύθερες καμπύλες. Σαν επιπλέον μπόνους, τόσο "
+"τα διανυσματικά όσο και αντικείμενα ράστερ μπορούν να έχουν διαφάνεια άλφα "
+"και να μετατραπούν σε άλλες μορφές όπως θέλετε."
 
 #: ../en/index.html
 msgid "Videos"
@@ -606,10 +611,6 @@ msgid "Unread:"
 msgstr "Μη αναγνωσμένα:"
 
 #: ../en/index.html
-msgid "Banshee Media Player"
-msgstr "Αναπαραγωγή πολυμέσων Banshee"
-
-#: ../en/index.html
 msgid ""
 "You can surf in safety with Ubuntu – confident that your files and data will "
 "stay protected. A built-in firewall and virus protection come as standard. "
@@ -638,8 +639,12 @@ msgid "Files &amp; Folders"
 msgstr "Αρχεία &amp; φάκελοι"
 
 #: ../en/index.html
-msgid "Installed"
-msgstr "Εγκατεστημένο"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Θυμηθείτε, αυτό είναι απλά μια επίδειξη. Θα πρέπει να το κατεβάστε για να το "
+"απολαύσετε πραγματικά!"
 
 #: ../en/index.html
 msgid "BEEP"
@@ -663,18 +668,6 @@ msgstr ""
 "περιβάλλοντα που υπόκεινται σε νόμους της Φυσικής. Η συσκευή αντιβαρύτητας "
 "αποτελεί εργαλείο αλλά και όπλο. Χρησιμοποιήστε την για να διαλύσετε εχθρικά "
 "ρομπότ, να χτίσετε πύργους και να λύσετε παζλ."
-
-#: ../en/index.html
-msgid "Chat"
-msgstr "Συνομιλία"
-
-#: ../en/index.html
-msgid "Archive"
-msgstr "Αρχειοθήκη"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "Λήψη"
 
 #: ../en/index.html
 msgid "Home"
@@ -717,14 +710,6 @@ msgid "Pictures"
 msgstr "Εικόνες"
 
 #: ../en/index.html
-msgid "Away"
-msgstr "Απουσιάζει"
-
-#: ../en/index.html
-msgid "Check email"
-msgstr "Έλεγχος αλληλογραφίας"
-
-#: ../en/index.html
 msgid "Size:"
 msgstr "Μέγεθος:"
 
@@ -749,12 +734,8 @@ msgstr ""
 "επαγγελματικών εγγράφων."
 
 #: ../en/index.html
-msgid "Displays…"
-msgstr "Οθόνες…"
-
-#: ../en/index.html
-msgid "Software Up to Date"
-msgstr "Το λογισμικό είναι ενημερωμένο"
+msgid "Sound Settings…"
+msgstr "Ρυθμίσεις ήχου..."
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -791,16 +772,12 @@ msgid "Sand Maze"
 msgstr "Αμμώδης λαβύρινθος"
 
 #: ../en/index.html
-msgid "Ubuntu One Control Panel"
-msgstr "Πίνακας ελέγχου Ubuntu One"
+msgid "from"
+msgstr "από"
 
 #: ../en/index.html
-msgid ""
-"Your entire collection follows you around with music streaming to Android "
-"and iPhone"
-msgstr ""
-"Ολόκληρη η συλλογή σας σάς ακολουθεί παντού με τη μουσική διαθέσιμη σε "
-"Androind και iPhone"
+msgid "Introduction Ubuntu"
+msgstr "Εισαγωγή στο Ubuntu"
 
 #: ../en/index.html
 msgid "to"
@@ -855,12 +832,16 @@ msgid "Our star apps"
 msgstr "Οι κορυφαίες εφαρμογές μας"
 
 #: ../en/index.html
+msgid "Logout"
+msgstr ""
+
+#: ../en/index.html
 msgid "The Grass Aint Greener"
 msgstr "Το γρασίδι δεν είναι πιο πράσινο"
 
 #: ../en/index.html
-msgid "Date"
-msgstr "Ημερομηνία"
+msgid "forward"
+msgstr "προώθηση"
 
 #: ../en/index.html
 msgid ""
@@ -878,10 +859,6 @@ msgid "Chromium Web Browser"
 msgstr "Περιηγητής διαδικτύου Chromium"
 
 #: ../en/index.html
-msgid "Sound Recorder"
-msgstr "Εγγραφή ήχου"
-
-#: ../en/index.html
 msgid "Recipient"
 msgstr "Παραλήπτης"
 
@@ -890,16 +867,16 @@ msgid "Fast"
 msgstr "Γρήγορα"
 
 #: ../en/index.html
+msgid "Restart"
+msgstr ""
+
+#: ../en/index.html
 msgid "Recent"
 msgstr "Πρόσφατα"
 
 #: ../en/index.html
 msgid "To:"
 msgstr "Προς:"
-
-#: ../en/index.html
-msgid "Set Up Broadcast Account…"
-msgstr "Δημιουργία λογαριασμού μετάδοσης…"
 
 #: ../en/index.html
 msgid "Date:"
@@ -921,10 +898,6 @@ msgid "Total:"
 msgstr "Σύνολο:"
 
 #: ../en/index.html
-msgid "Additional Drivers"
-msgstr "Πρόσθετοι οδηγοί υλικού"
-
-#: ../en/index.html
 msgid "Ubuntu Software Centre"
 msgstr "Κέντρο λογισμικού Ubuntu"
 
@@ -941,8 +914,8 @@ msgid "System"
 msgstr "Σύστημα"
 
 #: ../en/index.html
-msgid "forward"
-msgstr "προώθηση"
+msgid "Date"
+msgstr "Ημερομηνία"
 
 #: ../en/index.html
 msgid ""
@@ -976,16 +949,12 @@ msgid "Items:"
 msgstr "Αντικείμενα:"
 
 #: ../en/index.html
-msgid "WildWheat"
-msgstr "Άγριο σιτάρι"
+msgid "Ubuntu Software Center"
+msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
 msgstr "Θέμα:"
-
-#: ../en/index.html
-msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
 
 #: ../en/index.html
 msgid "Backup"
@@ -1047,8 +1016,12 @@ msgstr ""
 "τηλέφωνο και το διαδίκτυο"
 
 #: ../en/index.html
-msgid "Thunderbird Mail"
-msgstr "Ηλεκτρονική αλληλογραφία Thunderbird"
+msgid "WildWheat"
+msgstr "Άγριο σιτάρι"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "Ακύρωση"
 
 #: ../en/index.html
 msgid ""
@@ -1069,12 +1042,8 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
-"Θυμηθείτε, αυτό είναι απλά μια επίδειξη. Θα πρέπει να το κατεβάστε για να το "
-"απολαύσετε πραγματικά!"
+msgid "Archive"
+msgstr "Αρχειοθήκη"
 
 #: ../en/index.html
 msgid "delete"
@@ -1085,8 +1054,8 @@ msgid "Thunderbird Mail/News"
 msgstr "Λογισμικό Thunderbird (Αλληλογραφία/Νέα)"
 
 #: ../en/index.html
-msgid "Busy"
-msgstr "Απασχολημένος/η"
+msgid "Write: (no subject)"
+msgstr "Εγγραφή: (χωρίς θέμα)"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1097,16 +1066,12 @@ msgid "Edit Connections…"
 msgstr "Επεξεργασία συνδέσεων..."
 
 #: ../en/index.html
-msgid "Printers"
-msgstr "Εκτυπωτές"
+msgid "Check email"
+msgstr "Έλεγχος αλληλογραφίας"
 
 #: ../en/index.html
-msgid "Sound Settings…"
-msgstr "Ρυθμίσεις ήχου..."
-
-#: ../en/index.html
-msgid "Search"
-msgstr "Αναζήτηση"
+msgid "Additional Drivers"
+msgstr "Πρόσθετοι οδηγοί υλικού"
 
 #: ../en/index.html
 msgid ""
@@ -1131,12 +1096,12 @@ msgid "Attach"
 msgstr "Επισύναψη"
 
 #: ../en/index.html
-msgid "Window"
-msgstr "Παράθυρο"
+msgid "Rhythmbox Media Player"
+msgstr ""
 
 #: ../en/index.html
-msgid "Write: (no subject)"
-msgstr "Εγγραφή: (χωρίς θέμα)"
+msgid "System Settings"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1160,8 +1125,8 @@ msgstr ""
 "6 μοναδικά περιβάλλοντα."
 
 #: ../en/index.html
-msgid "Offline"
-msgstr "Εκτός σύνδεσης"
+msgid "You"
+msgstr "Εσείς"
 
 #: ../en/index.html
 msgid "Trash"
@@ -1190,8 +1155,13 @@ msgstr ""
 "και του Firefox."
 
 #: ../en/index.html
-msgid "Format"
-msgstr "Διαμόρφωση"
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+"Το Inkscape υποστηρίζει πολλαπλά ανοιχτά αρχεία και πολλαπλές προβολές ανά "
+"αρχείο. Τα γραφικά μπορούν να εκτυπωθούν και να εξαχθούν σε αρχεία ράστερ "
+"τύπου png."
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -1210,8 +1180,10 @@ msgid "1"
 msgstr "1"
 
 #: ../en/index.html
-msgid "Computer"
-msgstr "Υπολογιστής"
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr ""
+"Δημιουργία και επεξεργασία διανυσματικών εικόνων τύπου Scalable Vector "
+"Graphics"
 
 #: ../en/index.html
 msgid "What's New"
@@ -1222,21 +1194,16 @@ msgid "Movie Player"
 msgstr "Αναπαραγωγή πολυμέσων"
 
 #: ../en/index.html
-msgid "Invisible"
-msgstr "Αόρατος/η"
+msgid "Dash home"
+msgstr "Αρχή του Dash"
 
 #: ../en/index.html
 msgid "Albums"
 msgstr "Άλμπουμ"
 
 #: ../en/index.html
-msgid ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
+msgid "Search your computer and online sources"
 msgstr ""
-"Το Inkscape υποστηρίζει πολλαπλά ανοιχτά αρχεία και πολλαπλές προβολές ανά "
-"αρχείο. Τα γραφικά μπορούν να εκτυπωθούν και να εξαχθούν σε αρχεία ράστερ "
-"τύπου png."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1247,24 +1214,16 @@ msgid "From:"
 msgstr "Από:"
 
 #: ../en/index.html
-msgid "Insert"
-msgstr "Εισαγωγή"
+msgid "Remote Desktop Viewer"
+msgstr "Προβολή απομακρυσμένης επιφάνειας εργασίας"
 
 #: ../en/index.html
-msgid "Shut Down…"
-msgstr "Τερματισμός…"
+msgid "junk"
+msgstr "ανεπιθύμητα"
 
 #: ../en/index.html
 msgid "Fonts"
 msgstr "Γραμματοσειρές"
-
-#: ../en/index.html
-msgid "File"
-msgstr "Αρχείο"
-
-#: ../en/index.html
-msgid "Edit"
-msgstr "Επεξεργασία"
 
 #: ../en/index.html
 msgid "Bluetooth On"
@@ -1291,22 +1250,8 @@ msgid "Visolate"
 msgstr "Visolate"
 
 #: ../en/index.html
-msgid "Empathy Internet Messageing"
-msgstr "Εφαρμογή διαδικτυακών μηνυμάτων Empathy"
-
-#: ../en/index.html
-msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
-"Δημιουργία και επεξεργασία διανυσματικών εικόνων τύπου Scalable Vector "
-"Graphics"
-
-#: ../en/index.html
-msgid "Attached Devices"
-msgstr "Προσαρτημένες συσκευές"
-
-#: ../en/index.html
-msgid "View"
-msgstr "Προβολή"
+msgid "Sound Recorder"
+msgstr "Εγγραφή ήχου"
 
 #: ../en/index.html
 msgid "Suspend"
@@ -1335,17 +1280,8 @@ msgid "Mon 11 October, 2010"
 msgstr "Δευ 11 Οκτωβρίου 2010"
 
 #: ../en/index.html
-msgid ""
-"Inkscape user interface should be familiar from CorelDraw and similar "
-"drawing programs. There are rectangles, ellipses, text items, bitmap images "
-"and freehand curves. As an added bonus, both vector and bitmap objects can "
-"have alpha transparency and can be arbitrarily transformed."
+msgid "Lock"
 msgstr ""
-"Η διεπαφή χρήστη του Inkscape πρέπει να είναι γνώριμη από το CorelDraw και "
-"παρόμοιων προγραμμάτων σχεδίασης. Υπάρχουν ορθογώνια, ελλείψεις, στοιχεία "
-"κειμένου, εικόνες ράστερ και ελεύθερες καμπύλες. Σαν επιπλέον μπόνους, τόσο "
-"τα διανυσματικά όσο και αντικείμενα ράστερ μπορούν να έχουν διαφάνεια άλφα "
-"και να μετατραπούν σε άλλες μορφές όπως θέλετε."
 
 #: ../en/index.html
 msgid "Unmute"
@@ -1376,8 +1312,8 @@ msgid "Stay Productive"
 msgstr "Παραμείνετε παραγωγικοί"
 
 #: ../en/index.html
-msgid "Table"
-msgstr "Πίνακας"
+msgid "Empathy Internet Messageing"
+msgstr "Εφαρμογή διαδικτυακών μηνυμάτων Empathy"
 
 #: ../en/index.html
 msgid ""
@@ -1410,29 +1346,9 @@ msgstr ""
 "nulla."
 
 #: ../en/index.html
-msgid "Tools"
-msgstr "Εργαλεία"
-
-#: ../en/index.html
-msgid "Downloads"
-msgstr "Λήψεις"
-
-#: ../en/index.html
-msgid "You"
-msgstr "Εσείς"
+msgid "3.3MB"
+msgstr "3.3MB"
 
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
-
-#~ msgid "Recent Files"
-#~ msgstr "Πρόσφατα αρχεία"
-
-#~ msgid "Recent Apps"
-#~ msgstr "Πρόσφατες εφαρμογές"
-
-#~ msgid "App Available for Download"
-#~ msgstr "Διαθέσιμη εφαρμογή για λήψη"
-
-#~ msgid "Welcome to the Ubuntu online tour!"
-#~ msgstr "Καλωσήρθατε στην online περιήγηση του Ubuntu!"

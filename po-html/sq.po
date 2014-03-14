@@ -1,7 +1,7 @@
-# Malay translation for ubuntu-online-tour
-# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# Albanian translation for ubuntu-online-tour
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
 # This file is distributed under the same license as the ubuntu-online-tour package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
 #
 msgid ""
 msgstr ""
@@ -10,16 +10,16 @@ msgstr ""
 "POT-Creation-Date: 2014-03-11 10:57+0000\n"
 "PO-Revision-Date: 2014-03-13 11:12+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Malay <ms@li.org>\n"
+"Language-Team: Albanian <sq@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-14 07:05+0000\n"
+"X-Launchpad-Export-Date: 2014-03-14 07:04+0000\n"
 "X-Generator: Launchpad (build 16963)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
-msgstr "Pelayar Sesawang Firefox"
+msgstr "Shfletuesi i Internetit Firefox"
 
 #: ../en/index.html
 msgid ""
@@ -29,33 +29,26 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
-"Ubuntu muat dengan pantas pada mana-mana komputer, tetapi sangat pantas "
-"dimuatkan pada mesin yang terbaru. Tanpa program yang tidak perlu atau "
-"perisian percubaan yang mana boleh melambatkan sistem, membut dan membuka "
-"pelayar hanya dalam beberapa saat, Tidak seperti sistem pengoperasian lain "
-"yang membiarkan anda melihat skrin, menunggu untuk berada diatas talian. Dan "
-"juga Ubuntu tidak akan menjadi lembab bila sudah lama digunakan. Ia pantas. "
-"Dan ia kekal pantas."
 
 #: ../en/index.html
 msgid "no subject"
-msgstr "tiada subjek"
+msgstr "no subject"
 
 #: ../en/index.html
 msgid "Show yourself around"
-msgstr "Tunjukkan diri anda disekitar"
+msgstr ""
 
 #: ../en/index.html
 msgid "Desktop"
-msgstr "Dekstop"
+msgstr "Desktopi"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr "Dapatkan Mel"
+msgstr ""
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr "Penyunting Video PiTiVi"
+msgstr "PiTiVi Video Editor"
 
 #: ../en/index.html
 msgid "Welcome screen"
@@ -67,23 +60,23 @@ msgstr "Internet"
 
 #: ../en/index.html
 msgid "Science &amp; Engineering"
-msgstr "Sains &amp; Kejuruteraan"
+msgstr "Shkenca &amp; Inxhinieria"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr "Cari aplikasi"
+msgstr "Gjej Programet"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr "Tidak Sendirian"
+msgstr "Jo Vetëm"
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr "Momiji Dream"
+msgstr ""
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr "Manuipulasikan aliran masa untuk selesaikan teka-teki"
+msgstr ""
 
 #: ../en/index.html
 msgid "中文"
@@ -91,7 +84,7 @@ msgstr "中文"
 
 #: ../en/index.html
 msgid "About Me"
-msgstr "Perihal Saya"
+msgstr "Rreth Meje"
 
 #: ../en/index.html
 msgid ""
@@ -99,22 +92,21 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
-"BEEP telah mengembara beribu-ribu tahun menerusi angkasa dalam untuk "
-"menjelajahi Bimasakti. Merentasi sistem bintang asing menggunakan kapal-BEEP "
-"dan hantar robot ke permukaan planet."
 
 #: ../en/index.html
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
-msgstr "Anda pasti ingin menutup semua program dan matikan komputer?"
+msgstr ""
+"Jeni i sigurtë që dëshironi t'i mbyllni të gjitha programet dhe të fikni "
+"kompjuterin?"
 
 #: ../en/index.html
 msgid "This package contains the Chromium browser"
-msgstr "Pakej ini mengandungi pelayar Chromium"
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr "Tidak Bertajuk 1 - LibreOffice Impress"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One"
@@ -127,47 +119,42 @@ msgid ""
 "translated into 38 languages, Ubuntu also includes essential assistive "
 "technologies, which are, of course, completely free."
 msgstr ""
-"Kebolehcapaian merupakan pusat bagi filosofi Ubuntu. Kami percaya "
-"pengkomputeran adalah untuk semua orang tanpa mengira kerakyatan, bangsa, "
-"jantina ataupun keupayaan. Ia diterjemah sepenuhnya dalam 38 bahasa, Ubuntu "
-"juga sertakan teknologi bantuan yang penting, yang mana ia sepenuhnya "
-"percuma."
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr "Mua Turun Ubuntu"
+msgstr "Shkarko Ubuntu"
 
 #: ../en/index.html
 msgid "Watch videos"
-msgstr ""
+msgstr "Shiko Videot"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr "Sertai sekarang"
+msgstr "Bashkohu tani"
 
 #: ../en/index.html
 msgid "Applications"
-msgstr "Aplikasi"
+msgstr "Programet"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr "Rabu 14 Oktober, 2010"
+msgstr ""
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr "Permainan pembinaan/teka-teki berasaskan fizik"
+msgstr ""
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr "Klien Sosial Gwibber"
+msgstr "Gwibber Klient Shoqëror"
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr "Jardin Polar"
+msgstr ""
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr "Happyness"
+msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -175,11 +162,11 @@ msgstr "15.2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr "Penukar CNC PCB"
+msgstr ""
 
 #: ../en/index.html
 msgid "On"
-msgstr "Dihidupkan"
+msgstr "Ndezur"
 
 #: ../en/index.html
 msgid ""
@@ -189,31 +176,31 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr "Tidak Bertajuk 1 - LibreOffice Writer"
+msgstr "Patitull 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
-msgstr "Permainan menembak/berplatform 2D dengan teka-teki berasaskan-fizik"
+msgstr ""
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr "Grafik"
+msgstr "Grafika"
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr "Kekal Bersambung"
+msgstr ""
 
 #: ../en/index.html
 msgid "Top Rated"
-msgstr "Penarafan Tertinggi"
+msgstr "Më të Vlerësuarat"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr "Serasi"
+msgstr ""
 
 #: ../en/index.html
 msgid "From"
-msgstr "Daripada"
+msgstr "Nga"
 
 #: ../en/index.html
 msgid "Auto eth0"
@@ -225,7 +212,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
-msgstr "Terima kasih kerana menjelajah Ubuntu!"
+msgstr ""
 
 #: ../en/index.html
 msgid "Guest Session"
@@ -233,19 +220,19 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
-msgstr "Hantar fail ke peranti..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr "Cipta dokumen"
+msgstr ""
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr "(91 Penarafan)"
+msgstr "(91 Ratings)"
 
 #: ../en/index.html
 msgid "Installed"
-msgstr "Dipasang"
+msgstr ""
 
 #: ../en/index.html
 msgid "Exit the Tour"
@@ -257,100 +244,99 @@ msgstr "$9.99"
 
 #: ../en/index.html
 msgid "Secure"
-msgstr "Selamat"
+msgstr "E Sigurtë"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr "Senyapkan"
+msgstr ""
 
 #: ../en/index.html
 msgid "All Software"
-msgstr "Semua Perisian"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr "Sedia memuat turun?"
+msgstr ""
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr "Aksesori"
+msgstr ""
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr "Cipta lembaran elektronik"
+msgstr ""
 
 #: ../en/index.html
 msgid "Bluetooth"
-msgstr "Bluetooth"
+msgstr ""
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr "Matikan"
+msgstr ""
 
 #: ../en/index.html
 msgid "Music"
-msgstr "Muzik"
+msgstr ""
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr "Rhythmbox"
+msgstr ""
 
 #: ../en/index.html
 msgid "Education"
-msgstr "Pendidikan"
+msgstr ""
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
-msgstr "Penulis Cakera Brasero"
+msgstr ""
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
 msgstr ""
-"Baca, tulis dan hantar emel melalui Thunderbird. ia mudah dan pantas."
 
 #: ../en/index.html
 msgid "wrote"
-msgstr "tulis"
+msgstr ""
 
 #: ../en/index.html
 msgid "Subject"
-msgstr "Subjek"
+msgstr ""
 
 #: ../en/index.html
 msgid "Shotwell"
-msgstr "Shotwell"
+msgstr ""
 
 #: ../en/index.html
 msgid "Documents"
-msgstr "Dokumen"
+msgstr ""
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr "Putuskan"
+msgstr ""
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr "Keutamaan"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr "Layar fail"
+msgstr ""
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
-msgstr "Mari kesini dan jelajahi kegemaran kami"
+msgstr ""
 
 #: ../en/index.html
 msgid "Shut Down…"
-msgstr "Matikan..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Send"
-msgstr "Hantar"
+msgstr ""
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
-msgstr "Darkening Clockwork"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One Music"
@@ -358,68 +344,65 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr "Penyunting Grafik Vektor Inkscape"
+msgstr ""
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr "Cipta persembahan"
+msgstr ""
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr "Mesej Asal"
+msgstr ""
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr "AisleRoit Solitaire"
+msgstr ""
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr "Rock Out"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
-"Chromium merupaka projek pelayar sumber-terbuka yang mana ia dibina untuk "
-"lebih selamat, lebih pantas, dan kendalian yang lebih stabil untuk semua "
-"pengguna Internet yang mengalami dunia sesawang."
 
 #: ../en/index.html
 msgid "Email"
-msgstr "E-mel"
+msgstr ""
 
 #: ../en/index.html
 msgid "Sent"
-msgstr "Hantar"
+msgstr ""
 
 #: ../en/index.html
 msgid "subject"
-msgstr "subjek"
+msgstr ""
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr "Semua Folder"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr "Jumaat 26 Okt, 2001"
+msgstr ""
 
 #: ../en/index.html
 msgid "Langelinie Alle"
-msgstr "Langelinie Alle"
+msgstr ""
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr "Ubuntu Anda, cara anda"
+msgstr ""
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr "Muat turun"
+msgstr ""
 
 #: ../en/index.html
 msgid "Recently Used"
-msgstr "Digunakan Baru-Baru Ini"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu Help"
@@ -435,24 +418,23 @@ msgstr ""
 
 #: ../en/index.html
 msgid "reply"
-msgstr "balas"
+msgstr ""
 
 #: ../en/index.html
 msgid "Title:"
-msgstr "Tajuk:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
-"Gelintar dan muat turun aplikasi dengan pantas melalui Pusat Perisian Ubuntu."
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr "$19.99"
+msgstr ""
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr "Stesen Dybbølsbro"
+msgstr ""
 
 #: ../en/index.html
 msgid "About This Computer"
@@ -460,16 +442,13 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr "Maklumat Sambungan"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
-"Sambungan lain menggunakan ruby, libxml-xql-perl, python-numpy, dan python-"
-"lxml. Anda mesti mempunyai pakej ini untuk guna sepenuhnya semua sambungan "
-"dan kesan."
 
 #: ../en/index.html
 msgid "Places"
@@ -477,93 +456,85 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr "Maju"
+msgstr ""
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr "Klien Pelayan Terminal"
+msgstr ""
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr "Penampilan"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr "LibreOffice Calc"
+msgstr ""
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr "Buck Off"
+msgstr ""
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr "Ocelot yang Menghendap"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
-"Koleksi keseluruhan anda mengikuti anda dengan penstriman muzik ke Android "
-"dan iPhone"
 
 #: ../en/index.html
 msgid "Remove"
-msgstr "Buang"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Braid treats your time and attention as precious, and it does everything it "
 "can to give you a mind-expanding experience."
 msgstr ""
-"Braid memperlakukan masa dan perhatian anda sebagai penting, dan ia buat apa "
-"sahaja supaya ia dapat berikan kepada anda pengalaman yang membina-minda."
 
 #: ../en/index.html
 msgid "English"
-msgstr "Bahasa Inggeris"
+msgstr ""
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr "Purple Dancers"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr "Panel Kawalan Ubuntu One"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr "LibreOffice Impress"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
 msgstr ""
-"Semua permainan berasaskan manipulasi masa. Perjalanan ke dunia yang mana "
-"masa berfungsi secara ganjil; perhati, pelajari darinya, kemudian kuasai "
-"dunia ini."
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr "Mount Snowdon"
+msgstr ""
 
 #: ../en/index.html
 msgid "Songs"
-msgstr "Lagu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr "Boleh Capai"
+msgstr ""
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
-"Sandar dan capai fail anda melalui Ubuntu, Windows, Sesawang atau Bimbit"
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr "Sediakan peranti baru..."
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -572,38 +543,30 @@ msgid ""
 "and freehand curves. As an added bonus, both vector and bitmap objects can "
 "have alpha transparency and can be arbitrarily transformed."
 msgstr ""
-"Antaramuka pengguna Inkscape menyerupao CorelDraw dan lain-lain program "
-"melukis. Terdapat segiempat, elips, item teks, imej peta bit dan lengkung "
-"lukis bebas. Dan sebagai bonus tambahan, kedua-dua vektor dan objek peta bit "
-"boleh mempunyai kelutsinaran alfa dan boleh dijelmakan secara arbitari."
 
 #: ../en/index.html
 msgid "Videos"
-msgstr "Video"
+msgstr ""
 
 #: ../en/index.html
 msgid "Braid"
-msgstr "Braid"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
-"Inkscape muat dan simpan subset bagi format SVG (Grafik Vektor Boleh Skala), "
-"merupakan piawaian yang diselenggara oleh konsortium WWW."
 
 #: ../en/index.html
 msgid ""
 "Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
 "download it to enjoy the real thing!"
 msgstr ""
-"Terima kasih kerana menjelajahi Ubuntu! Ingat, ini hanyalah demonstrasi. "
-"Anda perlu muat turun ia untuk menikmati ubuntu yang sebenar!"
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr "Belum Baca:"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -617,40 +580,28 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
-"Anda boleh melayar dengan selamat melalui Ubuntu - yakinlah fail dan data "
-"anda akan kekal dilindungi. Dinding api terbina-dalam dan perlindungan virus "
-"memang disertakan. Dan jika terdapat ancaman, kami menyediakan kemaskini "
-"automatik yang mana anda boleh pasang ia dengan sekali klik. Anda juga "
-"dilindungi dengan AppArmor, yang melindungi aplikasi penting anda jadi "
-"penyerang tidak boleh capai sistem anda. Dan juga terima kasih buat Firefox "
-"dan gnome-keyring, Ubuntu dapat membantu anda kekalkan kerahsiaan maklumat "
-"peribadi anda. Jadi sama ada anda mencapai akaun bank anda ataupun berkongsi "
-"data sulit dengan rakan atau rakan sekerja anda, anda boleh lakukannya "
-"dengan senang hati bilamana anda perlukannya."
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr "Fail &amp; Folder"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Remember, this is just a demo. You'll have to download it to enjoy the real "
 "thing!"
 msgstr ""
-"Ingat, ini hanyalah demonstrasi. Anda perlu muat turun ia untuk menikmat "
-"Ubuntu yang sebenar!"
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr "BEEP"
+msgstr ""
 
 #: ../en/index.html
 msgid "Visible"
-msgstr "Kelihatan"
+msgstr ""
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr "Ketahui Lagi"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -658,119 +609,112 @@ msgid ""
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
 msgstr ""
-"Guna peranti anti-graviti BEEP untuk manipulasi secara langsung persekitaran "
-"berasaskan-fizik. Peranti anti-graviti merupakan alat dan juga senjata. Guna "
-"ia untuk musnahkan robot musuh, bina menara dan selesaikan teka-teki."
 
 #: ../en/index.html
 msgid "Home"
-msgstr "Rumah"
+msgstr ""
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr "Canonical"
+msgstr ""
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr "Alatan Pembangun"
+msgstr ""
 
 #: ../en/index.html
 msgid "or"
-msgstr "atau"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr "Inkscape"
+msgstr ""
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr "Capai Internet"
+msgstr ""
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr "5.3MB"
+msgstr ""
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr "Pergi ke lawatan terpandu"
+msgstr ""
 
 #: ../en/index.html
 msgid "cc"
-msgstr "cc"
+msgstr ""
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr "Gambar"
+msgstr ""
 
 #: ../en/index.html
 msgid "Size:"
-msgstr "Saiz:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Draft"
-msgstr "Draf"
+msgstr ""
 
 #: ../en/index.html
 msgid "Free"
-msgstr "Percuma"
+msgstr ""
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr "Pastikan tanda buku firefox dan nota Tomboy anda disegerakan"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
-msgstr "LibreOffice Writer memudahkan penyediaan dokumen profesional."
+msgstr ""
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr "Tetapan Bunyi..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr "Layari sesawang"
+msgstr ""
 
 #: ../en/index.html
 msgid "Local"
-msgstr "Setempat"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
-"Jika anda hendak guna penyemak ejaan, anda perlu pasang aspell dan pek-"
-"bahasa yang berkenaan, cth. aspell-en atau aspell-ms."
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr "World of Goo"
+msgstr ""
 
 #: ../en/index.html
 msgid "View photos"
-msgstr "Lihat foto"
+msgstr ""
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
-"Anda boleh muat naik, urus, sunting dan kongsi foto anda menggunakan "
-"Shotwell."
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr "Sand Maze"
+msgstr ""
 
 #: ../en/index.html
 msgid "from"
-msgstr "dari"
+msgstr ""
 
 #: ../en/index.html
 msgid "Introduction Ubuntu"
-msgstr "Pengenalan Ubuntu"
+msgstr ""
 
 #: ../en/index.html
 msgid "to"
-msgstr "ke"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -784,39 +728,26 @@ msgid ""
 "of a standalone binary and/or a web plug-in are common products of Blender "
 "use."
 msgstr ""
-"Blender merupakan suit 3D tersepadu untuk pemodelan, animasi, penerapan, pos-"
-"produksi, penciptaan kreatif dan main balik (permainan). Blender mempunyai "
-"antaramuka pengguna yang tersendiri, yang mana dilaksana keseluruhannya "
-"dalam OpenGL dan direka dengan pantas. Pengikatan Python juga tersedia untuk "
-"penskripan; fitur import/eksport untuk format fail popular seperti 3D Studio "
-"dan Obj Wavefront juga dilaksanakan sebagai skrip oleh komuniti. Gambar "
-"kaku, animasi, model untuk permainan dan lain-lain enjin pihak ketiga dan "
-"kandungan interaktif dalam bentuk binar berdiri sendiri dan/atau pemalam "
-"sesawang merupakan produk yang digunakan oleh Blendr"
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr "Pelayar anda tidak menyokong iframe."
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
 msgstr ""
-"Buat impresi yang baik dengan alat persembahan LibreOffice Impress yang "
-"intuitif."
 
 #: ../en/index.html
 msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
-"Adalah mudah dan pantas mencapai folder dan fail anda dari folder rumah "
-"Ubuntu."
 
 #: ../en/index.html
 msgid "Our star apps"
-msgstr "Aplikasi bintang kami"
+msgstr ""
 
 #: ../en/index.html
 msgid "Logout"
@@ -824,11 +755,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr "The Grass Aint Greener"
+msgstr ""
 
 #: ../en/index.html
 msgid "forward"
-msgstr "maju"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -836,22 +767,18 @@ msgid ""
 "bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
 "goo balls that live in the beautiful World of Goo are curious to explore."
 msgstr ""
-"Seret dan lepas goo yang hidup, menggeletik dan boleh bercakap untuk membina "
-"struktur, jambatan, meriam, zeppelin dan lidah gergasi. Berjuta-juta bebola "
-"goo yang lurus bendul hidup dalam Dunia Goo yang cantik memang menarik "
-"dijelajahi."
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr "Pelayar Sesawang Chromium"
+msgstr ""
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr "Penerima"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fast"
-msgstr "Pantas"
+msgstr ""
 
 #: ../en/index.html
 msgid "Restart"
@@ -859,15 +786,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Recent"
-msgstr "Baru-baru Ini"
+msgstr ""
 
 #: ../en/index.html
 msgid "To:"
-msgstr "Kepada:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Date:"
-msgstr "Tarikh:"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -875,62 +802,54 @@ msgid ""
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
 msgstr ""
-"Nikmatilah kesederhanaan gaya Ubuntu, antaramuka yang berintuitif, selamat "
-"dan disertakan beribu-ribu aplikasi yang boleh dipilih, Ubuntu menyediakan "
-"anda satu pengalaman yang mudah dan diperkemas yang mana anda boleh "
-"memilikinya."
 
 #: ../en/index.html
 msgid "Total:"
-msgstr "Jumlah:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr "Pusat Perisian Ubuntu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr "Tidak Bertajuk 1 - LibreOffice Calc"
+msgstr ""
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr "Saya sudah mempunyai akaun!"
+msgstr ""
 
 #: ../en/index.html
 msgid "System"
-msgstr "Sistem"
+msgstr ""
 
 #: ../en/index.html
 msgid "Date"
-msgstr "Tarikh"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
-"LibreOffice Calc mempunyai segala-galanya yang anda perlu untuk cipta "
-"lembaran elektronik yang jelas dan tepat."
 
 #: ../en/index.html
 msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
-"Beberapa fitur import dan eksport disediakan menggunakan pakej dia, libwmf-"
-"bin, pstoedit, skencil, imagemagick, dan perlmagick."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr "Uji pandu Ubuntu melalui demo atas talian kami."
+msgstr ""
 
 #: ../en/index.html
 msgid "Install"
-msgstr "Pasang"
+msgstr ""
 
 #: ../en/index.html
 msgid "Items:"
-msgstr "Item:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu Software Center"
@@ -938,11 +857,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr "Subjek:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Backup"
-msgstr "Sandar"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu tour"
@@ -950,27 +869,27 @@ msgstr ""
 
 #: ../en/index.html
 msgid "History"
-msgstr "Sejarah"
+msgstr ""
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr "16 Foto"
+msgstr ""
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr "Folder Rumah"
+msgstr ""
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "Kami harap anda menyukai Lawatan atas talian Ubuntu."
+msgstr ""
 
 #: ../en/index.html
 msgid "Office"
-msgstr "Pejabat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr "Tema &amp; Pengubahan"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -979,30 +898,26 @@ msgid ""
 "installation CDs. No fuss. And it’s compatible with Windows too! So you can "
 "open, edit and share Microsoft Office documents stress-free."
 msgstr ""
-"Ubuntu berfungsi baik dengan pelbagai jenis peranti. Hanya palamkan pemain "
-"mp3, kamera atau pencetak anda dan anda boleh guna ia dengan segera. Tiada "
-"CD pemasangan. Tidak perlu kecoh. Dan ia serasi dengan Windows juga! jad "
-"anda boleh buka, sunting dan kongsi dokumen Microsoft Office tanpa-halangan."
 
 #: ../en/index.html
 msgid "work"
-msgstr "kerja"
+msgstr ""
 
 #: ../en/index.html
 msgid "Library"
-msgstr "Pustaka"
+msgstr ""
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
-msgstr "Sepadukan kenalan anda merentasi Dekstop, Bimbit dan Sesawang"
+msgstr ""
 
 #: ../en/index.html
 msgid "WildWheat"
-msgstr "WildWheat"
+msgstr ""
 
 #: ../en/index.html
 msgid "Cancel"
-msgstr "Batal"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1010,49 +925,46 @@ msgid ""
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
 msgstr ""
-"Chromium menyediakan asas untuk Google Chrome, yang mana Chromium "
-"dijenamakan semula (nama dan logo) dengan sedikit penambahan seperti "
-"penggunaan penjejakan dan sistem pengemaskini-sendiri."
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr "Bukan Sarap"
+msgstr ""
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr "Chromium"
+msgstr ""
 
 #: ../en/index.html
 msgid "Archive"
-msgstr "Arkib"
+msgstr ""
 
 #: ../en/index.html
 msgid "delete"
-msgstr "padam"
+msgstr ""
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr "Mel/Berita Thunderbird"
+msgstr ""
 
 #: ../en/index.html
 msgid "Write: (no subject)"
-msgstr "Tulis: (tiada subjek)"
+msgstr ""
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr "Bunga Kecil"
+msgstr ""
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr "Sunting Sambungan..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Check email"
-msgstr "Semak e-mel"
+msgstr ""
 
 #: ../en/index.html
 msgid "Additional Drivers"
-msgstr "Pemacu Tambahan"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1060,21 +972,18 @@ msgid ""
 "delicious. The most addicting and awe-inspiring puzzle game will set you on "
 "an adventure that youll never forget!"
 msgstr ""
-"Tetapi mereka tidak tahu mereka berada didalam permainan, ataupun mereka "
-"sangat lazat dimainkan. Permainan teka-teki yang sangat ketagih dan "
-"mengagumkan yang mana anda tidak melupai pengembaraan ini!"
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr "Hidupkan Bluetooth"
+msgstr ""
 
 #: ../en/index.html
 msgid "Write"
-msgstr "Tulis"
+msgstr ""
 
 #: ../en/index.html
 msgid "Attach"
-msgstr "Lampirkan"
+msgstr ""
 
 #: ../en/index.html
 msgid "Rhythmbox Media Player"
@@ -1086,11 +995,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr "Lawatan atas talian Ubuntu"
+msgstr ""
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr "Federica Miglio"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1099,84 +1008,76 @@ msgid ""
 "gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
 "across 6 unique environments."
 msgstr ""
-"BEEP merupakan pemplatform penatalan-sisi 2D dengan permainan berasaskan-"
-"fizik. Anda mengawal sebuah robot kecil yang dilengkapi dengan peranti anti-"
-"graviti, pek-jet dan senjata. Pandu,  lompat, terbang, berenang dan tembak "
-"laluan anda melalui 24 aras yang berselerakan disekitar 6 persekitaran yang "
-"unik."
 
 #: ../en/index.html
 msgid "You"
-msgstr "Anda"
+msgstr ""
 
 #: ../en/index.html
 msgid "Trash"
-msgstr "Tong Sampah"
+msgstr ""
 
 #: ../en/index.html
 msgid "archive"
-msgstr "arkib"
+msgstr ""
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr "Power Of Words"
+msgstr ""
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr "Pengurus Foto Shotwell"
+msgstr ""
 
 #: ../en/index.html
 msgid "Folders"
-msgstr "Folder"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
 msgstr ""
-"Pelayaran sesawang adalah pantas dan selamat dengan Ubuntu dan Firefox."
 
 #: ../en/index.html
 msgid ""
 "Inkscape supports multiple opened files and multiple views per file. "
 "Graphics can be printed and exported to png bitmaps."
 msgstr ""
-"Inkscape menyokong fail terbuka berbilang dan paparan berbilang per fail. "
-"Grafik boleh dicetak dan dieksport ke peta bit png."
 
 #: ../en/index.html
 msgid "Surf the web"
-msgstr "Layari sesawang"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr "Layar fail pada peranti..."
+msgstr ""
 
 #: ../en/index.html
 msgid "Junk Mail"
-msgstr "Mel Sarap"
+msgstr ""
 
 #: ../en/index.html
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
-msgstr "Cipta dan sunting imej Grafik Vektor Boleh Skala (SVG)"
+msgstr ""
 
 #: ../en/index.html
 msgid "What's New"
-msgstr "Yang Terbaru"
+msgstr ""
 
 #: ../en/index.html
 msgid "Movie Player"
-msgstr "Pemain Cereka"
+msgstr ""
 
 #: ../en/index.html
 msgid "Dash home"
-msgstr "Rumah Pemuka"
+msgstr ""
 
 #: ../en/index.html
 msgid "Albums"
-msgstr "Album"
+msgstr ""
 
 #: ../en/index.html
 msgid "Search your computer and online sources"
@@ -1184,63 +1085,63 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
-msgstr "LibreOffice Writer"
+msgstr ""
 
 #: ../en/index.html
 msgid "From:"
-msgstr "Daripada:"
+msgstr ""
 
 #: ../en/index.html
 msgid "Remote Desktop Viewer"
-msgstr "Pelihat Desktop Jauh"
+msgstr "Remote Desktop Viewer"
 
 #: ../en/index.html
 msgid "junk"
-msgstr "sarap"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr "Fon"
+msgstr ""
 
 #: ../en/index.html
 msgid "Bluetooth On"
-msgstr "Bluetooth Dihidupkan"
+msgstr ""
 
 #: ../en/index.html
 msgid "Turn Off Bluetooth"
-msgstr "Matikan Bluetooth"
+msgstr ""
 
 #: ../en/index.html
 msgid "Installing"
-msgstr "Memasang"
+msgstr ""
 
 #: ../en/index.html
 msgid "back to the site"
-msgstr "kembali ke laman rumah"
+msgstr ""
 
 #: ../en/index.html
 msgid "Games"
-msgstr "Permainan"
+msgstr ""
 
 #: ../en/index.html
 msgid "Visolate"
-msgstr "Visolate"
+msgstr ""
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr "Perakam Bunyi"
+msgstr ""
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr "Tangguh"
+msgstr ""
 
 #: ../en/index.html
 msgid "branches"
-msgstr "cabang"
+msgstr ""
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr "Kuasa Awan Peribadi Anda"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1248,14 +1149,10 @@ msgid ""
 "painterly style where you manipulate the flow of time to solve puzzles. "
 "Every puzzle in Braid is unique; there is no filler."
 msgstr ""
-"Manipulasikan aliran masa untuk selesaikan teka-teki. Braid merupakan "
-"permainan platform dalam bentuk lukisan yang mana anda memanipulasikan "
-"aliran masa untuk selesaikan teka-teki. Setiap teka-teki dalam Braid adalah "
-"unik; jadi tiada pengisi."
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr "Isn 11 Oktober, 2010"
+msgstr ""
 
 #: ../en/index.html
 msgid "Lock"
@@ -1263,35 +1160,35 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr "Bunyikan"
+msgstr ""
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr "Tong sampah"
+msgstr ""
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr "Bunyi &amp; Video"
+msgstr ""
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr "Cipta dan sunting model dan animasi 3D"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr "Kotak Masuk"
+msgstr ""
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr "Fail Dimana Sahaja"
+msgstr ""
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr "Kekal Produktif"
+msgstr ""
 
 #: ../en/index.html
 msgid "Empathy Internet Messageing"
-msgstr "Pemesejan Internet Empathy"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -1309,24 +1206,11 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
-"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
-"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
-"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
-"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
-"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
-"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
-"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
-"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
-"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
-"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
-"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
-"nulla."
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr "3.3MB"
+msgstr ""
 
 #: ../en/index.html
 msgid "Blender"
-msgstr "Blender"
+msgstr ""
