@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-03-11 10:57+0000\n"
-"PO-Revision-Date: 2014-03-13 11:12+0000\n"
-"Last-Translator: Timo Jyrinki <timo.jyrinki@canonical.com>\n"
+"PO-Revision-Date: 2014-03-14 08:44+0000\n"
+"Last-Translator: Jiri Grönroos <Unknown>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-14 07:04+0000\n"
+"X-Launchpad-Export-Date: 2014-03-15 07:38+0000\n"
 "X-Generator: Launchpad (build 16963)\n"
 
 #: ../en/index.html
@@ -230,7 +230,7 @@ msgstr "Kiitos kun tutustuit Ubuntuun!"
 
 #: ../en/index.html
 msgid "Guest Session"
-msgstr ""
+msgstr "Vierasistunto"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -356,7 +356,7 @@ msgstr "Pimenevä kellonratas"
 
 #: ../en/index.html
 msgid "Ubuntu One Music"
-msgstr ""
+msgstr "Ubuntu One -musiikki"
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -425,15 +425,15 @@ msgstr "Äskettäin käytetyt"
 
 #: ../en/index.html
 msgid "Ubuntu Help"
-msgstr ""
+msgstr "Ohjekeskus"
 
 #: ../en/index.html
 msgid "Amazon"
-msgstr ""
+msgstr "Amazon"
 
 #: ../en/index.html
 msgid "Ctrl+Alt+L"
-msgstr ""
+msgstr "Ctrl+Alt+L"
 
 #: ../en/index.html
 msgid "reply"
@@ -457,7 +457,7 @@ msgstr "Dybbølsbron asema"
 
 #: ../en/index.html
 msgid "About This Computer"
-msgstr ""
+msgstr "Tietoja laitteesta"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -474,7 +474,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Places"
-msgstr ""
+msgstr "Sijainnit"
 
 #: ../en/index.html
 msgid "Fwd"
@@ -822,7 +822,7 @@ msgstr "Tähtisovellukset"
 
 #: ../en/index.html
 msgid "Logout"
-msgstr ""
+msgstr "Kirjaudu ulos"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -853,7 +853,7 @@ msgstr "Nopea"
 
 #: ../en/index.html
 msgid "Restart"
-msgstr ""
+msgstr "Käynnistä uudelleen"
 
 #: ../en/index.html
 msgid "Recent"
@@ -932,7 +932,7 @@ msgstr "Kohteet:"
 
 #: ../en/index.html
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Ubuntun sovellusvalikoima"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -1074,7 +1074,7 @@ msgstr "Liitä"
 
 #: ../en/index.html
 msgid "Rhythmbox Media Player"
-msgstr ""
+msgstr "Rytmilaatikko-musiikkisoitin"
 
 #: ../en/index.html
 msgid "System Settings"
@@ -1177,7 +1177,7 @@ msgstr "Levyt"
 
 #: ../en/index.html
 msgid "Search your computer and online sources"
-msgstr ""
+msgstr "Etsi tietokoneelta ja verkkolähteistä"
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1252,7 +1252,7 @@ msgstr "Maanantai 11. lokakuuta 2010"
 
 #: ../en/index.html
 msgid "Lock"
-msgstr ""
+msgstr "Lukitse"
 
 #: ../en/index.html
 msgid "Unmute"
