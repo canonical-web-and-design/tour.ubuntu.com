@@ -405,9 +405,9 @@
 		}
 		
 		#top.dropShadow{
-				-moz-box-shadow: 10px 0px 10px #000;
-		  		-webkit-box-shadow: 10px 0px 10px #000;
-			box-shadow: 10px 0px 10px #000;
+			-moz-box-shadow: 0px 0px 10px #000;
+			-webkit-box-shadow: 0px 0px 10px #000;
+			box-shadow: 0px 0px 10px #000;
 		}
 		#top #top-button-bg #top-button{
 			background: url('../img/topleft-button.png') no-repeat center center;
