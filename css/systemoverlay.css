@@ -82,6 +82,13 @@
 	margin-top:10px;
 }
 
+#systemOverlay #overlayContents .message {
+	min-height: 100%;
+	height: auto;
+	display: table-cell;
+	vertical-align: middle;
+}
+
 #systemOverlay #overlayContents .bottom{
 	margin-bottom:20px;
 } 
@@ -224,6 +231,13 @@
 #systemOverlay #dash-bottom-bar .video-icon{
 	background:url(../img/dash/dash-video.png) no-repeat scroll 0px -44px;
 }
+#systemOverlay #dash-bottom-bar .photos-icon{
+	background:url(../img/dash/dash-photos.png) no-repeat scroll 0px -44px;
+}
+#systemOverlay #dash-bottom-bar .chat-icon{
+	background:url(../img/dash/dash-chat.png) no-repeat scroll 0px -44px;
+}
+
 
 #systemOverlay #dash-bottom-bar .bottom-wrapper div:hover{
 	background-position: 0px -88px;

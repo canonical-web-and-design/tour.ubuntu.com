@@ -284,6 +284,62 @@
 			background-image:url(../img/menu/icon-trashempty.png);
 			position:absolute;
 		}
+
+		#menu .dash.active-icon{
+			background-image:url(../img/menu/icon-dash-active.png);
+		}
+		#menu .home.active-icon{
+			background-image:url(../img/menu/icon-folder-active.png);
+		}
+		#menu .firefox.active-icon{
+			background-image:url(../img/menu/icon-firefox-active.png);
+		}
+		#menu .movieplayer.active-icon{
+			background-image:url(../img/menu/icon-movieplayer-active.png);
+		}
+		#menu .shotwell.active-icon{
+			background-image:url(../img/menu/icon-shotwell-active.png);
+		}
+		#menu .writer.active-icon{
+			background-image:url(../img/menu/icon-writer-active.png);
+		}
+		#menu .impress.active-icon{
+			background-image:url(../img/menu/icon-impress-active.png);
+		}
+		#menu .calc.active-icon{
+			background-image:url(../img/menu/icon-calc-active.png);
+		}
+		#menu .uone.active-icon{
+			background-image:url(../img/menu/icon-ubuntuone-active.png);
+		}
+		#menu .uonemusic.active-icon{
+			background-image:url(../img/menu/icon-ubuntuonemusic-active.png);
+		}
+		#menu .amazon.active-icon{
+			background-image:url(../img/menu/icon-amazon-active.png);
+		}
+		#menu .software.active-icon{
+			background-image:url(../img/menu/icon-software-active.png);
+		}
+		#menu .settings.active-icon{
+			background-image:url(../img/menu/icon-systemsettings-active.png);
+		}
+		#menu .email.active-icon{
+			background-image:url(../img/menu/icon-thunderbird-active.png);
+		}
+		#menu .workspace.active-icon{
+			background-image:url(../img/menu/icon-workspace-active.png);
+		}
+		#menu .applications.active-icon{
+			background-image:url(../img/menu/icon-applications-active.png);
+		}
+		#menu .files.active-icon{
+			background-image:url(../img/menu/icon-files-active.png);
+		}
+		#menu .rubbish.active-icon{
+			background-image:url(../img/menu/icon-trashempty-active.png);
+			position:absolute;
+		}
 		
 		#menu .bottom{
 			bottom:6px;

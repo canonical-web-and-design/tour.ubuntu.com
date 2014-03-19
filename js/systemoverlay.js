@@ -98,6 +98,12 @@ function SystemOverlay($parent){
 				case 'video-icon':
 					_this.displayVideo();
 				break;
+				case 'photos-icon':
+					_this.displayPhotos();
+				break;
+				case 'chat-icon':
+					_this.displayChat();
+				break;
 			}
 			$(this).addClass('active');
 			
@@ -183,7 +189,7 @@ function SystemOverlay($parent){
 	this.getDisplayIcon = function($object, $i){
 		switch($object.type()){
 			case 'folder':
-				return  '<div data-id="'+$i+'"><img src="../img/applications/folder.png" /><p>'+$object.name()+'</p></div>';
+				return  '<div data-id="'+$i+'"><img src="../img/applications/folder-generic.png" /><p>'+$object.name()+'</p></div>';
 			break;
 			case 'audio':
 				return  '<div data-id="'+$i+'"><img src="../img/applications/audio.png" /><p>'+$object.name()+'</p></div>';
@@ -206,6 +212,8 @@ function SystemOverlay($parent){
 		$('#systemOverlay #overlayContents #display-find-files').hide();
 		$('#systemOverlay #overlayContents #display-search').hide();
 		$('#systemOverlay #overlayContents #display-find-music').hide();
+		$('#systemOverlay #overlayContents #display-find-photos').hide();
+		$('#systemOverlay #overlayContents #display-chat').hide();
 		$('#systemOverlay #overlayContents #display-find-video').hide();
 	}
 	
@@ -215,6 +223,8 @@ function SystemOverlay($parent){
 		$('#systemOverlay #overlayContents #display-search').hide();
 		$('#systemOverlay #overlayContents #display-find-music').hide();
 		$('#systemOverlay #overlayContents #display-find-video').hide();
+		$('#systemOverlay #overlayContents #display-find-photos').hide();
+		$('#systemOverlay #overlayContents #display-chat').hide();
 		$('#systemOverlay #overlayContents #display-home').show();
 	}
 	
@@ -376,6 +386,44 @@ function SystemOverlay($parent){
 			_this.fileClicked($(this).attr('data-id'));
 		});
 	}
+
+	this.displayPhotos = function(){
+		this.hideAll();
+		var photosContents = '';
+		fileList = _parent.fileSystem.getFiles();
+		for(var i = 0; i < fileList.length; i++){
+			if(fileList[i].type() == 'photo'){
+				photosContents += this.getDisplayIcon(fileList[i], i);
+			}
+		}
+		$('#systemOverlay #display-find-photos .photos .app-list').html(photosContents);
+		$('#systemOverlay #display-home').hide();
+		$('#systemOverlay #display-find-photos').show();
+		$('#systemOverlay .app-container .app-list div').bind('mouseover', function(){
+			$('img',this).addClass('hover');
+		});
+		$('#systemOverlay .app-container .app-list div').bind('mouseout', function(){
+			$('img',this).removeClass('hover');
+		});
+		$('#systemOverlay .app-container .app-list div').bind('click', function(){
+			_this.fileClicked($(this).attr('data-id'));
+		});
+	}
+
+	this.displayChat = function(){
+		this.hideAll();
+		$('#systemOverlay #display-home').hide();
+		$('#systemOverlay #display-chat').show();
+		$('#systemOverlay .app-container .app-list div').bind('mouseover', function(){
+			$('img',this).addClass('hover');
+		});
+		$('#systemOverlay .app-container .app-list div').bind('mouseout', function(){
+			$('img',this).removeClass('hover');
+		});
+		$('#systemOverlay .app-container .app-list div').bind('click', function(){
+			_this.fileClicked($(this).attr('data-id'));
+		});
+	}
 	
 	this.displayFindApps = function(){
 		this.hideAll();
@@ -507,5 +555,11 @@ function SystemOverlay($parent){
 		$('#systemOverlay  .bottom-wrapper').css('left',($('#dash-bottom-bar').width() / 2) - ($('#dash-bottom-bar .bottom-wrapper').width() / 2));
 		$('#systemOverlay').css('height',$(document).height());
 		$('#systemOverlay input').css('width',$('#dash-bottom-bar').width() - 250);
+	}
+
+	this.preview = function(){
+		// #systemOverlay needs to go up
+		// populate draw
+		// draw slides open
 	}
 }
