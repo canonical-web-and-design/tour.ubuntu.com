@@ -221,7 +221,7 @@ function SystemMenu($parent){
 		var $currentBackground = $("#menu ul li."+$menu).css('background-image');
 		if($menu != 'dash' && $menu != 'rubbish' && $currentBackground.indexOf('-active') == -1){
 			$indexLastSlash = $currentBackground.lastIndexOf('.');
-			$newBackgroundLink = $currentBackground.substr(0,$indexLastSlash) + '-active.png';
+			$newBackgroundLink = $currentBackground.substr(0,$indexLastSlash) + '-active.png)';
 			$("#menu ul li."+$menu).css('background-image',$newBackgroundLink);
 		}
 	}
