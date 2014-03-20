@@ -254,6 +254,7 @@ function EmailSystem($parent){
 		_isOpen = true;
 		this.center();
 		$('.email-window').show();
+		_parent.systemMenu.openWindow('email');
 	}
 	
 	this.close = function(){

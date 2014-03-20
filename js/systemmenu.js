@@ -168,7 +168,7 @@ function SystemMenu($parent){
 			case 'email':
 				var div = $('.email-window ');
 				 if(!div.is(':visible')){
-				 	emailSystem.open();
+				 	_parent.emailSystem.open();
 					if(_parent.emailSystem.isMaximised()){ _parent.systemSettings.increaseFullscreen();}
 				 }
 				 if(_parent.emailSystem.isWriteMinified()){ 
@@ -182,7 +182,7 @@ function SystemMenu($parent){
 				var div = $('#movieplayer');
 				 if(!div.is(':visible')){
 				 	moviePlayerSystem.center();
-					div.show();
+					_parent.moviePlayerSystem.open();
 					if(_parent.moviePlayerSystem.isMaximised()){ _parent.systemSettings.increaseFullscreen();}
 				 }
 				 $('#movieplayer ').trigger('mousedown');
