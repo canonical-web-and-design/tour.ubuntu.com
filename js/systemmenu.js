@@ -220,8 +220,10 @@ function SystemMenu($parent){
 		$("#menu ul li."+$menu+" img.open-arrow").show();
 		var $currentBackground = $("#menu ul li."+$menu).css('background-image');
 		if($menu != 'dash' && $menu != 'rubbish' && $currentBackground.indexOf('-active') == -1){
-			$indexLastSlash = $currentBackground.lastIndexOf('.');
-			$newBackgroundLink = $currentBackground.substr(0,$indexLastSlash) + '-active.png)';
+			var $currentBackgroundURL = /url[(]"?([^"]*)"?[)]/.exec($currentBackground)[1];
+			$indexLastSlash = $currentBackgroundURL.lastIndexOf('.');
+			$newBackgroundURL = $currentBackgroundURL.substr(0,$indexLastSlash) + '-active.png';
+			$newBackgroundLink = "url(" + $newBackgroundURL + ")";
 			$("#menu ul li."+$menu).css('background-image',$newBackgroundLink);
 		}
 	}
