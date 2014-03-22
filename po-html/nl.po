@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-03-11 10:57+0000\n"
-"PO-Revision-Date: 2014-03-13 11:12+0000\n"
-"Last-Translator: Hannie Dumoleyn <Unknown>\n"
+"PO-Revision-Date: 2014-03-21 11:42+0000\n"
+"Last-Translator: Pjotr12345 <Unknown>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-14 07:04+0000\n"
-"X-Generator: Launchpad (build 16963)\n"
+"X-Launchpad-Export-Date: 2014-03-22 07:26+0000\n"
+"X-Generator: Launchpad (build 16967)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -59,7 +59,7 @@ msgstr "PiTiVi videobewerking"
 
 #: ../en/index.html
 msgid "Welcome screen"
-msgstr ""
+msgstr "Welkomstscherm"
 
 #: ../en/index.html
 msgid "Internet"
@@ -225,7 +225,7 @@ msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 14.04 tour!"
-msgstr ""
+msgstr "Welkom bij de Ubuntu 14.04-rondleiding"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
@@ -233,7 +233,7 @@ msgstr "Bedankt voor het verkennen van Ubuntu!"
 
 #: ../en/index.html
 msgid "Guest Session"
-msgstr ""
+msgstr "Gastsessie"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -253,7 +253,7 @@ msgstr "Geïnstalleerd"
 
 #: ../en/index.html
 msgid "Exit the Tour"
-msgstr ""
+msgstr "Rondleiding verlaten"
 
 #: ../en/index.html
 msgid "$9.99"
@@ -358,7 +358,7 @@ msgstr "Darkening Clockwork"
 
 #: ../en/index.html
 msgid "Ubuntu One Music"
-msgstr ""
+msgstr "Ubuntu One Muziek"
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -426,15 +426,15 @@ msgstr "Recent gebruikt"
 
 #: ../en/index.html
 msgid "Ubuntu Help"
-msgstr ""
+msgstr "Ubuntu Hulp"
 
 #: ../en/index.html
 msgid "Amazon"
-msgstr ""
+msgstr "Amazon"
 
 #: ../en/index.html
 msgid "Ctrl+Alt+L"
-msgstr ""
+msgstr "Crtl+Alt+L"
 
 #: ../en/index.html
 msgid "reply"
@@ -458,7 +458,7 @@ msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
 msgid "About This Computer"
-msgstr ""
+msgstr "Over deze computer"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -475,7 +475,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Places"
-msgstr ""
+msgstr "Locaties"
 
 #: ../en/index.html
 msgid "Fwd"
@@ -823,7 +823,7 @@ msgstr "Onze stertoepassingen"
 
 #: ../en/index.html
 msgid "Logout"
-msgstr ""
+msgstr "Afmelden"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -858,7 +858,7 @@ msgstr "Snel"
 
 #: ../en/index.html
 msgid "Restart"
-msgstr ""
+msgstr "Herstarten"
 
 #: ../en/index.html
 msgid "Recent"
@@ -937,7 +937,7 @@ msgstr "Items:"
 
 #: ../en/index.html
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Ubuntu softwarecentrum"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -1081,11 +1081,11 @@ msgstr "Bijvoegen"
 
 #: ../en/index.html
 msgid "Rhythmbox Media Player"
-msgstr ""
+msgstr "Rhythmbox mediaspeler"
 
 #: ../en/index.html
 msgid "System Settings"
-msgstr ""
+msgstr "Systeeminstellingen"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1182,7 +1182,7 @@ msgstr "Albums"
 
 #: ../en/index.html
 msgid "Search your computer and online sources"
-msgstr ""
+msgstr "Uw computer en internetbronnen doorzoeken"
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1259,7 +1259,7 @@ msgstr "Maa 11 oktober 2010"
 
 #: ../en/index.html
 msgid "Lock"
-msgstr ""
+msgstr "Vergrendelen"
 
 #: ../en/index.html
 msgid "Unmute"
