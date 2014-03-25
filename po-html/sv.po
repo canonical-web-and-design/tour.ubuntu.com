@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-03-11 10:57+0000\n"
-"PO-Revision-Date: 2014-03-23 20:52+0000\n"
+"PO-Revision-Date: 2014-03-24 21:50+0000\n"
 "Last-Translator: Fredrik Kempe <Unknown>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-24 07:12+0000\n"
+"X-Launchpad-Export-Date: 2014-03-25 07:33+0000\n"
 "X-Generator: Launchpad (build 16967)\n"
 
 #: ../en/index.html
@@ -48,7 +48,7 @@ msgstr "Hämta E-post"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
-msgstr ""
+msgstr "Videoredigeraren PiTiVi"
 
 #: ../en/index.html
 msgid "Welcome screen"
@@ -72,11 +72,11 @@ msgstr "Inte ensam"
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Momiji Dream"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr ""
+msgstr "Manipulate the flow of time to solve puzzles"
 
 #: ../en/index.html
 msgid "中文"
@@ -143,7 +143,7 @@ msgstr "Program"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr ""
+msgstr "Ons 14 Oktober 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
@@ -151,15 +151,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr ""
+msgstr "Sociala klienten Gwibber"
 
 #: ../en/index.html
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr ""
+msgstr "Happyness"
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -217,7 +217,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
-msgstr ""
+msgstr "Tack för att du utforskar Ubuntu"
 
 #: ../en/index.html
 msgid "Guest Session"
@@ -237,7 +237,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Installed"
-msgstr ""
+msgstr "installerad"
 
 #: ../en/index.html
 msgid "Exit the Tour"
@@ -253,7 +253,7 @@ msgstr "Säker"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr ""
+msgstr "Tyst"
 
 #: ../en/index.html
 msgid "All Software"
@@ -317,11 +317,11 @@ msgstr "Dokument"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr ""
+msgstr "Koppla från"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr ""
+msgstr "Inställningar"
 
 #: ../en/index.html
 msgid "Browse files"
@@ -341,7 +341,7 @@ msgstr "Skicka"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Darkening Clockwork"
 
 #: ../en/index.html
 msgid "Ubuntu One Music"
@@ -349,7 +349,7 @@ msgstr "Ubuntu One Musik"
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr ""
+msgstr "Vektorillustratören Inkscape"
 
 #: ../en/index.html
 msgid "Create presentations"
@@ -361,7 +361,7 @@ msgstr "Ursprungligt meddelande"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "AisleRoit-patiens"
 
 #: ../en/index.html
 msgid "Rock Out"
@@ -450,7 +450,7 @@ msgstr "Om denna dator"
 
 #: ../en/index.html
 msgid "Connection Information"
-msgstr ""
+msgstr "Anslutningsinformation"
 
 #: ../en/index.html
 msgid ""
@@ -494,6 +494,8 @@ msgid ""
 "Your entire collection follows you around with music streaming to Android "
 "and iPhone"
 msgstr ""
+"Ha åtkomst till din samling var du än befinner dig, med möjlighet att "
+"strömma musiken till Android och iOS"
 
 #: ../en/index.html
 msgid "Remove"
@@ -511,7 +513,7 @@ msgstr "Engelska"
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Purple Dancers"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
@@ -519,13 +521,15 @@ msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #: ../en/index.html
 msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
 msgstr ""
+"All gameplay is based on time manipulation. Journey into worlds where time "
+"behaves strangely; observe, learn from, and then master these worlds."
 
 #: ../en/index.html
 msgid "Mount Snowdon"
@@ -562,7 +566,7 @@ msgstr "Filmer"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Braid"
 
 #: ../en/index.html
 msgid ""
@@ -676,7 +680,7 @@ msgstr "Utkast"
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "Gratis"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
@@ -688,7 +692,7 @@ msgstr "LibreOffice Writer gör det enkelt att skapa professionella dokument."
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr ""
+msgstr "Ljudinställningar..."
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -710,7 +714,7 @@ msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
-msgstr ""
+msgstr "Titta på bilder"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
@@ -763,6 +767,8 @@ msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
+"Det är snabbt och enkelt att komma åt dina mappar och filer från Ubuntus "
+"hemmapp."
 
 #: ../en/index.html
 msgid "Our star apps"
@@ -774,7 +780,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr ""
+msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
 msgid "forward"
@@ -832,7 +838,7 @@ msgstr "Totalt:"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr ""
+msgstr "Programcentral för Ubuntu"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
@@ -884,7 +890,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
+msgstr "Ämne:"
 
 #: ../en/index.html
 msgid "Backup"
@@ -963,7 +969,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #: ../en/index.html
 msgid "Archive"
@@ -1066,7 +1072,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr ""
+msgstr "Surfa på nätet är snabbt och säkert med Ubuntu och Firefox"
 
 #: ../en/index.html
 msgid ""
@@ -1080,7 +1086,7 @@ msgstr "Surfa på nätet"
 
 #: ../en/index.html
 msgid "Browse files on device…"
-msgstr ""
+msgstr "Bläddra bland filer på enhet..."
 
 #: ../en/index.html
 msgid "Junk Mail"
