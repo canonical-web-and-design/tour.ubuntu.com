@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-03-11 10:57+0000\n"
-"PO-Revision-Date: 2014-03-13 11:12+0000\n"
+"PO-Revision-Date: 2014-03-27 08:11+0000\n"
 "Last-Translator: Dražen Matešić <Unknown>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-14 07:05+0000\n"
-"X-Generator: Launchpad (build 16963)\n"
+"X-Launchpad-Export-Date: 2014-03-27 08:36+0000\n"
+"X-Generator: Launchpad (build 16967)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -58,7 +58,7 @@ msgstr "Video urejevalnik PiTiVi"
 
 #: ../en/index.html
 msgid "Welcome screen"
-msgstr ""
+msgstr "Pozdravni zaslon"
 
 #: ../en/index.html
 msgid "Internet"
@@ -222,7 +222,7 @@ msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 14.04 tour!"
-msgstr ""
+msgstr "Dobrodošli na ogledu Ubuntuja 14.04!"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
@@ -230,7 +230,7 @@ msgstr "Hvala, ker ste raziskali Ubuntu!"
 
 #: ../en/index.html
 msgid "Guest Session"
-msgstr ""
+msgstr "Seja gosta"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -250,7 +250,7 @@ msgstr "Nameščeno"
 
 #: ../en/index.html
 msgid "Exit the Tour"
-msgstr ""
+msgstr "Končaj ogled"
 
 #: ../en/index.html
 msgid "$9.99"
@@ -356,7 +356,7 @@ msgstr "Temna ura"
 
 #: ../en/index.html
 msgid "Ubuntu One Music"
-msgstr ""
+msgstr "Glasba Ubuntu One"
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -425,15 +425,15 @@ msgstr "Nedavno uporabljeno"
 
 #: ../en/index.html
 msgid "Ubuntu Help"
-msgstr ""
+msgstr "Ubuntu pomoč"
 
 #: ../en/index.html
 msgid "Amazon"
-msgstr ""
+msgstr "Amazon"
 
 #: ../en/index.html
 msgid "Ctrl+Alt+L"
-msgstr ""
+msgstr "Ctrl+Alt+L"
 
 #: ../en/index.html
 msgid "reply"
@@ -457,7 +457,7 @@ msgstr "Postaja Dybbølsbro"
 
 #: ../en/index.html
 msgid "About This Computer"
-msgstr ""
+msgstr "O tem računalniku"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -473,7 +473,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Places"
-msgstr ""
+msgstr "Mesta"
 
 #: ../en/index.html
 msgid "Fwd"
@@ -820,7 +820,7 @@ msgstr "Naši najbolj priljubljeni programi"
 
 #: ../en/index.html
 msgid "Logout"
-msgstr ""
+msgstr "Odjava"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -855,7 +855,7 @@ msgstr "Hitro"
 
 #: ../en/index.html
 msgid "Restart"
-msgstr ""
+msgstr "Ponovni zagon"
 
 #: ../en/index.html
 msgid "Recent"
@@ -933,7 +933,7 @@ msgstr "Predmeti:"
 
 #: ../en/index.html
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Programsko središče Ubuntu"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -1077,7 +1077,7 @@ msgstr "Pripni"
 
 #: ../en/index.html
 msgid "Rhythmbox Media Player"
-msgstr ""
+msgstr "Predvajalnik predstavnosti Rhythmbox"
 
 #: ../en/index.html
 msgid "System Settings"
@@ -1177,7 +1177,7 @@ msgstr "Albumi"
 
 #: ../en/index.html
 msgid "Search your computer and online sources"
-msgstr ""
+msgstr "Iskanje po računalniku in spletnih virih"
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1254,7 +1254,7 @@ msgstr "Pon 11. oktober, 2010"
 
 #: ../en/index.html
 msgid "Lock"
-msgstr ""
+msgstr "Zaklep"
 
 #: ../en/index.html
 msgid "Unmute"
