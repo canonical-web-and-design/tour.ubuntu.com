@@ -215,6 +215,7 @@ function SystemOverlay($parent){
 		$('#systemOverlay #overlayContents #display-find-photos').hide();
 		$('#systemOverlay #overlayContents #display-chat').hide();
 		$('#systemOverlay #overlayContents #display-find-video').hide();
+		$('#systemOverlay #preview').hide();
 	}
 	
 	this.showHome = function(){
@@ -225,6 +226,7 @@ function SystemOverlay($parent){
 		$('#systemOverlay #overlayContents #display-find-video').hide();
 		$('#systemOverlay #overlayContents #display-find-photos').hide();
 		$('#systemOverlay #overlayContents #display-chat').hide();
+		$('#systemOverlay #preview').hide();
 		$('#systemOverlay #overlayContents #display-home').show();
 	}
 	
@@ -462,9 +464,10 @@ function SystemOverlay($parent){
 				_parent.fileSystem.open();
 			break;
 			case 'photo':
-				_this.closeOverlay();
-				_parent.shotwellSystem.selectImage(fileObject.id());
-			  	_parent.shotwellSystem.open();
+				_this.openPreview(fileObject.id());
+				//_this.closeOverlay();
+				//_parent.shotwellSystem.selectImage(fileObject.id());
+			  	//_parent.shotwellSystem.open();
 			break;
 			case 'video':
 				_this.closeOverlay();
@@ -477,6 +480,55 @@ function SystemOverlay($parent){
 			break;
 		}
 	}
+
+	this.openPreview = function($index){
+		console.log($index);
+		console.log(_parent.fileLibrary[$index]);
+		var file = _parent.fileLibrary[$index];
+		var imageMarkup = '<img src="' + file.url() + '" width="400" />';
+		var longName = file.name() + '.jpg';
+		var shortenedName = longName.length > 23 ? longName.substring(0, 23) + "..." : longName;
+		var imageName = '<p class="filename">' + shortenedName + '</p>';
+		var imageDate = '<p class="date">' + file.date() + '</p>';
+		var imageFormat = '<p class="type">Format: JPEG image</p>';
+		var imageSize = '<p class="size">Size: ' + file.size() + '</p>';
+		$('#systemOverlay #preview .image').html(imageMarkup);
+		$('#systemOverlay #preview .info').html(imageName + imageDate + imageFormat + imageSize);
+		_this.hideAll();
+		_this.centerPreview();
+		$('#systemOverlay #preview .email').bind(('click',function(event){
+				_this.closePreview();
+				_this.closeOverlay();
+				_parent.errorMessage.open();
+		});
+		$('#systemOverlay #preview .showInFolder').bind(('click',function(event){
+				_this.closeOverlay();
+		});
+		$('#systemOverlay #preview .open').bind(('click',function(event){
+				_this.closeOverlay();
+		});
+		/*	<div class="buttons">
+					<a class="email">E-mail</a>
+					<a class="showInFolder">Show in Folder</a>
+					<a class="open">Open</a>
+				</div> */
+		$('#systemOverlay #preview').show();
+	}
+
+	this.closePreview = function(){
+		$('#systemOverlay #preview').hide();
+	}
+
+	this.centerPreview = function(){
+    	var left = ($(document).width() / 2) - ($('#systemOverlay #preview').width() / 2);
+		var top = Math.max(24,($(document).height() / 2) - ($('#systemOverlay #preview').height() / 2));
+		$('#systemOverlay #preview').css('left',left);
+		$('#systemOverlay #preview').css('top',top+'px');
+		if($('css3-container').length > 0){
+        	$('#systemOverlay #preview').prev().css('top', $('#systemOverlay #preview').css('top'));
+        	$('#systemOverlay #preview').prev().css('left', $('#systemOverlay #preview').css('left'));
+        }
+    }
 	
 	this.appClicked = function($appName, $download){
 		_this.closeOverlay();
@@ -555,11 +607,5 @@ function SystemOverlay($parent){
 		$('#systemOverlay  .bottom-wrapper').css('left',($('#dash-bottom-bar').width() / 2) - ($('#dash-bottom-bar .bottom-wrapper').width() / 2));
 		$('#systemOverlay').css('height',$(document).height());
 		$('#systemOverlay input').css('width',$('#dash-bottom-bar').width() - 250);
-	}
-
-	this.preview = function(){
-		// #systemOverlay needs to go up
-		// populate draw
-		// draw slides open
 	}
 }
