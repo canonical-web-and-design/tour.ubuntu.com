@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-03-11 10:57+0000\n"
-"PO-Revision-Date: 2014-04-13 19:58+0000\n"
+"PO-Revision-Date: 2014-04-14 18:42+0000\n"
 "Last-Translator: Jiri Grönroos <Unknown>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-04-14 06:42+0000\n"
+"X-Launchpad-Export-Date: 2014-04-15 10:49+0000\n"
 "X-Generator: Launchpad (build 16976)\n"
 
 #: ../en/index.html
@@ -185,6 +185,7 @@ msgid ""
 "You can watch all your favourite films and videos, DVDs, downloads or movies "
 "you've created yourself."
 msgstr ""
+"Voit katsella suosikkielokuviasi DVD:iltä, internetistä tai tietokoneelta."
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
