@@ -465,9 +465,6 @@ function SystemOverlay($parent){
 			break;
 			case 'photo':
 				_this.openPreview(fileObject.id());
-				//_this.closeOverlay();
-				//_parent.shotwellSystem.selectImage(fileObject.id());
-			  	//_parent.shotwellSystem.open();
 			break;
 			case 'video':
 				_this.closeOverlay();
@@ -482,8 +479,6 @@ function SystemOverlay($parent){
 	}
 
 	this.openPreview = function($index){
-		console.log($index);
-		console.log(_parent.fileLibrary[$index]);
 		var file = _parent.fileLibrary[$index];
 		var imageMarkup = '<img src="' + file.url() + '" width="400" />';
 		var longName = file.name() + '.jpg';
@@ -496,22 +491,21 @@ function SystemOverlay($parent){
 		$('#systemOverlay #preview .info').html(imageName + imageDate + imageFormat + imageSize);
 		_this.hideAll();
 		_this.centerPreview();
-		$('#systemOverlay #preview .email').bind(('click',function(event){
+		$('#systemOverlay #preview .email').bind('click',function(event){
 				_this.closePreview();
 				_this.closeOverlay();
 				_parent.errorMessage.open();
 		});
-		$('#systemOverlay #preview .showInFolder').bind(('click',function(event){
+		$('#systemOverlay #preview .showInFolder').bind('click',function(event){
 				_this.closeOverlay();
-		});
-		$('#systemOverlay #preview .open').bind(('click',function(event){
 				_this.closeOverlay();
+				_parent.errorMessage.open();
 		});
-		/*	<div class="buttons">
-					<a class="email">E-mail</a>
-					<a class="showInFolder">Show in Folder</a>
-					<a class="open">Open</a>
-				</div> */
+		$('#systemOverlay #preview .open').bind('click',function(event){
+				_this.closeOverlay();
+				_parent.shotwellSystem.selectImage(file.id());
+			  	_parent.shotwellSystem.open();
+		});
 		$('#systemOverlay #preview').show();
 	}
 
