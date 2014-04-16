@@ -76,20 +76,20 @@ function init(){
 		}
 		systemMenu.resize();
 	});
-	
+
 	$(document).mousemove(function(e){
       		if(movingFolder != null){
       			movingFolder.css('left', e.pageX - folderXOffset);
       			movingFolder.css('top',Math.max(24, e.pageY - folderYOffset));
       		}
-     }); 
-     
+     });
+
      $('.control').mousedown(function(e) {
 			movingFolder = $(this).parent();
 			folderXOffset = e.pageX - movingFolder.position().left;
 			folderYOffset = e.pageY - movingFolder.position().top;
 	 });
-	 
+
 	 $('#tour-guide').mousedown(function(e) {
 			movingFolder = $(this);
 			folderXOffset = e.pageX - movingFolder.position().left;
@@ -98,7 +98,7 @@ function init(){
 	 $(document).mouseup(function() {
 			movingFolder = null;
 	 });
-	 
+
 	 $('.window').mousedown(function(){
 		if($(this).attr('class').indexOf("firefox-window") != -1){
 			if($(this).attr('class').indexOf("fullsize") == -1){
@@ -106,7 +106,7 @@ function init(){
 				$('.firefox-window .web-overlay-tran').hide();
 			}else{
 				$('.firefox-window .web-ubuntuOneSystemoverlay-tran').css('width','100px');
-				$('.firefox-window .web-overlay-tran').show();	
+				$('.firefox-window .web-overlay-tran').show();
 			}
 		}else{
 			$('.firefox-window .web-overlay-tran').css('width','100%');
@@ -117,16 +117,16 @@ function init(){
 		$('#top #top-left #title').text($('.window-title', this).text());
 		$('.'+currentSystemSelected).css('z-index',3);
 		$(this).css('z-index',4);
-		
+
 		if($('css3-container').length > 0){
 	     	$('css3-container').css('z-index',2);
 	     	$('.'+currentSystemSelected).prev().css('z-index',3);
 	        $(this).prev().css('z-index',4);
 		}
-		
+
 		$(this).addClass('selected-window');
 		openWindows[$(this).attr('id')] = true;
-		
+
 		if(currentSystemSelected != $(this).attr('class').replace(' window', '').replace(' fullsize', '').replace(' selected-window','').replace(' window', '')){
 			currentSystemSelected = $(this).attr('class').replace(' fullsize', '');
 			currentSystemSelected = currentSystemSelected.replace(' selected-window','');
@@ -136,9 +136,9 @@ function init(){
 			if(set == 'folder'){ set = 'home'; }
 			if(set == 'firefox-window'){ set = 'firefox'; }
 			if(set == 'email-window'){ set = 'email'; }
-			
+
 			$('#menu ul li.'+set+' .selected-window-arrow').show();
-			
+
 			guidedTourSystem.setSystem(set);
 		}
 	 });
@@ -171,7 +171,7 @@ function setupTopMenu(){
 			//systemMenu.setLocked(false);
 		}
 	});
-	
+
 	$('#top #top-right div ul li').bind('click',function(){
 		switch($.trim($(this).text())){
 			case _turn_off_bluetooth_:
@@ -209,7 +209,7 @@ function setupTopMenu(){
 			break;
 		}
 	});
-	
+
 	$('#top #top-right #speakers .slider').slider({
 			min: 0,
 			max: 100,
@@ -225,21 +225,21 @@ function setupTopMenu(){
 				_this.systemSettings.setVolume(currentPercent);
 			}
 		});
-		
-	
+
+
 	$('#top #top-left #control-buttons div').bind('click', function(){
 		var buttonClicked = $(this).attr('id');
 		$('.'+currentSystemSelected+ ' .control .'+buttonClicked).trigger('click');
 	});
-	
+
 	$('#top #top-right #speakers .banshee').mouseover(function(){
 		$('#top #top-right #speakers .banshee .banshee-play').css('background-image','url(../img/top/banshee-play-highlight.png)');
 	});
-	
+
 	$('#top #top-right #speakers .banshee').mouseout(function(){
 		$('#top #top-right #speakers .banshee .banshee-play').css('background-image','url(../img/top/banshee-play.png)');
 	});
-	
+
 }
 
 function sliderUpdate($percent, $muted){
@@ -398,11 +398,11 @@ function setupShotwellSystem(){
 	fileLibrary.push(new File(fileLibrary.length,'../img/shotwell/library/StalkingOcelot.jpg','photo', _stalking_ocelot_title_, _photo_size_, _photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
 	fileLibrary.push(new File(fileLibrary.length,'../img/shotwell/library/TheGrassAintGreener.jpg','photo', _the_grass_aint_greener_title_, _photo_size_, _photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
 	fileLibrary.push(new File(fileLibrary.length,'../img/shotwell/library/WildWheat.jpg','photo', _wildWheat_title_, _photo_size_,_photo_date_, '/'+_home_folder_+'/'+_pictures_folder_));
-	
+
 	fileLibrary.push(new File(fileLibrary.length,'../videos/IAmWeAre.flv','video', _introduction_ubuntu_title_, _video_size_, _video_date_, '/'+_home_folder_+'/'+_videos_folder_));
-	
+
 	fileLibrary.push(new File(fileLibrary.length,'../audio/preview.mp3','audio', _happyness_title_, _music_size_, _music_date_, '/'+_home_folder_+'/'+_music_folder_));
-	
+
 	shotwellSystem = new ShotwellSystem(this);
 	shotwellSystem.init();
 }
@@ -452,7 +452,7 @@ function blurWindows(){
 				});
 			}
 		}
-		
+
 		/*$.each($('#menu *'), function(){
 			if($(this).is('img')){
 				$currentBackground = $(this).attr('src');
@@ -483,7 +483,7 @@ function blurWindows(){
 				}
 			}
 		});
-		
+
 }
 
 function unblurWindows(){
@@ -507,7 +507,7 @@ function unblurWindows(){
 				});
 			}
 		}
-		
+
 		$.each($('#menu *'), function(){
 			if($(this).is('img')){
 				$currentBackground = $(this).attr('src');

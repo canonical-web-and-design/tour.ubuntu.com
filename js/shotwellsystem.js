@@ -4,7 +4,7 @@
  */
 
 function ShotwellSystem($parent){
-	
+
 	var _parent = $parent;
 	var _this = this;
 	var _isOpen = false;
@@ -16,13 +16,13 @@ function ShotwellSystem($parent){
 	var columns = 0;
 	var currentPercent = 0.3;
 	var currentIndex = 0;
-	
+
 	this.init = function(){
 		columns = Math.floor($('#shotwell .container .images').width() / 158);
 		imageCount = _parent.fileLibrary.length - 2;
 		this.setupControl();
 	}
-	
+
 	this.setupControl = function(){
 		$('#shotwell  .control .close').click(function(){
 			_this.close();
@@ -30,7 +30,7 @@ function ShotwellSystem($parent){
 		$('#shotwell  .control .min').click(function(){
 			_this.min();
 		});
-		
+
 		$('#shotwell  .control .max').click(function(){
 			if(maximised){
 				maximised = false;
@@ -41,13 +41,13 @@ function ShotwellSystem($parent){
 			}else{
 				maximised = true;
 				$('#shotwell').css('width',$(document).width() - 70 + 'px');
-				$('#shotwell').css('height',$(document).height() - 50 + 'px');
+				$('#shotwell').css('height',$(document).height() + 'px');
 				$('#shotwell ').addClass('fullsize');
 				_parent.systemSettings.increaseFullscreen();
 			}
 			_this.resize();
 		});
-		
+
 		$('#shotwell .nav ul').click(function(){
 			$(this).addClass('selected');
 			$('#shotwell .container .images').removeClass('singleImage');
@@ -58,7 +58,7 @@ function ShotwellSystem($parent){
 			_this.display();
 			_this.sliderUpdate(currentPercent);
 		});
-		
+
 		$('#shotwell .container .tools .jump-image .next').bind('click',function(){
 			if(!$(this).hasClass('disabled')){
 				currentIndex++;
@@ -67,7 +67,7 @@ function ShotwellSystem($parent){
 				_this.checkNextPrev();
 			}
 		});
-		
+
 		$('#shotwell .container .tools .jump-image .prev').bind('click',function(){
 			if(!$(this).hasClass('disabled')){
 				currentIndex--;
@@ -76,7 +76,7 @@ function ShotwellSystem($parent){
 				_this.checkNextPrev();
 			}
 		});
-		
+
 		$('#shotwell .container .tools .slider-container .slider').slider({
 			min: 0,
 			max: 100,
@@ -89,26 +89,26 @@ function ShotwellSystem($parent){
 				_this.getSliderValueAndUpdate($(this));
 			}
 		});
-		
+
 		$('#shotwell .container .images').click(function(){
 			$('#shotwell .nav ul').removeClass('selected');
 			$('#shotwell .container .images img').removeClass('selected');
 			$('#shotwell .sidebar .details .overall').show();
 			$('#shotwell .sidebar .details .single').hide();
 		});
-		
+
 		$('#shotwell .sidebar .details .single').hide();
 		$('#shotwell .container .tools .jump-image').hide();
 		this.display();
 		this.sliderUpdate(currentPercent,1);
 		this.center();
 	}
-	
+
 	this.getSliderValueAndUpdate = function(slider) {
 		var currentPercent = slider.slider('option', 'value') / 100;
 		_this.sliderUpdate(currentPercent);
 	}
-	
+
 	this.checkNextPrev = function(){
 		$('#shotwell .container .tools .jump-image div').removeClass('disabled');
 		if(currentIndex <= 0){
@@ -118,23 +118,23 @@ function ShotwellSystem($parent){
 			$('#shotwell .container .tools .jump-image .next').addClass('disabled');
 		}
 	}
-	
+
 	this.sliderUpdate = function($percent, $firsttime){
 		var containerWidth = $('#shotwell .container .images').width() - 15;
 		var active = $('#shotwell .container .tools .slider-container .slider .ui-slider-handle').position();
 		if($firsttime != undefined){ active = '60.45px; '}
 		$('#shotwell .container .tools .slider-container .slider-active').css('width', active.left);
-		
+
 		var imageWidth = Math.floor(((imageMax - imageMin) * $percent) + imageMin) - 5;
 		$('#shotwell .container .images img').css('width',imageWidth);
-		
+
 		columns = Math.min(imageCount, Math.floor(containerWidth/ imageWidth));
 		var imageDivsWidth = Math.floor(containerWidth / columns)
 		$('#shotwell .container .images div').css('width',imageDivsWidth+'px');
 	}
-	
+
 	this.display = function($imageIndex){
-		
+
 		var imagesHTML = '';
 		if($imageIndex == undefined){
 			for(var i = 0; i < imageCount; i++){
@@ -146,7 +146,7 @@ function ShotwellSystem($parent){
 			imagesHTML += '<div class="large"><img src="'+_parent.fileLibrary[$imageIndex].url()+'" alt="'+_parent.fileLibrary[$imageIndex].name()+'"  id="-1"  /></div>';
 		}
 		$('#shotwell .container .images').html(imagesHTML);
-		
+
 		//$('#shotwell .container .images div').css('height',$('#shotwell .container .images img').height());
 		//$('#shotwell .sidebar .details .items').text(imageCount+' Photos');
 		$('#shotwell .container .images img').click(function( event ){
@@ -169,19 +169,19 @@ function ShotwellSystem($parent){
 		});
 		this.resize();
 	}
-	
+
 	this.showImageDetails = function( $index ){
 		this.updateImageDetails($index);
 		$('#shotwell .sidebar .details .overall').hide();
 		$('#shotwell .sidebar .details .single').show();
 	}
-	
+
 	this.updateImageDetails = function( $index ){
 		$('#shotwell .sidebar .details .title').text(_parent.fileLibrary[$index].name());
 		$('#shotwell .sidebar .details .date').text(_parent.fileLibrary[$index].date());
 		$('#shotwell .sidebar .details .size').text(_parent.fileLibrary[$index].size());
 	}
-	
+
 	this.selectImage = function($index){
 		$('#shotwell .container .images').addClass('singleImage');
 		$('#shotwell .container .tools .jump-image').show();
@@ -209,7 +209,7 @@ function ShotwellSystem($parent){
         	$('#shotwell').prev().css('left', $('#shotwell').css('left'));
         }
 	}
-	
+
 	this.close = function(){
 		if(_isOpen){
 			_parent.openWindows['shotwell'] = false;
@@ -220,7 +220,7 @@ function ShotwellSystem($parent){
 			$('#shotwell .sidebar .details .single').hide();
 			_this.display();
 			_this.sliderUpdate(currentPercent);
-			
+
 			if(maximised){ _parent.systemSettings.decreaseFullscreen(); }
 			$('#shotwell ').hide();
 			_parent.systemMenu.closeWindow('shotwell');
@@ -230,23 +230,23 @@ function ShotwellSystem($parent){
 			_this.center();
 		}
 	}
-	
+
 	this.min = function(){
 		if(maximised){ _parent.systemSettings.decreaseFullscreen(); }
 		$('#shotwell ').hide();
 		_parent.systemMenu.wiggle('shotwell');
 		minified = true;
 	}
-	
+
 	this.isMaximised = function(){
 		return maximised;
 	}
-	
+
 	/* this.open = function(){
 	    	this.center();
 	    	$('.shotwell').show();
 	  }*/
-	
+
 	this.resize = function(){
 		/*var topPadding = ($('#shotwell .container .images').height() - $('#shotwell .container .images .large img').height()) /2;
 		 $('#shotwell .container .images .large img').css('margin-top',topPadding+'px');*/
@@ -257,7 +257,7 @@ function ShotwellSystem($parent){
 		 $('#shotwell .sidebar .nav').css('height',imageContainerHeight - 138);
 		 $('#shotwell .container .images').css('height',imageContainerHeight-40);
 	}
-	
+
 	this.center = function(){
     	var left = ($(document).width() / 2) - ($('#shotwell').width() / 2);
 		var top = Math.max(24,($(document).height() / 2) - ($('#shotwell').height() / 2));
