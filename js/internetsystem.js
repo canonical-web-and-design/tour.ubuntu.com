@@ -15,9 +15,9 @@ function FirefoxSystem($parent){
 	var internalClick = true;
 	var name = 'Browse the internet';
 	var _isOpen = false;
-	
+
 	this.init = function(){
-		
+
 		$('.firefox-window .control .close').click(function(){
 			_this.close();
 		});
@@ -38,16 +38,16 @@ function FirefoxSystem($parent){
 			}else{
 				maximised = true;
 				$('.firefox-window').addClass('fullsize');
-				$('.firefox-window').css('height',$(document).height() - 50 + 'px');
+				$('.firefox-window').css('height',$(document).height() + 'px');
 				$('.firefox-window').css('width',$(document).width() - 70 + 'px');
 				$('.firefox-window .web-overlay-tran').css('width','100px');
 				$('.firefox-window .web-overlay-tran').show();
 				_parent.systemSettings.increaseFullscreen();
 			}
-			
+
 			resize();
 		});
-		
+
 	    $('#submitURL').keypress(function(e){
 	    	if(e.keyCode == 13){
 	    		var inputURL = $('#submitURL ').val();
@@ -64,7 +64,7 @@ function FirefoxSystem($parent){
 	    		changeURL(inputURL);
 	    	}
 	    });
-	    
+
 	    $('#submitSearch ').keypress(function(e){
 	    	if(e.keyCode == 13){
 	    		var inputURL = 'http://www.wikipedia.org/w/index.php?title=Special%3ASearch&search='+$('#submitSearch ').val().replace(' ','+');
@@ -74,7 +74,7 @@ function FirefoxSystem($parent){
 	    		changeURL(inputURL);
 	    	}
 	    });
-	    
+
 	    this.close = function(){
 	    	if(_isOpen){}
 	    	_parent.openWindows['firefox-window'] = false;
@@ -89,7 +89,7 @@ function FirefoxSystem($parent){
 			_this.center();
 			_parent.systemMenu.closeWindow('firefox');
 	    }
-	    
+
 	    this.open = function(){
 	    	center();
 	    	$('.firefox-window ').show();
@@ -99,19 +99,19 @@ function FirefoxSystem($parent){
 	        	$('.firefox-window').prev().css('left', $('.firefox-window').css('left'));
 	        }
 	    }
-	    
+
 	    this.isMaximised = function(){
 	    	return maximised;
 	    }
-	    
+
 	    this.resize = function(){
 	    	resize();
 	    }
-	    
+
 	    this.center = function(){
 	    	center();
 	    }
-	    
+
 	     $('#submitSearch').focus(function() {
 				if ($(this).val() == 'Wikipedia') {
 					$(this).val('');
@@ -124,7 +124,7 @@ function FirefoxSystem($parent){
 					$(this).addClass('fade-text');
 				}
 			});
-			
+
 			$('#submitURL').focus(function() {
 				if($(this).val().substr($(this).val().length - 3,3) == '...'){
 					$(this).removeClass('fade-text');
@@ -139,17 +139,17 @@ function FirefoxSystem($parent){
 	    backHistory.push(homePage);
 	    changeURL(homePage);
 	}
-	
+
 	function changeURL($url){
 	    	$('#submitURL ').attr('value', $url);
 	    	$('#firefoxInternet').attr('src', $url);
 	    	updateButtons();
 	    }
-	    
+
 	    function updateButtons(){
 	    	$('.buttons .firefox-back').unbind('click');
 	    	$('.buttons .firefox-forward').unbind('click');
-	    	
+
 	    	if(backHistory.length <= 1){
 	    		$('.buttons .firefox-back').addClass('inactive');
 	    	}else{
@@ -167,7 +167,7 @@ function FirefoxSystem($parent){
 	    		});
 	    	}
 	    }
-	    
+
 	    function backPressed(){
 	    	forwardHistory.push(backHistory[backHistory.length - 1]);
 	    	backHistory.pop();firefoxHeight = $('.firefox-window').height() - ($('.firefox-window .control').height() + $('.firefox-window .buttons').height() + 12);
@@ -177,7 +177,7 @@ function FirefoxSystem($parent){
 			internalClick = true;
 	    	changeURL(backHistory[backHistory.length - 1]);
 	    }
-	    
+
 	    function forwardPressed(){
 	    	var forwardURL = forwardHistory[forwardHistory.length - 1];
 	    	backHistory.push(forwardURL);
@@ -185,7 +185,7 @@ function FirefoxSystem($parent){
 	    	internalClick = true;
 	    	changeURL(forwardURL);
 	    }
-	    
+
 	    function resize(){
 	    	firefoxHeight = $('.firefox-window').height() - ($('.firefox-window .control').height() + $('.firefox-window .buttons').height() + 12);
 	    	if(maximised){ firefoxHeight -= 27; }
@@ -194,14 +194,14 @@ function FirefoxSystem($parent){
 			urlWidth = $('.firefox-window').width() - 310;
 			$('.firefox-window .buttons .firefox-url input').css('width',urlWidth);
 	    }
-	    
+
 	    function center(){
 	    	var left = ($(document).width() / 2) - ($('.firefox-window').width() / 2);
 			var top = Math.max(24,($(document).height() / 2) - ($('.firefox-window').height() / 2));
 			$('.firefox-window').css('left',left);
 			$('.firefox-window').css('top',top);
 	    }
-	    
+
 	     function iframeChange(){
 	     	if(!internalClick){
 		     	$('#submitURL').addClass('fade-text');

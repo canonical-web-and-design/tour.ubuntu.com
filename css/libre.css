@@ -15,10 +15,6 @@
 	height:534px;
 }
 
-#libreoffice-calc-window  .control .close{
-	background:url(../img/error/close-button.png) no-repeat;
-}
-
 #libreoffice-calc-window .control .close:hover {
     background-position: 0 -19px;
 }
@@ -35,16 +31,19 @@
 	height:532px;
 }
 
-#libreoffice-writer-window  .control .close{
-	background:url(../img/error/close-button.png) no-repeat;
+#libreoffice-writer-window .control .min:hover,
+#libreoffice-calc-window .control .min:hover,
+#libreoffice-impress-window .control .min:hover {
+    background-position: 0 0 !important;
+}
+#libreoffice-writer-window .control .max:hover,
+#libreoffice-calc-window .control .max:hover,
+#libreoffice-impress-window .control .max:hover {
+    background-position: 0 0 !important;
 }
 
-#libreoffice-writer-window .control .close:hover {
-    background-position: 0 -19px;
-}
-
-#libreoffice-writer-window .content span, 
-#libreoffice-calc-window .content span, 
+#libreoffice-writer-window .content span,
+#libreoffice-calc-window .content span,
 #libreoffice-impress-window .content span{
 	color: #B3B4A6;
     font-size: 15px;
@@ -64,10 +63,6 @@
 	background:url(../img/libreimpress.jpg) no-repeat;
 	width:793px;
 	height:527px;
-}
-
-#libreoffice-impress-window  .control .close{
-	background:url(../img/error/close-button.png) no-repeat;
 }
 
 #libreoffice-impress-window .control .close:hover {

@@ -25,7 +25,7 @@
 		<!--[if IE 8]>
 		<link rel="stylesheet" href="../css/iefix.css" type="text/css" />
 		<![endif]-->
-		<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700' rel='stylesheet' type='text/css' />
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css' />
 		<script type="text/javascript">
 			WebFontConfig = {
 				google : {
@@ -70,33 +70,23 @@
 				<div id="title"></div>
 			</div>
 			<div id="top-right">
-				<div id="message"><img src="../img/top/nomessage.jpg" class="message-logo" alt="" />
+				<div id="connection"><img src="../img/top/connection.png" alt=""/>
 					<ul class="drop-down">
-						<li class="disabled"><img src="../img/top/available.jpg" alt=""/> 在线
-						</li>
-						<li class="disabled"><img src="../img/top/away.jpg" alt=""/> 离开
-						</li>
-						<li class="disabled"><img src="../img/top/busy.jpg" alt=""/> 忙碌
-						</li>
-						<li class="disabled"><img src="../img/top/invisible.jpg" alt=""/> 隐身
-						</li>
-						<li class="disabled"><img src="../img/top/offline.jpg" alt=""/> 离线
-						</li>
-						<li class="divider"></li>
-						<li class="disabled"><img src="../img/top/chat.png" alt=""/> 聊天
-						</li>
-						<li class="divider"></li>
-						<li class="disabled"><img src="../img/top/broadcast.png" alt=""/> 设定社交网络帐号…
-						</li>
-						<li class="divider"></li>
-						<li class="disabled"><img src="../img/top/mail.png" alt=""/> 设置电子邮箱...
-						</li>
-						<li class="divider"></li>
-						<li class="disabled"><img src="../img/top/uone.png" alt=""/> Ubuntu One
-						</li>
-						<li class="divider"></li>
 						<li class="disabled">
-							清空
+							自动 eth0
+						</li>
+						<li class="disabled">
+							断开
+						</li>
+						<li class="divider"></li>
+						<!--<li class="disabled"><img src="../img/top/wireless-icon.png" alt=""/> My Wireless Connection</li>
+						<li class="disabled">断开</li>
+						<li class="divider"></li>-->
+						<li class="disabled">
+							连接信息
+						</li>
+						<li class="disabled">
+							编辑连接...
 						</li>
 					</ul>
 				</div>
@@ -129,24 +119,9 @@
 						</li>
 					</ul>
 				</div>
-				<div id="connection"><img src="../img/top/connection.png" alt=""/>
+				<div id="message"><img src="../img/top/nomessage.jpg" class="message-logo" alt="" />
 					<ul class="drop-down">
-						<li class="disabled">
-							自动 eth0
-						</li>
-						<li class="disabled">
-							断开
-						</li>
-						<li class="divider"></li>
-						<!--<li class="disabled"><img src="../img/top/wireless-icon.png" alt=""/> My Wireless Connection</li>
-						<li class="disabled">断开</li>
-						<li class="divider"></li>-->
-						<li class="disabled">
-							连接信息
-						</li>
-						<li class="disabled">
-							编辑连接...
-						</li>
+						<li class="system-message"></li>
 					</ul>
 				</div>
 				<div id="speakers"><img src="../img/top/speakers3.png" class="speakers-logo"  alt=""/>
@@ -173,45 +148,37 @@
 					<p></p>
 					<ul class="drop-down">
 						<li class="system-calendar"></li>
-						<li class="divider"></li>
-						<li class="disabled">
-							时间设置...
-						</li>
 					</ul>
 				</div>
 				<div id="power"><img src="../img/top/power.png"  alt=""/>
 					<ul class="drop-down">
 						<li class="disabled">
-							系统设置...
+							关于这台计算机
 						</li>
 						<li class="disabled">
-							显示...
-						</li>
-						<li class="disabled">
-							启动应用程序...
-						</li>
-						<li class="disabled">
-							软件已为最新
+							Ubuntu 帮助
 						</li>
 						<li class="divider"></li>
 						<li class="disabled">
-							已连接的设备
-						</li>
-						<li class="disabled">
-							打印机
+							System Settings&hellip;
 						</li>
 						<li class="divider"></li>
 						<li class="disabled">
-							锁定屏幕
+							锁定屏幕 <span class="key-combo">Ctrl+Alt+L</span>
 						</li>
+						<li class="disabled user">
+							客人会话
+						</li>
+						<li class="divider"></li>
 						<li class="disabled">
-							注销...
+							注销
 						</li>
+						<li class="divider"></li>
 						<li class="disabled">
 							待机
 						</li>
 						<li class="disabled">
-							休眠
+							Restart&hellip;
 						</li>
 						<li>
 							关机...
@@ -234,21 +201,25 @@
 				</li>
 				<li class="firefox"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Firefox 网络浏览器</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
-				<li class="software"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Ubuntu 软件中心</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
-				</li>
 				<li class="writer"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>LibreOffice 文字处理</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
-				</li>
-				<li class="impress"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>LibreOffice 演示文稿</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
 				<li class="calc"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>LibreOffice 电子表格</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
-				<li class="uone"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Ubuntu One</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
+				<li class="impress"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>LibreOffice 演示文稿</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
-				<li class="email"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Thunderbird 邮件客户端</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
+				<li class="software"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Ubuntu 软件中心</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
+				</li>
+				<li class="amazon"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>亚马逊</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
+				</li>
+				<li class="uonemusic"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Ubuntu One 音乐</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
+				</li>
+				<li class="settings"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>系统设置…</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
 				<li class="shotwell temp"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Shotwell 照片管理器</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
 				<li class="movieplayer temp"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>电影播放机</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
+				</li>
+				<li class="email temp"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""/><span>Thunderbird</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""/>
 				</li>
 				<!--<li class="workspace"><span>Workspace Switcher</span></li>-->
 				<li class="rubbish bottom">
@@ -259,17 +230,17 @@
 		<div id="systemOverlay">
 			<div class="copyDash"></div>
 			<div id="overlayContents">
-				<input type="text" name="search" value="Search"/>
+				<input type="text" name="search" value="Search your computer and online sources"/>
 				<div id="display-home" class="app-container">
-					<div class="recent-apps bottom"><img src="../img/overlay/recentapps.png" alt=""/> 最近的应用 <div class="app-list"></div>
+					<div class="recent-apps bottom"><img src="../img/overlay/recentapps.png" alt=""/> 应用程序 <div class="app-list"></div>
 					</div>
-					<div class="recent-files bottom"><img src="../img/overlay/recentfiles.png" alt=""/> 最近打开的文件<div class="app-list"></div>
+					<div class="recent-files bottom"><img src="../img/overlay/recentfiles.png" alt=""/> 文件和文件夹...<div class="app-list"></div>
 					</div>
 				</div>
 				<div id="display-apps" class="app-container">
 					<div class="frequently bottom"><img src="../img/overlay/recentapps.png" alt=""/> 最近使用的 <div class="app-list"></div>
 					</div>
-					<div class="installed bottom"><img src="../img/overlay/installed.png" alt=""/> 已安装<div class="app-list"></div>
+					<div class="installed"><img src="../img/overlay/installed.png" alt=""/> 已安装<div class="app-list"></div>
 					</div>
 				</div>
 				<div id="display-find-files" class="app-container">
@@ -279,7 +250,7 @@
 					</div>
 					<div class="folders"><img src="../img/overlay/folders.png" alt=""/> 文件夹<div class="app-list"></div>
 					</div>
-					
+
 				</div>
 				<div id="display-find-music" class="app-container">
 					<div class="songs bottom"><img src="../img/overlay/folders.png" alt=""/> 曲目<div class="app-list"></div>
@@ -305,6 +276,15 @@
 					<div class="files-icon"></div>
 					<div class="music-icon"></div>
 					<div class="video-icon last"></div>
+				</div>
+			</div>
+			<div id="preview">
+				<div class="image"></div>
+				<div class="info"></div>
+				<div class="buttons">
+					<a class="email">电子邮件</a>
+					<a class="showInFolder">显示文件夹中</a>
+					<a class="open">开</a>
 				</div>
 			</div>
 		</div>
@@ -376,58 +356,40 @@
 		<div id="libreoffice-calc-window" class="calc window">
 			<div class="control">
 				<div class="close"></div>
+				<div class="min"></div>
+				<div class="max"></div>
 				<div class="window-title">
 					未命名 1 - LibreOffice 电子表格
 				</div>
 			</div>
 			<div class="content">
-				<span>文件</span>
-				<span>编辑</span>
-				<span>查看</span>
-				<span>插入</span>
-				<span>格式</span>
-				<span>表格</span>
-				<span>工具</span>
-				<span>窗口</span>
-				<span>帮助</span>
+
 			</div>
 		</div>
 		<div id="libreoffice-writer-window" class="writer window">
 			<div class="control">
 				<div class="close"></div>
+				<div class="min"></div>
+				<div class="max"></div>
 				<div class="window-title">
 					未命名 - LibreOffice 文字处理
 				</div>
 			</div>
 			<div class="content">
-				<span>文件</span>
-				<span>编辑</span>
-				<span>查看</span>
-				<span>插入</span>
-				<span>格式</span>
-				<span>表格</span>
-				<span>工具</span>
-				<span>窗口</span>
-				<span>帮助</span>
+
 			</div>
 		</div>
 		<div id="libreoffice-impress-window" class="impress window">
 			<div class="control">
 				<div class="close"></div>
+				<div class="min"></div>
+				<div class="max"></div>
 				<div class="window-title">
 					未命名 1 - LibreOffice 演示文稿
 				</div>
 			</div>
 			<div class="content">
-				<span>文件</span>
-				<span>编辑</span>
-				<span>查看</span>
-				<span>插入</span>
-				<span>格式</span>
-				<span>表格</span>
-				<span>工具</span>
-				<span>窗口</span>
-				<span>帮助</span>
+
 			</div>
 		</div>
 		<div class="error-window window">
@@ -963,39 +925,31 @@
 				<div class="max"></div>
 				<div class="window-title"></div>
 			</div>
-			<div style="clear:both;"></div>
-			<div class="folder-list">
-				<div class="list">
-					<p>
-						计算机
-					</p>
-					<ul>
-						<li class="home selected" data-folder="home"><img src="../img/folder/home-icon.png" alt=""/> 主文件夹
-						</li>
-						<li class="desktop" data-folder="5"><img src="../img/folder/desktop-icon.png"  alt=""/> 桌面
-						</li>
-						<li class="documents" data-folder="0"><img src="../img/folder/documents-icon.png"  alt=""/> 文档
-						</li>
-						<li class="downloads" data-folder="1"><img src="../img/folder/downloads-icon.png"  alt=""/> 下载
-						</li>
-						<li class="music" data-folder="2"><img src="../img/folder/music-icon.png"  alt=""/> 音乐
-						</li>
-						<li class="pictures" data-folder="4"><img src="../img/folder/pictures-icon.png"  alt=""/> 图片
-						</li>
-						<li class="videos" data-folder="3"><img src="../img/folder/videos-icon.png"  alt=""/> 视频
-						</li>
-						<li class="rubbish" data-folder="bin"><img src="../img/folder/rubbish-icon.png"  alt=""/> 回收站
-						</li>
-					</ul>
-				</div>
-			</div>
-			<div class="folder-contents">
-				<div class="buttons">
+
+			<div class="buttons">
 					<div class="folder-back"></div>
 					<div class="folder-forward"></div>
 				</div>
 				<div class="bottom-buttons"></div>
 				<div style="clear:both;"></div>
+			<div class="folder-list">
+				<div class="list">
+					<p>
+						位置
+					</p>
+					<ul>
+						<li class="home selected" data-folder="home">主文件夹</li>
+						<li class="desktop" data-folder="5">桌面</li>
+						<li class="documents" data-folder="0">文档</li>
+						<li class="downloads" data-folder="1">下载</li>
+						<li class="music" data-folder="2">音乐</li>
+						<li class="pictures" data-folder="4">图片</li>
+						<li class="videos" data-folder="3">视频</li>
+						<li class="rubbish" data-folder="bin">回收站</li>
+					</ul>
+				</div>
+			</div>
+			<div class="folder-contents">
 				<div class="contents"></div>
 				<div class="selected-details"></div>
 			</div>
@@ -1003,10 +957,10 @@
 		<div id="welcome">
 			<div id="welcome-screen" class="selected-window">
 				<div class="control">
-					<div class="window-title">W欢迎尝试Ubuntu 在线体验</div>
+					<div class="window-title">Ubuntu教程</div>
 				</div>
 				<div class="welcome-header">
-					<h1>W欢迎尝试Ubuntu 在线体验</h1>
+					<h1>欢迎您体验 Ubuntu  14.04!</h1>
 					<h2>用我们的在线演示来尝试 Ubuntu。</h2>
 				</div>
 				<ul>
@@ -1034,27 +988,27 @@
 					<li>
 						<a class="create-spreadsheets" href="#create-spreadsheets">创建表格</a>
 					</li>
+					<li>
+						<a class="watch-video" href="#watch-video">观看视频</a>
+					</li>
 				</ul>
 				<div class="language-mode">
-					<a href="/tour/en/">English</a>
-					<span class="active">中文</span>
+					<span class="active">英文</span>
+					<a href="/tour/zh-CN/">中文</a>
 				</div>
 				<a class="explore-mode primary" href="#">四处看看</a>
 				<a class="tour-mode" href="#">观看此向导</a>
 			</div>
 		</div>
-		
-		
-		
-		
-		
 		<div id="tour-guide">
 			<div class="next-button">&rsaquo;</div>
 			<div class="prev-button">&lsaquo;</div>
 			<div class="guide-container welcome">
 				<div class="guide-logo"><img src="../img/tourguide/back-to-welcome.png" /></div>
 				<h3>Ubuntu 在线体验</h3>
-				<p>希望您喜欢 Ubuntu 在线漫游 <a href="http://www.ubuntu.com/download/ubuntu/download?utm_source=tour&utm_medium=online&utm_campaign=tour" target="_blank">准备好下载了吗？</a> 或 <a href="/ubuntu/take-the-tour" >返回网站</a></p>
+				<p>
+					希望您喜欢 Ubuntu 在线漫游 <a href="http://www.ubuntu.com/download/ubuntu/download?utm_source=tour&utm_medium=online&utm_campaign=tour" target="_blank">准备好下载了吗？</a> 或 <a href="/ubuntu/take-the-tour" >返回网站</a>
+				</p>
 			</div>
 			<div class="guide-container home">
 				<div class="guide-logo"><img src="../img/tourguide/file-small.png" />
@@ -1128,11 +1082,10 @@
 					您可以观看所有您喜爱的电影，视频，DVD，下载或者自创的视频。
 				</p>
 			</div>
-			
 			<div class=" tour-buttons">
-				<div class="explore-to-welcome">欢迎画面</div>
-				<div class="explore-to-download">下载</div>
-				<div class="explore-to-exit">返回网站</div>
+				<div class="explore-to-welcome">欢迎屏幕</div>
+				<div class="explore-to-download">下载 Ubuntu</div>
+				<div class="explore-to-exit">退出体验</div>
 			</div>
 		</div>
 		<div id="Translation-Strings">
@@ -1352,8 +1305,8 @@
 				<br/>
 				所有游戏均基于时间操控。到一个时间概念与平常大不相同的地方旅行，观察、学习并主宰这些地方。
 			</p>
-			<p class="_banshee_app_">
-				Banshee 媒体播放器
+			<p class="_rhythmbox_app_">
+				Rhythmbox 媒体播放器
 			</p>
 			<p class="_brasero_app_">
 				Brasero 光盘刻录器
@@ -1388,6 +1341,18 @@
 			<p class="_terminal_app_">
 				终端服务客户端
 			</p>
+			<p class="_ubuntu_one_app_">
+				Ubuntu One
+			</p>
+			<p class="_ubuntu_software_center_app_">
+				Ubuntu 软件中心
+			</p>
+			<p class="_ubuntu_one_music_app_">
+				Ubuntu One 音乐
+			</p>
+			<p class="_amazon_app_">
+				亚马逊
+			</p>
 			<p class="_about_me_app_">
 				关于我
 			</p>
@@ -1406,7 +1371,7 @@
 			<!--
 			* Dash
 			-->
-			<p class="_search_">搜索您的计算机和网络源</p>
+			<p class="_search_">搜索您的本地和在线资源</p>
 			<!--
 			* Notifications
 			-->
@@ -1432,13 +1397,13 @@
 				Files Details - Images
 			-->
 			<p class="_photo_size_">
-				15.2KB	
+				15.2KB
 			</p>
 			<p class="_photo_date_">
 				2001年10月26日星期五
 			</p>
 			<p class="_buck_off_title_">
-				翘首	
+				翘首
 			</p>
 			<p class="_darkening_clockwork_title_">
 				变暗的时钟

@@ -17,19 +17,19 @@ function SoftwareSystem($parent){
 	var theImage = '';
 	var theDescription = '';
 	var theDesctiptionImage = '';
-	
+
 	this.init = function(){
-		
+
 		$('#software-centre .loading-bar').hide();
 		$('#software-centre .detailed .price .progress').css('width','0');
-		
+
 		$('#software-centre .control .close').click(function(){
 			_this.close();
 		});
 		$('#software-centre  .control .min').click(function(){
 			_this.min();
 		});
-		
+
 		$('#software-centre  .control .max').click(function(){
 			if(maximised){
 				maximised = false;
@@ -40,13 +40,13 @@ function SoftwareSystem($parent){
 			}else{
 				maximised = true;
 				$('#software-centre').css('width',$(document).width() - 70 + 'px');
-				$('#software-centre').css('height',$(document).height() - 50 + 'px');
+				$('#software-centre').css('height',$(document).height() + 'px');
 				$('#software-centre').addClass('fullsize');
 				_parent.systemSettings.increaseFullscreen();
 			}
 			_this.resize();
 		});
-		
+
 		$('#software-centre .top-panel .back').bind('click',function(){
 			if(!$(this).hasClass('disabled')){
 				$('#software-centre .home').show();
@@ -61,7 +61,7 @@ function SoftwareSystem($parent){
 				$(this).addClass('disabled');
 			}
 		});
-		
+
 		$('#software-centre .whats-new .app-container div').click(function(){
 			currentApp = $(this).attr('class');
 			$('#software-centre .top-panel .forward').addClass('disabled');
@@ -71,7 +71,7 @@ function SoftwareSystem($parent){
 		this.setupTopButtons();
 		this.center();
 	}
-	
+
 	this.loadApp = function(){
 		var error = false;
 		$('#software-centre .top-panel .back').removeClass('disabled');
@@ -130,9 +130,9 @@ function SoftwareSystem($parent){
 				default:
 					_parent.errorMessage.open();
 					error = true;
-					break;	
+					break;
 				}
-			
+
 			$('#software-centre .detailed .title h1').text(theName);
 			$('#software-centre .detailed .title p.subheading').text(theSub);
 			$('#software-centre .detailed .title img.app-image').attr('src', theImage);
@@ -148,7 +148,7 @@ function SoftwareSystem($parent){
 				$('#software-centre .detailed').show();
 			}
 	}
-	
+
 	this.setupInstall = function(){
 		$('#software-centre .detailed .price .button').bind('click',function(){
 			if(installedApps[currentApp] == true){
@@ -167,7 +167,7 @@ function SoftwareSystem($parent){
 				 }
 		});
 	}
-	
+
 	this.removeApp = function(){
 		$('#software-centre .detailed .price .theprice').text(thePrice);
 		$('#software-centre .detailed .price .theprice').removeClass('installed');
@@ -176,7 +176,7 @@ function SoftwareSystem($parent){
 		_parent.systemOverlay.removeApps(theName);
 		installedApps[currentApp] = false;
 	}
-	
+
 	this.installedApp = function(){
 		$('#software-centre .detailed .price .theprice').text(_installed_);
 		$('#software-centre .detailed .price .theprice').addClass('installed');
@@ -185,7 +185,7 @@ function SoftwareSystem($parent){
 		_parent.systemOverlay.totalApps.push({name:theName,image:theImage});
 		installedApps[currentApp] = true;
 	}
-	
+
 	this.setupTopButtons = function(){
 		$('#software-centre .all-software').bind('click', function(){
 			$('#software-centre .home').show();
@@ -193,7 +193,7 @@ function SoftwareSystem($parent){
 			$('#software-centre .top-panel .back').addClass('disabled');
 		});
 	}
-	
+
 	this.close = function(){
 		if(_isOpen){
 			$('#software-centre .home').show();
@@ -211,14 +211,14 @@ function SoftwareSystem($parent){
 	        }
        }
 	}
-	
+
 	this.min = function(){
 		if(maximised){ _parent.systemSettings.decreaseFullscreen(); }
 		$('#software-centre ').hide();
 		_parent.systemMenu.wiggle('software');
 		minified = true;
 	}
-	
+
 	this.resize = function(){
 		var containerHeight = $('#software-centre').height() - ($('#software-centre .top-panel').height() + $('#software-centre .control').height() + 6);
 		var appBoxWidth = $('#software-centre').width() - ($('#software-centre .navigation').width() + 50);
@@ -226,18 +226,18 @@ function SoftwareSystem($parent){
 		$('#software-centre .container').css('height',containerHeight);
 		$('#software-centre .container .whats-new').css('width',appBoxWidth);
 	}
-	
+
 	this.center = function(){
     	var left = ($(document).width() / 2) - ($('#software-centre ').width() / 2);
 		var top = Math.max(24,($(document).height() / 2) - ($('#software-centre ').height() / 2));
 		$('#software-centre ').css('left',left);
 		$('#software-centre ').css('top',top);
     }
-    
+
     this.isMaximised = function(){
 		return maximised;
 	}
-	
+
 	this.open = function($app){
 		if($app != undefined){ currentApp = $app; this.loadApp(); }
 		this.resize();

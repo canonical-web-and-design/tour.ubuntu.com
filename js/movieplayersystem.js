@@ -4,18 +4,18 @@
  */
 
 function MoviePlayerSystem($parent){
-	
+
 	var _parent = $parent;
 	var _this = this;
 	var _isOpen = false;
 	var maximised = false;
 	var minified = false;
 	var movieURL = 'videos/iStock.flv';
-	
+
 	this.init = function(){
 		this.setupControl();
 	}
-	
+
 	this.setupControl = function(){
 		$('#movieplayer  .control .close').click(function(){
 			_this.close();
@@ -23,7 +23,7 @@ function MoviePlayerSystem($parent){
 		$('#movieplayer  .control .min').click(function(){
 			_this.min();
 		});
-		
+
 		$('#movieplayer  .control .max').click(function(){
 			if(maximised){
 				maximised = false;
@@ -34,7 +34,7 @@ function MoviePlayerSystem($parent){
 			}else{
 				maximised = true;
 				$('#movieplayer').css('width',$(document).width() - 70 + 'px');
-				$('#movieplayer').css('height',$(document).height() - 50 + 'px');
+				$('#movieplayer').css('height',$(document).height() + 'px');
 				$('#movieplayer').addClass('fullsize');
 				_parent.systemSettings.increaseFullscreen();
 			}
@@ -44,16 +44,16 @@ function MoviePlayerSystem($parent){
 			playClicked();
 		});
 	}
-	
+
 	this.addVideo = function(){
-		var videoObject = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"  width="'+$('#movieplayer .container .video').width()+'" height="'+$('#movieplayer .container .video').height()+'"  id="videoPlayer"><param name="movie"  value="../videoplayer.swf" />		<param name="wmode" value="transparent" />  <param name="quality" value="high" />		<param name="bgcolor" value="#000000" />		<embed wmode="transparent" src="../videoplayer.swf" quality="high" bgcolor="#000000" width="'+$('#movieplayer .container .video').width()+'" height="'+$('#movieplayer .container .video').height()+'"  name="videoPlayer" align="" type="application/x-shockwave-flash"  pluginspage="http://www.macromedia.com/go/getflashplayer"> </embed></object>'; 
+		var videoObject = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"  width="'+$('#movieplayer .container .video').width()+'" height="'+$('#movieplayer .container .video').height()+'"  id="videoPlayer"><param name="movie"  value="../videoplayer.swf" />		<param name="wmode" value="transparent" />  <param name="quality" value="high" />		<param name="bgcolor" value="#000000" />		<embed wmode="transparent" src="../videoplayer.swf" quality="high" bgcolor="#000000" width="'+$('#movieplayer .container .video').width()+'" height="'+$('#movieplayer .container .video').height()+'"  name="videoPlayer" align="" type="application/x-shockwave-flash"  pluginspage="http://www.macromedia.com/go/getflashplayer"> </embed></object>';
 		$('#movieplayer .container .video').html(videoObject);
 	}
-	
+
 	this.removeVideo = function(){
 		$('#movieplayer .container .video').html('');
 	}
-	
+
 	this.open = function($playvideo){
 		if(!_isOpen){
 			this.resize();
@@ -68,7 +68,7 @@ function MoviePlayerSystem($parent){
         	$('#movieplayer').prev().css('left', $('#movieplayer').css('left'));
         }
 	}
-	
+
 	this.close = function(){
 		_parent.openWindows['movieplayer'] = false;
 		if(maximised){ _parent.systemSettings.decreaseFullscreen(); }
@@ -80,7 +80,7 @@ function MoviePlayerSystem($parent){
 		this.removeVideo();
 		_this.center();
 	}
-	
+
 	this.min = function(){
 		if(maximised){ _parent.systemSettings.decreaseFullscreen(); }
 		$('#movieplayer ').hide();
@@ -88,11 +88,11 @@ function MoviePlayerSystem($parent){
 		minified = true;
 		_isOpen = false;
 	}
-	
+
 	this.isMaximised = function(){
 		return maximised;
 	}
-	
+
 	this.resize = function(){
 		var videoWidth = $('#movieplayer').width();
 		var videoHeight = $('#movieplayer').height();
@@ -101,7 +101,7 @@ function MoviePlayerSystem($parent){
 		$('#videoPlayer').attr('height',videoHeight);
 		$('#videoPlayer embed').attr('height',videoHeight - 27);
 	}
-	
+
 	this.center = function(){
     	var left = ($(document).width() / 2) - ($('#movieplayer').width() / 2);
 		var top = Math.max(24,($(document).height() / 2) - ($('#movieplayer').height() / 2));

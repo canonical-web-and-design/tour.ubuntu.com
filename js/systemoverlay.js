@@ -4,7 +4,7 @@
 */
 
 function SystemOverlay($parent){
-	 
+
 	var _parent = $parent;
 	var _this = this;
 	var menu_open = false;
@@ -16,7 +16,7 @@ function SystemOverlay($parent){
 	this.totalApps;
 	var fileList, lastOpenWindow;
 	var searching = false;
-	
+
 	this.init = function(){
 		downloadApps = new Array({name:_chromium_app_,image:'img/software-centre/logo-chromium.png'},
 															  {name:_beep_app_,image:'img/software-centre/logo-beep.png' },
@@ -24,7 +24,7 @@ function SystemOverlay($parent){
 															  {name:_world_of_goo_app_,image:'img/software-centre/logo-world-of-goo.png'},
 															  {name:_blender_app_, image:'img/software-centre/logo-blender.png'},
 															  {name:_braid_app_,image:'img/software-centre/logo-braid.png'});
-															  
+
 		mediaApps = new Array({name:_rhythmbox_app_,image:'rhythmbox.png'},
 															  {name:_brasero_app_,image:'brasero.png' },
 															  {name:_movie_player_app_,image:'movieplayer.png'},
@@ -32,7 +32,7 @@ function SystemOverlay($parent){
 															  {name:_pitivi_app_, image:'pitivi.png'},
 															  {name:_ubuntu_one_music_app_, image:'ubuntuonemusic.png'},
 															  {name:_sound_recorder_app_,image:'soundrecorder.png'});
-															  
+
 		internetApps = new Array({name:_empathy_app_,image:'empathy.png'},
 																  {name:_thunderbird_app_,image:'thunderbird.png' },
 																  {name:_firefox_app_,image:'firefox.png'},
@@ -47,13 +47,13 @@ function SystemOverlay($parent){
 														    {name:_aisleroit_app_,image:'solitaire.png'},
 														    {name:_appearance_app_, image:'appearance.png'},
 															{name:_ubuntu_software_center_app_, image:'ubuntusoftwarecenter.png'},
-														    {name:_bluetooth_app_,image:'bluetooth.png'});	
-														    
+														    {name:_bluetooth_app_,image:'bluetooth.png'});
+
 		this.totalApps = mediaApps.concat(internetApps, moreApps);
 		$('#systemOverlay input').val(_search_);
 		this.setupTopControl();
 	}
-	
+
 	this.open = function(){
 		_parent.closeTopRightDropDowns();
 		if(menu_open){
@@ -63,23 +63,23 @@ function SystemOverlay($parent){
 		}
 		this.resize();
 	}
-	
+
 	this.setupTopControl = function(){
 		$('#systemOverlay .copyDash').bind('click',function(event){
 				_this.closeOverlay();
 		});
-		
+
 		$('#top #top-left #dash-control-buttons .close').bind('click',function(event){
 				_this.closeOverlay();
 		});
-		
+
 		$('#systemOverlay input').keyup(function(){
 			_this.appSearch($(this).val());
 		});
-		
+
 		this.resize();
-		
-		
+
+
 		$('#systemOverlay #dash-bottom-bar .bottom-wrapper div').click(function(){
 			$('#systemOverlay #dash-bottom-bar .bottom-wrapper div').removeClass('active');
 			switch($(this).attr('class').replace(' last','')){
@@ -106,11 +106,11 @@ function SystemOverlay($parent){
 				break;
 			}
 			$(this).addClass('active');
-			
+
 		});
-		
+
 		var search_input = $('#systemOverlay input');
-	
+
 		search_input.focus(function() {
 			if ($(this).val() == _search_) {
 				$(this).val('');
@@ -127,7 +127,7 @@ function SystemOverlay($parent){
 			}
 		});
 	}
-	
+
 	this.removeApps = function($name){
 		for(var i = 0; i < this.totalApps.length; i++){
 			if( this.totalApps[i].name == $name){
@@ -136,7 +136,7 @@ function SystemOverlay($parent){
 			}
 		}
 	}
-	
+
 	this.appSearch = function($query){
 		if($query != ''){
 			var listFilesContents = '';
@@ -161,11 +161,11 @@ function SystemOverlay($parent){
 					listFilesContents += this.getDisplayIcon(fileList[i], i);
 				}
 			}
-			
+
 			this.hideAll();
 			$('#systemOverlay #display-search .files .app-list').html(listFilesContents);
 			$('#systemOverlay #display-search .applications .app-list').html(listContents);
-			
+
 			$('#systemOverlay #display-search').show();
 			$('#systemOverlay .app-container .app-list div').bind('mouseover', function(){
 				$('img',this).addClass('hover');
@@ -185,7 +185,7 @@ function SystemOverlay($parent){
 			this.showHome();
 		}
 	}
-	
+
 	this.getDisplayIcon = function($object, $i){
 		switch($object.type()){
 			case 'folder':
@@ -201,11 +201,11 @@ function SystemOverlay($parent){
 				return  '<div data-id="'+$i+'"><img src="'+$object.url()+'" /><p>'+$object.name()+'</p></div>';
 			break;
 			default:
-				return  '<div data-id="'+$i+'"><img src="../img/applications/unknown.png" /><p>'+$object.name()+'</p></div>'; 
+				return  '<div data-id="'+$i+'"><img src="../img/applications/unknown.png" /><p>'+$object.name()+'</p></div>';
 			break;
 		}
 	}
-	
+
 	this.hideAll = function(){
 		$('#systemOverlay #overlayContents #display-home').hide();
 		$('#systemOverlay #overlayContents #display-apps').hide();
@@ -217,7 +217,7 @@ function SystemOverlay($parent){
 		$('#systemOverlay #overlayContents #display-find-video').hide();
 		$('#systemOverlay #preview').hide();
 	}
-	
+
 	this.showHome = function(){
 		$('#systemOverlay #overlayContents #display-apps').hide();
 		$('#systemOverlay #overlayContents #display-find-files').hide();
@@ -229,7 +229,7 @@ function SystemOverlay($parent){
 		$('#systemOverlay #preview').hide();
 		$('#systemOverlay #overlayContents #display-home').show();
 	}
-	
+
 	this.displayHome = function(){
 		var mostUsedArray;
 		var listContents = '';
@@ -262,7 +262,7 @@ function SystemOverlay($parent){
 		$('#systemOverlay #display-home .recent-files .app-list').html(mostUsedContents);
 		$('#systemOverlay #display-home .downloads .app-list').html(downloadedContents);
 		$('#systemOverlay #display-find-files .downloads .app-list').html(downloadedContents);
-		
+
 		$('#systemOverlay .app-container .app-list div').bind('mouseover', function(){
 			$('img',this).addClass('hover');
 		});
@@ -278,9 +278,9 @@ function SystemOverlay($parent){
 		$('#systemOverlay #display-home .downloads .app-list div').bind('click', function(){
 			_this.fileClicked($(this).attr('data-id'));
 		});
-		
+
 	}
-	
+
 	this.displayApps = function($type){
 		this.hideAll();
 		var appArray;
@@ -336,11 +336,11 @@ function SystemOverlay($parent){
 			_this.appClicked($('img', this).attr('src'), ($(this).attr('data-type') == 'download'));
 		});
 	}
-	
+
 	this.randOrd = function(){
-		return (Math.round(Math.random())-0.5); 
-	} 
-	
+		return (Math.round(Math.random())-0.5);
+	}
+
 	this.displayMusic = function(){
 		this.hideAll();
 		var songsContents = '';
@@ -365,7 +365,7 @@ function SystemOverlay($parent){
 			_this.appClicked($('img', this).attr('src'), ($(this).attr('data-type') == 'download'));
 		});
 	}
-	
+
 	this.displayVideo = function(){
 		this.hideAll();
 		var videosContents = '';
@@ -426,7 +426,7 @@ function SystemOverlay($parent){
 			_this.fileClicked($(this).attr('data-id'));
 		});
 	}
-	
+
 	this.displayFindApps = function(){
 		this.hideAll();
 		var listFilesContents = '';
@@ -453,7 +453,7 @@ function SystemOverlay($parent){
 			_this.fileClicked($(this).attr('data-id'));
 		});
 	}
-	
+
 	this.fileClicked = function($fileID){
 		var fileObject = fileList[$fileID];
 		switch(fileObject.type()){
@@ -479,6 +479,7 @@ function SystemOverlay($parent){
 	}
 
 	this.openPreview = function($index){
+		console.log($index);
 		var file = _parent.fileLibrary[$index];
 		var imageMarkup = '<img src="' + file.url() + '" width="400" />';
 		var longName = file.name() + '.jpg';
@@ -523,7 +524,7 @@ function SystemOverlay($parent){
         	$('#systemOverlay #preview').prev().css('left', $('#systemOverlay #preview').css('left'));
         }
     }
-	
+
 	this.appClicked = function($appName, $download){
 		_this.closeOverlay();
 		var appName = $appName.substring($appName.lastIndexOf('/')+1, $appName.length - 4);
@@ -550,9 +551,9 @@ function SystemOverlay($parent){
 				break;
 			}
 		}
-		
+
 	}
-	
+
 	this.reset = function(){
 		$('#systemOverlay input').val(_search_);
 		$('#systemOverlay input').css('font-style', 'italic');
@@ -562,13 +563,13 @@ function SystemOverlay($parent){
 		$('#systemOverlay #dash-bottom-bar .bottom-wrapper div').removeClass('active');
 		$('#systemOverlay #dash-bottom-bar .bottom-wrapper .home-icon').addClass('active');
 	}
-	
+
 	this.hide = function(){
 		_parent.unblurWindows();
 		$('#systemOverlay').hide();
 		_this.reset();
 	}
-	
+
 	this.openOverlay = function(){
 		$('#top').addClass('dashOpen');
 		$('#menu').addClass('dashOpen');
@@ -580,7 +581,7 @@ function SystemOverlay($parent){
 		$('#systemOverlay').fadeTo(300, 1, _parent.blurWindows);
 		$('#systemOverlay input').focus();
 	}
-	
+
 	this.closeOverlay = function(){
 		$('#top').removeClass('dashOpen');
 		$('#menu').removeClass('dashOpen');
@@ -596,7 +597,7 @@ function SystemOverlay($parent){
 		 $('#menu .dash .selected-window-arrow').hide();
 		 $('#menu .' + _parent.systemMenu.getSelectedMenu() + ' .selected-window-arrow').show();
 	}
-	
+
 	this.resize = function(){
 		$('#systemOverlay  .bottom-wrapper').css('left',($('#dash-bottom-bar').width() / 2) - ($('#dash-bottom-bar .bottom-wrapper').width() / 2));
 		$('#systemOverlay').css('height',$(document).height());
