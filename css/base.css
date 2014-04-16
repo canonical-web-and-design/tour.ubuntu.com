@@ -2,8 +2,8 @@
  *  Main CSS
  *   author: Anthony Dillon
  */
-		
-		body { 
+
+		body {
 			background-color: black;
 			background: url(../img/background.jpg) no-repeat center center fixed;
 	        -webkit-background-size: cover;
@@ -21,30 +21,30 @@
 			-moz-user-select: none;
 			-o-user-select: none;
 			user-select: none;
-		} 
-		
+		}
+
 		*{
 			cursor: default;
 			font-family:"Ubuntu","Ubuntu Beta",Ubuntu, UbuntuBeta;
 		}
-		
+
 		a {
 			outline: none;
 			color:#DD4814;
 			text-decoration: none;
 			cursor:pointer;
 		}
-		
+
 		.blurred *{
 			color: transparent !important;
 		    text-shadow: 0 0 5px #999 !important;
 		}
-		
+
 		.blurred{
 			 -ms-filter: "progid:DXImageTransform.Microsoft.Blur(pixelRadius=2)";
 		    filter: progid:DXImageTransform.Microsoft.Blur(pixelRadius=2);
 		}
-		
+
 		.window{
 				-moz-border-radius:4px 4px 0px 0px;
 				-webkit-border-radius:4px 4px 0px 0px;
@@ -59,49 +59,49 @@
 			font-size:14px;
 			z-index:1;
 		}
-		
+
 		::-moz-selection { none; }
 		::-webkit-selection{ none; }
 	    ::selection { none; }
-	    
+
 	    input::-moz-selection { background:#f07746;color:#fff; }
 		input::-webkit-selection{ background:#f07746;color:#fff; }
 	    input:selection { background:#f07746;color:#fff; }
-	    
+
 	    textarea::-moz-selection { background:#f07746;color:#fff; }
 		textarea::-webkit-selection{ background:#f07746;color:#fff; }
 	    textarea:selection { background:#f07746;color:#fff; }
-	    
+
 	    textarea{
 			background-color:#fff;
 			border: 1px solid #ada9a5;
 			-webkit-border-radius:2px 2px 2px 2px;
 			-moz-border-radius:2px 2px 2px 2px;
-			border-radius:2px 2px 2px 2px;	
+			border-radius:2px 2px 2px 2px;
 			padding:2px;
 			font-family:"Ubuntu","Ubuntu Beta",UbuntuBeta,Ubuntu;
 	    }
-	    
+
 	    input{
 			background-color:#fff;
 			border: 1px solid #ada9a5;
 			-webkit-border-radius:2px 2px 2px 2px;
 			-moz-border-radius:2px 2px 2px 2px;
-			border-radius:2px 2px 2px 2px;	
+			border-radius:2px 2px 2px 2px;
 			padding:2px;
 			font-family:"Ubuntu","Ubuntu Beta",UbuntuBeta,Ubuntu;
 	    }
-	    
+
 	    #Translation-Strings{
 	    	display:none;
 	    }
-	    
+
 		#menu{
 			background:#782220;
 			width:64px;
 			position:absolute;
-			left: 0px; 
-    		top: 24px;	
+			left: 0px;
+    		top: 24px;
     		border-right: 1px solid rgba(255,255,255,0.2);
     		z-index: 10;
     		overflow:hidden;
@@ -111,28 +111,28 @@
 			-o-user-select: none;
 			user-select: none;
 		}
-		
+
 		#menu.dashOpen{
 			/*background:none;*/
 			border-right: 1px solid #333;
 		}
-		
+
 		#menu .scroll-up{
 			position:absolute;
-			left: 0px; 
-    		top: 0px;	
+			left: 0px;
+    		top: 0px;
 			width:100%;
 			height:20px;
 		}
-		
+
 		#menu .scroll-down{
 			position:absolute;
-			left: 0px; 
+			left: 0px;
     		bottom: 0px;
 			width:100%;
 			height:20px;
 		}
-		
+
 		#tooltip{
 			z-index: 10;
 			height:20px;
@@ -160,7 +160,7 @@
 		        width: 0;
 		        height: 0;
 		        border-top: 10px solid transparent;
-		        border-bottom: 10px solid transparent; 
+		        border-bottom: 10px solid transparent;
 				border-right:10px solid #1f171a;
 		        margin-left:-20px;
 		        /*opacity: .8;
@@ -171,11 +171,11 @@
 		.shadow-arrow{
 			border-right:12px solid #4a3742;
 			border-top: 12px solid transparent;
-		    border-bottom: 12px solid transparent; 
+		    border-bottom: 12px solid transparent;
 			margin-left:-22px;
 			margin-top:-2px;
 		}
-		
+
 		#menu ul{
 			margin-top:6px;
 			padding-left: 5px;
@@ -183,7 +183,7 @@
 			top:0px;
 			height:100%;
 		}
-		
+
 		#menu ul li{
 			list-style: none;
 			height:54px;
@@ -196,20 +196,20 @@
 			 -webkit-transition:-webkit-box-shadow .3s linear;
 			 transition:box-shadow .3s linear;
 		}
-		
+
 		#menu ul li.glow{
 		 box-shadow:0px 0px 7px #d0733b;
 		 -moz-box-shadow:0px 0px 7px #d0733b;
-		 -webkit-box-shadow:0px 0px 7px #d0733b;   
+		 -webkit-box-shadow:0px 0px 7px #d0733b;
 		 background-color:rgba(208,115,59,0.5);
 		}
-		
+
 		#menu ul li img.open-arrow{
 			margin-left: -7px;
     	    margin-top: 17px;
     	    display:none;
 		}
-		
+
 		#menu ul li img.selected-window-arrow{
     	    display:none;
     	    float: right;
@@ -280,6 +280,9 @@
 		#menu .files{
 			background-image:url(../img/menu/icon-files.png);
 		}
+		#menu .email{
+			background-image:url(../img/menu/icon-thunderbird.png);
+		}
 		#menu .rubbish{
 			background-image:url(../img/menu/icon-trashempty.png);
 			position:absolute;
@@ -344,41 +347,41 @@
 		#menu .bottom{
 			bottom:6px;
 		}
-		
+
 		#menu .temp{
 			display:none;
 		}
-		
+
 		#top{
 			background-image: url(../img/top-bg.jpg);
 			background-repeat:repeat-x;
 			position:absolute;
-			left: 0px; 
+			left: 0px;
     		top: 0px;
     		width:100%;
     		height:24px;
     		color: #DFDBD2;
 			z-index:11;
 		}
-		
+
 		#top.dashOpen{
 			background-image: none;
 			background-color: transparent;
 			z-index: 13;
 		}
-		
+
 		#top.dashOpen #top-right #time{
 			color:#ffffff;
 		}
-		
+
 		#top.dashOpen #top-left #title{
 			color:transparent;
 		}
-		
+
 		#top #top-left #dash-control-buttons{
 			float:left;
 		}
-		
+
 		#top.dashOpen #top-left #dash-control-buttons div{
 			width:15px;
 			height:15px;
@@ -386,24 +389,24 @@
 			margin-left: 4px;
     		margin-top: 5px;
 		}
-		
+
 		#top.dashOpen #top-left #dash-control-buttons .close{
 			background:url(../img/dash/dash-close.png) no-repeat;
 			margin-left:10px;
 		}
-		
+
 		#top.dashOpen #top-left #dash-control-buttons .close:active{
 			background:url(../img/dash/dash-close-clicked.png) no-repeat;
 		}
-		
+
 		#top.dashOpen #top-left #dash-control-buttons .min{
 			background:url(../img/dash/dash-min.png) no-repeat;
 		}
-		
+
 		#top.dashOpen #top-left #dash-control-buttons .max{
 			background:url(../img/dash/dash-max.png) no-repeat;
 		}
-		
+
 		#top.dropShadow{
 			-moz-box-shadow: 0px 0px 10px #000;
 			-webkit-box-shadow: 0px 0px 10px #000;
@@ -434,7 +437,7 @@
 			float:left;
 			padding:0px 8px;
 			overflow:hidden;
-			
+
 		}
 		#top #top-right div .drop-down{
 			list-style-type:none;
@@ -540,23 +543,23 @@
 		#top #top-right div ul{
 			list-style-position:inside;
 		}
-		
+
 		#top #top-right div ul li{
 			height: 18px;
     		padding: 3px 3px 3px 15px;
 		}
-		
+
 		#top #top-right div ul li img{
 			margin-left:-10px;
 			margin-right:5px;
 			vertical-align: middle;
 		}
-		
+
 		#top #top-right div ul li.ticked{
 			list-style-image:url('../img/top/tic7pxk.png');
 			padding-left:0px;
 		}
-		
+
 		#top #top-right div ul li.divider{
 			height:1px;
 			background:#3d3c39;
@@ -564,40 +567,40 @@
 			padding:0px;
 			margin:4px 0px;
 		}
-		
+
 		#top #top-right #message{
 			padding-top:4px;
 		}
 		#top #top-right #connection,#top #top-right #speakers,#top #top-right #bluetooth{
 			padding-top:4px;
 		}
-		
+
 		#top #top-right #user{
 			padding-top:2px;
 		}
 		#top #top-right #power{
 			padding-top:2px;
 		}
-		
+
 		#top #top-right #time,#top #top-right #user{
 			padding-top:3px;
 		}
-		
+
 		#top #top-right #user img{
 			vertical-align: bottom;
 		}
-		
+
 		#top #top-right #speakers div{
 			float:left;
 		}
-		
+
 		#top #top-right #speakers .small-icon{
 			background:url(../img/top/0slider.jpg) no-repeat;
 			height:15px;
 			width: 7px;
 			margin-top: 12px;
 		}
-		
+
 		#top #top-right #speakers .system-volume{
 			height:37px;
 			padding:3px;
@@ -605,16 +608,16 @@
 		#top #top-right #speakers .system-volume:hover, #top #top-right #speakers .banshee:hover{
 			background:none;
 		}
-		
+
 		#top #top-right #speakers .banshee{
 			height:43px;
 			padding-left:50px;
 		}
-		
+
 		#top #top-right #speakers .banshee div:hover{
 			background-color:#4d4c48;
 		}
-		
+
 		#top #top-right #speakers .banshee .banshee-rewind{
 			background:url(../img/top/banshee-rewind.png) no-repeat scroll center center #43423f;
 			height:29px;
@@ -626,7 +629,7 @@
 			border-top:1px solid #64625b;
 			border-bottom:1px solid #393836;
 		}
-		
+
 		#top #top-right #speakers .banshee .banshee-play{
 			background:url(../img/top/banshee-play.png) no-repeat scroll center center #43423f;
 			height:43px;
@@ -637,9 +640,9 @@
 			border-top:1px solid #64625b;
 			border-bottom:1px solid #393836;
 			margin-left:-100px;
-			
+
 		}
-		
+
 		#top #top-right #speakers .banshee .banshee-forward{
 			background:url(../img/top/banshee-forward.png) no-repeat scroll center center #43423f;
 			height:29px;
@@ -652,7 +655,7 @@
 			border-bottom:1px solid #393836;
 			margin-left:30px;
 		}
-		
+
 		#top #top-right #speakers .slider{
 			width: 185px;
 			height:17px;
@@ -662,7 +665,7 @@
 			margin-top: 5px;
    			 padding-top: 10px;
 		}
-		
+
 		#top #top-right #speakers .slider-active{
 			-moz-border-radius:5px 5px 5px 5px;
 			-webkit-border-radius:5px 5px 5px 5px;
@@ -676,11 +679,11 @@
 		   z-index:1;
 		   padding:0px;
 		}
-		
+
 		#top #top-right #speakers .ui-slider-handle{
 			z-index:2;
 		}
-		
+
 		#top #top-right #speakers .large-icon{
 			background:url(../img/top/100slider.jpg) no-repeat;
 			height:15px;
@@ -688,7 +691,7 @@
 			float:right;
 			margin-top: 12px;
 		}
-		
+
 		#top #top-right .selected{
 			background:url(../img/top/selected-bg.jpg) repeat-x;
 			-webkit-border-top-left-radius: 2px;
@@ -698,7 +701,7 @@
 			border-top-left-radius: 2px;
 			border-top-right-radius: 2px;
 		}
-		
+
 		#top-left #title{
 			font-weight:bold;
 			float:left;
@@ -707,16 +710,16 @@
 		    margin-left: 10px;
 		    margin-top: 2px;
 		}
-		
-		
-		
+
+
+
 		#control-buttons{
 			margin-top:2px;
 			margin-left:8px;
 			float:left;
 			display:none;
 		}
-		
+
 		#control-buttons div{
 			width:19px;
 			height:19px;
@@ -724,11 +727,11 @@
 			float:left;
 			margin-right:2px;
 		}
-		
+
 		#control-buttons div:hover{
 			background-position: 0px -19px;
 		}
-		
+
 		#control-buttons #close{
 			background-image:url(../img/close-button.jpg);
 		}
@@ -741,7 +744,7 @@
 		#top.dashOpen #control-buttons{
 			display:none;
 		}
-		
+
 .fullsize{
 	top:0px !important;
 	left:70px !important;
@@ -752,7 +755,7 @@
 
 .fullsize .control{
  }
- 
+
  .fullsize .buttons{
  	margin-top:0px;
  }
@@ -784,7 +787,7 @@
     .selected-window .control .window-title{
     	color: #DFDBD2;
     }
-    
+
     .folder{
 	width:730px;
 	height:500px;

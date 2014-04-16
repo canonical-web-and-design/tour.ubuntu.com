@@ -7,23 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"POT-Creation-Date: 2014-03-11 10:57+0000\n"
+"PO-Revision-Date: 2014-03-13 11:12+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <tr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:07+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2014-03-14 07:06+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
 msgstr "Firefox Web Tarayıcısı"
-
-#: ../en/index.html
-msgid "Lock Screen"
-msgstr "Ekrani Kitle"
 
 #: ../en/index.html
 msgid ""
@@ -33,16 +29,15 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
-"Firefox herhangi bir bilgisayarda hızla açılır fakar daha yeni makinelerde "
-"süper hızlıdır. Birşeyleri yavaşlatan gereksiz programlar ve deneme yazılımı "
-"olmadan, önyükleme ve bir yarayıcı açmak saniyeler sürer. Online olmayı "
-"beklerken sizi ekrana boş boş baktıran diğer işletim sistemlerinden "
-"farklıdır. Ve Ubuntu zamanla yavaşlamayacaktır. Hızlıdır. Ve hızlı "
-"kalacaktır."
+"Ubuntu herhangi bir bilgisayarda hızla açılır fakat yeni makinelerde süper "
+"hızlıdır. Yavaşlatan gereksiz programlar ve deneme sürümü yazılımlar olmadan "
+"sistemin önyüklenmesi ve tarayıcının açılması saniyeler alır. Çevrimiçi "
+"olmayı beklerken ekrana baktıran diğer iştetim sistemlerinden farklıdır. Ve "
+"Ubuntu zamanla yavaşlamayacaktır. Hızlıdır. Ve hızlı kalacaktır."
 
 #: ../en/index.html
 msgid "no subject"
-msgstr ""
+msgstr "başlık yok"
 
 #: ../en/index.html
 msgid "Show yourself around"
@@ -54,15 +49,19 @@ msgstr "Masaüstü"
 
 #: ../en/index.html
 msgid "Get Mail"
-msgstr ""
+msgstr "E-Postaları Al"
 
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
 msgstr "PiTiVi Video Düzenleyici"
 
 #: ../en/index.html
+msgid "Welcome screen"
+msgstr ""
+
+#: ../en/index.html
 msgid "Internet"
-msgstr "İnternet"
+msgstr "Internet"
 
 #: ../en/index.html
 msgid "Science &amp; Engineering"
@@ -70,27 +69,27 @@ msgstr "Bilim &amp; Mühendislik"
 
 #: ../en/index.html
 msgid "Find apps"
-msgstr ""
+msgstr "Uygulama bul"
 
 #: ../en/index.html
 msgid "Not Alone"
-msgstr ""
+msgstr "Yalnız Değil"
 
 #: ../en/index.html
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Momiji Rüyası"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr ""
+msgstr "Bulmacaları çözmek için zamanı iyi kullanın"
 
 #: ../en/index.html
 msgid "中文"
-msgstr ""
+msgstr "Chinese"
 
 #: ../en/index.html
 msgid "About Me"
-msgstr ""
+msgstr "Hakkımda"
 
 #: ../en/index.html
 msgid ""
@@ -98,19 +97,27 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
+"BEEP, Galaksiyi keşfetmek için uzayın derinliklerinde binlerce yıl boyunca "
+"gezdi. BEEP mekiğiyle yabancı bir yıldız sisteminde yolculuk yapın ve "
+"gezegenlerin yüzeyine robotlar gönderin."
 
 #: ../en/index.html
 msgid ""
 "Are you sure you want to close all programs and shutdown the computer?"
 msgstr ""
+"Tüm programları sonlandırıp bilgisayarı kapatmak istediğinize emin misiniz?"
+
+#: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "Bu paket Chromium tarayıcısını içerir."
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
-msgstr ""
+msgstr "İsimsiz 1 - LibreOffice Impress"
 
 #: ../en/index.html
 msgid "Ubuntu One"
-msgstr ""
+msgstr "Ubuntu One"
 
 #: ../en/index.html
 msgid ""
@@ -119,93 +126,101 @@ msgid ""
 "translated into 38 languages, Ubuntu also includes essential assistive "
 "technologies, which are, of course, completely free."
 msgstr ""
+"Erişilebilirlik Ubuntu felsefesinin merkezidir. Bilgisayar kullanmanın "
+"kişinin milliyetine, ırkına, cinsiyetine veya engeline bakmadan herkes için "
+"olduğuna inanıyoruz. Tümüyle 38 dile çevrilen Ubuntu ayrıca tamamen ücretsiz "
+"olarak zaruri destekleyici teknolojileri de barındırır."
 
 #: ../en/index.html
 msgid "Download Ubuntu"
-msgstr ""
+msgstr "Ubuntu'yu İndir"
 
 #: ../en/index.html
 msgid "Watch videos"
-msgstr ""
+msgstr "Video İzle"
 
 #: ../en/index.html
 msgid "Join now"
-msgstr ""
+msgstr "Şimdi katıl"
 
 #: ../en/index.html
 msgid "Applications"
-msgstr ""
+msgstr "Uygulamalar"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr ""
+msgstr "14 Ekim 2010, Çarşamba"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr ""
-
-#: ../en/index.html
-msgid "Remote Desktop Viewer"
-msgstr ""
+msgstr "Fizik temelli yapboz/inşa oyunu"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
-msgstr ""
+msgstr "Gwibber Topluluk İstemcisi"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Happyness"
-msgstr ""
+msgstr "Mutluluk"
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr ""
+msgstr "15.2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr ""
+msgstr "PCB CNC dönüştürücü"
 
 #: ../en/index.html
 msgid "On"
-msgstr ""
+msgstr "Tarih:"
 
 #: ../en/index.html
-msgid "Welcome Screen"
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
 msgstr ""
+"Tüm favori filmlerinizi ve videolarınızı, DVD'lerinizi, indirdiğiniz ya da "
+"kendi oluşturduğunuz filmleri izleyebilirsiniz."
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
-msgstr ""
+msgstr "İsimsiz 1 - LibreOffice Writer"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
-msgstr ""
+msgstr "2 boyutlu, fizik temelli bulmacalı bir platform/nişancı oyunu"
 
 #: ../en/index.html
 msgid "Graphics"
-msgstr ""
+msgstr "Grafik Uygulamaları"
 
 #: ../en/index.html
 msgid "Keep Connected"
-msgstr ""
+msgstr "Bağlı Kalın"
 
 #: ../en/index.html
 msgid "Top Rated"
-msgstr ""
+msgstr "En Çok Oylananlar"
 
 #: ../en/index.html
 msgid "Compatible"
-msgstr ""
-
-#: ../en/index.html
-msgid "Dash home"
-msgstr ""
+msgstr "Uyumlu"
 
 #: ../en/index.html
 msgid "From"
-msgstr ""
+msgstr "Kimden"
 
 #: ../en/index.html
 msgid "Auto eth0"
+msgstr "Otomatik eth0"
+
+#: ../en/index.html
+msgid "Welcome to the Ubuntu 14.04 tour!"
 msgstr ""
 
 #: ../en/index.html
@@ -213,370 +228,381 @@ msgid "Thanks for exploring Ubuntu!"
 msgstr "Ubuntu'yu keşfettiğiniz için teşekkürler."
 
 #: ../en/index.html
-msgid "Send files to device…"
+msgid "Guest Session"
 msgstr ""
+
+#: ../en/index.html
+msgid "Send files to device…"
+msgstr "Aygıta dosya gönder..."
 
 #: ../en/index.html
 msgid "Create documents"
-msgstr ""
+msgstr "Belge Oluştur"
 
 #: ../en/index.html
 msgid "(91 Ratings)"
-msgstr ""
+msgstr "(91 Oylanma)"
 
 #: ../en/index.html
-msgid "Secure"
-msgstr ""
+msgid "Installed"
+msgstr "Yüklenenler"
 
 #: ../en/index.html
-msgid "This package contains the Chromium browser"
+msgid "Exit the Tour"
 msgstr ""
 
 #: ../en/index.html
 msgid "$9.99"
-msgstr ""
+msgstr "9.99 dolar"
 
 #: ../en/index.html
-msgid "Help"
-msgstr ""
+msgid "Secure"
+msgstr "Güvenli"
 
 #: ../en/index.html
 msgid "Mute"
-msgstr ""
+msgstr "Sessiz"
 
 #: ../en/index.html
 msgid "All Software"
-msgstr ""
+msgstr "Tüm Yazılımlar"
 
 #: ../en/index.html
 msgid "Ready to download?"
-msgstr ""
+msgstr "İndirmeye hazır mısınız?"
 
 #: ../en/index.html
 msgid "Accessories"
-msgstr ""
+msgstr "Donatılar"
 
 #: ../en/index.html
 msgid "Create spreadsheets"
-msgstr ""
+msgstr "Tablolar oluşturun"
 
 #: ../en/index.html
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../en/index.html
 msgid "Shut Down"
-msgstr ""
+msgstr "Bilgisayarı Kapat"
 
 #: ../en/index.html
 msgid "Music"
-msgstr ""
+msgstr "Müzik"
 
 #: ../en/index.html
 msgid "Rhythmbox"
-msgstr ""
+msgstr "Rhythmbox"
 
 #: ../en/index.html
 msgid "Education"
-msgstr ""
+msgstr "Eğitim"
 
 #: ../en/index.html
 msgid "Brasero Disc Burner"
-msgstr ""
+msgstr "Brasero Disk Yazma Programı"
 
 #: ../en/index.html
 msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
 msgstr ""
+"Thunderbird ile e-posta okuyun, yazın ve gönderin. Kolay ve hızlıdır."
 
 #: ../en/index.html
 msgid "wrote"
-msgstr ""
+msgstr "yazdı"
 
 #: ../en/index.html
 msgid "Subject"
-msgstr ""
+msgstr "Konu"
 
 #: ../en/index.html
 msgid "Shotwell"
-msgstr ""
+msgstr "Shotwell"
 
 #: ../en/index.html
 msgid "Documents"
-msgstr ""
+msgstr "Belgeler"
 
 #: ../en/index.html
 msgid "Disconnect"
-msgstr ""
+msgstr "Bağlantıyı kes"
 
 #: ../en/index.html
 msgid "Preferences"
-msgstr ""
+msgstr "Tercihler"
 
 #: ../en/index.html
 msgid "Browse files"
-msgstr ""
+msgstr "Dosyalara gözat"
 
 #: ../en/index.html
 msgid "Come and explore our favourites"
-msgstr ""
+msgstr "Gelin ve en beğendiklerimizi keşfedin"
 
 #: ../en/index.html
-msgid "junk"
-msgstr ""
+msgid "Shut Down…"
+msgstr "Bilgisayarı Kapat..."
 
 #: ../en/index.html
 msgid "Send"
-msgstr ""
+msgstr "Gönder"
 
 #: ../en/index.html
 msgid "Darkening Clockwork"
+msgstr "Saat Düzeneği"
+
+#: ../en/index.html
+msgid "Ubuntu One Music"
 msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
-msgstr ""
+msgstr "Inkscape Vektörel Grafik Düzenleyici"
 
 #: ../en/index.html
 msgid "Create presentations"
-msgstr ""
+msgstr "Sunumlar oluşturun"
 
 #: ../en/index.html
 msgid "Original Message"
-msgstr ""
+msgstr "Özgün ileti"
 
 #: ../en/index.html
 msgid "AisleRoit Solitaire"
-msgstr ""
+msgstr "AisleRoit Kağıt Oyunu"
 
 #: ../en/index.html
 msgid "Rock Out"
-msgstr ""
-
-#: ../en/index.html
-msgid "Connection Information"
-msgstr ""
+msgstr "Müziksiz Kalmayın"
 
 #: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
+"Chromium, tüm Internet kullanıcıları için daha güvenli, daha hızlı ve daha "
+"kararlı bir web deneyimi hedefleyen açık kaynaklı tarayıcı projesidir."
 
 #: ../en/index.html
 msgid "Email"
-msgstr ""
+msgstr "E-posta"
 
 #: ../en/index.html
 msgid "Sent"
-msgstr ""
+msgstr "Gönderilen"
 
 #: ../en/index.html
 msgid "subject"
-msgstr ""
-
-#: ../en/index.html
-msgid "Available"
-msgstr ""
+msgstr "konu"
 
 #: ../en/index.html
 msgid "All Folders"
-msgstr ""
+msgstr "Tüm Klasörler"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr ""
-
-#: ../en/index.html
-msgid "Hibernate"
-msgstr ""
+msgstr "26 Ekim 2001, Cuma"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
-msgstr ""
+msgstr "Langelinie Yolu"
 
 #: ../en/index.html
 msgid "Your Ubuntu, your way"
-msgstr ""
+msgstr "Sizin Ubuntu'nuz, sizin yolunuz"
 
 #: ../en/index.html
-msgid "Time &amp; Date Settings…"
-msgstr ""
+msgid "Downloads"
+msgstr "İndirilenler"
 
 #: ../en/index.html
 msgid "Recently Used"
+msgstr "Son Kullanılanlar"
+
+#: ../en/index.html
+msgid "Ubuntu Help"
 msgstr ""
 
 #: ../en/index.html
-msgid "Cancel"
+msgid "Amazon"
 msgstr ""
 
 #: ../en/index.html
-msgid "Jardin Polar"
-msgstr ""
-
-#: ../en/index.html
-msgid ""
-"You can watch all your favourite films and videos, DVDs, downloads or movies "
-"you've created yourself."
-msgstr ""
-
-#: ../en/index.html
-msgid "3.3MB"
+msgid "Ctrl+Alt+L"
 msgstr ""
 
 #: ../en/index.html
 msgid "reply"
-msgstr ""
+msgstr "cevapla"
 
 #: ../en/index.html
-msgid "Set Up Mail…"
-msgstr ""
+msgid "Title:"
+msgstr "Başlık:"
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
-msgstr ""
-
-#: ../en/index.html
-msgid "Clear"
-msgstr ""
+msgstr "Ubuntu Yazılım Merkezi'nden hızla uygulama arayın ve indirin."
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr ""
+msgstr "19.99 dolar"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
+msgstr "Dybbølsbro İstasyonu"
+
+#: ../en/index.html
+msgid "About This Computer"
 msgstr ""
 
 #: ../en/index.html
-msgid "Log Out…"
-msgstr ""
+msgid "Connection Information"
+msgstr "Bağlantı Bilgisi"
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
 msgstr ""
+"Diğer uzantılar ruby, libxml-xql-perl, python-numpy ve python-lxml "
+"paketlerini kullanır. Tüm eklentileri ve efektleri kullanmak için bu "
+"paketler sisteminizde bulunmak zorundadır."
+
+#: ../en/index.html
+msgid "Places"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr ""
+msgstr "İlet"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr ""
+msgstr "Terminal Sunucu İstemcisi"
 
 #: ../en/index.html
 msgid "Appearance"
-msgstr ""
+msgstr "Gürünüm"
 
 #: ../en/index.html
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #: ../en/index.html
 msgid "Buck Off"
-msgstr ""
+msgstr "Antilop"
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Sessizce Yaklaşan Ocelot"
 
 #: ../en/index.html
-msgid "System Settings…"
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
 msgstr ""
-
-#: ../en/index.html
-msgid "Startup Applications…"
-msgstr ""
+"Android ve iPhone için müzik yayını sayesinde tüm koleksiyonunuz gittiğiniz "
+"her yerde sizinle"
 
 #: ../en/index.html
 msgid "Remove"
-msgstr ""
+msgstr "Kaldır"
 
 #: ../en/index.html
 msgid ""
 "Braid treats your time and attention as precious, and it does everything it "
 "can to give you a mind-expanding experience."
 msgstr ""
+"Braid zamanınızı ve ilginizi çok değerli buluyor ve size duyuları "
+"zenginleştiren bir deneyim vermek için her şeyi yapıyor."
 
 #: ../en/index.html
 msgid "English"
-msgstr ""
+msgstr "English"
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Mor Dansçılar"
 
 #: ../en/index.html
-msgid "from"
-msgstr ""
+msgid "Ubuntu One Control Panel"
+msgstr "Ubuntu One Kontrol Paneli"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #: ../en/index.html
 msgid ""
 "All gameplay is based on time manipulation. Journey into worlds where time "
 "behaves strangely; observe, learn from, and then master these worlds."
 msgstr ""
+"Oyunun tamamı zamanı kullanma üzerine kuruludur. Zamanın tuhaf ilerlediği "
+"evrenlere yolculuk edip gözlemleyecek, öğrenecek ve bu evrenlere hakim "
+"olacaksınız."
 
 #: ../en/index.html
 msgid "Mount Snowdon"
-msgstr ""
+msgstr "Snowdon Dağı"
 
 #: ../en/index.html
 msgid "Songs"
-msgstr ""
+msgstr "Parçalar"
 
 #: ../en/index.html
 msgid "Accessible"
-msgstr ""
+msgstr "Erişilebilir"
 
 #: ../en/index.html
 msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
-
-#: ../en/index.html
-msgid "Title:"
-msgstr ""
+"Dosyalarınızı yedekleyin ve Ubuntu, Windows, Web ya da Mobil cihazınızdan "
+"ulaşın"
 
 #: ../en/index.html
 msgid "Setup new device…"
-msgstr ""
+msgstr "Yeni aygıt ayarla..."
 
 #: ../en/index.html
-msgid "Introduction Ubuntu"
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
 msgstr ""
+"Inkscape'in kullanıcı arayüzü CorelDraw ve benzeri çizim programlarından "
+"tanıdık gelecektir. Dikdörtgenler, elipsler, metin nesneleri, bit eşlem "
+"görüntüleri ve serbest eğriler. Sürpriz olarak, bütün vektör ve bit eşlem "
+"nesneleri alfa saydamlığı alabilir ve isteğe göre dönüştürülebilir."
 
 #: ../en/index.html
 msgid "Videos"
-msgstr ""
+msgstr "Videolar"
 
 #: ../en/index.html
 msgid "Braid"
-msgstr ""
+msgstr "Braid"
 
 #: ../en/index.html
 msgid ""
 "Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
 "format, a standard maintained by the WWW consortium."
 msgstr ""
+"Inkscape, WWW konsorsiyumu tarafından korunan bir standart olan SVG "
+"(Ölçeklenebilir Vektör Grafik) biçimini yükler ve kaydeder."
 
 #: ../en/index.html
 msgid ""
 "Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
 "download it to enjoy the real thing!"
 msgstr ""
+"Ubuntu'yu keşfettiğiniz için teşekkürler! Unutmayın, bu sadece bir tanıtım. "
+"Gerçek bir eğlence deneyimi için Ubuntu'yu indirmelisiniz."
 
 #: ../en/index.html
 msgid "Unread:"
-msgstr ""
-
-#: ../en/index.html
-msgid "Banshee Media Player"
-msgstr ""
+msgstr "Okunmamış:"
 
 #: ../en/index.html
 msgid ""
@@ -590,26 +616,40 @@ msgid ""
 "sensitive data with friends or colleagues, you’ll have peace of mind when "
 "you need it the most."
 msgstr ""
+"Ubuntu ile güvenle gezinebilirsiniz - dosyalarınız ve verilerinizin korumada "
+"olacağından emin olabilirsiniz. Yerleşik güvenlik duvarı ve virüs koruması "
+"standart olarak gelmektedir. Ve olası bir tehlike belirdiğinde, tek "
+"tıklamayla yükleyebileceğiniz otomatik güncellemeler sağlıyoruz. Önemli "
+"uygulamalarınızı koruyan ve böylece saldırganların sisteminize erişmesini "
+"engelleyen AppArmor ile güvenlik eklenmiştir. Ayrıca Ubuntu'nun kişisel "
+"bilgilerinizi gizli tutmasına yardım ettiği için Firefox ve gnome "
+"anahtarlığına teşekkürler. Bu sayede banka hesabınıza eriştiğinizde veya "
+"hassas verilerinizi arkadaşlarınızla veya meslektaşlarınızla "
+"paylaştığınızda, içiniz rahat edecek."
 
 #: ../en/index.html
 msgid "Files &amp; Folders"
-msgstr ""
+msgstr "Dosya &amp; Klasörler"
 
 #: ../en/index.html
-msgid "Installed"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
 msgstr ""
+"Unutmayın, bu sadece bir tanıtım. Gerçek bir eğlence deneyimi için Ubuntu'yu "
+"indirmelisiniz."
 
 #: ../en/index.html
 msgid "BEEP"
-msgstr ""
+msgstr "BEEP"
 
 #: ../en/index.html
 msgid "Visible"
-msgstr ""
+msgstr "Görünür"
 
 #: ../en/index.html
 msgid "Learn More"
-msgstr ""
+msgstr "Daha Fazla Bilgi Edinin"
 
 #: ../en/index.html
 msgid ""
@@ -617,138 +657,120 @@ msgid ""
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
 msgstr ""
-
-#: ../en/index.html
-msgid "Chat"
-msgstr ""
-
-#: ../en/index.html
-msgid "Archive"
-msgstr ""
-
-#: ../en/index.html
-msgid "Download"
-msgstr ""
+"BEEP'in yer çekimini yok eden aygıtını doğrudan fizik temelli çevreleri "
+"idare etmek için kullanın. Yer çekimini yok eden aygıt araç ve silah olarak "
+"kullanılabilir. Düşman robotlarını parçalamak, kuleler yapmak ve bulmacaları "
+"çözmek için kullanın."
 
 #: ../en/index.html
 msgid "Home"
-msgstr ""
+msgstr "Ev Dizini"
 
 #: ../en/index.html
 msgid "Canonical"
-msgstr ""
+msgstr "Canonical"
 
 #: ../en/index.html
 msgid "Developer Tools"
-msgstr ""
+msgstr "Geliştirici Araçları"
 
 #: ../en/index.html
 msgid "or"
-msgstr ""
+msgstr "veya"
 
 #: ../en/index.html
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #: ../en/index.html
 msgid "Access the Internet"
-msgstr ""
+msgstr "İnternet'e erişin"
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr ""
+msgstr "5.3MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr ""
+msgstr "Rehber eşliğinde gezinin"
 
 #: ../en/index.html
 msgid "cc"
-msgstr ""
+msgstr "karbon kopya"
 
 #: ../en/index.html
 msgid "Pictures"
-msgstr ""
-
-#: ../en/index.html
-msgid "Away"
-msgstr ""
-
-#: ../en/index.html
-msgid "Check email"
-msgstr ""
+msgstr "Resimler"
 
 #: ../en/index.html
 msgid "Size:"
-msgstr ""
+msgstr "Boyut:"
 
 #: ../en/index.html
 msgid "Draft"
-msgstr ""
+msgstr "Taslak"
 
 #: ../en/index.html
 msgid "Free"
-msgstr ""
+msgstr "Serbest"
 
 #: ../en/index.html
 msgid "Keep you firefox bookmarks and Tomboy notes synced"
-msgstr ""
+msgstr "Firefox yer imlerinizi ve Tomboy notlarınızı eşitler"
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
-msgstr ""
+msgstr "LibreOffice Writer profesyonel belgeler oluşturmanızı kolaylaştırır."
 
 #: ../en/index.html
-msgid "Displays…"
-msgstr ""
-
-#: ../en/index.html
-msgid "Software Up to Date"
-msgstr ""
+msgid "Sound Settings…"
+msgstr "Ses Ayarları..."
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr ""
+msgstr "Web'de gezinin"
 
 #: ../en/index.html
 msgid "Local"
-msgstr ""
+msgstr "Yerel"
 
 #: ../en/index.html
 msgid ""
 "If you want to use the spellchecker, you have to install aspell and the "
 "respective language-pack, e.g. aspell-en or aspell-de."
 msgstr ""
+"Yazım denetleyicisini kullanmak istiyorsanız, aspell ve ilgili dil paketini "
+"kurmalısınız. Örneğin; aspell-tr ya da aspell-en."
 
 #: ../en/index.html
 msgid "World of Goo"
-msgstr ""
+msgstr "World of Goo"
 
 #: ../en/index.html
 msgid "View photos"
-msgstr ""
+msgstr "Fotoğrafları Görüntüle"
 
 #: ../en/index.html
 msgid "You can upload, organise, edit and share your photos with Shotwell."
 msgstr ""
+"Shotwell ile fotoğraflarınızı Internete yükleyebilir, gruplandırabilir, "
+"düzenleyebilir ve paylaşabilirsiniz."
 
 #: ../en/index.html
 msgid "Sand Maze"
-msgstr ""
+msgstr "Kum Labirenti"
 
 #: ../en/index.html
-msgid "Ubuntu One Control Panel"
-msgstr ""
+msgid "from"
+msgstr "kimden"
 
 #: ../en/index.html
-msgid ""
-"Your entire collection follows you around with music streaming to Android "
-"and iPhone"
-msgstr ""
+msgid "Introduction Ubuntu"
+msgstr "Ubuntu Tanıtımı"
 
 #: ../en/index.html
 msgid "to"
-msgstr ""
+msgstr "kime"
 
 #: ../en/index.html
 msgid ""
@@ -762,34 +784,48 @@ msgid ""
 "of a standalone binary and/or a web plug-in are common products of Blender "
 "use."
 msgstr ""
+"Blender modelleme, canlandırma, render yapma, üretim sonrası aşamalar, "
+"etkileşimli oluşturma ve tekrar oynatma (oyunlar) için bütünleşik 3 boyutlu "
+"bir settir. Blender tamamen OpenGL ile yapılmış ve hız için tasarlanmış "
+"kendine özgü arayüze sahiptir. Python bağlantıları betik oluşturma için "
+"mevcuttur; 3D Studio ve Wavefront Obj gibi popüler dosya biçimleri için içe "
+"/ dışa aktarma özellikleri topluluk tarafından betik olarak sağlanmıştır. "
+"Stiller, canlandırmalar, oyunlar için modeller veya üçüncü parti yazılım "
+"motorları ve web eklentisindeki ve/veya bağımsız ikili dosyadaki etkileşimli "
+"içerikler Blender'ın yaygın olarak kullanıldığı ürünlerdendir."
 
 #: ../en/index.html
 msgid "Your browser does not support iframes."
-msgstr ""
+msgstr "Tarayıcınız sayfa içi çerçeveleri (iframe) desteklemiyor."
 
 #: ../en/index.html
 msgid ""
 "Make a good impression with the intuitive LibreOffice Impress presentation "
 "tool."
-msgstr ""
+msgstr "Sezgisel LibreOffice Impress sunum aracıyla güzel bir etki bırakın."
 
 #: ../en/index.html
 msgid ""
 "It’s quick and easy to access your folders and files from Ubuntu’s home "
 "folder."
 msgstr ""
+"Ubuntu'nun ev dizininden dosya ve dizinlerinize erişmek hızlı ve kolaydır."
 
 #: ../en/index.html
 msgid "Our star apps"
+msgstr "Yıldızlı uygulamalarımız"
+
+#: ../en/index.html
+msgid "Logout"
 msgstr ""
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
-msgstr ""
+msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
-msgid "Date"
-msgstr ""
+msgid "forward"
+msgstr "ilet"
 
 #: ../en/index.html
 msgid ""
@@ -797,38 +833,38 @@ msgid ""
 "bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
 "goo balls that live in the beautiful World of Goo are curious to explore."
 msgstr ""
+"Sürükle-bırak yaşam biçimi, kıvranan, yapı inşa etmek için konuşan goo "
+"damlaları, köprüler, top gülleleri, zeplinler ve dev diller. World of "
+"Goo'nun güzel dünyasında yaşayan milyonlarca masum goo topları keşfedilmeyi "
+"bekliyor."
 
 #: ../en/index.html
 msgid "Chromium Web Browser"
-msgstr ""
-
-#: ../en/index.html
-msgid "Sound Recorder"
-msgstr ""
+msgstr "Chromium Web Tarayıcı"
 
 #: ../en/index.html
 msgid "Recipient"
-msgstr ""
+msgstr "Alıcı"
 
 #: ../en/index.html
 msgid "Fast"
+msgstr "Hızlı"
+
+#: ../en/index.html
+msgid "Restart"
 msgstr ""
 
 #: ../en/index.html
 msgid "Recent"
-msgstr ""
+msgstr "Son"
 
 #: ../en/index.html
 msgid "To:"
-msgstr ""
-
-#: ../en/index.html
-msgid "Set Up Broadcast Account…"
-msgstr ""
+msgstr "Kime:"
 
 #: ../en/index.html
 msgid "Date:"
-msgstr ""
+msgstr "Tarih:"
 
 #: ../en/index.html
 msgid ""
@@ -836,102 +872,101 @@ msgid ""
 "and with thousands of apps to choose from, Ubuntu gives you a clean and "
 "streamlined experience that you can really make your own."
 msgstr ""
+"Ubuntu'nun şık ve sezgisel arayüzünün sadeliğinin keyfini çıkarın. Hızlı, "
+"güvenli ve seçebileceğiniz binlerce uygulama ile Ubuntu size kusursuz ve "
+"modern bir deneyim sunar."
 
 #: ../en/index.html
 msgid "Total:"
-msgstr ""
-
-#: ../en/index.html
-msgid "Additional Drivers"
-msgstr ""
+msgstr "Toplam:"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
-msgstr ""
+msgstr "Ubuntu Yazılım Merkezi"
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Calc"
-msgstr ""
+msgstr "İsimsiz 1 - LibreOffice Calc"
 
 #: ../en/index.html
 msgid "I already have an account!"
-msgstr ""
+msgstr "Zaten bir hesabım var!"
 
 #: ../en/index.html
 msgid "System"
-msgstr ""
+msgstr "Sistem"
 
 #: ../en/index.html
-msgid "forward"
-msgstr ""
+msgid "Date"
+msgstr "Tarih"
 
 #: ../en/index.html
 msgid ""
 "LibreOffice Calc has everything you need to create clear and accurate "
 "spreadsheets."
 msgstr ""
+"LibreOffice Calc, anlaşılır ve doğru hesap tabloları oluşturmak için ihtiyaç "
+"duyacağınız her şeye sahiptir."
 
 #: ../en/index.html
 msgid ""
 "Some of the import and export features are provided using the packages dia, "
 "libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
 msgstr ""
+"İçe ve dışa aktarma özelliklerinden bazıları dia, libwmf-bin, pstoedit, "
+"skencil, imagemagick, ve perlmagick paketleri kullanılarak sağlanmıştır."
 
 #: ../en/index.html
 msgid "Take Ubuntu for a test drive with our online demo."
-msgstr ""
+msgstr "Çevrimiçi tanıtımımız ile Ubuntu'yu deneyin."
 
 #: ../en/index.html
 msgid "Install"
-msgstr ""
+msgstr "Yükle"
 
 #: ../en/index.html
 msgid "Items:"
-msgstr ""
+msgstr "Öğeler:"
 
 #: ../en/index.html
-msgid "WildWheat"
+msgid "Ubuntu Software Center"
 msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
-msgstr ""
-
-#: ../en/index.html
-msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
+msgstr "Konu:"
 
 #: ../en/index.html
 msgid "Backup"
-msgstr ""
+msgstr "Yedekle"
 
 #: ../en/index.html
 msgid "Ubuntu tour"
-msgstr ""
+msgstr "Ubuntu turu"
 
 #: ../en/index.html
 msgid "History"
-msgstr ""
+msgstr "Geçmiş"
 
 #: ../en/index.html
 msgid "16 Photos"
-msgstr ""
+msgstr "16 Fotoğraf"
 
 #: ../en/index.html
 msgid "Home Folder"
-msgstr ""
+msgstr "Ev Dizini"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr ""
+msgstr "Ubuntu çevrimiçi turunu beğendiğinizi umarız."
 
 #: ../en/index.html
 msgid "Office"
-msgstr ""
+msgstr "Ofis"
 
 #: ../en/index.html
 msgid "Themes &amp; Tweaks"
-msgstr ""
+msgstr "Tema &amp; Ayarlar"
 
 #: ../en/index.html
 msgid ""
@@ -940,22 +975,32 @@ msgid ""
 "installation CDs. No fuss. And it’s compatible with Windows too! So you can "
 "open, edit and share Microsoft Office documents stress-free."
 msgstr ""
+"Ubuntu çeşitli aygıtlarla harika bir şekilde çalışır. Mp3 oynatıcısınızı, "
+"fotoğraf makinenizi ya da yazıcınızı bağlayın ve doğrudan çalışsın. Kurulum "
+"CD'si yok. Telaş yok. Ayrıca Windows ile de uyumlu! Bu sayede Microsoft "
+"Office belgelerinizi stressiz olarak açabilir, düzenleyebilir ve "
+"paylaşabilirsiniz."
 
 #: ../en/index.html
 msgid "work"
-msgstr ""
+msgstr "iş"
 
 #: ../en/index.html
 msgid "Library"
-msgstr ""
+msgstr "Kütüphane"
 
 #: ../en/index.html
 msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr ""
+"Bağlantılarınızı Masaüstü, Mobil cihazınız ve Web arasında birleştirir"
 
 #: ../en/index.html
-msgid "Thunderbird Mail"
-msgstr ""
+msgid "WildWheat"
+msgstr "Yabani Buğday"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "Vazgeç"
 
 #: ../en/index.html
 msgid ""
@@ -963,52 +1008,49 @@ msgid ""
 "(name and logo) with very few additions such as usage tracking and an auto-"
 "updater system."
 msgstr ""
+"Chromium, kullanım izlemesi ve otomatik güncelleme özelliklerini ekleyerek "
+"(isim ve simge değişimi ile) yeniden piyasaya sürülen Google Chrome için bir "
+"temel oluşturmaktadır."
 
 #: ../en/index.html
 msgid "Not Junk"
-msgstr ""
+msgstr "Gereksiz Değil"
 
 #: ../en/index.html
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
+msgid "Archive"
+msgstr "Arşiv"
 
 #: ../en/index.html
 msgid "delete"
-msgstr ""
+msgstr "sil"
 
 #: ../en/index.html
 msgid "Thunderbird Mail/News"
-msgstr ""
+msgstr "Thunderbird E-Posta/Haber"
 
 #: ../en/index.html
-msgid "Busy"
-msgstr ""
+msgid "Write: (no subject)"
+msgstr "Yaz: (konu yok)"
 
 #: ../en/index.html
 msgid "Small Flowers"
-msgstr ""
+msgstr "Küçük Çiçekler"
 
 #: ../en/index.html
 msgid "Edit Connections…"
-msgstr ""
+msgstr "Bağlantıları Düzenle..."
 
 #: ../en/index.html
-msgid "Printers"
-msgstr ""
+msgid "Check email"
+msgstr "E-postaları kontrol et"
 
 #: ../en/index.html
-msgid "Sound Settings…"
-msgstr ""
-
-#: ../en/index.html
-msgid "Search"
-msgstr ""
+msgid "Additional Drivers"
+msgstr "Ek Sürücüler"
 
 #: ../en/index.html
 msgid ""
@@ -1016,34 +1058,37 @@ msgid ""
 "delicious. The most addicting and awe-inspiring puzzle game will set you on "
 "an adventure that youll never forget!"
 msgstr ""
+"Fakat onlar bir oyunda olduklarını bilmiyor ya da son derece şirin "
+"olduklarını. En çok bağımlılık yapan ve dehşet veren bulmaca oyunu sizi hiç "
+"unutmayacağınız bir macera içine sürükleyecek."
 
 #: ../en/index.html
 msgid "Turn On Bluetooth"
-msgstr ""
+msgstr "Bluetooth Aç"
 
 #: ../en/index.html
 msgid "Write"
-msgstr ""
+msgstr "Yaz"
 
 #: ../en/index.html
 msgid "Attach"
+msgstr "Ekle"
+
+#: ../en/index.html
+msgid "Rhythmbox Media Player"
 msgstr ""
 
 #: ../en/index.html
-msgid "Window"
-msgstr ""
-
-#: ../en/index.html
-msgid "Write: (no subject)"
+msgid "System Settings"
 msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr ""
+msgstr "Ubuntu çevrimiçi tur"
 
 #: ../en/index.html
 msgid "Federica Miglio"
-msgstr ""
+msgstr "Federica Miglio"
 
 #: ../en/index.html
 msgid ""
@@ -1052,160 +1097,147 @@ msgid ""
 "gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
 "across 6 unique environments."
 msgstr ""
+"BEEP, 2 boyutlu, yatay düzlemde hareket edebileceğiniz fizik temelli bir "
+"platform oyunudur. Oyunda yer çekimini ortadan kaldıran bir aygıta, jet "
+"motoruna ve bir silaha sahip küçük bir robotu yönetiyorsunuz. 6 benzersiz "
+"ortama yayılmış 24 seviyede araç kullanın, zıplayın, yüzün ve ateş edin."
 
 #: ../en/index.html
-msgid "Offline"
-msgstr ""
+msgid "You"
+msgstr "Siz"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr ""
+msgstr "Çöp Kutusu"
 
 #: ../en/index.html
 msgid "archive"
-msgstr ""
+msgstr "arşiv"
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "Kelimelerin Gücü"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Shotwell Fotoğraf Yöneticisi"
 
 #: ../en/index.html
 msgid "Folders"
-msgstr ""
+msgstr "Klasörler"
 
 #: ../en/index.html
 msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
-msgstr ""
-
-#: ../en/index.html
-msgid "Format"
-msgstr ""
-
-#: ../en/index.html
-msgid "Surf the web"
-msgstr ""
-
-#: ../en/index.html
-msgid "Browse files on device…"
-msgstr ""
-
-#: ../en/index.html
-msgid "Junk Mail"
-msgstr ""
-
-#: ../en/index.html
-msgid "1"
-msgstr ""
-
-#: ../en/index.html
-msgid "Computer"
-msgstr ""
-
-#: ../en/index.html
-msgid "What's New"
-msgstr ""
-
-#: ../en/index.html
-msgid "Movie Player"
-msgstr ""
-
-#: ../en/index.html
-msgid "Invisible"
-msgstr ""
-
-#: ../en/index.html
-msgid "Albums"
-msgstr ""
+msgstr "Ubuntu ve Firefox ile web'i hızla ve güvenle gezin."
 
 #: ../en/index.html
 msgid ""
 "Inkscape supports multiple opened files and multiple views per file. "
 "Graphics can be printed and exported to png bitmaps."
 msgstr ""
+"Inkscape birden fazla dosya açmayı ve bir dosya için birden fazla görünümü "
+"destekler. Grafikler yazdırılabilir ve png bit eşlem olarak dışa "
+"aktarılabilir."
 
 #: ../en/index.html
-msgid "LibreOffice Writer"
-msgstr ""
+msgid "Surf the web"
+msgstr "Web'de gezinin"
 
 #: ../en/index.html
-msgid "From:"
-msgstr ""
+msgid "Browse files on device…"
+msgstr "Aygıttaki dosyalara gözat..."
 
 #: ../en/index.html
-msgid "Insert"
-msgstr ""
+msgid "Junk Mail"
+msgstr "Gereksiz E-posta"
 
 #: ../en/index.html
-msgid "Shut Down…"
-msgstr ""
-
-#: ../en/index.html
-msgid "Fonts"
-msgstr ""
-
-#: ../en/index.html
-msgid "File"
-msgstr ""
-
-#: ../en/index.html
-msgid "Edit"
-msgstr ""
-
-#: ../en/index.html
-msgid "Bluetooth On"
-msgstr ""
-
-#: ../en/index.html
-msgid "Turn Off Bluetooth"
-msgstr ""
-
-#: ../en/index.html
-msgid "Installing"
-msgstr ""
-
-#: ../en/index.html
-msgid "back to the site"
-msgstr ""
-
-#: ../en/index.html
-msgid "Games"
-msgstr ""
-
-#: ../en/index.html
-msgid "Visolate"
-msgstr ""
-
-#: ../en/index.html
-msgid "Empathy Internet Messageing"
-msgstr ""
+msgid "1"
+msgstr "1"
 
 #: ../en/index.html
 msgid "Create and edit Scalable Vector Graphics images"
+msgstr "Ölçeklenebilir Vektörel Grafik (SVG) resimleri oluştur ve düzenle"
+
+#: ../en/index.html
+msgid "What's New"
+msgstr "Yenilikler"
+
+#: ../en/index.html
+msgid "Movie Player"
+msgstr "Film Oynatıcı"
+
+#: ../en/index.html
+msgid "Dash home"
+msgstr "Ana Seçke"
+
+#: ../en/index.html
+msgid "Albums"
+msgstr "Albümler"
+
+#: ../en/index.html
+msgid "Search your computer and online sources"
 msgstr ""
 
 #: ../en/index.html
-msgid "Attached Devices"
-msgstr ""
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
 
 #: ../en/index.html
-msgid "View"
-msgstr ""
+msgid "From:"
+msgstr "Kimden:"
+
+#: ../en/index.html
+msgid "Remote Desktop Viewer"
+msgstr "Uzak Masaüstü Görüntüleyici"
+
+#: ../en/index.html
+msgid "junk"
+msgstr "gereksiz"
+
+#: ../en/index.html
+msgid "Fonts"
+msgstr "Yazı Tipleri"
+
+#: ../en/index.html
+msgid "Bluetooth On"
+msgstr "Bluetooth Açık"
+
+#: ../en/index.html
+msgid "Turn Off Bluetooth"
+msgstr "Bluetooth Kapat"
+
+#: ../en/index.html
+msgid "Installing"
+msgstr "Yükleniyor"
+
+#: ../en/index.html
+msgid "back to the site"
+msgstr "siteye geri dön"
+
+#: ../en/index.html
+msgid "Games"
+msgstr "Oyunlar"
+
+#: ../en/index.html
+msgid "Visolate"
+msgstr "Visolate"
+
+#: ../en/index.html
+msgid "Sound Recorder"
+msgstr "Ses Kaydedicisi"
 
 #: ../en/index.html
 msgid "Suspend"
-msgstr ""
+msgstr "Askıya al"
 
 #: ../en/index.html
 msgid "branches"
-msgstr ""
+msgstr "bölümler"
 
 #: ../en/index.html
 msgid "The Power of Your Personal Cloud"
-msgstr ""
+msgstr "Kişisel Bulutunuzun Gücü"
 
 #: ../en/index.html
 msgid ""
@@ -1213,50 +1245,50 @@ msgid ""
 "painterly style where you manipulate the flow of time to solve puzzles. "
 "Every puzzle in Braid is unique; there is no filler."
 msgstr ""
+"Bulmacaları çözmek için zamanı iyi kullanın. Braid  bulmacaları çözmek için "
+"zamanı iyi kullanmanız gereken, ışık ve tonlamaya dayanan tarzda bir "
+"platform oyunudur. Braid'de bulunan bütün bulmacalar benzersizdir, doldurma "
+"değildir."
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr ""
+msgstr "11 Ekim 2010, Pazartesi"
 
 #: ../en/index.html
-msgid ""
-"Inkscape user interface should be familiar from CorelDraw and similar "
-"drawing programs. There are rectangles, ellipses, text items, bitmap images "
-"and freehand curves. As an added bonus, both vector and bitmap objects can "
-"have alpha transparency and can be arbitrarily transformed."
+msgid "Lock"
 msgstr ""
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr ""
+msgstr "Sesi Aç"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr ""
+msgstr "Çöp kutusu"
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
-msgstr ""
+msgstr "Ses &amp; Video"
 
 #: ../en/index.html
 msgid "Create and edit 3D models and animations"
-msgstr ""
+msgstr "Üç boyutlu modeller ve animasyonlar oluşturun ve düzenleyin"
 
 #: ../en/index.html
 msgid "Inbox"
-msgstr ""
+msgstr "Gelen Kutusu"
 
 #: ../en/index.html
 msgid "Files Anywhere"
-msgstr ""
+msgstr "Dosyalarınız Hep Sizinle"
 
 #: ../en/index.html
 msgid "Stay Productive"
-msgstr ""
+msgstr "Verimli Kalın"
 
 #: ../en/index.html
-msgid "Table"
-msgstr ""
+msgid "Empathy Internet Messageing"
+msgstr "Empathy Sohbet İstemcisi"
 
 #: ../en/index.html
 msgid ""
@@ -1274,19 +1306,23 @@ msgid ""
 "pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
 "nulla."
 msgstr ""
+"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. "
+"Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı "
+"oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri "
+"endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca "
+"varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik "
+"dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset "
+"yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem "
+"Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur. "
+"Yinelenen bir sayfa içeriğinin okuyucunun dikkatini dağıttığı bilinen bir "
+"gerçektir. Lorem Ipsum kullanmanın amacı, sürekli 'buraya metin gelecek, "
+"buraya metin gelecek' yazmaya kıyasla daha dengeli bir harf dağılımı "
+"sağlayarak okunurluğu artırmasıdır."
 
 #: ../en/index.html
-msgid "Tools"
-msgstr ""
-
-#: ../en/index.html
-msgid "Downloads"
-msgstr ""
-
-#: ../en/index.html
-msgid "You"
-msgstr ""
+msgid "3.3MB"
+msgstr "3.3MB"
 
 #: ../en/index.html
 msgid "Blender"
-msgstr ""
+msgstr "Blender"

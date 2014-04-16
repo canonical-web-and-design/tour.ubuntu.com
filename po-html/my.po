@@ -7,23 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"POT-Creation-Date: 2014-03-11 10:57+0000\n"
+"PO-Revision-Date: 2014-03-13 11:12+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Burmese <my@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:06+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2014-03-14 07:04+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
 msgstr "Firefox Web Browser"
-
-#: ../en/index.html
-msgid "Lock Screen"
-msgstr "ဖန်သားပြင်ကို ပိတ်ထားမည်။"
 
 #: ../en/index.html
 msgid ""
@@ -53,6 +49,10 @@ msgstr "စာများရသည်။"
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
 msgstr "PiTiVi ရုပ်သံ Editor"
+
+#: ../en/index.html
+msgid "Welcome screen"
+msgstr ""
 
 #: ../en/index.html
 msgid "Internet"
@@ -99,6 +99,10 @@ msgid ""
 msgstr "ပရိုဂရမ်အားလုံးကိုပိတ်ပြီး ကွန်ပြူတာကို လုံး၀ပိတ်ဖို့သေချာပါသလား။"
 
 #: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "ဒီ Package တွင် Chromium browser ပါဝင်သည်။"
+
+#: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
 msgstr "ခေါင်းစဉ်မဲ့ ၁ - LibreOffice Impress"
 
@@ -139,12 +143,12 @@ msgid "Physics based puzzle/construction game"
 msgstr "ရူပဗေဒအခြေခံ ပဟေဠိ၊ ဆောက်လုပ်ရေး ကစားနည်းများ"
 
 #: ../en/index.html
-msgid "Remote Desktop Viewer"
-msgstr "Remote Desktop Viewer"
-
-#: ../en/index.html
 msgid "Gwibber Social Client"
 msgstr "Gwibber လူမှုဆက်သွယ်ရေး Client"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -163,8 +167,10 @@ msgid "On"
 msgstr "ဖွင့်"
 
 #: ../en/index.html
-msgid "Welcome Screen"
-msgstr "ကြိုဆိုသည့်မျက်နှာပြင်"
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -191,10 +197,6 @@ msgid "Compatible"
 msgstr "Compatible"
 
 #: ../en/index.html
-msgid "Dash home"
-msgstr "Dash home"
-
-#: ../en/index.html
 msgid "From"
 msgstr "မှ"
 
@@ -203,8 +205,16 @@ msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 14.04 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
 msgstr "ဦးဘန္တု ကိုရှာဖွေသည့်အတွက် ကျေးဇူးတင်ပါသည်။"
+
+#: ../en/index.html
+msgid "Guest Session"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -219,20 +229,20 @@ msgid "(91 Ratings)"
 msgstr "(၉၁ Ratings)"
 
 #: ../en/index.html
-msgid "Secure"
-msgstr "လုံခြုံစိတ်ချရသော"
+msgid "Installed"
+msgstr "စက်ထဲသွင်းထားသောဆော့ဝဲများ"
 
 #: ../en/index.html
-msgid "This package contains the Chromium browser"
-msgstr "ဒီ Package တွင် Chromium browser ပါဝင်သည်။"
+msgid "Exit the Tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "$9.99"
 msgstr "$၉.၉၉"
 
 #: ../en/index.html
-msgid "Help"
-msgstr "အကူအညီ"
+msgid "Secure"
+msgstr "လုံခြုံစိတ်ချရသော"
 
 #: ../en/index.html
 msgid "Mute"
@@ -317,8 +327,8 @@ msgid "Come and explore our favourites"
 msgstr "Come and explore our favourites"
 
 #: ../en/index.html
-msgid "junk"
-msgstr ""
+msgid "Shut Down…"
+msgstr "လုံးဝ ပိတ်မည် ..."
 
 #: ../en/index.html
 msgid "Send"
@@ -327,6 +337,10 @@ msgstr "ပို့မည်။"
 #: ../en/index.html
 msgid "Darkening Clockwork"
 msgstr "Darkening Clockwork"
+
+#: ../en/index.html
+msgid "Ubuntu One Music"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -349,10 +363,6 @@ msgid "Rock Out"
 msgstr "Rock Out"
 
 #: ../en/index.html
-msgid "Connection Information"
-msgstr "ကွန်နက်ရှင် အချက်အလက်"
-
-#: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
@@ -371,20 +381,12 @@ msgid "subject"
 msgstr "အကြောင်းအရာ"
 
 #: ../en/index.html
-msgid "Available"
-msgstr "ရရှိနိုင်သော"
-
-#: ../en/index.html
 msgid "All Folders"
 msgstr "ဖိုလ်ဒါအားလုံး"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
 msgstr "သော၂၆ အောက်, ၂၀၀၁"
-
-#: ../en/index.html
-msgid "Hibernate"
-msgstr "လက်ရှိ အခြေအနေတိုင်းမှတ်သား၍ အပြီးထွက်မည်"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -395,47 +397,37 @@ msgid "Your Ubuntu, your way"
 msgstr "သင်၏ဦးဘန္တု ၊ သင်၏နည်းလမ်း"
 
 #: ../en/index.html
-msgid "Time &amp; Date Settings…"
-msgstr "အချိန် &amp; နေ့စွဲ Settings…"
+msgid "Downloads"
+msgstr "အင်တာနက် ပေါ်မှ ယူထားသောဖိုင်များ (ဒေါင်းလုတ်များ)"
 
 #: ../en/index.html
 msgid "Recently Used"
 msgstr "လတ်တလော သုံးစွဲမှု"
 
 #: ../en/index.html
-msgid "Cancel"
-msgstr "ပယ်ဖျက်မည်"
-
-#: ../en/index.html
-msgid "Jardin Polar"
-msgstr "Jardin Polar"
-
-#: ../en/index.html
-msgid ""
-"You can watch all your favourite films and videos, DVDs, downloads or movies "
-"you've created yourself."
+msgid "Ubuntu Help"
 msgstr ""
 
 #: ../en/index.html
-msgid "3.3MB"
-msgstr "၃.၃MB"
+msgid "Amazon"
+msgstr ""
+
+#: ../en/index.html
+msgid "Ctrl+Alt+L"
+msgstr ""
 
 #: ../en/index.html
 msgid "reply"
 msgstr "စာပြန်မည်။"
 
 #: ../en/index.html
-msgid "Set Up Mail…"
-msgstr ""
+msgid "Title:"
+msgstr "ခေါင်းစဉ်-"
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
 "Ubuntu Software Centre မှ app များကို ရှာဖွေမည်။ မြန်ဆန်စွာဒေါင်းလုတ်ဆွဲမည်။"
-
-#: ../en/index.html
-msgid "Clear"
-msgstr "ရှင်းလင်းပါ"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -446,13 +438,21 @@ msgid "Dybbølsbro Station"
 msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
-msgid "Log Out…"
-msgstr "အကောင့်မှ ထွက်မည် ..."
+msgid "About This Computer"
+msgstr ""
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "ကွန်နက်ရှင် အချက်အလက်"
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
+msgstr ""
+
+#: ../en/index.html
+msgid "Places"
 msgstr ""
 
 #: ../en/index.html
@@ -480,12 +480,10 @@ msgid "Stalking Ocelot"
 msgstr ""
 
 #: ../en/index.html
-msgid "System Settings…"
-msgstr "System Settings…"
-
-#: ../en/index.html
-msgid "Startup Applications…"
-msgstr "စက်ဖွင့်ချိန်တွင်တက်လာမည့် Application များ"
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
 
 #: ../en/index.html
 msgid "Remove"
@@ -506,8 +504,8 @@ msgid "Purple Dancers"
 msgstr ""
 
 #: ../en/index.html
-msgid "from"
-msgstr "မှ"
+msgid "Ubuntu One Control Panel"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -536,16 +534,16 @@ msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
 
 #: ../en/index.html
-msgid "Title:"
-msgstr "ခေါင်းစဉ်-"
-
-#: ../en/index.html
 msgid "Setup new device…"
 msgstr "ကိရိယာအသစ်တစ်ခုတပ်ဆင်မည်။"
 
 #: ../en/index.html
-msgid "Introduction Ubuntu"
-msgstr "ဦးဘန္တုကို မိတ်ဆက်ခြင်း"
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
 
 #: ../en/index.html
 msgid "Videos"
@@ -575,10 +573,6 @@ msgid "Unread:"
 msgstr "မဖတ်သေးသည့် -"
 
 #: ../en/index.html
-msgid "Banshee Media Player"
-msgstr "Banshee Media Player"
-
-#: ../en/index.html
 msgid ""
 "You can surf in safety with Ubuntu – confident that your files and data will "
 "stay protected. A built-in firewall and virus protection come as standard. "
@@ -596,8 +590,12 @@ msgid "Files &amp; Folders"
 msgstr "ဖိုင်များ &amp; ဖိုလ်ဒါများ"
 
 #: ../en/index.html
-msgid "Installed"
-msgstr "စက်ထဲသွင်းထားသောဆော့ဝဲများ"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"ယခုသည် အစမ်းသာပြသည်ဟု မှတ်ထားစေချင်ပါသည်။ အမှန်တကယ်ပျော်ရွှင်စွာသုံးလိုပါက "
+"သင် ဒေါင်းလုတ်ချရန်လိုအပ်ပါသည်။"
 
 #: ../en/index.html
 msgid "BEEP"
@@ -617,18 +615,6 @@ msgid ""
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
 msgstr ""
-
-#: ../en/index.html
-msgid "Chat"
-msgstr "Chat"
-
-#: ../en/index.html
-msgid "Archive"
-msgstr ""
-
-#: ../en/index.html
-msgid "Download"
-msgstr "ကွန်ယက်မှ ဆွဲယူခြင်း(ဒေါင်းလုတ်)"
 
 #: ../en/index.html
 msgid "Home"
@@ -671,14 +657,6 @@ msgid "Pictures"
 msgstr "ပုံများ"
 
 #: ../en/index.html
-msgid "Away"
-msgstr "အဝေးမှာ"
-
-#: ../en/index.html
-msgid "Check email"
-msgstr "အီးမေးလ် စစ်မည်။"
-
-#: ../en/index.html
 msgid "Size:"
 msgstr "အရွယ် အစား -"
 
@@ -699,12 +677,8 @@ msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
 
 #: ../en/index.html
-msgid "Displays…"
-msgstr ""
-
-#: ../en/index.html
-msgid "Software Up to Date"
-msgstr "ဆော့ဝဲလ် နောက်ဆုံးပေါ်"
+msgid "Sound Settings…"
+msgstr "အသံပြင်ဆင်မူ"
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -739,14 +713,12 @@ msgid "Sand Maze"
 msgstr "Sand Maze"
 
 #: ../en/index.html
-msgid "Ubuntu One Control Panel"
-msgstr ""
+msgid "from"
+msgstr "မှ"
 
 #: ../en/index.html
-msgid ""
-"Your entire collection follows you around with music streaming to Android "
-"and iPhone"
-msgstr ""
+msgid "Introduction Ubuntu"
+msgstr "ဦးဘန္တုကို မိတ်ဆက်ခြင်း"
 
 #: ../en/index.html
 msgid "to"
@@ -790,12 +762,16 @@ msgid "Our star apps"
 msgstr "ကျွန်ုပ်တို့၏ကြယ်ပွင့်ပြ App  များ"
 
 #: ../en/index.html
+msgid "Logout"
+msgstr ""
+
+#: ../en/index.html
 msgid "The Grass Aint Greener"
 msgstr ""
 
 #: ../en/index.html
-msgid "Date"
-msgstr "နေ့စွဲ"
+msgid "forward"
+msgstr ""
 
 #: ../en/index.html
 msgid ""
@@ -809,10 +785,6 @@ msgid "Chromium Web Browser"
 msgstr "Chromium Web Browser"
 
 #: ../en/index.html
-msgid "Sound Recorder"
-msgstr "အသံသွင်းစက်"
-
-#: ../en/index.html
 msgid "Recipient"
 msgstr "လက်ခံရရှိမည့်သူ"
 
@@ -821,16 +793,16 @@ msgid "Fast"
 msgstr "မြန်"
 
 #: ../en/index.html
+msgid "Restart"
+msgstr ""
+
+#: ../en/index.html
 msgid "Recent"
 msgstr "မကြာသေးခင်က"
 
 #: ../en/index.html
 msgid "To:"
 msgstr "သို့-"
-
-#: ../en/index.html
-msgid "Set Up Broadcast Account…"
-msgstr ""
 
 #: ../en/index.html
 msgid "Date:"
@@ -846,10 +818,6 @@ msgstr ""
 #: ../en/index.html
 msgid "Total:"
 msgstr "စုစုပေါင်း -"
-
-#: ../en/index.html
-msgid "Additional Drivers"
-msgstr "နောက်ထပ် Driver များ"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
@@ -868,8 +836,8 @@ msgid "System"
 msgstr "System"
 
 #: ../en/index.html
-msgid "forward"
-msgstr ""
+msgid "Date"
+msgstr "နေ့စွဲ"
 
 #: ../en/index.html
 msgid ""
@@ -898,16 +866,12 @@ msgid "Items:"
 msgstr "Items:"
 
 #: ../en/index.html
-msgid "WildWheat"
-msgstr "WildWheat"
+msgid "Ubuntu Software Center"
+msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
 msgstr "အကြောင်းအရာ-"
-
-#: ../en/index.html
-msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
 
 #: ../en/index.html
 msgid "Backup"
@@ -963,8 +927,12 @@ msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr ""
 
 #: ../en/index.html
-msgid "Thunderbird Mail"
-msgstr "Thunderbird မေးလ်"
+msgid "WildWheat"
+msgstr "WildWheat"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "ပယ်ဖျက်မည်"
 
 #: ../en/index.html
 msgid ""
@@ -982,12 +950,8 @@ msgid "Chromium"
 msgstr "ခရိုမီယမ်"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
+msgid "Archive"
 msgstr ""
-"ယခုသည် အစမ်းသာပြသည်ဟု မှတ်ထားစေချင်ပါသည်။ အမှန်တကယ်ပျော်ရွှင်စွာသုံးလိုပါက "
-"သင် ဒေါင်းလုတ်ချရန်လိုအပ်ပါသည်။"
 
 #: ../en/index.html
 msgid "delete"
@@ -998,8 +962,8 @@ msgid "Thunderbird Mail/News"
 msgstr "Thunderbird မေးလ်/သတင်း"
 
 #: ../en/index.html
-msgid "Busy"
-msgstr "အလုပ်များနေပါသည်။"
+msgid "Write: (no subject)"
+msgstr "ရေးမည် - (အကြောင်းအရာမရှိ)"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1010,16 +974,12 @@ msgid "Edit Connections…"
 msgstr "ကွန်နက်ရှင်ကို ပြင်ဆင်မည်။"
 
 #: ../en/index.html
-msgid "Printers"
-msgstr "Printers"
+msgid "Check email"
+msgstr "အီးမေးလ် စစ်မည်။"
 
 #: ../en/index.html
-msgid "Sound Settings…"
-msgstr "အသံပြင်ဆင်မူ"
-
-#: ../en/index.html
-msgid "Search"
-msgstr "ရှာဖွေ"
+msgid "Additional Drivers"
+msgstr "နောက်ထပ် Driver များ"
 
 #: ../en/index.html
 msgid ""
@@ -1041,12 +1001,12 @@ msgid "Attach"
 msgstr "တွဲမည်။"
 
 #: ../en/index.html
-msgid "Window"
-msgstr "၀င်းဒိုး"
+msgid "Rhythmbox Media Player"
+msgstr ""
 
 #: ../en/index.html
-msgid "Write: (no subject)"
-msgstr "ရေးမည် - (အကြောင်းအရာမရှိ)"
+msgid "System Settings"
+msgstr "System Settings"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1065,8 +1025,8 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Offline"
-msgstr "လိုင်းပြင်ပ"
+msgid "You"
+msgstr "သင်"
 
 #: ../en/index.html
 msgid "Trash"
@@ -1095,8 +1055,10 @@ msgstr ""
 "လုံခြုံစိတ်ချရပါသည်။"
 
 #: ../en/index.html
-msgid "Format"
-msgstr "Format"
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -1115,8 +1077,8 @@ msgid "1"
 msgstr "၁"
 
 #: ../en/index.html
-msgid "Computer"
-msgstr "ကွန်ပျူတာ"
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr "Create and edit Scalable Vector Graphics images"
 
 #: ../en/index.html
 msgid "What's New"
@@ -1127,17 +1089,15 @@ msgid "Movie Player"
 msgstr "ဗွီဒီယိုဖွင့်စက်"
 
 #: ../en/index.html
-msgid "Invisible"
-msgstr "မမြင်အောင်လုပ်ထားသည်။"
+msgid "Dash home"
+msgstr "Dash home"
 
 #: ../en/index.html
 msgid "Albums"
 msgstr "အယ်လ်ဘမ်"
 
 #: ../en/index.html
-msgid ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
+msgid "Search your computer and online sources"
 msgstr ""
 
 #: ../en/index.html
@@ -1149,24 +1109,16 @@ msgid "From:"
 msgstr "မှ-"
 
 #: ../en/index.html
-msgid "Insert"
-msgstr "ထည့်သွင်း"
+msgid "Remote Desktop Viewer"
+msgstr "Remote Desktop Viewer"
 
 #: ../en/index.html
-msgid "Shut Down…"
-msgstr "လုံးဝ ပိတ်မည် ..."
+msgid "junk"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fonts"
 msgstr "စာလုံးပုံစံများ"
-
-#: ../en/index.html
-msgid "File"
-msgstr "ဖိုင်"
-
-#: ../en/index.html
-msgid "Edit"
-msgstr "တည်းဖြတ်"
 
 #: ../en/index.html
 msgid "Bluetooth On"
@@ -1193,20 +1145,8 @@ msgid "Visolate"
 msgstr ""
 
 #: ../en/index.html
-msgid "Empathy Internet Messageing"
-msgstr "Empathy Internet Messageing"
-
-#: ../en/index.html
-msgid "Create and edit Scalable Vector Graphics images"
-msgstr "Create and edit Scalable Vector Graphics images"
-
-#: ../en/index.html
-msgid "Attached Devices"
-msgstr "ကိရိယာများကိုတွဲမည်။"
-
-#: ../en/index.html
-msgid "View"
-msgstr "မြင်ကွင်း"
+msgid "Sound Recorder"
+msgstr "အသံသွင်းစက်"
 
 #: ../en/index.html
 msgid "Suspend"
@@ -1232,11 +1172,7 @@ msgid "Mon 11 October, 2010"
 msgstr "လာ ၁၁၊ အောက်၊ ၂၀၁၀"
 
 #: ../en/index.html
-msgid ""
-"Inkscape user interface should be familiar from CorelDraw and similar "
-"drawing programs. There are rectangles, ellipses, text items, bitmap images "
-"and freehand curves. As an added bonus, both vector and bitmap objects can "
-"have alpha transparency and can be arbitrarily transformed."
+msgid "Lock"
 msgstr ""
 
 #: ../en/index.html
@@ -1268,8 +1204,8 @@ msgid "Stay Productive"
 msgstr ""
 
 #: ../en/index.html
-msgid "Table"
-msgstr "ဇယား"
+msgid "Empathy Internet Messageing"
+msgstr "Empathy Internet Messageing"
 
 #: ../en/index.html
 msgid ""
@@ -1302,29 +1238,9 @@ msgstr ""
 "nulla."
 
 #: ../en/index.html
-msgid "Tools"
-msgstr "Tools"
-
-#: ../en/index.html
-msgid "Downloads"
-msgstr "အင်တာနက် ပေါ်မှ ယူထားသောဖိုင်များ (ဒေါင်းလုတ်များ)"
-
-#: ../en/index.html
-msgid "You"
-msgstr "သင်"
+msgid "3.3MB"
+msgstr "၃.၃MB"
 
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
-
-#~ msgid "Recent Files"
-#~ msgstr "မကြာသေးခင်ကဖိုင်များ"
-
-#~ msgid "Recent Apps"
-#~ msgstr "မကြာသေးခင်က  App များ"
-
-#~ msgid "Welcome to the Ubuntu online tour!"
-#~ msgstr "ဦးဘန္တု အွန်လိုင်းအလည်အပတ်ခရီးမှ ကြိုဆိုပါသည်။"
-
-#~ msgid "App Available for Download"
-#~ msgstr "ဒေါင်းလုတ်ဆွဲရန်အတွက်ရရှိနိုင်သော App"
