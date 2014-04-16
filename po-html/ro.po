@@ -7,23 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"POT-Creation-Date: 2014-03-11 10:57+0000\n"
+"PO-Revision-Date: 2014-03-13 11:12+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Romanian <ro@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:07+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2014-03-14 07:05+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
 msgstr "Navigatorul Web Firefox"
-
-#: ../en/index.html
-msgid "Lock Screen"
-msgstr "Blocare ecran"
 
 #: ../en/index.html
 msgid ""
@@ -60,6 +56,10 @@ msgstr "Primire mesaje"
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
 msgstr "Editorul video PiTiVi"
+
+#: ../en/index.html
+msgid "Welcome screen"
+msgstr ""
 
 #: ../en/index.html
 msgid "Internet"
@@ -110,6 +110,10 @@ msgstr ""
 "Sigur doriți să închideți toate aplicațiile și să închideți calculatorul?"
 
 #: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "Acest pachet conține navigatorul Chromium"
+
+#: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
 msgstr "Neintitulat 1 - LibreOffice Impress"
 
@@ -155,12 +159,12 @@ msgid "Physics based puzzle/construction game"
 msgstr "Joc de construcție, tip puzzle, bazat pe fizică"
 
 #: ../en/index.html
-msgid "Remote Desktop Viewer"
-msgstr "Vizualizare desktop la distanță"
-
-#: ../en/index.html
 msgid "Gwibber Social Client"
 msgstr "Gwibber - Client social"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Grădina polară"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -179,8 +183,10 @@ msgid "On"
 msgstr "Activat"
 
 #: ../en/index.html
-msgid "Welcome Screen"
-msgstr "Ecranul de bun-venit"
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -207,10 +213,6 @@ msgid "Compatible"
 msgstr "Compatibil"
 
 #: ../en/index.html
-msgid "Dash home"
-msgstr "Panou principal"
-
-#: ../en/index.html
 msgid "From"
 msgstr "De la"
 
@@ -219,8 +221,16 @@ msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 14.04 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
 msgstr "Vă mulțumim pentru că explorați Ubuntu!"
+
+#: ../en/index.html
+msgid "Guest Session"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -235,20 +245,20 @@ msgid "(91 Ratings)"
 msgstr "(91 aprecieri)"
 
 #: ../en/index.html
-msgid "Secure"
-msgstr "Sigură"
+msgid "Installed"
+msgstr "Instalate"
 
 #: ../en/index.html
-msgid "This package contains the Chromium browser"
-msgstr "Acest pachet conține navigatorul Chromium"
+msgid "Exit the Tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "$9.99"
 msgstr "$9.99"
 
 #: ../en/index.html
-msgid "Help"
-msgstr "Ajutor"
+msgid "Secure"
+msgstr "Sigură"
 
 #: ../en/index.html
 msgid "Mute"
@@ -333,8 +343,8 @@ msgid "Come and explore our favourites"
 msgstr "Explorați favoritele noastre"
 
 #: ../en/index.html
-msgid "junk"
-msgstr "junk"
+msgid "Shut Down…"
+msgstr "Oprire…"
 
 #: ../en/index.html
 msgid "Send"
@@ -343,6 +353,10 @@ msgstr "Trimite"
 #: ../en/index.html
 msgid "Darkening Clockwork"
 msgstr "Mecanism de ceas"
+
+#: ../en/index.html
+msgid "Ubuntu One Music"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -363,10 +377,6 @@ msgstr "AisleRoit Solitaire"
 #: ../en/index.html
 msgid "Rock Out"
 msgstr "Rock Out"
-
-#: ../en/index.html
-msgid "Connection Information"
-msgstr "Informații conexiune"
 
 #: ../en/index.html
 msgid ""
@@ -390,20 +400,12 @@ msgid "subject"
 msgstr "subiect"
 
 #: ../en/index.html
-msgid "Available"
-msgstr "Disponibil"
-
-#: ../en/index.html
 msgid "All Folders"
 msgstr "Toate dosarele"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
 msgstr "Vin 26 oct, 2001"
-
-#: ../en/index.html
-msgid "Hibernate"
-msgstr "Hibernare"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -414,46 +416,36 @@ msgid "Your Ubuntu, your way"
 msgstr "Ubuntu tău, așa cum vrei tu"
 
 #: ../en/index.html
-msgid "Time &amp; Date Settings…"
-msgstr "Timp &amp; Configurări dată…"
+msgid "Downloads"
+msgstr "Descărcări"
 
 #: ../en/index.html
 msgid "Recently Used"
 msgstr "Utilizate recent"
 
 #: ../en/index.html
-msgid "Cancel"
-msgstr "Anulează"
-
-#: ../en/index.html
-msgid "Jardin Polar"
-msgstr "Grădina polară"
-
-#: ../en/index.html
-msgid ""
-"You can watch all your favourite films and videos, DVDs, downloads or movies "
-"you've created yourself."
+msgid "Ubuntu Help"
 msgstr ""
 
 #: ../en/index.html
-msgid "3.3MB"
-msgstr "3.3MO"
+msgid "Amazon"
+msgstr ""
+
+#: ../en/index.html
+msgid "Ctrl+Alt+L"
+msgstr ""
 
 #: ../en/index.html
 msgid "reply"
 msgstr "răspuns"
 
 #: ../en/index.html
-msgid "Set Up Mail…"
-msgstr "Configurare e-mail..."
+msgid "Title:"
+msgstr "Nume:"
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr "Căutați și descărcați rapid aplicații din Centrul software Ubuntu."
-
-#: ../en/index.html
-msgid "Clear"
-msgstr "Șterge"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -464,8 +456,12 @@ msgid "Dybbølsbro Station"
 msgstr "Gara Dybbølsbro"
 
 #: ../en/index.html
-msgid "Log Out…"
-msgstr "Ieșire..."
+msgid "About This Computer"
+msgstr ""
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "Informații conexiune"
 
 #: ../en/index.html
 msgid ""
@@ -475,6 +471,10 @@ msgstr ""
 "Alte extensii folosesc ruby, libxml-xql-perl, python-numpy și python-lxml. "
 "Trebuie să aveți aceste pachete pentru a utiliza la întreaga capacitate "
 "toate extensiile și efectele."
+
+#: ../en/index.html
+msgid "Places"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
@@ -501,12 +501,12 @@ msgid "Stalking Ocelot"
 msgstr "Ocelot la pândă"
 
 #: ../en/index.html
-msgid "System Settings…"
-msgstr "Configurări de sistem..."
-
-#: ../en/index.html
-msgid "Startup Applications…"
-msgstr "Aplicații pornite la autentificare..."
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
+"Întreaga colecție de muzică vă urmează oriunde, cu funcția de difuzare "
+"pentru dispozitivele Android și iPhone"
 
 #: ../en/index.html
 msgid "Remove"
@@ -529,8 +529,8 @@ msgid "Purple Dancers"
 msgstr "Dansatori purpurii"
 
 #: ../en/index.html
-msgid "from"
-msgstr "de la"
+msgid "Ubuntu One Control Panel"
+msgstr "Panoul de control Ubuntu One"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -563,16 +563,21 @@ msgstr ""
 "Ubuntu, Windows, Web sau dispozitive mobile"
 
 #: ../en/index.html
-msgid "Title:"
-msgstr "Nume:"
-
-#: ../en/index.html
 msgid "Setup new device…"
 msgstr "Configurare dispozitive noi..."
 
 #: ../en/index.html
-msgid "Introduction Ubuntu"
-msgstr "Introducere în Ubuntu"
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+"Interfața Inskape ar trebui să fie familiară celor care au utilizat "
+"CorelDraw sau programe similare. Există dreptunghiuri, elipse, elemente de "
+"text, imagini bitmap (hartă raster) și curbe libere. Ca bonus, atât "
+"obiectele vectoriale cât și cele raster pot avea transparență alfa și pot fi "
+"transformate arbitrar."
 
 #: ../en/index.html
 msgid "Videos"
@@ -603,10 +608,6 @@ msgid "Unread:"
 msgstr "Necitite:"
 
 #: ../en/index.html
-msgid "Banshee Media Player"
-msgstr "Banshee - redare muzică"
-
-#: ../en/index.html
 msgid ""
 "You can surf in safety with Ubuntu – confident that your files and data will "
 "stay protected. A built-in firewall and virus protection come as standard. "
@@ -634,8 +635,12 @@ msgid "Files &amp; Folders"
 msgstr "Fișiere &amp; Dosare"
 
 #: ../en/index.html
-msgid "Installed"
-msgstr "Instalate"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Rețineți, această prezentare este demonstrativă. Trebuie să descărcați "
+"Ubuntu pentru a vă bucura de original!"
 
 #: ../en/index.html
 msgid "BEEP"
@@ -659,18 +664,6 @@ msgstr ""
 "mediile bazate pe fizică. Dispozitivul antigravitațional este atât o "
 "unealtă, cât și o armă. Utilizați-l pentru a zdrobi roboți inamici, pentru a "
 "construi turnuri și pentru a rezolva puzzle-uri."
-
-#: ../en/index.html
-msgid "Chat"
-msgstr "Chat"
-
-#: ../en/index.html
-msgid "Archive"
-msgstr "Arhivă"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "Descărcare"
 
 #: ../en/index.html
 msgid "Home"
@@ -713,14 +706,6 @@ msgid "Pictures"
 msgstr "Fotografii"
 
 #: ../en/index.html
-msgid "Away"
-msgstr "Absent"
-
-#: ../en/index.html
-msgid "Check email"
-msgstr "Verifică pentru mesaje e-mail"
-
-#: ../en/index.html
 msgid "Size:"
 msgstr "Dimensiune:"
 
@@ -742,12 +727,8 @@ msgstr ""
 "LibreOffice Writer vă ajută să realizați cu ușurință documente profesionale."
 
 #: ../en/index.html
-msgid "Displays…"
-msgstr "Monitoare..."
-
-#: ../en/index.html
-msgid "Software Up to Date"
-msgstr "Programele sunt actualizate"
+msgid "Sound Settings…"
+msgstr "Configurări sunet..."
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -784,16 +765,12 @@ msgid "Sand Maze"
 msgstr "Sand Maze"
 
 #: ../en/index.html
-msgid "Ubuntu One Control Panel"
-msgstr "Panoul de control Ubuntu One"
+msgid "from"
+msgstr "de la"
 
 #: ../en/index.html
-msgid ""
-"Your entire collection follows you around with music streaming to Android "
-"and iPhone"
-msgstr ""
-"Întreaga colecție de muzică vă urmează oriunde, cu funcția de difuzare "
-"pentru dispozitivele Android și iPhone"
+msgid "Introduction Ubuntu"
+msgstr "Introducere în Ubuntu"
 
 #: ../en/index.html
 msgid "to"
@@ -846,12 +823,16 @@ msgid "Our star apps"
 msgstr "Aplicații alese de noi"
 
 #: ../en/index.html
+msgid "Logout"
+msgstr ""
+
+#: ../en/index.html
 msgid "The Grass Aint Greener"
 msgstr "Iarba nu este mai verde"
 
 #: ../en/index.html
-msgid "Date"
-msgstr "Dată"
+msgid "forward"
+msgstr "înainte"
 
 #: ../en/index.html
 msgid ""
@@ -869,10 +850,6 @@ msgid "Chromium Web Browser"
 msgstr "Navigator Internet Chromium"
 
 #: ../en/index.html
-msgid "Sound Recorder"
-msgstr "Înregistrare sunet"
-
-#: ../en/index.html
 msgid "Recipient"
 msgstr "Destinatar"
 
@@ -881,16 +858,16 @@ msgid "Fast"
 msgstr "Rapid"
 
 #: ../en/index.html
+msgid "Restart"
+msgstr ""
+
+#: ../en/index.html
 msgid "Recent"
 msgstr "Recente"
 
 #: ../en/index.html
 msgid "To:"
 msgstr "Către:"
-
-#: ../en/index.html
-msgid "Set Up Broadcast Account…"
-msgstr "Configurare cont de difuzare..."
 
 #: ../en/index.html
 msgid "Date:"
@@ -911,10 +888,6 @@ msgid "Total:"
 msgstr "Total:"
 
 #: ../en/index.html
-msgid "Additional Drivers"
-msgstr "Drivere adiționale"
-
-#: ../en/index.html
 msgid "Ubuntu Software Centre"
 msgstr "Centrul software Ubuntu"
 
@@ -931,8 +904,8 @@ msgid "System"
 msgstr "Sistem"
 
 #: ../en/index.html
-msgid "forward"
-msgstr "înainte"
+msgid "Date"
+msgstr "Dată"
 
 #: ../en/index.html
 msgid ""
@@ -963,16 +936,12 @@ msgid "Items:"
 msgstr "Elemente:"
 
 #: ../en/index.html
-msgid "WildWheat"
-msgstr "WildWheat"
+msgid "Ubuntu Software Center"
+msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
 msgstr "Subiect:"
-
-#: ../en/index.html
-msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
 
 #: ../en/index.html
 msgid "Backup"
@@ -1033,8 +1002,12 @@ msgstr ""
 "păstrându-le și pe web"
 
 #: ../en/index.html
-msgid "Thunderbird Mail"
-msgstr "Thunderbird Mail"
+msgid "WildWheat"
+msgstr "WildWheat"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "Anulează"
 
 #: ../en/index.html
 msgid ""
@@ -1056,12 +1029,8 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
-"Rețineți, această prezentare este demonstrativă. Trebuie să descărcați "
-"Ubuntu pentru a vă bucura de original!"
+msgid "Archive"
+msgstr "Arhivă"
 
 #: ../en/index.html
 msgid "delete"
@@ -1072,8 +1041,8 @@ msgid "Thunderbird Mail/News"
 msgstr "Thunderbird Mail/News"
 
 #: ../en/index.html
-msgid "Busy"
-msgstr "Ocupat"
+msgid "Write: (no subject)"
+msgstr "Scrie: (fără subiect)"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1084,16 +1053,12 @@ msgid "Edit Connections…"
 msgstr "Editare conexiuni..."
 
 #: ../en/index.html
-msgid "Printers"
-msgstr "Imprimante"
+msgid "Check email"
+msgstr "Verifică pentru mesaje e-mail"
 
 #: ../en/index.html
-msgid "Sound Settings…"
-msgstr "Configurări sunet..."
-
-#: ../en/index.html
-msgid "Search"
-msgstr "Caută"
+msgid "Additional Drivers"
+msgstr "Drivere adiționale"
 
 #: ../en/index.html
 msgid ""
@@ -1118,12 +1083,12 @@ msgid "Attach"
 msgstr "Atașează"
 
 #: ../en/index.html
-msgid "Window"
-msgstr "Fereastră"
+msgid "Rhythmbox Media Player"
+msgstr ""
 
 #: ../en/index.html
-msgid "Write: (no subject)"
-msgstr "Scrie: (fără subiect)"
+msgid "System Settings"
+msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1147,8 +1112,8 @@ msgstr ""
 "nivele desfășurate pe 6 medii unice."
 
 #: ../en/index.html
-msgid "Offline"
-msgstr "Deconectat"
+msgid "You"
+msgstr "Dumneavoastră"
 
 #: ../en/index.html
 msgid "Trash"
@@ -1175,8 +1140,12 @@ msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
 msgstr "Navigarea pe internet este rapidă și sigură cu Ubuntu și Firefox."
 
 #: ../en/index.html
-msgid "Format"
-msgstr "Formatare"
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+"Inkscape suportă multe fișiere deschise și multe vizualizări pe fișier. "
+"Graficele pot fi tipărite și exportate ca bitmap-uri (hărți raster) png."
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -1195,8 +1164,8 @@ msgid "1"
 msgstr "1"
 
 #: ../en/index.html
-msgid "Computer"
-msgstr "Calculator"
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr "Creați și editați imagini în format Scalable Vector Graphics"
 
 #: ../en/index.html
 msgid "What's New"
@@ -1207,20 +1176,16 @@ msgid "Movie Player"
 msgstr "Player pentru filme"
 
 #: ../en/index.html
-msgid "Invisible"
-msgstr "Invizibil"
+msgid "Dash home"
+msgstr "Panou principal"
 
 #: ../en/index.html
 msgid "Albums"
 msgstr "Albume"
 
 #: ../en/index.html
-msgid ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
+msgid "Search your computer and online sources"
 msgstr ""
-"Inkscape suportă multe fișiere deschise și multe vizualizări pe fișier. "
-"Graficele pot fi tipărite și exportate ca bitmap-uri (hărți raster) png."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1231,24 +1196,16 @@ msgid "From:"
 msgstr "De la:"
 
 #: ../en/index.html
-msgid "Insert"
-msgstr "Inserează"
+msgid "Remote Desktop Viewer"
+msgstr "Vizualizare desktop la distanță"
 
 #: ../en/index.html
-msgid "Shut Down…"
-msgstr "Oprire…"
+msgid "junk"
+msgstr "junk"
 
 #: ../en/index.html
 msgid "Fonts"
 msgstr "Fonturi"
-
-#: ../en/index.html
-msgid "File"
-msgstr "Fișier"
-
-#: ../en/index.html
-msgid "Edit"
-msgstr "Editare"
 
 #: ../en/index.html
 msgid "Bluetooth On"
@@ -1275,20 +1232,8 @@ msgid "Visolate"
 msgstr "Visolate"
 
 #: ../en/index.html
-msgid "Empathy Internet Messageing"
-msgstr "Empathy - mesagerie în timp real"
-
-#: ../en/index.html
-msgid "Create and edit Scalable Vector Graphics images"
-msgstr "Creați și editați imagini în format Scalable Vector Graphics"
-
-#: ../en/index.html
-msgid "Attached Devices"
-msgstr "Dispozitive atașate"
-
-#: ../en/index.html
-msgid "View"
-msgstr "Vizualizare"
+msgid "Sound Recorder"
+msgstr "Înregistrare sunet"
 
 #: ../en/index.html
 msgid "Suspend"
@@ -1318,17 +1263,8 @@ msgid "Mon 11 October, 2010"
 msgstr "Lun 11 oct, 2010"
 
 #: ../en/index.html
-msgid ""
-"Inkscape user interface should be familiar from CorelDraw and similar "
-"drawing programs. There are rectangles, ellipses, text items, bitmap images "
-"and freehand curves. As an added bonus, both vector and bitmap objects can "
-"have alpha transparency and can be arbitrarily transformed."
+msgid "Lock"
 msgstr ""
-"Interfața Inskape ar trebui să fie familiară celor care au utilizat "
-"CorelDraw sau programe similare. Există dreptunghiuri, elipse, elemente de "
-"text, imagini bitmap (hartă raster) și curbe libere. Ca bonus, atât "
-"obiectele vectoriale cât și cele raster pot avea transparență alfa și pot fi "
-"transformate arbitrar."
 
 #: ../en/index.html
 msgid "Unmute"
@@ -1359,8 +1295,8 @@ msgid "Stay Productive"
 msgstr "Fiți mereu productivi"
 
 #: ../en/index.html
-msgid "Table"
-msgstr "Tabel"
+msgid "Empathy Internet Messageing"
+msgstr "Empathy - mesagerie în timp real"
 
 #: ../en/index.html
 msgid ""
@@ -1393,29 +1329,9 @@ msgstr ""
 "nulla."
 
 #: ../en/index.html
-msgid "Tools"
-msgstr "Unelte"
-
-#: ../en/index.html
-msgid "Downloads"
-msgstr "Descărcări"
-
-#: ../en/index.html
-msgid "You"
-msgstr "Dumneavoastră"
+msgid "3.3MB"
+msgstr "3.3MO"
 
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
-
-#~ msgid "Recent Files"
-#~ msgstr "Fișiere recente"
-
-#~ msgid "Recent Apps"
-#~ msgstr "Aplicații utilizate recent"
-
-#~ msgid "Welcome to the Ubuntu online tour!"
-#~ msgstr "Bine ați venit la turul online Ubuntu!"
-
-#~ msgid "App Available for Download"
-#~ msgstr "Aplicații disponibile pentru descărcare"

@@ -7,23 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2013-01-25 17:30+0000\n"
+"POT-Creation-Date: 2014-03-11 10:57+0000\n"
+"PO-Revision-Date: 2014-03-13 11:12+0000\n"
 "Last-Translator: admresdeserv. <jeanmarc.gailis@gmail.com>\n"
 "Language-Team: Latvian <lv@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-26 05:34+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2014-03-14 07:05+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
 msgstr "Firefox Interneta Parluks"
-
-#: ../en/index.html
-msgid "Lock Screen"
-msgstr "Slēgt ekrānu"
 
 #: ../en/index.html
 msgid ""
@@ -59,6 +55,10 @@ msgstr "Iegūt e-pastu"
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
 msgstr "PiTiVi Video Redaktors"
+
+#: ../en/index.html
+msgid "Welcome screen"
+msgstr ""
 
 #: ../en/index.html
 msgid "Internet"
@@ -108,6 +108,10 @@ msgid ""
 msgstr "Vai tiešām vēlaties aizvērt visas programmas un izslēgt datoru?"
 
 #: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "Si pakotne iekļauj Chromium Interneta parluku."
+
+#: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
 msgstr "Nenosaukts 1 - LibreOffice Impress"
 
@@ -153,12 +157,12 @@ msgid "Physics based puzzle/construction game"
 msgstr "Uz Fiziku balstīta puzzle / būvniecības spēle"
 
 #: ../en/index.html
-msgid "Remote Desktop Viewer"
-msgstr "Attālināto datoru pārlūks"
-
-#: ../en/index.html
 msgid "Gwibber Social Client"
 msgstr "Gwibber sociālais klients"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr ""
 
 #: ../en/index.html
 msgid "Happyness"
@@ -177,8 +181,10 @@ msgid "On"
 msgstr "Ieslēgts"
 
 #: ../en/index.html
-msgid "Welcome Screen"
-msgstr "Sveiciena ekrāns"
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -205,10 +211,6 @@ msgid "Compatible"
 msgstr "Saderīgs"
 
 #: ../en/index.html
-msgid "Dash home"
-msgstr "Paneļa mājas"
-
-#: ../en/index.html
 msgid "From"
 msgstr "No"
 
@@ -217,8 +219,16 @@ msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 14.04 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
 msgstr "Paldies ka izmeginajat Ubuntu!"
+
+#: ../en/index.html
+msgid "Guest Session"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -233,20 +243,20 @@ msgid "(91 Ratings)"
 msgstr "(91 Vērtējumi)"
 
 #: ../en/index.html
-msgid "Secure"
-msgstr "Drošs"
+msgid "Installed"
+msgstr "Instalēts"
 
 #: ../en/index.html
-msgid "This package contains the Chromium browser"
-msgstr "Si pakotne iekļauj Chromium Interneta parluku."
+msgid "Exit the Tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "$9.99"
 msgstr "$9.99"
 
 #: ../en/index.html
-msgid "Help"
-msgstr "Palīdzība"
+msgid "Secure"
+msgstr "Drošs"
 
 #: ../en/index.html
 msgid "Mute"
@@ -330,8 +340,8 @@ msgid "Come and explore our favourites"
 msgstr "Ienāciet un izpētiet mūsu favorītus"
 
 #: ../en/index.html
-msgid "junk"
-msgstr "džonka"
+msgid "Shut Down…"
+msgstr "Izslēgt…"
 
 #: ../en/index.html
 msgid "Send"
@@ -340,6 +350,10 @@ msgstr "Sūtīt"
 #: ../en/index.html
 msgid "Darkening Clockwork"
 msgstr "Tumšāka pulksteņa mehānisms"
+
+#: ../en/index.html
+msgid "Ubuntu One Music"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -362,10 +376,6 @@ msgid "Rock Out"
 msgstr "Rock Out"
 
 #: ../en/index.html
-msgid "Connection Information"
-msgstr "Pieslēguma informācija"
-
-#: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
@@ -384,20 +394,12 @@ msgid "subject"
 msgstr ""
 
 #: ../en/index.html
-msgid "Available"
-msgstr "Pieejams"
-
-#: ../en/index.html
 msgid "All Folders"
 msgstr "Visas mapes"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
 msgstr ""
-
-#: ../en/index.html
-msgid "Hibernate"
-msgstr "Iemidzināt"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -408,46 +410,36 @@ msgid "Your Ubuntu, your way"
 msgstr "Jus Ubuntu, jus cels"
 
 #: ../en/index.html
-msgid "Time &amp; Date Settings…"
-msgstr "Laika un Datuma Iestatijumi"
+msgid "Downloads"
+msgstr ""
 
 #: ../en/index.html
 msgid "Recently Used"
 msgstr "Nesen izmantoti"
 
 #: ../en/index.html
-msgid "Cancel"
-msgstr "Atcelt"
-
-#: ../en/index.html
-msgid "Jardin Polar"
+msgid "Ubuntu Help"
 msgstr ""
 
 #: ../en/index.html
-msgid ""
-"You can watch all your favourite films and videos, DVDs, downloads or movies "
-"you've created yourself."
+msgid "Amazon"
 msgstr ""
 
 #: ../en/index.html
-msgid "3.3MB"
-msgstr "3.3MB"
+msgid "Ctrl+Alt+L"
+msgstr ""
 
 #: ../en/index.html
 msgid "reply"
 msgstr "atbildet"
 
 #: ../en/index.html
-msgid "Set Up Mail…"
-msgstr ""
+msgid "Title:"
+msgstr "Nosaukums:"
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
-
-#: ../en/index.html
-msgid "Clear"
-msgstr "Notīrīt"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -458,13 +450,21 @@ msgid "Dybbølsbro Station"
 msgstr ""
 
 #: ../en/index.html
-msgid "Log Out…"
-msgstr "Izrakstīties…"
+msgid "About This Computer"
+msgstr ""
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "Pieslēguma informācija"
 
 #: ../en/index.html
 msgid ""
 "Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
 "You must have these packages to make full use of all extensions and effects."
+msgstr ""
+
+#: ../en/index.html
+msgid "Places"
 msgstr ""
 
 #: ../en/index.html
@@ -492,12 +492,10 @@ msgid "Stalking Ocelot"
 msgstr ""
 
 #: ../en/index.html
-msgid "System Settings…"
-msgstr "Sistēmas iestatījumi…"
-
-#: ../en/index.html
-msgid "Startup Applications…"
-msgstr "Starta lietotnes…"
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
 
 #: ../en/index.html
 msgid "Remove"
@@ -518,8 +516,8 @@ msgid "Purple Dancers"
 msgstr ""
 
 #: ../en/index.html
-msgid "from"
-msgstr "no"
+msgid "Ubuntu One Control Panel"
+msgstr "Ubuntu One Control Panel"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -548,15 +546,15 @@ msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
 msgstr ""
 
 #: ../en/index.html
-msgid "Title:"
-msgstr "Nosaukums:"
-
-#: ../en/index.html
 msgid "Setup new device…"
 msgstr ""
 
 #: ../en/index.html
-msgid "Introduction Ubuntu"
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
 msgstr ""
 
 #: ../en/index.html
@@ -584,10 +582,6 @@ msgid "Unread:"
 msgstr "Nelasits:"
 
 #: ../en/index.html
-msgid "Banshee Media Player"
-msgstr "Banshee mūzikas atskaņotājs"
-
-#: ../en/index.html
 msgid ""
 "You can surf in safety with Ubuntu – confident that your files and data will "
 "stay protected. A built-in firewall and virus protection come as standard. "
@@ -605,8 +599,10 @@ msgid "Files &amp; Folders"
 msgstr ""
 
 #: ../en/index.html
-msgid "Installed"
-msgstr "Instalēts"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
 
 #: ../en/index.html
 msgid "BEEP"
@@ -626,18 +622,6 @@ msgid ""
 "environments. The anti-gravity device is both a tool and a weapon. Use it to "
 "smash enemy robots, build towers and solve puzzles."
 msgstr ""
-
-#: ../en/index.html
-msgid "Chat"
-msgstr "Tērzēšana"
-
-#: ../en/index.html
-msgid "Archive"
-msgstr "Arhīvs"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "Lejupielādēt"
 
 #: ../en/index.html
 msgid "Home"
@@ -680,14 +664,6 @@ msgid "Pictures"
 msgstr "Bildes"
 
 #: ../en/index.html
-msgid "Away"
-msgstr "Projām"
-
-#: ../en/index.html
-msgid "Check email"
-msgstr "Parbaudit e-pastu"
-
-#: ../en/index.html
 msgid "Size:"
 msgstr "Izmērs:"
 
@@ -708,12 +684,8 @@ msgid "LibreOffice Writer makes it easy to draft professional documents."
 msgstr ""
 
 #: ../en/index.html
-msgid "Displays…"
-msgstr "Displeji..."
-
-#: ../en/index.html
-msgid "Software Up to Date"
-msgstr "Programmatūras atjaunināšana"
+msgid "Sound Settings…"
+msgstr ""
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -746,13 +718,11 @@ msgid "Sand Maze"
 msgstr ""
 
 #: ../en/index.html
-msgid "Ubuntu One Control Panel"
-msgstr "Ubuntu One Control Panel"
+msgid "from"
+msgstr "no"
 
 #: ../en/index.html
-msgid ""
-"Your entire collection follows you around with music streaming to Android "
-"and iPhone"
+msgid "Introduction Ubuntu"
 msgstr ""
 
 #: ../en/index.html
@@ -793,12 +763,16 @@ msgid "Our star apps"
 msgstr "Mūsu zvaigžņu lietotnes"
 
 #: ../en/index.html
+msgid "Logout"
+msgstr ""
+
+#: ../en/index.html
 msgid "The Grass Aint Greener"
 msgstr ""
 
 #: ../en/index.html
-msgid "Date"
-msgstr "Datums"
+msgid "forward"
+msgstr "uzpriekšu"
 
 #: ../en/index.html
 msgid ""
@@ -812,10 +786,6 @@ msgid "Chromium Web Browser"
 msgstr "Chromium Web Browsers"
 
 #: ../en/index.html
-msgid "Sound Recorder"
-msgstr "Skaņu Ierakstītājs"
-
-#: ../en/index.html
 msgid "Recipient"
 msgstr "Saņēmējs"
 
@@ -824,16 +794,16 @@ msgid "Fast"
 msgstr "Ātri"
 
 #: ../en/index.html
+msgid "Restart"
+msgstr ""
+
+#: ../en/index.html
 msgid "Recent"
 msgstr "Nesens"
 
 #: ../en/index.html
 msgid "To:"
 msgstr "Līdz:"
-
-#: ../en/index.html
-msgid "Set Up Broadcast Account…"
-msgstr ""
 
 #: ../en/index.html
 msgid "Date:"
@@ -849,10 +819,6 @@ msgstr ""
 #: ../en/index.html
 msgid "Total:"
 msgstr "Summa:"
-
-#: ../en/index.html
-msgid "Additional Drivers"
-msgstr "Papildu draiveri"
 
 #: ../en/index.html
 msgid "Ubuntu Software Centre"
@@ -871,8 +837,8 @@ msgid "System"
 msgstr "Sistēma"
 
 #: ../en/index.html
-msgid "forward"
-msgstr "uzpriekšu"
+msgid "Date"
+msgstr "Datums"
 
 #: ../en/index.html
 msgid ""
@@ -899,16 +865,12 @@ msgid "Items:"
 msgstr "Vienumi:"
 
 #: ../en/index.html
-msgid "WildWheat"
+msgid "Ubuntu Software Center"
 msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
 msgstr "Temats:"
-
-#: ../en/index.html
-msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr "Sveicināti Ubuntu 12.10 ekskursija!"
 
 #: ../en/index.html
 msgid "Backup"
@@ -963,8 +925,12 @@ msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr ""
 
 #: ../en/index.html
-msgid "Thunderbird Mail"
-msgstr "Thunderbird Mail"
+msgid "WildWheat"
+msgstr ""
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "Atcelt"
 
 #: ../en/index.html
 msgid ""
@@ -982,10 +948,8 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
+msgid "Archive"
+msgstr "Arhīvs"
 
 #: ../en/index.html
 msgid "delete"
@@ -996,8 +960,8 @@ msgid "Thunderbird Mail/News"
 msgstr ""
 
 #: ../en/index.html
-msgid "Busy"
-msgstr "Aizņemts"
+msgid "Write: (no subject)"
+msgstr ""
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1008,16 +972,12 @@ msgid "Edit Connections…"
 msgstr ""
 
 #: ../en/index.html
-msgid "Printers"
-msgstr "Printeri"
+msgid "Check email"
+msgstr "Parbaudit e-pastu"
 
 #: ../en/index.html
-msgid "Sound Settings…"
-msgstr ""
-
-#: ../en/index.html
-msgid "Search"
-msgstr "Meklēt"
+msgid "Additional Drivers"
+msgstr "Papildu draiveri"
 
 #: ../en/index.html
 msgid ""
@@ -1039,11 +999,11 @@ msgid "Attach"
 msgstr ""
 
 #: ../en/index.html
-msgid "Window"
+msgid "Rhythmbox Media Player"
 msgstr ""
 
 #: ../en/index.html
-msgid "Write: (no subject)"
+msgid "System Settings"
 msgstr ""
 
 #: ../en/index.html
@@ -1063,7 +1023,7 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Offline"
+msgid "You"
 msgstr ""
 
 #: ../en/index.html
@@ -1091,8 +1051,10 @@ msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
 msgstr ""
 
 #: ../en/index.html
-msgid "Format"
-msgstr "Formatēt"
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -1111,8 +1073,8 @@ msgid "1"
 msgstr "1"
 
 #: ../en/index.html
-msgid "Computer"
-msgstr "Dators"
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr ""
 
 #: ../en/index.html
 msgid "What's New"
@@ -1123,17 +1085,15 @@ msgid "Movie Player"
 msgstr "Filmu atskaņotājs"
 
 #: ../en/index.html
-msgid "Invisible"
-msgstr "Neredzams"
+msgid "Dash home"
+msgstr "Paneļa mājas"
 
 #: ../en/index.html
 msgid "Albums"
 msgstr "Albūms"
 
 #: ../en/index.html
-msgid ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
+msgid "Search your computer and online sources"
 msgstr ""
 
 #: ../en/index.html
@@ -1145,24 +1105,16 @@ msgid "From:"
 msgstr "No:"
 
 #: ../en/index.html
-msgid "Insert"
-msgstr "Ievietot"
+msgid "Remote Desktop Viewer"
+msgstr "Attālināto datoru pārlūks"
 
 #: ../en/index.html
-msgid "Shut Down…"
-msgstr ""
+msgid "junk"
+msgstr "džonka"
 
 #: ../en/index.html
 msgid "Fonts"
-msgstr ""
-
-#: ../en/index.html
-msgid "File"
-msgstr ""
-
-#: ../en/index.html
-msgid "Edit"
-msgstr ""
+msgstr "Šrifti"
 
 #: ../en/index.html
 msgid "Bluetooth On"
@@ -1189,20 +1141,8 @@ msgid "Visolate"
 msgstr ""
 
 #: ../en/index.html
-msgid "Empathy Internet Messageing"
-msgstr ""
-
-#: ../en/index.html
-msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
-
-#: ../en/index.html
-msgid "Attached Devices"
-msgstr ""
-
-#: ../en/index.html
-msgid "View"
-msgstr ""
+msgid "Sound Recorder"
+msgstr "Skaņu Ierakstītājs"
 
 #: ../en/index.html
 msgid "Suspend"
@@ -1228,16 +1168,12 @@ msgid "Mon 11 October, 2010"
 msgstr ""
 
 #: ../en/index.html
-msgid ""
-"Inkscape user interface should be familiar from CorelDraw and similar "
-"drawing programs. There are rectangles, ellipses, text items, bitmap images "
-"and freehand curves. As an added bonus, both vector and bitmap objects can "
-"have alpha transparency and can be arbitrarily transformed."
+msgid "Lock"
 msgstr ""
 
 #: ../en/index.html
 msgid "Unmute"
-msgstr ""
+msgstr "Neapklusināt"
 
 #: ../en/index.html
 msgid "Rubbish bin"
@@ -1264,7 +1200,7 @@ msgid "Stay Productive"
 msgstr ""
 
 #: ../en/index.html
-msgid "Table"
+msgid "Empathy Internet Messageing"
 msgstr ""
 
 #: ../en/index.html
@@ -1285,16 +1221,8 @@ msgid ""
 msgstr ""
 
 #: ../en/index.html
-msgid "Tools"
-msgstr ""
-
-#: ../en/index.html
-msgid "Downloads"
-msgstr ""
-
-#: ../en/index.html
-msgid "You"
-msgstr ""
+msgid "3.3MB"
+msgstr "3.3MB"
 
 #: ../en/index.html
 msgid "Blender"

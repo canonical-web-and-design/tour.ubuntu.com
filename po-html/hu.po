@@ -7,23 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-05 19:27+0000\n"
-"PO-Revision-Date: 2012-10-04 22:47+0000\n"
+"POT-Creation-Date: 2014-03-11 10:57+0000\n"
+"PO-Revision-Date: 2014-03-13 11:12+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-18 05:07+0000\n"
-"X-Generator: Launchpad (build 16160)\n"
+"X-Launchpad-Export-Date: 2014-03-14 07:05+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
 msgstr "Firefox webböngésző"
-
-#: ../en/index.html
-msgid "Lock Screen"
-msgstr "Képernyő zárolása"
 
 #: ../en/index.html
 msgid ""
@@ -59,6 +55,10 @@ msgstr "Letöltés"
 #: ../en/index.html
 msgid "PiTiVi Video Editor"
 msgstr "PiTiVi videoszerkesztő"
+
+#: ../en/index.html
+msgid "Welcome screen"
+msgstr ""
 
 #: ../en/index.html
 msgid "Internet"
@@ -109,6 +109,10 @@ msgstr ""
 "Biztos benne, hogy bezárja az összes programot, és leállítja a számítógépet?"
 
 #: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "A csomag a Chromium böngészőt tartalmazza"
+
+#: ../en/index.html
 msgid "Untitled 1 - LibreOffice Impress"
 msgstr "Névtelen 1 - LibreOffice Impress"
 
@@ -154,12 +158,12 @@ msgid "Physics based puzzle/construction game"
 msgstr "Fizikára épülő logikai/építkezős játék"
 
 #: ../en/index.html
-msgid "Remote Desktop Viewer"
-msgstr "Távoli asztalok megjelenítése"
-
-#: ../en/index.html
 msgid "Gwibber Social Client"
 msgstr "Gwibber közösségi kliens"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Happyness"
@@ -178,8 +182,10 @@ msgid "On"
 msgstr "ekkor"
 
 #: ../en/index.html
-msgid "Welcome Screen"
-msgstr "Üdvözlőképernyő"
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr ""
 
 #: ../en/index.html
 msgid "Untitled 1 - LibreOffice Writer"
@@ -206,10 +212,6 @@ msgid "Compatible"
 msgstr "Kompatibilis"
 
 #: ../en/index.html
-msgid "Dash home"
-msgstr "Dash kezdőoldal"
-
-#: ../en/index.html
 msgid "From"
 msgstr "Feladó"
 
@@ -218,8 +220,16 @@ msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
+msgid "Welcome to the Ubuntu 14.04 tour!"
+msgstr ""
+
+#: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
 msgstr "Köszönjük, hogy felfedezi az Ubuntut!"
+
+#: ../en/index.html
+msgid "Guest Session"
+msgstr ""
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -234,20 +244,20 @@ msgid "(91 Ratings)"
 msgstr "(91 értékelés)"
 
 #: ../en/index.html
-msgid "Secure"
-msgstr "Biztonságos"
+msgid "Installed"
+msgstr "Telepítve"
 
 #: ../en/index.html
-msgid "This package contains the Chromium browser"
-msgstr "A csomag a Chromium böngészőt tartalmazza"
+msgid "Exit the Tour"
+msgstr ""
 
 #: ../en/index.html
 msgid "$9.99"
 msgstr "$9.99"
 
 #: ../en/index.html
-msgid "Help"
-msgstr "Súgó"
+msgid "Secure"
+msgstr "Biztonságos"
 
 #: ../en/index.html
 msgid "Mute"
@@ -331,8 +341,8 @@ msgid "Come and explore our favourites"
 msgstr "Fedezze fel kedvenceinket"
 
 #: ../en/index.html
-msgid "junk"
-msgstr "szemét"
+msgid "Shut Down…"
+msgstr "Leállítás…"
 
 #: ../en/index.html
 msgid "Send"
@@ -341,6 +351,10 @@ msgstr "Küldés"
 #: ../en/index.html
 msgid "Darkening Clockwork"
 msgstr "Darkening Clockwork"
+
+#: ../en/index.html
+msgid "Ubuntu One Music"
+msgstr ""
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -363,10 +377,6 @@ msgid "Rock Out"
 msgstr "Élvezze a zenét"
 
 #: ../en/index.html
-msgid "Connection Information"
-msgstr "Kapcsolatinformációk"
-
-#: ../en/index.html
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
@@ -387,20 +397,12 @@ msgid "subject"
 msgstr "Tárgy:"
 
 #: ../en/index.html
-msgid "Available"
-msgstr "Elérhető"
-
-#: ../en/index.html
 msgid "All Folders"
 msgstr "Minden mappa"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
 msgstr "2001 Okt. 26. Pé"
-
-#: ../en/index.html
-msgid "Hibernate"
-msgstr "Hibernálás"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -411,47 +413,37 @@ msgid "Your Ubuntu, your way"
 msgstr "Az Ön Ubuntuja, az Ön útja"
 
 #: ../en/index.html
-msgid "Time &amp; Date Settings…"
-msgstr "Dátum és idő beállításai…"
+msgid "Downloads"
+msgstr "Letöltések"
 
 #: ../en/index.html
 msgid "Recently Used"
 msgstr "Nemrég használt"
 
 #: ../en/index.html
-msgid "Cancel"
-msgstr "Mégse"
-
-#: ../en/index.html
-msgid "Jardin Polar"
-msgstr "Jardin Polar"
-
-#: ../en/index.html
-msgid ""
-"You can watch all your favourite films and videos, DVDs, downloads or movies "
-"you've created yourself."
+msgid "Ubuntu Help"
 msgstr ""
 
 #: ../en/index.html
-msgid "3.3MB"
-msgstr "3.3MB"
+msgid "Amazon"
+msgstr ""
+
+#: ../en/index.html
+msgid "Ctrl+Alt+L"
+msgstr ""
 
 #: ../en/index.html
 msgid "reply"
 msgstr "válasz"
 
 #: ../en/index.html
-msgid "Set Up Mail…"
-msgstr "Levelezés beállítása"
+msgid "Title:"
+msgstr "Cím:"
 
 #: ../en/index.html
 msgid "Search and download apps fast from the Ubuntu Software Centre."
 msgstr ""
 "Keressen és töltsön le alkalmazásokat gyorsan az Ubuntu szoftverközpontban"
-
-#: ../en/index.html
-msgid "Clear"
-msgstr "Törlés"
 
 #: ../en/index.html
 msgid "$19.99"
@@ -462,8 +454,12 @@ msgid "Dybbølsbro Station"
 msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
-msgid "Log Out…"
-msgstr "Kijelentkezés…"
+msgid "About This Computer"
+msgstr ""
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "Kapcsolatinformációk"
 
 #: ../en/index.html
 msgid ""
@@ -473,6 +469,10 @@ msgstr ""
 "Egyes további bővítmények a ruby, libxml-xql-perl, python-numpy, és python-"
 "lxml csomagokat használják. Ezekkel már minden kiegészítő és effekt "
 "használható."
+
+#: ../en/index.html
+msgid "Places"
+msgstr ""
 
 #: ../en/index.html
 msgid "Fwd"
@@ -499,12 +499,11 @@ msgid "Stalking Ocelot"
 msgstr "Stalking Ocelot"
 
 #: ../en/index.html
-msgid "System Settings…"
-msgstr "Rendszerbeállítások…"
-
-#: ../en/index.html
-msgid "Startup Applications…"
-msgstr "Indítópult…"
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr ""
+"A zenegyűjteménye mindig Önnel lehet, hála az Android és iPhone alkalmazásnak"
 
 #: ../en/index.html
 msgid "Remove"
@@ -527,8 +526,8 @@ msgid "Purple Dancers"
 msgstr "Purple Dancers"
 
 #: ../en/index.html
-msgid "from"
-msgstr "Feladó:"
+msgid "Ubuntu One Control Panel"
+msgstr "Ubuntu One vezérlőpult"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -561,16 +560,21 @@ msgstr ""
 "Mentse és érje el fájljait Ubuntu, Windows, web vagy mobil felületről"
 
 #: ../en/index.html
-msgid "Title:"
-msgstr "Cím:"
-
-#: ../en/index.html
 msgid "Setup new device…"
 msgstr "Új eszköz beállítása…"
 
 #: ../en/index.html
-msgid "Introduction Ubuntu"
-msgstr "Az Ubuntu bemutatása"
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+"Az Inkscape felülete a CorelDraw és az ehhez hasonló rajzprogramokból lehet "
+"ismerős. Rendelkezésre állnak négyszögek, ellipszisek, szövegelemek, "
+"bitképek és szabadkézi görbék. Továbbá, mind a vektor, mind pedig a "
+"bitképobjektumokhoz rendelhető átlátszóság (alpha-transparency) és "
+"tetszőlegesen megváltoztatható."
 
 #: ../en/index.html
 msgid "Videos"
@@ -601,10 +605,6 @@ msgid "Unread:"
 msgstr "Olvasatlan:"
 
 #: ../en/index.html
-msgid "Banshee Media Player"
-msgstr "Banshee médialejátszó"
-
-#: ../en/index.html
 msgid ""
 "You can surf in safety with Ubuntu – confident that your files and data will "
 "stay protected. A built-in firewall and virus protection come as standard. "
@@ -631,8 +631,12 @@ msgid "Files &amp; Folders"
 msgstr "Fájlok és mappák"
 
 #: ../en/index.html
-msgid "Installed"
-msgstr "Telepítve"
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr ""
+"Ne feledje, hogy ez csak egy bemutató. A valódi rendszer használatához le "
+"kell töltenie azt!"
 
 #: ../en/index.html
 msgid "BEEP"
@@ -656,18 +660,6 @@ msgstr ""
 "közvetlen manipulálására. Az antigravitációs eszköz egyszerre eszköz és "
 "fegyver is. Használja ellenséges robotok szétzúzására, tornyok építésére és "
 "rejtvények megfejtéséhez."
-
-#: ../en/index.html
-msgid "Chat"
-msgstr "Csevegés"
-
-#: ../en/index.html
-msgid "Archive"
-msgstr "Archívum"
-
-#: ../en/index.html
-msgid "Download"
-msgstr "Letöltés"
 
 #: ../en/index.html
 msgid "Home"
@@ -710,14 +702,6 @@ msgid "Pictures"
 msgstr "Képek"
 
 #: ../en/index.html
-msgid "Away"
-msgstr "Távol"
-
-#: ../en/index.html
-msgid "Check email"
-msgstr "E-mailek ellenőrzése"
-
-#: ../en/index.html
 msgid "Size:"
 msgstr "Méret:"
 
@@ -739,12 +723,8 @@ msgstr ""
 "A LibreOffice Writer egyszerűvé teszi profi dokumentumok felvázolását."
 
 #: ../en/index.html
-msgid "Displays…"
-msgstr "Kijelzők…"
-
-#: ../en/index.html
-msgid "Software Up to Date"
-msgstr "A szoftverek naprakészek"
+msgid "Sound Settings…"
+msgstr "Hangbeállítások…"
 
 #: ../en/index.html
 msgid "Browse the web"
@@ -781,15 +761,12 @@ msgid "Sand Maze"
 msgstr "Sand Maze"
 
 #: ../en/index.html
-msgid "Ubuntu One Control Panel"
-msgstr "Ubuntu One vezérlőpult"
+msgid "from"
+msgstr "Feladó:"
 
 #: ../en/index.html
-msgid ""
-"Your entire collection follows you around with music streaming to Android "
-"and iPhone"
-msgstr ""
-"A zenegyűjteménye mindig Önnel lehet, hála az Android és iPhone alkalmazásnak"
+msgid "Introduction Ubuntu"
+msgstr "Az Ubuntu bemutatása"
 
 #: ../en/index.html
 msgid "to"
@@ -843,12 +820,16 @@ msgid "Our star apps"
 msgstr "Legjobb alkalmazásaink"
 
 #: ../en/index.html
+msgid "Logout"
+msgstr ""
+
+#: ../en/index.html
 msgid "The Grass Aint Greener"
 msgstr "The Grass Aint Greener"
 
 #: ../en/index.html
-msgid "Date"
-msgstr "Dátum"
+msgid "forward"
+msgstr "továbbítás"
 
 #: ../en/index.html
 msgid ""
@@ -865,10 +846,6 @@ msgid "Chromium Web Browser"
 msgstr "Chromium webböngésző"
 
 #: ../en/index.html
-msgid "Sound Recorder"
-msgstr "Hangrögzítő"
-
-#: ../en/index.html
 msgid "Recipient"
 msgstr "Címzett"
 
@@ -877,16 +854,16 @@ msgid "Fast"
 msgstr "Gyors"
 
 #: ../en/index.html
+msgid "Restart"
+msgstr ""
+
+#: ../en/index.html
 msgid "Recent"
 msgstr "Legutóbbi"
 
 #: ../en/index.html
 msgid "To:"
 msgstr "Eddig:"
-
-#: ../en/index.html
-msgid "Set Up Broadcast Account…"
-msgstr "Közösségi fiókok beállítása…"
 
 #: ../en/index.html
 msgid "Date:"
@@ -907,10 +884,6 @@ msgid "Total:"
 msgstr "Összesen:"
 
 #: ../en/index.html
-msgid "Additional Drivers"
-msgstr "További illesztőprogramok"
-
-#: ../en/index.html
 msgid "Ubuntu Software Centre"
 msgstr "Ubuntu szoftverközpont"
 
@@ -927,8 +900,8 @@ msgid "System"
 msgstr "Rendszer"
 
 #: ../en/index.html
-msgid "forward"
-msgstr "továbbítás"
+msgid "Date"
+msgstr "Dátum"
 
 #: ../en/index.html
 msgid ""
@@ -958,16 +931,12 @@ msgid "Items:"
 msgstr "Elemek:"
 
 #: ../en/index.html
-msgid "WildWheat"
-msgstr "WildWheat"
+msgid "Ubuntu Software Center"
+msgstr ""
 
 #: ../en/index.html
 msgid "Subject:"
 msgstr "Tárgy:"
-
-#: ../en/index.html
-msgid "Welcome to the Ubuntu 12.10 tour!"
-msgstr ""
 
 #: ../en/index.html
 msgid "Backup"
@@ -1027,8 +996,12 @@ msgid "Unify you contacts across Desktop, Mobile and Web"
 msgstr "Egyesítse névjegyeit a számítógépe, a mobilja és az internet között"
 
 #: ../en/index.html
-msgid "Thunderbird Mail"
-msgstr "Thunderbird levelező"
+msgid "WildWheat"
+msgstr "WildWheat"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "Mégse"
 
 #: ../en/index.html
 msgid ""
@@ -1049,12 +1022,8 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #: ../en/index.html
-msgid ""
-"Remember, this is just a demo. You'll have to download it to enjoy the real "
-"thing!"
-msgstr ""
-"Ne feledje, hogy ez csak egy bemutató. A valódi rendszer használatához le "
-"kell töltenie azt!"
+msgid "Archive"
+msgstr "Archívum"
 
 #: ../en/index.html
 msgid "delete"
@@ -1065,8 +1034,8 @@ msgid "Thunderbird Mail/News"
 msgstr "Thunderbird levél- és hírolvasó"
 
 #: ../en/index.html
-msgid "Busy"
-msgstr "Elfoglalt"
+msgid "Write: (no subject)"
+msgstr "Írás: (nincs tárgy)"
 
 #: ../en/index.html
 msgid "Small Flowers"
@@ -1077,16 +1046,12 @@ msgid "Edit Connections…"
 msgstr "Kapcsolatok szerkesztése…"
 
 #: ../en/index.html
-msgid "Printers"
-msgstr "Nyomtatók"
+msgid "Check email"
+msgstr "E-mailek ellenőrzése"
 
 #: ../en/index.html
-msgid "Sound Settings…"
-msgstr "Hangbeállítások…"
-
-#: ../en/index.html
-msgid "Search"
-msgstr "Keresés"
+msgid "Additional Drivers"
+msgstr "További illesztőprogramok"
 
 #: ../en/index.html
 msgid ""
@@ -1111,12 +1076,12 @@ msgid "Attach"
 msgstr "Melléklet"
 
 #: ../en/index.html
-msgid "Window"
-msgstr "Ablak"
+msgid "Rhythmbox Media Player"
+msgstr ""
 
 #: ../en/index.html
-msgid "Write: (no subject)"
-msgstr "Írás: (nincs tárgy)"
+msgid "System Settings"
+msgstr "Rendszerbeállítások"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1139,8 +1104,8 @@ msgstr ""
 "repüljön, ússzon és lőjön utat a 6 egyedi környezetben szétszórt 24 szinten."
 
 #: ../en/index.html
-msgid "Offline"
-msgstr "Kilépett"
+msgid "You"
+msgstr "Ön"
 
 #: ../en/index.html
 msgid "Trash"
@@ -1167,8 +1132,13 @@ msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
 msgstr "A web böngészése gyors és biztonságos az Ubuntuval és a Firefoxszal."
 
 #: ../en/index.html
-msgid "Format"
-msgstr "Formátum"
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+"Az Inkscape egyszerre több fájl megnyitását és fájlonként több nézetet is "
+"támogat. A grafikák kinyomtathatók és png bittérképes fájlokban is "
+"exportálhatók."
 
 #: ../en/index.html
 msgid "Surf the web"
@@ -1187,8 +1157,10 @@ msgid "1"
 msgstr "1"
 
 #: ../en/index.html
-msgid "Computer"
-msgstr "Számítógép"
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr ""
+"Scalable Vector Graphics (méretezhető vektorgrafika, SVG) képek létrehozása "
+"és szerkesztése"
 
 #: ../en/index.html
 msgid "What's New"
@@ -1199,21 +1171,16 @@ msgid "Movie Player"
 msgstr "Médialejátszó"
 
 #: ../en/index.html
-msgid "Invisible"
-msgstr "Láthatatlan"
+msgid "Dash home"
+msgstr "Dash kezdőoldal"
 
 #: ../en/index.html
 msgid "Albums"
 msgstr "Albumok"
 
 #: ../en/index.html
-msgid ""
-"Inkscape supports multiple opened files and multiple views per file. "
-"Graphics can be printed and exported to png bitmaps."
+msgid "Search your computer and online sources"
 msgstr ""
-"Az Inkscape egyszerre több fájl megnyitását és fájlonként több nézetet is "
-"támogat. A grafikák kinyomtathatók és png bittérképes fájlokban is "
-"exportálhatók."
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1224,24 +1191,16 @@ msgid "From:"
 msgstr "Ettől:"
 
 #: ../en/index.html
-msgid "Insert"
-msgstr "Beszúrás"
+msgid "Remote Desktop Viewer"
+msgstr "Távoli asztalok megjelenítése"
 
 #: ../en/index.html
-msgid "Shut Down…"
-msgstr "Leállítás…"
+msgid "junk"
+msgstr "szemét"
 
 #: ../en/index.html
 msgid "Fonts"
 msgstr "Betűkészletek"
-
-#: ../en/index.html
-msgid "File"
-msgstr "Fájl"
-
-#: ../en/index.html
-msgid "Edit"
-msgstr "Szerkesztés"
 
 #: ../en/index.html
 msgid "Bluetooth On"
@@ -1268,22 +1227,8 @@ msgid "Visolate"
 msgstr "Visolate"
 
 #: ../en/index.html
-msgid "Empathy Internet Messageing"
-msgstr "Empathy üzenetküldő"
-
-#: ../en/index.html
-msgid "Create and edit Scalable Vector Graphics images"
-msgstr ""
-"Scalable Vector Graphics (méretezhető vektorgrafika, SVG) képek létrehozása "
-"és szerkesztése"
-
-#: ../en/index.html
-msgid "Attached Devices"
-msgstr "Csatlakoztatott eszközök"
-
-#: ../en/index.html
-msgid "View"
-msgstr "Nézet"
+msgid "Sound Recorder"
+msgstr "Hangrögzítő"
 
 #: ../en/index.html
 msgid "Suspend"
@@ -1313,17 +1258,8 @@ msgid "Mon 11 October, 2010"
 msgstr "2010. Okt. 11. Hé."
 
 #: ../en/index.html
-msgid ""
-"Inkscape user interface should be familiar from CorelDraw and similar "
-"drawing programs. There are rectangles, ellipses, text items, bitmap images "
-"and freehand curves. As an added bonus, both vector and bitmap objects can "
-"have alpha transparency and can be arbitrarily transformed."
+msgid "Lock"
 msgstr ""
-"Az Inkscape felülete a CorelDraw és az ehhez hasonló rajzprogramokból lehet "
-"ismerős. Rendelkezésre állnak négyszögek, ellipszisek, szövegelemek, "
-"bitképek és szabadkézi görbék. Továbbá, mind a vektor, mind pedig a "
-"bitképobjektumokhoz rendelhető átlátszóság (alpha-transparency) és "
-"tetszőlegesen megváltoztatható."
 
 #: ../en/index.html
 msgid "Unmute"
@@ -1354,8 +1290,8 @@ msgid "Stay Productive"
 msgstr "Maradjon produktív"
 
 #: ../en/index.html
-msgid "Table"
-msgstr "Táblázat"
+msgid "Empathy Internet Messageing"
+msgstr "Empathy üzenetküldő"
 
 #: ../en/index.html
 msgid ""
@@ -1388,29 +1324,9 @@ msgstr ""
 "nulla."
 
 #: ../en/index.html
-msgid "Tools"
-msgstr "Eszközök"
-
-#: ../en/index.html
-msgid "Downloads"
-msgstr "Letöltések"
-
-#: ../en/index.html
-msgid "You"
-msgstr "Ön"
+msgid "3.3MB"
+msgstr "3.3MB"
 
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
-
-#~ msgid "App Available for Download"
-#~ msgstr "Letölthető alkalmazás"
-
-#~ msgid "Welcome to the Ubuntu online tour!"
-#~ msgstr "Üdvözöljük az online Ubuntu bemutatón!"
-
-#~ msgid "Recent Files"
-#~ msgstr "Legutóbbi fájlok"
-
-#~ msgid "Recent Apps"
-#~ msgstr "Legutóbbi alkalmazások"
