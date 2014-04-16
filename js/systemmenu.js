@@ -219,7 +219,6 @@ function SystemMenu($parent){
 				_parent.errorMessage.open();
 			break;
 		}
-
 		if(openedApp){
 			$("#menu ul li."+$menu+" img.open-arrow").show();
 			var $currentBackground = $("#menu ul li."+$menu).css('background-image');
