@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-04-30 07:12+0000\n"
-"X-Generator: Launchpad (build 16985)\n"
+"X-Launchpad-Export-Date: 2014-05-08 07:10+0000\n"
+"X-Generator: Launchpad (build 16996)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -29,6 +29,12 @@ msgid ""
 "leave you staring at the screen, waiting to get online. And Ubuntu won’t "
 "grow sluggish over time. It’s fast. And it stays fast."
 msgstr ""
+"Ubuntu starter raskt på alle datamaskiner, men er veldig raskt på nyere "
+"maskinvare. Uten overflødige programmer som gjør maskinen tregere starter "
+"systemet raskt, og det tar få sekunder å åpne nettleseren. Dette skiller "
+"Ubuntu fra de fleste andre operativsystemer som lar deg stirre på skjermen "
+"mens du venter på å komme på nett. Ubuntu blir ikke tregere over tid, men er "
+"og forblir raskt."
 
 #: ../en/index.html
 msgid "no subject"
@@ -76,7 +82,7 @@ msgstr "Momiji Dream"
 
 #: ../en/index.html
 msgid "Manipulate the flow of time to solve puzzles"
-msgstr ""
+msgstr "Manipuler tidsflyten for å løse oppgaver"
 
 #: ../en/index.html
 msgid "中文"
@@ -92,6 +98,9 @@ msgid ""
 "Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
 "the surface of the planets."
 msgstr ""
+"BEEP har reist i tusenvis av år i rommet for å utforske galaksen. Reis "
+"gjennom fremmede solsystem med BEEP-skipet, og send roboter til "
+"planetoverflater."
 
 #: ../en/index.html
 msgid ""
@@ -162,7 +171,7 @@ msgstr "15.2KB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
-msgstr ""
+msgstr "PCB CNC-omformer"
 
 #: ../en/index.html
 msgid "On"
@@ -180,7 +189,7 @@ msgstr "Uten tittel 1 - Libreoffice Writer"
 
 #: ../en/index.html
 msgid "A 2D platformer/shooter game with physics-based puzzles"
-msgstr ""
+msgstr "Et platformskytespill i 2D med fysikkbaserte oppgaver"
 
 #: ../en/index.html
 msgid "Graphics"
