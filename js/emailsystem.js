@@ -431,10 +431,10 @@ function EmailSystem($parent){
 	}
 
 	this.sendEmail = function(){
-		var subject = $('#email-write #write-subject input[name=subject]').val();
-		var body = $('#email-write #write-body textarea[name=body]').val();
+		var subject = _this.safeValue($('#email-write #write-subject input[name=subject]').val());
+		var body = _this.safeValue($('#email-write #write-body textarea[name=body]').val());
 		var from = _you_;
-		var to = $('#email-write #write-to input[name=to]').val();
+		var to = _this.safeValue($('#email-write #write-to input[name=to]').val());
 		var currentTime = new Date();
 		var minutes = currentTime.getMinutes();
 		var date = currentTime.getDate();
@@ -462,6 +462,15 @@ function EmailSystem($parent){
 		    	_this.updateDisplay();
 		    	_this.setupRandomReply(newEmail);
 		  });
+	}
+
+	this.safeValue = function(value) {
+		var lt = /</g,
+			gt = />/g,
+			ap = /'/g,
+			ic = /"/g;
+		value = value.toString().replace(lt, "&lt;").replace(gt, "&gt;").replace(ap, "&#39;").replace(ic, "&#34;");
+		return value;
 	}
 
 	this.setupRandomReply = function($email){
