@@ -343,7 +343,7 @@
 			background-image:url(../img/menu/icon-trashempty-active.png);
 			position:absolute;
 		}
-		
+
 		#menu .bottom{
 			bottom:6px;
 		}
@@ -796,7 +796,7 @@
 	display:none;
 }
 .control{
-	height:24px;
+	height:21px;
 	margin-left:10px;
 	margin-top: 6px;
 	/*margin-bottom:5px;*/
