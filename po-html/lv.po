@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-03-11 10:57+0000\n"
-"PO-Revision-Date: 2014-03-13 11:12+0000\n"
-"Last-Translator: admresdeserv. <jeanmarc.gailis@gmail.com>\n"
+"PO-Revision-Date: 2014-06-07 14:28+0000\n"
+"Last-Translator: Jānis-Marks Gailis <jeanmarc.gailis@gmail.com>\n"
 "Language-Team: Latvian <lv@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-05-30 06:24+0000\n"
-"X-Generator: Launchpad (build 17023)\n"
+"X-Launchpad-Export-Date: 2014-06-08 06:14+0000\n"
+"X-Generator: Launchpad (build 17031)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -58,7 +58,7 @@ msgstr "PiTiVi Video Redaktors"
 
 #: ../en/index.html
 msgid "Welcome screen"
-msgstr ""
+msgstr "Ievada ekrāns"
 
 #: ../en/index.html
 msgid "Internet"
@@ -228,7 +228,7 @@ msgstr "Paldies ka izmeginajat Ubuntu!"
 
 #: ../en/index.html
 msgid "Guest Session"
-msgstr ""
+msgstr "Viesa sesija"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -353,7 +353,7 @@ msgstr "Tumšāka pulksteņa mehānisms"
 
 #: ../en/index.html
 msgid "Ubuntu One Music"
-msgstr ""
+msgstr "Ubuntu One mūzika"
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -411,7 +411,7 @@ msgstr "Jus Ubuntu, jus cels"
 
 #: ../en/index.html
 msgid "Downloads"
-msgstr ""
+msgstr "Lejupielādes"
 
 #: ../en/index.html
 msgid "Recently Used"
@@ -419,15 +419,15 @@ msgstr "Nesen izmantoti"
 
 #: ../en/index.html
 msgid "Ubuntu Help"
-msgstr ""
+msgstr "Ubuntu palīdzība"
 
 #: ../en/index.html
 msgid "Amazon"
-msgstr ""
+msgstr "Amazon"
 
 #: ../en/index.html
 msgid "Ctrl+Alt+L"
-msgstr ""
+msgstr "Ctrl+Alt+L"
 
 #: ../en/index.html
 msgid "reply"
@@ -447,11 +447,11 @@ msgstr "19.99 Ls"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Dybbølsbro stacija"
 
 #: ../en/index.html
 msgid "About This Computer"
-msgstr ""
+msgstr "Par šo datoru"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -465,7 +465,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Places"
-msgstr ""
+msgstr "Vietas"
 
 #: ../en/index.html
 msgid "Fwd"
@@ -489,7 +489,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Uzglūnošais ocelots"
 
 #: ../en/index.html
 msgid ""
@@ -513,7 +513,7 @@ msgstr "Angļu valoda"
 
 #: ../en/index.html
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Purpura dejotāji"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
