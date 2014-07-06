@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-03-11 10:57+0000\n"
-"PO-Revision-Date: 2014-03-13 11:12+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-07-05 11:20+0000\n"
+"Last-Translator: Emre AYTAÇ <Unknown>\n"
 "Language-Team: Turkish <tr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-05-30 06:26+0000\n"
-"X-Generator: Launchpad (build 17023)\n"
+"X-Launchpad-Export-Date: 2014-07-06 06:05+0000\n"
+"X-Generator: Launchpad (build 17086)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -57,7 +57,7 @@ msgstr "PiTiVi Video Düzenleyici"
 
 #: ../en/index.html
 msgid "Welcome screen"
-msgstr ""
+msgstr "Hoş geldiniz ekranı"
 
 #: ../en/index.html
 msgid "Internet"
@@ -221,7 +221,7 @@ msgstr "Otomatik eth0"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 14.04 tour!"
-msgstr ""
+msgstr "Ubuntu 14.04 turuna hoş geldiniz!"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
@@ -229,7 +229,7 @@ msgstr "Ubuntu'yu keşfettiğiniz için teşekkürler."
 
 #: ../en/index.html
 msgid "Guest Session"
-msgstr ""
+msgstr "Misafir Oturumu"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -249,7 +249,7 @@ msgstr "Yüklenenler"
 
 #: ../en/index.html
 msgid "Exit the Tour"
-msgstr ""
+msgstr "Turdan Çık"
 
 #: ../en/index.html
 msgid "$9.99"
@@ -354,7 +354,7 @@ msgstr "Saat Düzeneği"
 
 #: ../en/index.html
 msgid "Ubuntu One Music"
-msgstr ""
+msgstr "Ubuntu One Müzik"
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -422,15 +422,15 @@ msgstr "Son Kullanılanlar"
 
 #: ../en/index.html
 msgid "Ubuntu Help"
-msgstr ""
+msgstr "Ubuntu Yardım"
 
 #: ../en/index.html
 msgid "Amazon"
-msgstr ""
+msgstr "Amazon"
 
 #: ../en/index.html
 msgid "Ctrl+Alt+L"
-msgstr ""
+msgstr "Ctrl+Alt+L"
 
 #: ../en/index.html
 msgid "reply"
@@ -454,7 +454,7 @@ msgstr "Dybbølsbro İstasyonu"
 
 #: ../en/index.html
 msgid "About This Computer"
-msgstr ""
+msgstr "Bu Bilgisayar Hakkında"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -471,7 +471,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Places"
-msgstr ""
+msgstr "Konumlar"
 
 #: ../en/index.html
 msgid "Fwd"
@@ -817,7 +817,7 @@ msgstr "Yıldızlı uygulamalarımız"
 
 #: ../en/index.html
 msgid "Logout"
-msgstr ""
+msgstr "Oturumu Kapat"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -852,7 +852,7 @@ msgstr "Hızlı"
 
 #: ../en/index.html
 msgid "Restart"
-msgstr ""
+msgstr "Yeniden Başlat"
 
 #: ../en/index.html
 msgid "Recent"
@@ -930,7 +930,7 @@ msgstr "Öğeler:"
 
 #: ../en/index.html
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Ubuntu Yazılım Merkezi"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -1076,11 +1076,11 @@ msgstr "Ekle"
 
 #: ../en/index.html
 msgid "Rhythmbox Media Player"
-msgstr ""
+msgstr "Rhythmbox Ortam Oynatıcısı"
 
 #: ../en/index.html
 msgid "System Settings"
-msgstr ""
+msgstr "Sistem Ayarları"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1177,7 +1177,7 @@ msgstr "Albümler"
 
 #: ../en/index.html
 msgid "Search your computer and online sources"
-msgstr ""
+msgstr "Bilgisayarınızda ve çevrimiçi kaynaklarda arama yapın"
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1256,7 +1256,7 @@ msgstr "11 Ekim 2010, Pazartesi"
 
 #: ../en/index.html
 msgid "Lock"
-msgstr ""
+msgstr "Kilitle"
 
 #: ../en/index.html
 msgid "Unmute"
