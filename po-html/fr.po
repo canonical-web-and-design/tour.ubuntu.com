@@ -8,14 +8,18 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-03-11 10:57+0000\n"
-"PO-Revision-Date: 2014-05-13 22:02+0000\n"
-"Last-Translator: YoBoY <yoboy@ubuntu-fr.org>\n"
+"PO-Revision-Date: 2014-07-18 21:55+0000\n"
+"Last-Translator: Anne <anneonyme017@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-05-30 06:23+0000\n"
-"X-Generator: Launchpad (build 17023)\n"
+"X-Launchpad-Export-Date: 2014-07-19 06:38+0000\n"
+"X-Generator: Launchpad (build 17114)\n"
+
+#: ../en/index.html
+msgid "Welcome to the Ubuntu 14.04 tour!"
+msgstr "Bienvenue dans la visite guidée d'Ubuntu 14.04 !"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -59,7 +63,7 @@ msgstr "Éditeur vidéo Pitivi"
 
 #: ../en/index.html
 msgid "Welcome screen"
-msgstr ""
+msgstr "Écran d'accueil"
 
 #: ../en/index.html
 msgid "Internet"
@@ -224,16 +228,12 @@ msgid "Auto eth0"
 msgstr "Auto eth0"
 
 #: ../en/index.html
-msgid "Welcome to the Ubuntu 14.04 tour!"
-msgstr ""
-
-#: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
 msgstr "Merci d'explorer Ubuntu&nbsp;!"
 
 #: ../en/index.html
 msgid "Guest Session"
-msgstr ""
+msgstr "Session d'invité"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -253,7 +253,7 @@ msgstr "Installées"
 
 #: ../en/index.html
 msgid "Exit the Tour"
-msgstr ""
+msgstr "Quitter la visite"
 
 #: ../en/index.html
 msgid "$9.99"
@@ -359,7 +359,7 @@ msgstr "Darkening Clockwork"
 
 #: ../en/index.html
 msgid "Ubuntu One Music"
-msgstr ""
+msgstr "Musiques Ubuntu One"
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -427,15 +427,15 @@ msgstr "Utilisées récemment"
 
 #: ../en/index.html
 msgid "Ubuntu Help"
-msgstr ""
+msgstr "Aide Ubuntu"
 
 #: ../en/index.html
 msgid "Amazon"
-msgstr ""
+msgstr "Amazon"
 
 #: ../en/index.html
 msgid "Ctrl+Alt+L"
-msgstr ""
+msgstr "Ctrl+Alt+L"
 
 #: ../en/index.html
 msgid "reply"
@@ -477,7 +477,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Places"
-msgstr ""
+msgstr "Raccourcis"
 
 #: ../en/index.html
 msgid "Fwd"
@@ -533,7 +533,7 @@ msgstr "Danceurs Violets"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr "Centre de controle d'Ubuntu One"
+msgstr "Centre de contrôle d'Ubuntu One"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -834,7 +834,7 @@ msgstr "Nos applications vedettes"
 
 #: ../en/index.html
 msgid "Logout"
-msgstr ""
+msgstr "Fermer la session"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -870,7 +870,7 @@ msgstr "Rapide"
 
 #: ../en/index.html
 msgid "Restart"
-msgstr ""
+msgstr "Redémarrer"
 
 #: ../en/index.html
 msgid "Recent"
@@ -949,7 +949,7 @@ msgstr "Éléments :"
 
 #: ../en/index.html
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Logithèque Ubuntu"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -961,7 +961,7 @@ msgstr "Sauvegarde"
 
 #: ../en/index.html
 msgid "Ubuntu tour"
-msgstr "Visite guidée Ubuntu"
+msgstr "Visite guidée d'Ubuntu"
 
 #: ../en/index.html
 msgid "History"
@@ -1096,7 +1096,7 @@ msgstr "Joindre"
 
 #: ../en/index.html
 msgid "Rhythmbox Media Player"
-msgstr ""
+msgstr "Lecteur de musique Rhythmbox"
 
 #: ../en/index.html
 msgid "System Settings"
@@ -1198,7 +1198,7 @@ msgstr "Albums"
 
 #: ../en/index.html
 msgid "Search your computer and online sources"
-msgstr ""
+msgstr "Rechercher sur votre ordinateur et à partir de sources en ligne"
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1277,7 +1277,7 @@ msgstr "lun. 11 oct. 2010"
 
 #: ../en/index.html
 msgid "Lock"
-msgstr ""
+msgstr "Verrouiller"
 
 #: ../en/index.html
 msgid "Unmute"
