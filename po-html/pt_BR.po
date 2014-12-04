@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-03-11 10:57+0000\n"
-"PO-Revision-Date: 2014-03-13 11:12+0000\n"
-"Last-Translator: Rafael Leandro <crf-rafa@live.com>\n"
+"PO-Revision-Date: 2014-12-03 13:54+0000\n"
+"Last-Translator: Rafael Neri <Unknown>\n"
 "Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-05-30 06:26+0000\n"
-"X-Generator: Launchpad (build 17023)\n"
+"X-Launchpad-Export-Date: 2014-12-04 06:37+0000\n"
+"X-Generator: Launchpad (build 17274)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -58,7 +58,7 @@ msgstr "Editor de Vídeo PiTiVi"
 
 #: ../en/index.html
 msgid "Welcome screen"
-msgstr ""
+msgstr "Tela de boas vindas"
 
 #: ../en/index.html
 msgid "Internet"
@@ -220,7 +220,7 @@ msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 14.04 tour!"
-msgstr ""
+msgstr "Bem-vindo ao tour do Ubuntu 14.04!"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
@@ -228,7 +228,7 @@ msgstr "Obrigado por experimentar o Ubuntu!"
 
 #: ../en/index.html
 msgid "Guest Session"
-msgstr ""
+msgstr "Sessão convidado"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -248,7 +248,7 @@ msgstr "Instalado"
 
 #: ../en/index.html
 msgid "Exit the Tour"
-msgstr ""
+msgstr "Sair do tour"
 
 #: ../en/index.html
 msgid "$9.99"
@@ -352,7 +352,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Ubuntu One Music"
-msgstr ""
+msgstr "Ubuntu One Music"
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -421,11 +421,11 @@ msgstr "Usado recentemente"
 
 #: ../en/index.html
 msgid "Ubuntu Help"
-msgstr ""
+msgstr "Ajuda do Ubuntu"
 
 #: ../en/index.html
 msgid "Amazon"
-msgstr ""
+msgstr "Amazon"
 
 #: ../en/index.html
 msgid "Ctrl+Alt+L"
@@ -454,7 +454,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "About This Computer"
-msgstr ""
+msgstr "Sobre este computador"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -471,11 +471,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Places"
-msgstr ""
+msgstr "Locais"
 
 #: ../en/index.html
 msgid "Fwd"
-msgstr ""
+msgstr "Enc"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
@@ -803,7 +803,7 @@ msgstr "Nossos aplicativos com estrelas"
 
 #: ../en/index.html
 msgid "Logout"
-msgstr ""
+msgstr "Logout"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -834,7 +834,7 @@ msgstr "Rápido"
 
 #: ../en/index.html
 msgid "Restart"
-msgstr ""
+msgstr "Reiniciar"
 
 #: ../en/index.html
 msgid "Recent"
@@ -909,7 +909,7 @@ msgstr "Itens:"
 
 #: ../en/index.html
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Central de programas do Ubuntu"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -1051,11 +1051,11 @@ msgstr "Anexar"
 
 #: ../en/index.html
 msgid "Rhythmbox Media Player"
-msgstr ""
+msgstr "Rhythmbox Media Player"
 
 #: ../en/index.html
 msgid "System Settings"
-msgstr ""
+msgstr "Configurações do sistema"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
@@ -1075,7 +1075,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "You"
-msgstr ""
+msgstr "Você"
 
 #: ../en/index.html
 msgid "Trash"
@@ -1087,7 +1087,7 @@ msgstr "arquivo"
 
 #: ../en/index.html
 msgid "Power Of Words"
-msgstr ""
+msgstr "Poder das Palavras"
 
 #: ../en/index.html
 msgid "Shotwell Photo Manager"
@@ -1147,7 +1147,7 @@ msgstr "Álbuns"
 
 #: ../en/index.html
 msgid "Search your computer and online sources"
-msgstr ""
+msgstr "Pesquisar em seu computador e em fontes da Internet"
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
