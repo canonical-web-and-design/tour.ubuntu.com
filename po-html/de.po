@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-online-tour\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-03-11 10:57+0000\n"
-"PO-Revision-Date: 2014-03-13 11:12+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-03 16:27+0000\n"
+"Last-Translator: Tobias Bannert <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-08-01 05:47+0000\n"
-"X-Generator: Launchpad (build 17656)\n"
+"X-Launchpad-Export-Date: 2015-10-04 06:13+0000\n"
+"X-Generator: Launchpad (build 17783)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -47,7 +47,7 @@ msgstr "Sehen Sie sich um"
 
 #: ../en/index.html
 msgid "Desktop"
-msgstr "Arbeitsfläche"
+msgstr "Schreibtisch"
 
 #: ../en/index.html
 msgid "Get Mail"
@@ -59,7 +59,7 @@ msgstr "PiTiVi – Videobearbeitung"
 
 #: ../en/index.html
 msgid "Welcome screen"
-msgstr ""
+msgstr "Willkommensbildschirm"
 
 #: ../en/index.html
 msgid "Internet"
@@ -154,11 +154,11 @@ msgstr "Anwendungen"
 
 #: ../en/index.html
 msgid "Weds 14 October, 2010"
-msgstr "Mi 14 Oktober, 2010"
+msgstr "Mit, 14. Oktober 2010"
 
 #: ../en/index.html
 msgid "Physics based puzzle/construction game"
-msgstr "Physik-basiertes Puzzle/Aufbauspiel"
+msgstr "Physikbasiertes Puzzle-/Aufbauspiel"
 
 #: ../en/index.html
 msgid "Gwibber Social Client"
@@ -174,7 +174,7 @@ msgstr "Zufriedenheit"
 
 #: ../en/index.html
 msgid "15.2KB"
-msgstr "15.2KB"
+msgstr "15.2 kB"
 
 #: ../en/index.html
 msgid "PCB CNC converter"
@@ -228,7 +228,7 @@ msgstr "Auto eth0"
 
 #: ../en/index.html
 msgid "Welcome to the Ubuntu 14.04 tour!"
-msgstr ""
+msgstr "Willkommen beim Rundgang durch Ubuntu 14.04!"
 
 #: ../en/index.html
 msgid "Thanks for exploring Ubuntu!"
@@ -236,7 +236,7 @@ msgstr "Vielen Dank, dass Sie Ubuntu erkunden!"
 
 #: ../en/index.html
 msgid "Guest Session"
-msgstr ""
+msgstr "Gastsitzung"
 
 #: ../en/index.html
 msgid "Send files to device…"
@@ -256,11 +256,11 @@ msgstr "Installiert"
 
 #: ../en/index.html
 msgid "Exit the Tour"
-msgstr ""
+msgstr "Rundgang beenden"
 
 #: ../en/index.html
 msgid "$9.99"
-msgstr "$9.99"
+msgstr "9,99 €"
 
 #: ../en/index.html
 msgid "Secure"
@@ -361,7 +361,7 @@ msgstr "Darkening Clockwork"
 
 #: ../en/index.html
 msgid "Ubuntu One Music"
-msgstr ""
+msgstr "Ubuntu-One-Musik"
 
 #: ../en/index.html
 msgid "Inkscape Vector Graphics Editor"
@@ -409,7 +409,7 @@ msgstr "Alle Ordner"
 
 #: ../en/index.html
 msgid "Fri 26 Oct, 2001"
-msgstr "Fr 26 Okt, 2001"
+msgstr "Fr., 26. Okt. 2001"
 
 #: ../en/index.html
 msgid "Langelinie Alle"
@@ -429,15 +429,15 @@ msgstr "Zuletzt verwendet"
 
 #: ../en/index.html
 msgid "Ubuntu Help"
-msgstr ""
+msgstr "Ubuntu-Hilfe"
 
 #: ../en/index.html
 msgid "Amazon"
-msgstr ""
+msgstr "Amazon"
 
 #: ../en/index.html
 msgid "Ctrl+Alt+L"
-msgstr ""
+msgstr "Strg+Alt+L"
 
 #: ../en/index.html
 msgid "reply"
@@ -453,7 +453,7 @@ msgstr "Anwendungen im Ubuntu Software-Center suchen und herunterladen."
 
 #: ../en/index.html
 msgid "$19.99"
-msgstr "$19.99"
+msgstr "19,99 €"
 
 #: ../en/index.html
 msgid "Dybbølsbro Station"
@@ -461,7 +461,7 @@ msgstr "Dybbølsbro Station"
 
 #: ../en/index.html
 msgid "About This Computer"
-msgstr ""
+msgstr "Über diesen Rechner"
 
 #: ../en/index.html
 msgid "Connection Information"
@@ -478,7 +478,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Places"
-msgstr ""
+msgstr "Orte"
 
 #: ../en/index.html
 msgid "Fwd"
@@ -486,7 +486,7 @@ msgstr "Weiterleiten"
 
 #: ../en/index.html
 msgid "Terminal Server Client"
-msgstr "Terminal Server Client"
+msgstr "Terminal-Server-Programm"
 
 #: ../en/index.html
 msgid "Appearance"
@@ -534,7 +534,7 @@ msgstr "Purple Dancers"
 
 #: ../en/index.html
 msgid "Ubuntu One Control Panel"
-msgstr "»Ubuntu One«-Steuerung"
+msgstr "Ubuntu-One-Steuerungleiste"
 
 #: ../en/index.html
 msgid "LibreOffice Impress"
@@ -698,11 +698,11 @@ msgstr "Greifen Sie auf das Internet zu"
 
 #: ../en/index.html
 msgid "5.3MB"
-msgstr "5.3MB"
+msgstr "5,3 MB"
 
 #: ../en/index.html
 msgid "Take the guided tour"
-msgstr "Die Tour beginnen"
+msgstr "Den geleiteten Rundgang nehmen"
 
 #: ../en/index.html
 msgid "cc"
@@ -735,11 +735,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Sound Settings…"
-msgstr "Audio-Einstellungen …"
+msgstr "Klangeinstellungen …"
 
 #: ../en/index.html
 msgid "Browse the web"
-msgstr "Im Web surfen"
+msgstr "Im Netz navigieren"
 
 #: ../en/index.html
 msgid "Local"
@@ -832,7 +832,7 @@ msgstr "Unsere Lieblinge"
 
 #: ../en/index.html
 msgid "Logout"
-msgstr ""
+msgstr "Abmelden"
 
 #: ../en/index.html
 msgid "The Grass Aint Greener"
@@ -868,7 +868,7 @@ msgstr "Schnell"
 
 #: ../en/index.html
 msgid "Restart"
-msgstr ""
+msgstr "Neustarten"
 
 #: ../en/index.html
 msgid "Recent"
@@ -948,7 +948,7 @@ msgstr "Einträge:"
 
 #: ../en/index.html
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Ubuntus Software-Center"
 
 #: ../en/index.html
 msgid "Subject:"
@@ -960,7 +960,7 @@ msgstr "Datensicherung"
 
 #: ../en/index.html
 msgid "Ubuntu tour"
-msgstr "Ubuntu-Tour"
+msgstr "Ubuntu-Rundgang"
 
 #: ../en/index.html
 msgid "History"
@@ -976,7 +976,7 @@ msgstr "Persönlicher Ordner"
 
 #: ../en/index.html
 msgid "We hope you've enjoyed the Ubuntu online tour."
-msgstr "Wir hoffen, Ihnen hat die Ubuntu-Online-Tour gefallen."
+msgstr "Wir hoffen, Ihnen hat der Ubuntu-Internetrundgang gefallen."
 
 #: ../en/index.html
 msgid "Office"
@@ -1095,7 +1095,7 @@ msgstr "Anhängen"
 
 #: ../en/index.html
 msgid "Rhythmbox Media Player"
-msgstr ""
+msgstr "Rhythmbox-Medienwiedergabe"
 
 #: ../en/index.html
 msgid "System Settings"
@@ -1103,7 +1103,7 @@ msgstr "Systemeinstellungen"
 
 #: ../en/index.html
 msgid "Ubuntu online tour"
-msgstr "Ubuntu-Online-Tour"
+msgstr "Ubuntu-Internetrundgang"
 
 #: ../en/index.html
 msgid "Federica Miglio"
@@ -1128,7 +1128,7 @@ msgstr "Sie"
 
 #: ../en/index.html
 msgid "Trash"
-msgstr "Müll"
+msgstr "Papierkorb"
 
 #: ../en/index.html
 msgid "archive"
@@ -1198,7 +1198,7 @@ msgstr "Alben"
 
 #: ../en/index.html
 msgid "Search your computer and online sources"
-msgstr ""
+msgstr "Ihren Rechner und Internetquellen durchsuchen"
 
 #: ../en/index.html
 msgid "LibreOffice Writer"
@@ -1246,7 +1246,7 @@ msgstr "Visolate"
 
 #: ../en/index.html
 msgid "Sound Recorder"
-msgstr "Audio-Rekorder"
+msgstr "Tonaufnahme"
 
 #: ../en/index.html
 msgid "Suspend"
@@ -1272,11 +1272,11 @@ msgstr ""
 
 #: ../en/index.html
 msgid "Mon 11 October, 2010"
-msgstr "Mon 11 Oktober, 2010"
+msgstr "Mon, 11. Oktober 2010"
 
 #: ../en/index.html
 msgid "Lock"
-msgstr ""
+msgstr "Sperren"
 
 #: ../en/index.html
 msgid "Unmute"
@@ -1284,7 +1284,7 @@ msgstr "Lautschalten"
 
 #: ../en/index.html
 msgid "Rubbish bin"
-msgstr "Müll"
+msgstr "Papierkorb"
 
 #: ../en/index.html
 msgid "Sound &amp; Video"
@@ -1342,7 +1342,7 @@ msgstr ""
 
 #: ../en/index.html
 msgid "3.3MB"
-msgstr "3.3MB"
+msgstr "3,3 MB"
 
 #: ../en/index.html
 msgid "Blender"
