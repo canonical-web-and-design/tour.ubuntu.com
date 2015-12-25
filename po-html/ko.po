@@ -1,0 +1,1275 @@
+# Korean translation for ubuntu-online-tour
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-online-tour package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-online-tour\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-03-11 10:57+0000\n"
+"PO-Revision-Date: 2015-12-25 02:56+0000\n"
+"Last-Translator: minwook shin <Unknown>\n"
+"Language-Team: Korean <ko@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2015-12-25 05:38+0000\n"
+"X-Generator: Launchpad (build 17865)\n"
+
+#: ../en/index.html
+msgid "Firefox Web Browser"
+msgstr "파이어폭스 웹 브라우저"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu loads quickly on any computer, but it's super-fast on newer machines. "
+"With no unnecessary programs and trial software slowing things down, booting "
+"up and opening a browser takes seconds. Unlike other operating systems that "
+"leave you staring at the screen, waiting to get online. And Ubuntu won’t "
+"grow sluggish over time. It’s fast. And it stays fast."
+msgstr ""
+"우분투는 모든 컴퓨터에서 빠르게 불러옵니다,하지만 새로운 머신에서는 더욱더 빠릅니다.  다른 운영체제와 다르게 불필요한 프로그램과 기간제 "
+"느린 소프트웨어와 느리게 돌아가는 평가판 소프트웨어가 없고,부팅과 브라우저를 여는데도 몇초 걸리지않습니다. 당신이 화면을 여는것을 "
+"떠나면, 온라인이 기다리고 있습니다. 그리고 우분투는 시간이 지남에 따라 부진한 노력을 하지않습니다. 단지 빠릅니다. 그리고 빠르게 "
+"유지됩니다."
+
+#: ../en/index.html
+msgid "no subject"
+msgstr "제목 없음"
+
+#: ../en/index.html
+msgid "Show yourself around"
+msgstr "주변 둘러보기"
+
+#: ../en/index.html
+msgid "Desktop"
+msgstr "데스크탑"
+
+#: ../en/index.html
+msgid "Get Mail"
+msgstr "메일 얻기"
+
+#: ../en/index.html
+msgid "PiTiVi Video Editor"
+msgstr "PiTiVi 비디오 에디터"
+
+#: ../en/index.html
+msgid "Welcome screen"
+msgstr "시작 화면"
+
+#: ../en/index.html
+msgid "Internet"
+msgstr "인터넷"
+
+#: ../en/index.html
+msgid "Science &amp; Engineering"
+msgstr "과학 &amp; 공학"
+
+#: ../en/index.html
+msgid "Find apps"
+msgstr "앱 찾기"
+
+#: ../en/index.html
+msgid "Not Alone"
+msgstr "Not Alone"
+
+#: ../en/index.html
+msgid "Momiji Dream"
+msgstr "Momiji 꿈"
+
+#: ../en/index.html
+msgid "Manipulate the flow of time to solve puzzles"
+msgstr "퍼즐을 해결하기위해 시간을 조종합니다."
+
+#: ../en/index.html
+msgid "中文"
+msgstr "중국"
+
+#: ../en/index.html
+msgid "About Me"
+msgstr "나에 대해서"
+
+#: ../en/index.html
+msgid ""
+"BEEP has traveled for thousands of years through deep space to explore the "
+"Galaxy. Traverse a foreign star system with the BEEP-ship and send robots to "
+"the surface of the planets."
+msgstr ""
+"비프는 은하계를 탐험하는 깊은 공간을 통해 수천 년 동안 여행했습니다. 비프-선박 과 외국 스타 시스템을 통과 하고  행성의 표면에 "
+"로봇을 보낼 수 있습니다."
+
+#: ../en/index.html
+msgid ""
+"Are you sure you want to close all programs and shutdown the computer?"
+msgstr "정말로 모든 프로그램을 닫고 컴퓨터를 종료하시겠습니까?"
+
+#: ../en/index.html
+msgid "This package contains the Chromium browser"
+msgstr "이 패키지는 크로미움 브라우저를 포함합니다"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Impress"
+msgstr "제목없음 1 - 리브레오피스 임프레스"
+
+#: ../en/index.html
+msgid "Ubuntu One"
+msgstr "우분투 원"
+
+#: ../en/index.html
+msgid ""
+"Accessibility is central to the Ubuntu philosophy. We believe that computing "
+"is for everyone regardless of nationality, race, gender or disability. Fully "
+"translated into 38 languages, Ubuntu also includes essential assistive "
+"technologies, which are, of course, completely free."
+msgstr ""
+"접근성은 우분투의 핵심입니다.우리는 국적 , 인종, 성별 , 장애에 관계없이 모든 사람들을위한 컴퓨팅이라고 믿습니다. 충분히 38개의 "
+"언어로 번역되있으며, 물론 우분투는 필수 보조 기술을 완전히 무료로 포함합니다 완전히 무료로 포함합니다."
+
+#: ../en/index.html
+msgid "Download Ubuntu"
+msgstr "우분투 다운로드"
+
+#: ../en/index.html
+msgid "Watch videos"
+msgstr "영상 보기"
+
+#: ../en/index.html
+msgid "Join now"
+msgstr "회원 가입"
+
+#: ../en/index.html
+msgid "Applications"
+msgstr "애플리케이션"
+
+#: ../en/index.html
+msgid "Weds 14 October, 2010"
+msgstr "2010년 10월 14일 수"
+
+#: ../en/index.html
+msgid "Physics based puzzle/construction game"
+msgstr "물리 기반의 퍼즐 / 건설 게임"
+
+#: ../en/index.html
+msgid "Gwibber Social Client"
+msgstr "Gwibber 소셜 클라이언트"
+
+#: ../en/index.html
+msgid "Jardin Polar"
+msgstr "Jardin Polar"
+
+#: ../en/index.html
+msgid "Happyness"
+msgstr "행복"
+
+#: ../en/index.html
+msgid "15.2KB"
+msgstr "15.2KB"
+
+#: ../en/index.html
+msgid "PCB CNC converter"
+msgstr "PCB CNC 변환기"
+
+#: ../en/index.html
+msgid "On"
+msgstr "온"
+
+#: ../en/index.html
+msgid ""
+"You can watch all your favourite films and videos, DVDs, downloads or movies "
+"you've created yourself."
+msgstr "당신은 마음에 드는 모든 영화와 비디오, DVD , 또는 영화를 다운로드하거나 감상 할 수 있습니다 당신은 만들수있습니다."
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Writer"
+msgstr "제목없음 1 - 리브레오피스 라이터"
+
+#: ../en/index.html
+msgid "A 2D platformer/shooter game with physics-based puzzles"
+msgstr "2D 플래포머/물리-기반 퍼즐의 슈터 게임"
+
+#: ../en/index.html
+msgid "Graphics"
+msgstr "그래픽"
+
+#: ../en/index.html
+msgid "Keep Connected"
+msgstr "연결 유지"
+
+#: ../en/index.html
+msgid "Top Rated"
+msgstr "최고 등급"
+
+#: ../en/index.html
+msgid "Compatible"
+msgstr "지원"
+
+#: ../en/index.html
+msgid "From"
+msgstr "발신"
+
+#: ../en/index.html
+msgid "Auto eth0"
+msgstr "자동 eth0"
+
+#: ../en/index.html
+msgid "Welcome to the Ubuntu 14.04 tour!"
+msgstr "우분투14.04에 오신것을 환영합니다!"
+
+#: ../en/index.html
+msgid "Thanks for exploring Ubuntu!"
+msgstr "우분투를 탐색해주셔서 감사합니다!"
+
+#: ../en/index.html
+msgid "Guest Session"
+msgstr "손님 세션"
+
+#: ../en/index.html
+msgid "Send files to device…"
+msgstr "디바이스로 파일 전송…"
+
+#: ../en/index.html
+msgid "Create documents"
+msgstr "문서 생성"
+
+#: ../en/index.html
+msgid "(91 Ratings)"
+msgstr "(91 등급)"
+
+#: ../en/index.html
+msgid "Installed"
+msgstr "설치됨"
+
+#: ../en/index.html
+msgid "Exit the Tour"
+msgstr "투어 종료"
+
+#: ../en/index.html
+msgid "$9.99"
+msgstr "$9.99"
+
+#: ../en/index.html
+msgid "Secure"
+msgstr "보안"
+
+#: ../en/index.html
+msgid "Mute"
+msgstr "음소거"
+
+#: ../en/index.html
+msgid "All Software"
+msgstr "모든소프트웨어"
+
+#: ../en/index.html
+msgid "Ready to download?"
+msgstr "다운로드 준비"
+
+#: ../en/index.html
+msgid "Accessories"
+msgstr "악세서리"
+
+#: ../en/index.html
+msgid "Create spreadsheets"
+msgstr "엑셀 생성"
+
+#: ../en/index.html
+msgid "Bluetooth"
+msgstr "블루투스"
+
+#: ../en/index.html
+msgid "Shut Down"
+msgstr "종료"
+
+#: ../en/index.html
+msgid "Music"
+msgstr "음악"
+
+#: ../en/index.html
+msgid "Rhythmbox"
+msgstr "리듬박스"
+
+#: ../en/index.html
+msgid "Education"
+msgstr "교육"
+
+#: ../en/index.html
+msgid "Brasero Disc Burner"
+msgstr "브라세로 디스크 버너"
+
+#: ../en/index.html
+msgid "Read, write and send emails with Thunderbird. It’s easy and fast."
+msgstr "이메일을 읽고, 쓰고 보내는 것은 썬더버드와 함께. 쉽고 빠릅니다."
+
+#: ../en/index.html
+msgid "wrote"
+msgstr "씀"
+
+#: ../en/index.html
+msgid "Subject"
+msgstr "제목"
+
+#: ../en/index.html
+msgid "Shotwell"
+msgstr "숏웰"
+
+#: ../en/index.html
+msgid "Documents"
+msgstr "문서"
+
+#: ../en/index.html
+msgid "Disconnect"
+msgstr "연결 해제"
+
+#: ../en/index.html
+msgid "Preferences"
+msgstr "설정"
+
+#: ../en/index.html
+msgid "Browse files"
+msgstr "파일 탐색"
+
+#: ../en/index.html
+msgid "Come and explore our favourites"
+msgstr "오셔서 우리가 즐겨하는것을 찾으세요"
+
+#: ../en/index.html
+msgid "Shut Down…"
+msgstr "종료…"
+
+#: ../en/index.html
+msgid "Send"
+msgstr "보냄"
+
+#: ../en/index.html
+msgid "Darkening Clockwork"
+msgstr "Darkening Clockwork"
+
+#: ../en/index.html
+msgid "Ubuntu One Music"
+msgstr "우분투 원 음악"
+
+#: ../en/index.html
+msgid "Inkscape Vector Graphics Editor"
+msgstr "잉크스케이프 백터 그래픽 에디터"
+
+#: ../en/index.html
+msgid "Create presentations"
+msgstr "발표자료 만들기"
+
+#: ../en/index.html
+msgid "Original Message"
+msgstr "원본 메시지"
+
+#: ../en/index.html
+msgid "AisleRoit Solitaire"
+msgstr "AisleRoit Solitaire"
+
+#: ../en/index.html
+msgid "Rock Out"
+msgstr "Rock Out"
+
+#: ../en/index.html
+msgid ""
+"Chromium is an open-source browser project that aims to build a safer, "
+"faster, and more stable way for all Internet users to experience the web."
+msgstr "크로미움은 안전하고,빠름을 목표로 하는 오픈소스 브라우저입니다, 그리고 유저의 웹 경험을 더 안정화시켜줍니다."
+
+#: ../en/index.html
+msgid "Email"
+msgstr "이메일"
+
+#: ../en/index.html
+msgid "Sent"
+msgstr "보내기"
+
+#: ../en/index.html
+msgid "subject"
+msgstr "제목"
+
+#: ../en/index.html
+msgid "All Folders"
+msgstr "모든 폴더"
+
+#: ../en/index.html
+msgid "Fri 26 Oct, 2001"
+msgstr "2001년 10월 26일 금"
+
+#: ../en/index.html
+msgid "Langelinie Alle"
+msgstr "Langelinie Alle"
+
+#: ../en/index.html
+msgid "Your Ubuntu, your way"
+msgstr "당신의 우분투,당신의 방법"
+
+#: ../en/index.html
+msgid "Downloads"
+msgstr "다운로드"
+
+#: ../en/index.html
+msgid "Recently Used"
+msgstr "최근 사용됨"
+
+#: ../en/index.html
+msgid "Ubuntu Help"
+msgstr "우분투 도움말"
+
+#: ../en/index.html
+msgid "Amazon"
+msgstr "아마존"
+
+#: ../en/index.html
+msgid "Ctrl+Alt+L"
+msgstr "Ctrl+Alt+L"
+
+#: ../en/index.html
+msgid "reply"
+msgstr "리플"
+
+#: ../en/index.html
+msgid "Title:"
+msgstr "주제:"
+
+#: ../en/index.html
+msgid "Search and download apps fast from the Ubuntu Software Centre."
+msgstr "우분투 소프트웨어 센터로 앱을 빠르게 찾고 다운로드하세요."
+
+#: ../en/index.html
+msgid "$19.99"
+msgstr "$19.99"
+
+#: ../en/index.html
+msgid "Dybbølsbro Station"
+msgstr "Dybbølsbro Station"
+
+#: ../en/index.html
+msgid "About This Computer"
+msgstr "이 컴퓨터에 대해서"
+
+#: ../en/index.html
+msgid "Connection Information"
+msgstr "연결 정보"
+
+#: ../en/index.html
+msgid ""
+"Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml. "
+"You must have these packages to make full use of all extensions and effects."
+msgstr ""
+"다른 확장은 루비, libxml-XQL-펄, 파이썬-NumPy와, 그리고 파이썬-LXML 를 사용합니다. 당신은 모든 확장과 효과를 "
+"최대한 활용 하기 위해 이러한 패키지가 있어야합니다."
+
+#: ../en/index.html
+msgid "Places"
+msgstr "위치"
+
+#: ../en/index.html
+msgid "Fwd"
+msgstr "Fwd"
+
+#: ../en/index.html
+msgid "Terminal Server Client"
+msgstr "터미널 서버 클라이언트"
+
+#: ../en/index.html
+msgid "Appearance"
+msgstr "외형"
+
+#: ../en/index.html
+msgid "LibreOffice Calc"
+msgstr "리브레오피스 Calc"
+
+#: ../en/index.html
+msgid "Buck Off"
+msgstr "Buck 끄기"
+
+#: ../en/index.html
+msgid "Stalking Ocelot"
+msgstr "오셀롯 스토킹"
+
+#: ../en/index.html
+msgid ""
+"Your entire collection follows you around with music streaming to Android "
+"and iPhone"
+msgstr "당신의 컬렉션 항목은 안드로이드와 아이폰의 음악 스토리밍을 따를수있습니다"
+
+#: ../en/index.html
+msgid "Remove"
+msgstr "제거"
+
+#: ../en/index.html
+msgid ""
+"Braid treats your time and attention as precious, and it does everything it "
+"can to give you a mind-expanding experience."
+msgstr ""
+"브레이드는 소중한 귀하의 시간과 관심을 취급하고, 당신에게 마음을 확장할 수 있는 경험을 제공 할 수 있는 모든 작업을 수행합니다."
+
+#: ../en/index.html
+msgid "English"
+msgstr "영어"
+
+#: ../en/index.html
+msgid "Purple Dancers"
+msgstr "보라 춤꾼들"
+
+#: ../en/index.html
+msgid "Ubuntu One Control Panel"
+msgstr "우분투 원 컨트롤 패널"
+
+#: ../en/index.html
+msgid "LibreOffice Impress"
+msgstr "리브레오피스 임프레스"
+
+#: ../en/index.html
+msgid ""
+"All gameplay is based on time manipulation. Journey into worlds where time "
+"behaves strangely; observe, learn from, and then master these worlds."
+msgstr ""
+"모든 게임 플레이 는 시간 조작 을 기반으로합니다. 시간이 이상하게 동작하는 세계로의 여행; 관찰,에서 배우고, 그리고 이 세계를 "
+"지배합니다."
+
+#: ../en/index.html
+msgid "Mount Snowdon"
+msgstr "스노우돈 마운트"
+
+#: ../en/index.html
+msgid "Songs"
+msgstr "노래"
+
+#: ../en/index.html
+msgid "Accessible"
+msgstr "접근성"
+
+#: ../en/index.html
+msgid "Backup and access your files from Ubuntu, Windows, Web or Mobile"
+msgstr "우분투, 윈도우, 웹 또는 모바일로부터 당신의 파일을 백업과 엑세스"
+
+#: ../en/index.html
+msgid "Setup new device…"
+msgstr "새 디바이스 설정…"
+
+#: ../en/index.html
+msgid ""
+"Inkscape user interface should be familiar from CorelDraw and similar "
+"drawing programs. There are rectangles, ellipses, text items, bitmap images "
+"and freehand curves. As an added bonus, both vector and bitmap objects can "
+"have alpha transparency and can be arbitrarily transformed."
+msgstr ""
+"잉크 스케이프의 사용자 인터페이스는 코렐 드로우와 유사한 드로잉 프로그램을  잘 알고 있어야합니다. 사각형 , 타원 , 텍스트 항목 , "
+"비트 맵 이미지 및 자유 곡선도 있습니다. 추가 보너스로, 두 벡터 와 비트 맵 오브젝트는  알파 투명도 를 가질 수 있으며 임의로 "
+"변형될 수 있습니다 ."
+
+#: ../en/index.html
+msgid "Videos"
+msgstr "영상"
+
+#: ../en/index.html
+msgid "Braid"
+msgstr "브레이드"
+
+#: ../en/index.html
+msgid ""
+"Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics) "
+"format, a standard maintained by the WWW consortium."
+msgstr ""
+"잉크스케이프는 로드 와 SVG 의 일부를 저장 (확장 가능한 벡터 그래픽) 형식,WWW 컨소시엄에 의해 유지되는 표준입니다."
+
+#: ../en/index.html
+msgid ""
+"Thanks for exploring Ubuntu! Remember, this is just a demo. You'll have to "
+"download it to enjoy the real thing!"
+msgstr "우분투를 탐색해주셔서 감사합니다! 다시말하지만, 데모일뿐입니다. 당신이 진심으로 즐기려면 다운로드해야합니다!"
+
+#: ../en/index.html
+msgid "Unread:"
+msgstr "읽지않음:"
+
+#: ../en/index.html
+msgid ""
+"You can surf in safety with Ubuntu – confident that your files and data will "
+"stay protected. A built-in firewall and virus protection come as standard. "
+"And if a potential threat appears, we provide automatic updates which you "
+"can install in a single click. You get added security with AppArmor, which "
+"protects your important applications so attackers can’t access your system. "
+"And thanks to Firefox and gnome-keyring, Ubuntu helps you keep your private "
+"information private. So whether it’s accessing your bank account or sharing "
+"sensitive data with friends or colleagues, you’ll have peace of mind when "
+"you need it the most."
+msgstr ""
+"우분투로 안전하게 서핑 –  파일과 정보가 안전하게 저장된다는 자신감이됩니다. 내장 된 방화벽 및 바이러스 보호는 표준으로 제공됩니다. "
+"잠재적 인 위협 이 나타날 경우에, 우리는 당신이 클릭 한번에 설치할 수있는  자동 업데이트를 제공합니다. 공격자가 시스템에 액세스 할 "
+"수 없도록 중요한 응용 프로그램을 보호하는 앱 아머의 보안을 추가합니다. 그리고 파이어 폭스와 그놈-열쇠 덕분에,  우분투에서 당신의 "
+"개인 정보는 개인 유지 하는 데 도움이됩니다.  그것은 당신의 은행 계좌 에 액세스하거나 친구 또는 동료들과  민감한 데이터를 공유 여부 "
+"그래서 당신이 가장 필요로 할 때, 당신은 마음의 평화를 해야합니다."
+
+#: ../en/index.html
+msgid "Files &amp; Folders"
+msgstr "파일 &amp; 폴더"
+
+#: ../en/index.html
+msgid ""
+"Remember, this is just a demo. You'll have to download it to enjoy the real "
+"thing!"
+msgstr "다시말하지만, 데모일뿐입니다. 당신이 진심으로 즐기려면 다운로드해야합니다!"
+
+#: ../en/index.html
+msgid "BEEP"
+msgstr "비프"
+
+#: ../en/index.html
+msgid "Visible"
+msgstr "시각화"
+
+#: ../en/index.html
+msgid "Learn More"
+msgstr "자세히보기"
+
+#: ../en/index.html
+msgid ""
+"Use BEEP’s anti-gravity device to directly manipulate the physics-based "
+"environments. The anti-gravity device is both a tool and a weapon. Use it to "
+"smash enemy robots, build towers and solve puzzles."
+msgstr ""
+"직접 물리학 기반 환경을 조작하여 비프의 반 중력 장치를 사용하십시오. 반 중력 장치는 도구와 무기입니다. 적의 로봇을 부수 타워를 "
+"구축하고 퍼즐을 해결 하는 데 사용합니다 ."
+
+#: ../en/index.html
+msgid "Home"
+msgstr "홈"
+
+#: ../en/index.html
+msgid "Canonical"
+msgstr "캐노니컬"
+
+#: ../en/index.html
+msgid "Developer Tools"
+msgstr "개발 도구"
+
+#: ../en/index.html
+msgid "or"
+msgstr "하거나"
+
+#: ../en/index.html
+msgid "Inkscape"
+msgstr "잉크스케이프"
+
+#: ../en/index.html
+msgid "Access the Internet"
+msgstr "인터넷에 엑세스"
+
+#: ../en/index.html
+msgid "5.3MB"
+msgstr "5.3MB"
+
+#: ../en/index.html
+msgid "Take the guided tour"
+msgstr "가이드 투어로 이용"
+
+#: ../en/index.html
+msgid "cc"
+msgstr "cc"
+
+#: ../en/index.html
+msgid "Pictures"
+msgstr "사진"
+
+#: ../en/index.html
+msgid "Size:"
+msgstr "크기:"
+
+#: ../en/index.html
+msgid "Draft"
+msgstr "초안"
+
+#: ../en/index.html
+msgid "Free"
+msgstr "자유"
+
+#: ../en/index.html
+msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgstr "파이어폭스 북마크와 톰보이 노트 동기화를 유지"
+
+#: ../en/index.html
+msgid "LibreOffice Writer makes it easy to draft professional documents."
+msgstr "리브레오피스 라이터는 쉽게 전문적인 문서의 초안을 할 수 있습니다."
+
+#: ../en/index.html
+msgid "Sound Settings…"
+msgstr "소리 설정…"
+
+#: ../en/index.html
+msgid "Browse the web"
+msgstr "웹 검색"
+
+#: ../en/index.html
+msgid "Local"
+msgstr "로컬"
+
+#: ../en/index.html
+msgid ""
+"If you want to use the spellchecker, you have to install aspell and the "
+"respective language-pack, e.g. aspell-en or aspell-de."
+msgstr ""
+"맞춤법 검사기 를 사용하려면, 당신은 Aspell을 설치하고 각각의 언어 팩도 설치해야합니다, 예를 들어. aspell-en 혹은 "
+"aspell-ko."
+
+#: ../en/index.html
+msgid "World of Goo"
+msgstr "월드 오브 구"
+
+#: ../en/index.html
+msgid "View photos"
+msgstr "사진 보기"
+
+#: ../en/index.html
+msgid "You can upload, organise, edit and share your photos with Shotwell."
+msgstr "당신은 Shotwell에서 사진을 업로드, 구성, 편집 및 공유를 할 수 있습니다."
+
+#: ../en/index.html
+msgid "Sand Maze"
+msgstr "모래 미로"
+
+#: ../en/index.html
+msgid "from"
+msgstr "발신"
+
+#: ../en/index.html
+msgid "Introduction Ubuntu"
+msgstr "우분투 소개"
+
+#: ../en/index.html
+msgid "to"
+msgstr "수신"
+
+#: ../en/index.html
+msgid ""
+"Blender is an integrated 3d suite for modelling, animation, rendering, post-"
+"production, interactive creation and playback (games). Blender has its own "
+"particular user interface, which is implemented entirely in OpenGL and "
+"designed with speed in mind. Python bindings are available for scripting; "
+"import/export features for popular file formats like 3D Studio and Wavefront "
+"Obj are implemented as scripts by the community. Stills, animations, models "
+"for games or other third party engines and interactive content in the form "
+"of a standalone binary and/or a web plug-in are common products of Blender "
+"use."
+msgstr ""
+"블렌더는 모델링, 애니메이션, 렌더링, 포스트위한 통합 3D 제품군입니다. 생산, 대화 형 생성 및 재생 (게임). 블렌더는 자신이  "
+"OpenGL은 전적으로 구현을 염두에두고 속도로 설계되었습니다\t 특정 사용자 인터페이스. 파이썬 바인딩은 스크립팅을 사용할 수 "
+"있습니다; 3D Studio 및 파면 등의 인기있는 파일 형식에 대한 가져 오기 / 내보내기 기능 OBJ는 지역 사회에 의해 스크립트로 "
+"구현됩니다. 스틸, 애니메이션, 모델 형태의 게임 또는 제 3 자 엔진과 상호 작용하는 콘텐츠에 대한 독립형 이진 및 / 또는 웹 "
+"플러그인 블렌더  사용 공통 제품입니다."
+
+#: ../en/index.html
+msgid "Your browser does not support iframes."
+msgstr "당신의 브라우저가 iframes을 지원하지않습니다."
+
+#: ../en/index.html
+msgid ""
+"Make a good impression with the intuitive LibreOffice Impress presentation "
+"tool."
+msgstr "직관적인 리브레오피스 임프레스 프리젠 테이션 도구를 사용하여 좋은 발표를 합니다."
+
+#: ../en/index.html
+msgid ""
+"It’s quick and easy to access your folders and files from Ubuntu’s home "
+"folder."
+msgstr "당신의 폴더와 파일을 우분투 홈 폴더에서 빠르고 쉽게 엑세스 할 수 있습니다."
+
+#: ../en/index.html
+msgid "Our star apps"
+msgstr "유명한 앱"
+
+#: ../en/index.html
+msgid "Logout"
+msgstr "로그아웃"
+
+#: ../en/index.html
+msgid "The Grass Aint Greener"
+msgstr "The Grass Aint Greener"
+
+#: ../en/index.html
+msgid "forward"
+msgstr "앞으로"
+
+#: ../en/index.html
+msgid ""
+"Drag and drop living, squirming, talking globs of goo to build structures, "
+"bridges, cannonballs, zeppelins, and giant tongues. The millions of innocent "
+"goo balls that live in the beautiful World of Goo are curious to explore."
+msgstr ""
+"드래그 앤 드롭 생활화, 꿈틀, 구조 교량을 건설하는 끈적 거리는의 globs의 이야기, globs와는 포탄, 제플린, 그리고 거대한 "
+"방언을 다리. 끈적 거리는의 아름다운 세계에 살고있는 끈적 거리는 공 탐험 호기심입니다."
+
+#: ../en/index.html
+msgid "Chromium Web Browser"
+msgstr "크로미움 웹 브라우저"
+
+#: ../en/index.html
+msgid "Recipient"
+msgstr "받는사람"
+
+#: ../en/index.html
+msgid "Fast"
+msgstr "빠른"
+
+#: ../en/index.html
+msgid "Restart"
+msgstr "재시작"
+
+#: ../en/index.html
+msgid "Recent"
+msgstr "최근"
+
+#: ../en/index.html
+msgid "To:"
+msgstr "수신:"
+
+#: ../en/index.html
+msgid "Date:"
+msgstr "날짜:"
+
+#: ../en/index.html
+msgid ""
+"Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Fast, secure "
+"and with thousands of apps to choose from, Ubuntu gives you a clean and "
+"streamlined experience that you can really make your own."
+msgstr ""
+"우분투의 세련되고 직관적인 인터페이스의 단순성을 즐길 수 있습니다. 빠르고, 안전한 그리고 선택할수있는 응용 프로그램의 수천개, 우분투는 "
+"당신에게 깨끗함을 제공합니다 그리고 당신이 자신의 것을 만드는데 간편한 경험을 제공합니다."
+
+#: ../en/index.html
+msgid "Total:"
+msgstr "총:"
+
+#: ../en/index.html
+msgid "Ubuntu Software Centre"
+msgstr "우분투 소프트웨어 센터"
+
+#: ../en/index.html
+msgid "Untitled 1 - LibreOffice Calc"
+msgstr "제목없음 1 - 리브레오피스 Calc"
+
+#: ../en/index.html
+msgid "I already have an account!"
+msgstr "이미 계정을 가지고있습니다!"
+
+#: ../en/index.html
+msgid "System"
+msgstr "시스템"
+
+#: ../en/index.html
+msgid "Date"
+msgstr "날짜"
+
+#: ../en/index.html
+msgid ""
+"LibreOffice Calc has everything you need to create clear and accurate "
+"spreadsheets."
+msgstr "리브레오피스 Calc은 항상 당신이 필요한 스프레드시트를 깔끔하고 정확하게 만들수있습니다."
+
+#: ../en/index.html
+msgid ""
+"Some of the import and export features are provided using the packages dia, "
+"libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick."
+msgstr ""
+"가져 오기 및 내보내기 기능 중 일부는 패키지 직경 을 사용하여 제공됩니다, libwmf-bin, pstoedit, skencil, "
+"imagemagick, 그리고 perlmagick."
+
+#: ../en/index.html
+msgid "Take Ubuntu for a test drive with our online demo."
+msgstr "온라인 데모와 테스트 드라이브의 우분투를 이용."
+
+#: ../en/index.html
+msgid "Install"
+msgstr "설치"
+
+#: ../en/index.html
+msgid "Items:"
+msgstr "항목:"
+
+#: ../en/index.html
+msgid "Ubuntu Software Center"
+msgstr "우분투 소프트웨어 센터"
+
+#: ../en/index.html
+msgid "Subject:"
+msgstr "제목:"
+
+#: ../en/index.html
+msgid "Backup"
+msgstr "백업"
+
+#: ../en/index.html
+msgid "Ubuntu tour"
+msgstr "우분투 투어"
+
+#: ../en/index.html
+msgid "History"
+msgstr "기록"
+
+#: ../en/index.html
+msgid "16 Photos"
+msgstr "16개 사진들"
+
+#: ../en/index.html
+msgid "Home Folder"
+msgstr "홈 폴더"
+
+#: ../en/index.html
+msgid "We hope you've enjoyed the Ubuntu online tour."
+msgstr "당신이 우분투 온라인 투어를 즐기는것을 희망합니다."
+
+#: ../en/index.html
+msgid "Office"
+msgstr "오피스"
+
+#: ../en/index.html
+msgid "Themes &amp; Tweaks"
+msgstr "테마 &amp; 트윅"
+
+#: ../en/index.html
+msgid ""
+"Ubuntu works brilliantly with a range of devices. Simply plug in your mp3 "
+"player, camera or printer and you’ll be up and running straight away. No "
+"installation CDs. No fuss. And it’s compatible with Windows too! So you can "
+"open, edit and share Microsoft Office documents stress-free."
+msgstr ""
+"우분투는 쓸수 있는 디바이스의 범위가 훌륭합니다. 간단히 당신의 mp3 플레이어를 꽂으세요, 카메라 혹은 프린트와 당신이 바로 시작하고 "
+"싶어하는것. CD 설치가 필요없습니다. 놀라지마세요. 그리고 윈도우와 호환됩니다! 그래서 당신은 열고, 편집 및 Microsoft "
+"Office 문서를 스트레스없이 공유 할 수 있습니다."
+
+#: ../en/index.html
+msgid "work"
+msgstr "일"
+
+#: ../en/index.html
+msgid "Library"
+msgstr "라이브러리"
+
+#: ../en/index.html
+msgid "Unify you contacts across Desktop, Mobile and Web"
+msgstr "당신에게 데스크탑, 모바일과 웹의 연락처를 통합합니다"
+
+#: ../en/index.html
+msgid "WildWheat"
+msgstr "WildWheat"
+
+#: ../en/index.html
+msgid "Cancel"
+msgstr "취소"
+
+#: ../en/index.html
+msgid ""
+"Chromium serves as a base for Google Chrome, which is Chromium rebranded "
+"(name and logo) with very few additions such as usage tracking and an auto-"
+"updater system."
+msgstr ""
+"크로미움은 구글 크롬 서버에 기반합니다,(이름과 로고)는 크롬의 상표이며 사용 추적과 자동-업데이터 시스템와 같은것이 추가됩니다."
+
+#: ../en/index.html
+msgid "Not Junk"
+msgstr "스팸 아님"
+
+#: ../en/index.html
+msgid "Chromium"
+msgstr "크로미움"
+
+#: ../en/index.html
+msgid "Archive"
+msgstr "아카이브"
+
+#: ../en/index.html
+msgid "delete"
+msgstr "삭제"
+
+#: ../en/index.html
+msgid "Thunderbird Mail/News"
+msgstr "썬더버드 메일/뉴스"
+
+#: ../en/index.html
+msgid "Write: (no subject)"
+msgstr "Write: (제목없음)"
+
+#: ../en/index.html
+msgid "Small Flowers"
+msgstr "작은 꽃들"
+
+#: ../en/index.html
+msgid "Edit Connections…"
+msgstr "연결 편집…"
+
+#: ../en/index.html
+msgid "Check email"
+msgstr "이메일 확인"
+
+#: ../en/index.html
+msgid "Additional Drivers"
+msgstr "독점 드라이버"
+
+#: ../en/index.html
+msgid ""
+"But they dont know that they are in a game, or that they are extremely "
+"delicious. The most addicting and awe-inspiring puzzle game will set you on "
+"an adventure that youll never forget!"
+msgstr ""
+"그러나 그들은 게임에 있는지 모릅니다, 또는 매우 맛있는 것을. 가장 중독성과 경외감을 고무시키는 퍼즐 게임 알면 결코 잊지 않을 모험에 "
+"당신을 설정합니다!"
+
+#: ../en/index.html
+msgid "Turn On Bluetooth"
+msgstr "블루투스 켜기"
+
+#: ../en/index.html
+msgid "Write"
+msgstr "쓰기"
+
+#: ../en/index.html
+msgid "Attach"
+msgstr "첨부"
+
+#: ../en/index.html
+msgid "Rhythmbox Media Player"
+msgstr "리듬박스 미디어 플레이어"
+
+#: ../en/index.html
+msgid "System Settings"
+msgstr "시스템 설정"
+
+#: ../en/index.html
+msgid "Ubuntu online tour"
+msgstr "우분투 온라인 투어"
+
+#: ../en/index.html
+msgid "Federica Miglio"
+msgstr "Federica Miglio"
+
+#: ../en/index.html
+msgid ""
+"BEEP is a 2D side-scrolling platformer with physics-based gameplay. You "
+"control a small robot equipped with an anti-gravity device, a jet-pack and a "
+"gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered "
+"across 6 unique environments."
+msgstr ""
+"비프는 2D 물리-기반 게임플레이의 사이드-스크롤링 플랫포머입니다.반 중력 장치를 구비 한 소형 로봇을 제어하고, 제트 팩과 총. , "
+"점프, 드라이브 비행, 수영, 6 고유 한 환경에 흩어져 24 레벨을 통해  귀하의 방식으로 촬영합니다."
+
+#: ../en/index.html
+msgid "You"
+msgstr "당신"
+
+#: ../en/index.html
+msgid "Trash"
+msgstr "휴지통"
+
+#: ../en/index.html
+msgid "archive"
+msgstr "아카이브"
+
+#: ../en/index.html
+msgid "Power Of Words"
+msgstr "워드의 힘"
+
+#: ../en/index.html
+msgid "Shotwell Photo Manager"
+msgstr "샷웰 포토 매니저"
+
+#: ../en/index.html
+msgid "Folders"
+msgstr "폴더"
+
+#: ../en/index.html
+msgid "Browsing the web is fast and secure with Ubuntu and Firefox."
+msgstr "우분투와 파이어폭스로 웹을 빠르고 안전하게 탐색할 수 있습니다."
+
+#: ../en/index.html
+msgid ""
+"Inkscape supports multiple opened files and multiple views per file. "
+"Graphics can be printed and exported to png bitmaps."
+msgstr ""
+"잉크스케이프는 다중 파일 열기와 여러개 파일을 보는것을 지원합니다. 그래픽 인쇄 및 PNG 비트 맵 으로 내보낼 수 있습니다."
+
+#: ../en/index.html
+msgid "Surf the web"
+msgstr "웹 서핑"
+
+#: ../en/index.html
+msgid "Browse files on device…"
+msgstr "디바이스에서 파일 탐색…"
+
+#: ../en/index.html
+msgid "Junk Mail"
+msgstr "스팸 메일"
+
+#: ../en/index.html
+msgid "1"
+msgstr "1"
+
+#: ../en/index.html
+msgid "Create and edit Scalable Vector Graphics images"
+msgstr "확장 백터 그래픽 이미지 만들고 수정"
+
+#: ../en/index.html
+msgid "What's New"
+msgstr "새로 출시"
+
+#: ../en/index.html
+msgid "Movie Player"
+msgstr "영화 플레이어"
+
+#: ../en/index.html
+msgid "Dash home"
+msgstr "대시 홈"
+
+#: ../en/index.html
+msgid "Albums"
+msgstr "엘범"
+
+#: ../en/index.html
+msgid "Search your computer and online sources"
+msgstr "당신의 컴퓨터와 온라인 소스에서 찾기"
+
+#: ../en/index.html
+msgid "LibreOffice Writer"
+msgstr "리브레오피스 라이터"
+
+#: ../en/index.html
+msgid "From:"
+msgstr "발신:"
+
+#: ../en/index.html
+msgid "Remote Desktop Viewer"
+msgstr "원격 데스크탑 뷰어"
+
+#: ../en/index.html
+msgid "junk"
+msgstr "스팸"
+
+#: ../en/index.html
+msgid "Fonts"
+msgstr "폰트"
+
+#: ../en/index.html
+msgid "Bluetooth On"
+msgstr "블루투스 켜기"
+
+#: ../en/index.html
+msgid "Turn Off Bluetooth"
+msgstr "블루투스 끄기"
+
+#: ../en/index.html
+msgid "Installing"
+msgstr "설치중"
+
+#: ../en/index.html
+msgid "back to the site"
+msgstr "사이트로 돌아가기"
+
+#: ../en/index.html
+msgid "Games"
+msgstr "게임"
+
+#: ../en/index.html
+msgid "Visolate"
+msgstr "Visolate"
+
+#: ../en/index.html
+msgid "Sound Recorder"
+msgstr "소리 녹음기"
+
+#: ../en/index.html
+msgid "Suspend"
+msgstr "절전모드"
+
+#: ../en/index.html
+msgid "branches"
+msgstr "브랜치"
+
+#: ../en/index.html
+msgid "The Power of Your Personal Cloud"
+msgstr "개인 클라우드의 힘"
+
+#: ../en/index.html
+msgid ""
+"Manipulate the flow of time to solve puzzles Braid is a platform game in "
+"painterly style where you manipulate the flow of time to solve puzzles. "
+"Every puzzle in Braid is unique; there is no filler."
+msgstr ""
+"퍼즐을 해결하기 위해 시간의 흐름을 조작! 브레이드는 퍼즐을 해결하는 시간의 흐름으로 적을 조작하는 스타일의 플랫폼 게임입니다. "
+"브레이드의 모든 퍼즐은 고유; 필러는 없습니다."
+
+#: ../en/index.html
+msgid "Mon 11 October, 2010"
+msgstr "2010년 10월 11일 월"
+
+#: ../en/index.html
+msgid "Lock"
+msgstr "잠금"
+
+#: ../en/index.html
+msgid "Unmute"
+msgstr "음소거 해제"
+
+#: ../en/index.html
+msgid "Rubbish bin"
+msgstr "휴지통"
+
+#: ../en/index.html
+msgid "Sound &amp; Video"
+msgstr "소리 &amp; 영상"
+
+#: ../en/index.html
+msgid "Create and edit 3D models and animations"
+msgstr "3D 모델과 애니메이션 만들고 수정"
+
+#: ../en/index.html
+msgid "Inbox"
+msgstr "받은 메일함"
+
+#: ../en/index.html
+msgid "Files Anywhere"
+msgstr "어디에서나 파일"
+
+#: ../en/index.html
+msgid "Stay Productive"
+msgstr "생산성 유지"
+
+#: ../en/index.html
+msgid "Empathy Internet Messageing"
+msgstr "엠파시 인터넷 메시징"
+
+#: ../en/index.html
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quam "
+"augue, convallis id commodo id, tristique ac mi. Ut dapibus, neque eget "
+"elementum pretium, nunc turpis congue eros, et interdum nisi nisi at diam. "
+"Duis dictum, justo eget imperdiet pulvinar, dolor est fermentum nisl, luctus "
+"imperdiet metus elit a purus. Quisque nisl enim, lacinia ut venenatis in, "
+"porttitor eget orci. Quisque non nibh nec risus tincidunt sollicitudin vitae "
+"et nisl. Proin odio lacus, vulputate non auctor sit amet, dapibus quis "
+"tortor. Donec elit libero, pellentesque quis dictum sed, hendrerit non "
+"libero. Aliquam eu diam id leo auctor tincidunt. Phasellus cursus felis at "
+"nulla facilisis semper. Cras mauris urna, adipiscing sed scelerisque ut, "
+"gravida id neque. Mauris ut vestibulum justo. Curabitur convallis elementum "
+"pellentesque. Duis sit amet arcu ac eros pretium scelerisque. Nunc nec nisi "
+"nulla."
+
+#: ../en/index.html
+msgid "3.3MB"
+msgstr "3.3MB"
+
+#: ../en/index.html
+msgid "Blender"
+msgstr "블렌더"
