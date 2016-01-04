@@ -159,7 +159,7 @@ msgid "Jardin Polar"
 msgstr "Jardin Polar"
 
 #: ../en/index.html
-msgid "Happyness"
+msgid "Happiness"
 msgstr "행복"
 
 #: ../en/index.html
@@ -685,7 +685,7 @@ msgid "Free"
 msgstr "자유"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr "파이어폭스 북마크와 톰보이 노트 동기화를 유지"
 
 #: ../en/index.html
@@ -946,7 +946,7 @@ msgid "Library"
 msgstr "라이브러리"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "당신에게 데스크탑, 모바일과 웹의 연락처를 통합합니다"
 
 #: ../en/index.html

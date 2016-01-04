@@ -166,8 +166,8 @@ msgid "Jardin Polar"
 msgstr "Jardin Polar"
 
 #: ../en/index.html
-msgid "Happyness"
-msgstr "Happyness"
+msgid "Happiness"
+msgstr "Happiness"
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -715,7 +715,7 @@ msgid "Free"
 msgstr "Percuma"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr "Pastikan tanda buku firefox dan nota Tomboy anda disegerakan"
 
 #: ../en/index.html
@@ -993,7 +993,7 @@ msgid "Library"
 msgstr "Pustaka"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "Sepadukan kenalan anda merentasi Dekstop, Bimbit dan Sesawang"
 
 #: ../en/index.html

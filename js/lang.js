@@ -144,7 +144,7 @@ var _video_date_ = $.trim(hiddenTranslation.find('._video_date_').text());
 /*
  * Files Details - Music
  */
-var _happyness_title_ = $.trim(hiddenTranslation.find('._happyness_title_').text());
+var _Happiness_title_ = $.trim(hiddenTranslation.find('._Happiness_title_').text());
 var _music_size_ = $.trim(hiddenTranslation.find('._music_size_').text());
 var _music_date_ = $.trim(hiddenTranslation.find('._music_date_').text());
 

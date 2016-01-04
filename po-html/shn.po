@@ -173,7 +173,7 @@ msgid "Jardin Polar"
 msgstr "Jardin Polar"
 
 #: ../en/index.html
-msgid "Happyness"
+msgid "Happiness"
 msgstr "ၵၼ်မူၼ်ႈသိူဝ်း"
 
 #: ../en/index.html
@@ -743,7 +743,7 @@ msgid "Free"
 msgstr "ၸႂ့်လႆႈလၢႆ"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr ""
 "ႁဵတ်းႁႂ်ႈ ၵၼ်မၢႆၸပ်း မႃလိၼ်ၾႆး လႄႈ ၵၼ်မၢႆ တွမ်ႇပႂၢႆး ၶဝ် ၶူၼ်းၽဵင်ႇၵၼ်။"
 
@@ -1033,7 +1033,7 @@ msgid "Library"
 msgstr "ႁူင်းလႅမ်း"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr ""
 "ႁဵတ်းႁႂ်ႈႁူမ်ႈတုမ်ပၼ် ၸိူဝ်းပဵၼ်သဵၼ်ႈမၢႆၵပ်းသိုပ်ႇၸဝ်ႈၵဝ်ႇ "
 "ၸိူဝ်းဢၼ်မီးတီႈၼိူဝ် ၶွမ်း၊ မူဝ်ႇပၢႆး လႄႈ ဝႅပ့်။"

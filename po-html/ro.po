@@ -167,7 +167,7 @@ msgid "Jardin Polar"
 msgstr "Grădina polară"
 
 #: ../en/index.html
-msgid "Happyness"
+msgid "Happiness"
 msgstr "Fericire"
 
 #: ../en/index.html
@@ -718,7 +718,7 @@ msgid "Free"
 msgstr "Liber"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr "Sincronizați semnele de carte din Firefox și notițele Tomboy"
 
 #: ../en/index.html
@@ -996,7 +996,7 @@ msgid "Library"
 msgstr "Bibliotecă"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr ""
 "Unificați-vă contactele de pe calculator cu cele de pe dispozitivele mobile, "
 "păstrându-le și pe web"
