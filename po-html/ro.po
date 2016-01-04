@@ -996,7 +996,7 @@ msgid "Library"
 msgstr "Bibliotecă"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr ""
 "Unificați-vă contactele de pe calculator cu cele de pe dispozitivele mobile, "
 "păstrându-le și pe web"

@@ -923,7 +923,7 @@ msgid "Library"
 msgstr "Library"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr ""
 
 #: ../en/index.html

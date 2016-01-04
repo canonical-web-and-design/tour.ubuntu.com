@@ -967,7 +967,7 @@ msgid "Library"
 msgstr "Libreria"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "Unifica i tuoi contatti tra desktop, web e telefono cellulare"
 
 #: ../en/index.html

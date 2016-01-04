@@ -996,7 +996,7 @@ msgid "Library"
 msgstr "Bibliotheek"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "Uw contacten verenigen over PC, Mobiel en het web."
 
 #: ../en/index.html

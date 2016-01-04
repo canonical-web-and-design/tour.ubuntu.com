@@ -950,7 +950,7 @@ msgid "Library"
 msgstr "Bibliotek"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "Samordne dine kontakter på tvers av datamaskinen, mobilen og web"
 
 #: ../en/index.html
