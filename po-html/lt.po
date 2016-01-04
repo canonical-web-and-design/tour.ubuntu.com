@@ -167,7 +167,7 @@ msgid "Jardin Polar"
 msgstr "Poliarinis sodas"
 
 #: ../en/index.html
-msgid "Happyness"
+msgid "Happiness"
 msgstr "Linksmybės"
 
 #: ../en/index.html
@@ -708,7 +708,7 @@ msgid "Free"
 msgstr "Laisva"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr "Laikykit Firefox žymas ir Tomboy užrašus sinchronizuotus"
 
 #: ../en/index.html
@@ -972,7 +972,7 @@ msgid "Library"
 msgstr "Biblioteka"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "Apjungia jūsų kontaktus iš darbalaukio, mobilaus ir interneto"
 
 #: ../en/index.html

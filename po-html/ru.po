@@ -167,7 +167,7 @@ msgid "Jardin Polar"
 msgstr "Полюс"
 
 #: ../en/index.html
-msgid "Happyness"
+msgid "Happiness"
 msgstr "Счастье"
 
 #: ../en/index.html
@@ -721,7 +721,7 @@ msgid "Free"
 msgstr "Бесплатно"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr "Синхронизируйте ваши закладки Firefox и заметки Tomboy"
 
 #: ../en/index.html
@@ -1001,7 +1001,7 @@ msgid "Library"
 msgstr "Библиотека"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr ""
 "Объедините ваши контакты между компьютером, мобильным телефоном и Интернетом"
 

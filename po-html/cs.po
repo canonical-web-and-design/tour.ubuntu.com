@@ -162,8 +162,8 @@ msgid "Jardin Polar"
 msgstr "Ladovská zima"
 
 #: ../en/index.html
-msgid "Happyness"
-msgstr "Happyness"
+msgid "Happiness"
+msgstr "Happiness"
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -713,7 +713,7 @@ msgid "Free"
 msgstr "zdarma"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr "Mějte své poznámky a záložky synchronizovány"
 
 #: ../en/index.html
@@ -990,7 +990,7 @@ msgid "Library"
 msgstr "Knihovna"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "Sjednoťte své kontakty mezi počítače, mobilem a webem"
 
 #: ../en/index.html
