@@ -151,7 +151,7 @@ msgid "Jardin Polar"
 msgstr ""
 
 #: ../en/index.html
-msgid "Happyness"
+msgid "Happiness"
 msgstr "സന്തോഷം"
 
 #: ../en/index.html

@@ -151,7 +151,7 @@ msgid "Jardin Polar"
 msgstr "Jardin POLAR"
 
 #: ../en/index.html
-msgid "Happyness"
+msgid "Happiness"
 msgstr "Feliĉo"
 
 #: ../en/index.html
