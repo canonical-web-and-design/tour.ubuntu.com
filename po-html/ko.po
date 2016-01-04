@@ -685,7 +685,7 @@ msgid "Free"
 msgstr "자유"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr "파이어폭스 북마크와 톰보이 노트 동기화를 유지"
 
 #: ../en/index.html

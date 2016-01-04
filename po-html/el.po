@@ -722,7 +722,7 @@ msgid "Free"
 msgstr "Ελεύθερα"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr ""
 "Διατηρήστε τους σελιδοδείκτες σας στον firefox και τις σημειώσεις σας στο "
 "Tomboy συγχρονισμένα"

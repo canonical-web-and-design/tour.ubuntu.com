@@ -663,7 +663,7 @@ msgid "Free"
 msgstr "חופשי"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr "סנכרון בין הסימניות שלך בפיירפוקס לבין הפתקיות שלך ב־Tomboy"
 
 #: ../en/index.html
