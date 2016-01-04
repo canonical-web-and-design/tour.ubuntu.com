@@ -719,7 +719,7 @@ msgid "Free"
 msgstr "Vrij"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr "Uw Firefox-bladwijzers en Tomboy-notities gesynchroniseerd houden"
 
 #: ../en/index.html

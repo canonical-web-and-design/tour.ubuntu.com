@@ -743,7 +743,7 @@ msgid "Free"
 msgstr "ၸႂ့်လႆႈလၢႆ"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr ""
 "ႁဵတ်းႁႂ်ႈ ၵၼ်မၢႆၸပ်း မႃလိၼ်ၾႆး လႄႈ ၵၼ်မၢႆ တွမ်ႇပႂၢႆး ၶဝ် ၶူၼ်းၽဵင်ႇၵၼ်။"
 

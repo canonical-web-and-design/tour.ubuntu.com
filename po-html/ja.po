@@ -690,7 +690,7 @@ msgid "Free"
 msgstr "無料"
 
 #: ../en/index.html
-msgid "Keep you firefox bookmarks and Tomboy notes synced"
+msgid "Keep your Firefox bookmarks and Tomboy notes synced"
 msgstr "Firefox のブックマークや Tomboy のメモを同期します"
 
 #: ../en/index.html
