@@ -401,7 +401,7 @@ function setupShotwellSystem(){
 
 	fileLibrary.push(new File(fileLibrary.length,'../videos/IAmWeAre.flv','video', _introduction_ubuntu_title_, _video_size_, _video_date_, '/'+_home_folder_+'/'+_videos_folder_));
 
-	fileLibrary.push(new File(fileLibrary.length,'../audio/preview.mp3','audio', _happyness_title_, _music_size_, _music_date_, '/'+_home_folder_+'/'+_music_folder_));
+	fileLibrary.push(new File(fileLibrary.length,'../audio/preview.mp3','audio', _Happiness_title_, _music_size_, _music_date_, '/'+_home_folder_+'/'+_music_folder_));
 
 	shotwellSystem = new ShotwellSystem(this);
 	shotwellSystem.init();

@@ -165,7 +165,7 @@ msgid "Jardin Polar"
 msgstr "Vuorenhuippu"
 
 #: ../en/index.html
-msgid "Happyness"
+msgid "Happiness"
 msgstr "Onnellisuus"
 
 #: ../en/index.html

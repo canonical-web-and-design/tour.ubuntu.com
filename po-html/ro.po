@@ -167,7 +167,7 @@ msgid "Jardin Polar"
 msgstr "Grădina polară"
 
 #: ../en/index.html
-msgid "Happyness"
+msgid "Happiness"
 msgstr "Fericire"
 
 #: ../en/index.html

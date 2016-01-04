@@ -167,7 +167,7 @@ msgid "Jardin Polar"
 msgstr "Poliarinis sodas"
 
 #: ../en/index.html
-msgid "Happyness"
+msgid "Happiness"
 msgstr "Linksmybės"
 
 #: ../en/index.html

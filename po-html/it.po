@@ -162,7 +162,7 @@ msgid "Jardin Polar"
 msgstr "Giardino polare"
 
 #: ../en/index.html
-msgid "Happyness"
+msgid "Happiness"
 msgstr "Felicità"
 
 #: ../en/index.html
