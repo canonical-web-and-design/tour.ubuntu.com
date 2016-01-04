@@ -969,7 +969,7 @@ msgid "Library"
 msgstr "Biblioteca"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "Unifique seus contatos através do Desktop, Móvel e Web"
 
 #: ../en/index.html

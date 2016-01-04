@@ -992,7 +992,7 @@ msgid "Library"
 msgstr "Gyűjtemény"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "Egyesítse névjegyeit a számítógépe, a mobilja és az internet között"
 
 #: ../en/index.html

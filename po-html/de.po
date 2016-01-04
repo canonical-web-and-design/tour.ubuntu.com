@@ -1008,7 +1008,7 @@ msgid "Library"
 msgstr "Bibliothek"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr ""
 "Verinigen Sie die Kontakte auf Ihrem Arbeitsplatzrechner, Mobiltelefon und "
 "dem Web"

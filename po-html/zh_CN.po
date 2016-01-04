@@ -927,7 +927,7 @@ msgid "Library"
 msgstr "库"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "在桌面，手机和网页上同步您的联系人"
 
 #: ../en/index.html

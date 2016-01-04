@@ -972,7 +972,7 @@ msgid "Library"
 msgstr "Biblioteka"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "Apjungia jūsų kontaktus iš darbalaukio, mobilaus ir interneto"
 
 #: ../en/index.html

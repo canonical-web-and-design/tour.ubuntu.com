@@ -993,7 +993,7 @@ msgid "Library"
 msgstr "Pustaka"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "Sepadukan kenalan anda merentasi Dekstop, Bimbit dan Sesawang"
 
 #: ../en/index.html

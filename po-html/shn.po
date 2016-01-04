@@ -1033,7 +1033,7 @@ msgid "Library"
 msgstr "ႁူင်းလႅမ်း"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr ""
 "ႁဵတ်းႁႂ်ႈႁူမ်ႈတုမ်ပၼ် ၸိူဝ်းပဵၼ်သဵၼ်ႈမၢႆၵပ်းသိုပ်ႇၸဝ်ႈၵဝ်ႇ "
 "ၸိူဝ်းဢၼ်မီးတီႈၼိူဝ် ၶွမ်း၊ မူဝ်ႇပၢႆး လႄႈ ဝႅပ့်။"

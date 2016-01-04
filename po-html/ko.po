@@ -946,7 +946,7 @@ msgid "Library"
 msgstr "라이브러리"
 
 #: ../en/index.html
-msgid "Unify you contacts across Desktop, Mobile and Web"
+msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr "당신에게 데스크탑, 모바일과 웹의 연락처를 통합합니다"
 
 #: ../en/index.html
