@@ -63,10 +63,13 @@
 
 #software-centre .top-panel .all-software{
 	padding-top:10px;
-	width:98px;
+	min-width:98px;
 	height:54px;
 	margin-left:15px;
 	border-right:1px solid #373631;
+	box-sizing: border-box;
+	padding-right: 8px;
+	padding-left: 8px;
 }
 
 #software-centre .top-panel .installed{
