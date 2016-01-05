@@ -112,14 +112,26 @@
 	font-size:48px;
 	font-weight:bold;
 	margin-bottom:7px;
+	display: inline-block;
+	max-width: 500px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+#software-centre .header-image .header-subtitle{
+	max-width: 500px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 #software-centre .navigation{
 	float:left;
 	width:144px;
 	background:#fff;
-		-moz-border-radius:10px 10px 10px 10px;
-		-webkit-border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
 	border-radius:10px 10px 10px 10px;
 	border:1px solid #a9a5a7;
 	margin-left:15px;
