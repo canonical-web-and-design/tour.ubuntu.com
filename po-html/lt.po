@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-12-22 05:09+0000\n"
-"X-Generator: Launchpad (build 17865)\n"
+"X-Launchpad-Export-Date: 2016-01-05 05:43+0000\n"
+"X-Generator: Launchpad (build 17876)\n"
 "Language: lt\n"
 
 #: ../en/index.html
@@ -168,7 +168,7 @@ msgstr "Poliarinis sodas"
 
 #: ../en/index.html
 msgid "Happiness"
-msgstr "Linksmybės"
+msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -709,7 +709,7 @@ msgstr "Laisva"
 
 #: ../en/index.html
 msgid "Keep your Firefox bookmarks and Tomboy notes synced"
-msgstr "Laikykit Firefox žymas ir Tomboy užrašus sinchronizuotus"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
@@ -973,7 +973,7 @@ msgstr "Biblioteka"
 
 #: ../en/index.html
 msgid "Unify your contacts across Desktop, Mobile and Web"
-msgstr "Apjungia jūsų kontaktus iš darbalaukio, mobilaus ir interneto"
+msgstr ""
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -1294,3 +1294,12 @@ msgstr "3.3 MB"
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
+
+#~ msgid "Happyness"
+#~ msgstr "Linksmybės"
+
+#~ msgid "Unify you contacts across Desktop, Mobile and Web"
+#~ msgstr "Apjungia jūsų kontaktus iš darbalaukio, mobilaus ir interneto"
+
+#~ msgid "Keep you firefox bookmarks and Tomboy notes synced"
+#~ msgstr "Laikykit Firefox žymas ir Tomboy užrašus sinchronizuotus"

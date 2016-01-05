@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-12-22 05:09+0000\n"
-"X-Generator: Launchpad (build 17865)\n"
+"X-Launchpad-Export-Date: 2016-01-05 05:43+0000\n"
+"X-Generator: Launchpad (build 17876)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -167,7 +167,7 @@ msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Happiness"
-msgstr "Happiness"
+msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -716,7 +716,7 @@ msgstr "Percuma"
 
 #: ../en/index.html
 msgid "Keep your Firefox bookmarks and Tomboy notes synced"
-msgstr "Pastikan tanda buku firefox dan nota Tomboy anda disegerakan"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
@@ -994,7 +994,7 @@ msgstr "Pustaka"
 
 #: ../en/index.html
 msgid "Unify your contacts across Desktop, Mobile and Web"
-msgstr "Sepadukan kenalan anda merentasi Dekstop, Bimbit dan Sesawang"
+msgstr ""
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -1330,3 +1330,12 @@ msgstr "3.3MB"
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
+
+#~ msgid "Happyness"
+#~ msgstr "Happyness"
+
+#~ msgid "Keep you firefox bookmarks and Tomboy notes synced"
+#~ msgstr "Pastikan tanda buku firefox dan nota Tomboy anda disegerakan"
+
+#~ msgid "Unify you contacts across Desktop, Mobile and Web"
+#~ msgstr "Sepadukan kenalan anda merentasi Dekstop, Bimbit dan Sesawang"

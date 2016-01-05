@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-12-26 05:32+0000\n"
-"X-Generator: Launchpad (build 17865)\n"
+"X-Launchpad-Export-Date: 2016-01-05 05:43+0000\n"
+"X-Generator: Launchpad (build 17876)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -160,7 +160,7 @@ msgstr "Jardin Polar"
 
 #: ../en/index.html
 msgid "Happiness"
-msgstr "행복"
+msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -686,7 +686,7 @@ msgstr "자유"
 
 #: ../en/index.html
 msgid "Keep your Firefox bookmarks and Tomboy notes synced"
-msgstr "파이어폭스 북마크와 톰보이 노트 동기화를 유지"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
@@ -947,7 +947,7 @@ msgstr "라이브러리"
 
 #: ../en/index.html
 msgid "Unify your contacts across Desktop, Mobile and Web"
-msgstr "당신에게 데스크탑, 모바일과 웹의 연락처를 통합합니다"
+msgstr ""
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -1273,3 +1273,12 @@ msgstr "3.3MB"
 #: ../en/index.html
 msgid "Blender"
 msgstr "블렌더"
+
+#~ msgid "Happyness"
+#~ msgstr "행복"
+
+#~ msgid "Keep you firefox bookmarks and Tomboy notes synced"
+#~ msgstr "파이어폭스 북마크와 톰보이 노트 동기화를 유지"
+
+#~ msgid "Unify you contacts across Desktop, Mobile and Web"
+#~ msgstr "당신에게 데스크탑, 모바일과 웹의 연락처를 통합합니다"

@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-12-22 05:09+0000\n"
-"X-Generator: Launchpad (build 17865)\n"
+"X-Launchpad-Export-Date: 2016-01-05 05:43+0000\n"
+"X-Generator: Launchpad (build 17876)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -168,7 +168,7 @@ msgstr "Grădina polară"
 
 #: ../en/index.html
 msgid "Happiness"
-msgstr "Fericire"
+msgstr ""
 
 #: ../en/index.html
 msgid "15.2KB"
@@ -719,7 +719,7 @@ msgstr "Liber"
 
 #: ../en/index.html
 msgid "Keep your Firefox bookmarks and Tomboy notes synced"
-msgstr "Sincronizați semnele de carte din Firefox și notițele Tomboy"
+msgstr ""
 
 #: ../en/index.html
 msgid "LibreOffice Writer makes it easy to draft professional documents."
@@ -998,8 +998,6 @@ msgstr "Bibliotecă"
 #: ../en/index.html
 msgid "Unify your contacts across Desktop, Mobile and Web"
 msgstr ""
-"Unificați-vă contactele de pe calculator cu cele de pe dispozitivele mobile, "
-"păstrându-le și pe web"
 
 #: ../en/index.html
 msgid "WildWheat"
@@ -1335,3 +1333,14 @@ msgstr "3.3MO"
 #: ../en/index.html
 msgid "Blender"
 msgstr "Blender"
+
+#~ msgid "Happyness"
+#~ msgstr "Fericire"
+
+#~ msgid "Keep you firefox bookmarks and Tomboy notes synced"
+#~ msgstr "Sincronizați semnele de carte din Firefox și notițele Tomboy"
+
+#~ msgid "Unify you contacts across Desktop, Mobile and Web"
+#~ msgstr ""
+#~ "Unificați-vă contactele de pe calculator cu cele de pe dispozitivele mobile, "
+#~ "păstrându-le și pe web"
