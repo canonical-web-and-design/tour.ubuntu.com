@@ -1323,8 +1323,8 @@ msgstr "3,3 MB"
 msgid "Blender"
 msgstr "Blender"
 
-#~ msgid "Happyness"
-#~ msgstr "Happyness"
+#~ msgid "Happiness"
+#~ msgstr "Happiness"
 
 #~ msgid "Unify you contacts across Desktop, Mobile and Web"
 #~ msgstr "Sjednoťte své kontakty mezi počítače, mobilem a webem"
