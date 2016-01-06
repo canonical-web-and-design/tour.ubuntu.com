@@ -3,7 +3,11 @@
  *   author: Anthony Dillon
  */
 
-.email-window{
+ .buttons div {
+ 		box-sizing: border-box;
+ }
+
+.email-window {
     height: 600px;
     left: 640px;
     top: 240px;
@@ -11,31 +15,62 @@
     display:none;
 }
 
-#email-window .email-get-mail{
-	background:url(../img/email/get-mail.jpg) no-repeat;
+#email-window .email-get-mail {
+	background:url(../img/email/icons/get-mail.png) no-repeat;
+	background-position: 5px 10px;
 	font-size: 15px;
-    height: 26px;
-    overflow: hidden;
-    padding-left: 31px;
-    padding-top: 9px;
-    width: 77px;
+  height: auto;
+  overflow: hidden;
+  padding-left: 31px;
+  padding-right: 10px;
+  padding-top: 10px;
+  min-width: 77px;
+  display: inline-block;
+  padding-bottom: 10px;
+  margin-left: 10px;
+  border: 1px solid transparent;
 }
-#email-window .email-write{
-	height:26px;
-	width:45px;
+
+#email-window .email-get-mail:hover {
+	background-image: url(../img/email/icons/get-mail.png), linear-gradient(180deg, #F0F0F0 40%, #D1CFCF 80%);
+	border: 1px solid #656869;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px -5px #ADAAAA;
+}
+
+#email-window .email-write {
+	height:auto;
 	overflow:hidden;
-	background:url(../img/email/write.jpg) no-repeat;
+	background-image:url(../img/email/icons/write.png);
+	background-repeat: no-repeat;
+	background-position: 5px 10px;
 	font-size: 15px;
 	padding-left: 31px;
-    padding-top: 9px;
+	padding-right: 10px;
+  padding-top: 9px;
+  padding-bottom: 10px;
+  display: inline-block;
+  border: 1px solid transparent;
 }
-#email-window .email-address-book{
+
+#email-window .buttons div:hover {
+	cursor: pointer;
+}
+
+#email-window .buttons .email-write:hover {
+	background-image: url(../img/email/icons/write.png), linear-gradient(180deg, #F0F0F0 40%, #D1CFCF 80%);
+	border: 1px solid #656869;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px -5px #ADAAAA;
+}
+
+#email-window .email-address-book {
 	height:35px;
 	width:132px;
 	overflow:hidden;
 	background:url(../img/email/address-book.jpg) no-repeat;
 }
-#email-window .email-divider, #email-write .email-divider{
+#email-window .email-divider, #email-write .email-divider {
 	height:35px;
 	width:16px;
 	overflow:hidden;
@@ -57,10 +92,6 @@
 
 #email-window .buttons div, #email-write  .buttons div{
 	float:left;
-}
-
-#email-window .buttons div:hover{
-	background-position: 0px -35px;
 }
 
 #email-window .buttons .email-search input{
@@ -300,16 +331,8 @@
 }
 
 #email-window .email-contents .email-body .message-header .email-buttons{
-	/*height:20px;
-	margin-top:5px;
-	height:20px;
-	background-color:#fff;
-	border: 1px solid #ada9a5;
-	-webkit-border-radius:2px 2px 2px 2px;
-	-moz-border-radius:2px 2px 2px 2px;
-	border-radius:2px 2px 2px 2px;	
-	padding:2px;*/
 	float:right;
+	margin-bottom: 5px;
 }
 
 
@@ -319,33 +342,42 @@
 	float:left;
 	padding-left:26px;
 	font-size: 15px;
-	padding-top: 3px;
+	padding-top: 5px;
+	padding-right: 10px;
 	margin:4px 4px 0 0;
+	position: relative;
+	display: inline-block;
+	background: linear-gradient(180deg, #F0F0F0 40%, #D1CFCF 80%);
+	border: 1px solid #656869;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px -5px #ADAAAA;
+	margin-right: 10px;
 }
 
 #email-window .email-contents .email-body .message-header .email-buttons span:hover{
-	background-position: 0px -27px;
+	cursor: pointer;
 }
 
-#email-window .email-contents .email-body .message-header .email-buttons .message-reply{
-	background:url(../img/email/reply.jpg) no-repeat;
-	width:42px;
+#email-window .email-contents .email-body .message-header .email-buttons span:before{
+	position: absolute;
+	top: 6px;
+	left: 8px;
 }
-#email-window .email-contents .email-body .message-header .email-buttons .message-forward{
-	background:url(../img/email/forward.jpg) no-repeat;
-	width:62px;
+
+#email-window .email-contents .email-body .message-header .email-buttons .message-reply:before {
+	content: url('../img/email/icons/reply.png');
 }
-#email-window .email-contents .email-body .message-header .email-buttons .message-archive{
-	background:url(../img/email/archive.jpg) no-repeat;
-	width:55px;
+#email-window .email-contents .email-body .message-header .email-buttons .message-forward:before {
+	content: url('../img/email/icons/forward.png');
 }
-#email-window .email-contents .email-body .message-header .email-buttons .message-junk{
-	background:url(../img/email/junk.jpg) no-repeat;
-	width:36px;
+#email-window .email-contents .email-body .message-header .email-buttons .message-archive:before {
+	content: url('../img/email/icons/archive.png');
 }
-#email-window .email-contents .email-body .message-header .email-buttons .message-delete{
-	background:url(../img/email/delete.jpg) no-repeat;
-	width:50px;
+#email-window .email-contents .email-body .message-header .email-buttons .message-junk:before {
+	content: url('../img/email/icons/junk.png');
+}
+#email-window .email-contents .email-body .message-header .email-buttons .message-delete:before {
+	content: url('../img/email/icons/delete.png');
 }
 
 #email-window .email-contents .email-body .message-header .date{
@@ -419,36 +451,69 @@
 	width: 100%;
 	height: 42px;
 	margin-bottom: 10px;
+	padding-top: 10px;
 }
 
-#email-write #write-send{
-	padding-left: 31px;
-    padding-top: 9px;
-    margin-left:10px;
-	height:25px;
-	width:38px;
+#email-write #write-send {
+  margin-left:10px;
+	display: inline-block;
 	color: #DFDBD2;
 	overflow:hidden;
-	background:url(../img/email/write-send.jpg) no-repeat;
+	background-repeat: no-repeat;
+	background-position: 10px;
+	width: auto;
+	padding: 7px 10px 10px 30px;
+	border-radius: 5px;
+	cursor: pointer;
+	box-sizing: border-box;
+	position: relative;
 }
 
-#email-write #write-attach{
-	padding-left: 31px;
-    padding-top: 9px;
-	height:25px;
-	width:50px;
-	color: #DFDBD2;
-	overflow:hidden;
-	background:url(../img/email/attach.jpg) no-repeat;
-}
-#email-write #write-attach:hover{
-	background-position: 0px -34px;
-	color:#333;
+#email-write #write-send:before {
+	content: url('../img/email/icons/write-send-light.png');
+	position: absolute;
+	top: 5px;
+	left: 5px;
 }
 
 #email-write #write-send:hover{
-	background-position: 0px -34px;
 	color:#333;
+	background:linear-gradient(180deg, #F0F0F0 40%, #D1CFCF 80%);
+}
+
+#email-write #write-send:hover:before {
+	content: url('../img/email/icons/write-send-dark.png');
+}
+
+#email-write #write-attach {
+  margin-left:10px;
+	display: inline-block;
+	color: #DFDBD2;
+	overflow:hidden;
+	background-repeat: no-repeat;
+	background-position: 10px;
+	width: auto;
+	padding: 7px 10px 10px 30px;
+	border-radius: 5px;
+	cursor: pointer;
+	box-sizing: border-box;
+	position: relative;
+}
+
+#email-write #write-attach:before {
+	content: url('../img/email/icons/attach-light.png');
+	position: absolute;
+	top: 5px;
+	left: 5px;
+}
+
+#email-write #write-attach:hover{
+	color:#333;
+	background:linear-gradient(180deg, #F0F0F0 40%, #D1CFCF 80%);
+}
+
+#email-write #write-attach:hover:before {
+	content: url('../img/email/icons/attach-dark.png');
 }
 
 #write-to, #write-from, #write-subject{
@@ -470,6 +535,8 @@
 #write-body textarea{
 	width:894px;
 	height:350px;
+	box-sizing: border-box;
+	padding: 0 20px;
 }
 
 #email-write input{
