@@ -1214,5 +1214,5 @@ msgstr ""
 msgid "Blender"
 msgstr ""
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "Xoşbəxtlik"

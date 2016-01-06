@@ -1230,5 +1230,5 @@ msgstr "3,3 Mo"
 msgid "Blender"
 msgstr ""
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "Bonur"

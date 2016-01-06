@@ -1215,7 +1215,7 @@ msgstr "3.3 מ״ב"
 msgid "Blender"
 msgstr ""
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "שמחה"
 
 #~ msgid "Keep you firefox bookmarks and Tomboy notes synced"
