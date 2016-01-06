@@ -26,6 +26,10 @@
 	color: #fff;
 	font-size: 24px;
 	font-weight:400;
+	max-width: 380px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 .error-window  h2 {

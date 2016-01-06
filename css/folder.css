@@ -91,7 +91,8 @@
 
 .folder .list{
 	height: 418px;
-	width:144px;
+	min-width:144px;
+  display: inline-block;
 }
 
 .folder .list p{
@@ -110,6 +111,7 @@
 	vertical-align: middle;
 	height: 23px;
 	padding-top: 4px;
+  padding-right: 10px;
 }
 .folder .list ul li.home {
 	background: url(../img/folder/home-icon.png) no-repeat 20px 5px;
@@ -149,9 +151,9 @@
 .folder .contents{
 	background-color:#f1f0ef;
 	height: 432px;
-    overflow: auto;
-    width: 584px;
-    border-left: 1px solid #f2f1f0;
+  overflow: auto;
+  width: 100%;
+  border-left: 1px solid #f2f1f0;
 }
 
 .folder .selected-details{
@@ -218,7 +220,7 @@
 }
  
 .folder .folder-contents .contents .display-icon{
-	width:130px;
+	width:25%;
 	height:80px;
 	float:left;
 	text-align: center;
@@ -329,4 +331,18 @@
   	color:white;
   }
   
+
+.folder-flex-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.folder-contents {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+}
 
