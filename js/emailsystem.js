@@ -37,6 +37,8 @@ function EmailSystem($parent){
 		randomEmails.push(new Email(emails.length,'inbox','Hiya there again','Ok, ill do my best but no promises. It will take some time so let you know when its done./\n/\nThanks,/\nPaul','Paul Swan <paul@hotmail.com>'));
 
 		this.setupControl();
+
+		$('#write-from input').val($.trim(_you_));
 	}
 
 	this.setupControl = function(){
