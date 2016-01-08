@@ -216,9 +216,9 @@ function FileSystem($parent, $startingDir){
 					detailsCount++;
 				}
 			}
-			$('.selected-details').text('"'+detailsName+'" selected (containing '+detailsCount+' items)');
+			$('.selected-details').text('"'+detailsName+'" '+_string_selected_+' ('+_string_containing_+' '+detailsCount+' '+_string_items_+')');
 		}else{
-			$('.selected-details').text('"'+detailsName+'" selected ('+list_of_files[$index].size()+')');
+			$('.selected-details').text('"'+detailsName+'" '+_string_selected_+' ('+list_of_files[$index].size()+')');
 		}
 
 		$('.selected-details').show();
