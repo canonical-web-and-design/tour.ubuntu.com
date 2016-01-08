@@ -1326,7 +1326,7 @@ msgstr "3.3MB"
 msgid "Blender"
 msgstr "Blender"
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "Mutluluk"
 
 #~ msgid "Keep you firefox bookmarks and Tomboy notes synced"

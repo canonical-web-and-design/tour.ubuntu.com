@@ -1274,5 +1274,5 @@ msgstr "Blender"
 #~ msgid "Unify you contacts across Desktop, Mobile and Web"
 #~ msgstr "Unifiqueu els contactes a l'escriptori, al mòbil i a la web"
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "Felicitat"

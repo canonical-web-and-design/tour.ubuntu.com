@@ -1339,7 +1339,7 @@ msgstr "3.3МБ"
 msgid "Blender"
 msgstr "Blender"
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "Счастье"
 
 #~ msgid "Unify you contacts across Desktop, Mobile and Web"

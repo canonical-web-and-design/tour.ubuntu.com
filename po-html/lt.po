@@ -1295,7 +1295,7 @@ msgstr "3.3 MB"
 msgid "Blender"
 msgstr "Blender"
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "Linksmybės"
 
 #~ msgid "Unify you contacts across Desktop, Mobile and Web"

@@ -1229,5 +1229,5 @@ msgstr "3,3МБ"
 msgid "Blender"
 msgstr ""
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "Срећа"
