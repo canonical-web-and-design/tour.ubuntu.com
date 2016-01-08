@@ -1,22 +1,15 @@
-#email-window .email-contents .email-body .message-header .subject dd {
-  font-weight: 700;
-}
-
 #Translation-Strings,
 #control-buttons,
 #menu .temp,
 #menu ul li img.open-arrow,
-#menu ul li span,
-#tooltip,
-#top #top-right div .drop-down {
+#menu ul li span {
   display: none;
 }
 
-#menu,
-#top #top-right div,
-.window-title,
-body {
-  overflow: hidden;
+#email-window .buttons div:hover,
+#email-window .email-contents .email-body .message-header .email-buttons span:hover,
+a {
+  cursor: pointer;
 }
 
 #tooltip,
@@ -26,10 +19,6 @@ body {
   behavior: url(pie/PIE.htc);
 }
 
-#menu .dash {
-  background-image: url(../img/menu/icon-dash.png);
-}
-
 #top #top-right #bluetooth,
 #top #top-right #connection,
 #top #top-right #message,
@@ -37,12 +26,28 @@ body {
   padding-top: 4px;
 }
 
-#top #top-right #power {
-  padding-top: 2px;
+#top #top-right #time {
+  padding-top: 3px;
+}
+
+.folder {
+  display: none;
+}
+
+.email-window {
+  display: none;
 }
 
 #email-window .bottom-buttons {
   margin: 5px;
+}
+
+#firefox-window .buttons div {
+  float: left;
+}
+
+#folder-window .buttons div {
+  float: left;
 }
 
 #libreoffice-calc-window .control .max:hover,
@@ -54,13 +59,66 @@ body {
   background-position: 0 0!important;
 }
 
+#menu,
+#menu ul,
+#tooltip,
+.window {
+  position: absolute;
+}
+
 #shotwell .nav {
   border: 1px solid #bdbab7;
+}
+
+#Translation-Strings,
+#control-buttons,
+#menu .temp,
+#menu ul li img.open-arrow,
+#menu ul li span,
+#tooltip,
+#top #top-right div .drop-down,
+.email-window,
+.folder {
+  display: none;
 }
 
 #software-centre .top-panel .back:hover,
 #software-centre .top-panel .forward:hover {
   background-position: 0 -32px;
+}
+
+#top #top-left,
+#top #top-left #dash-control-buttons {
+  float: left;
+}
+
+#firefox-window .buttons div,
+#folder-window .buttons div,
+.folder .folder-contents {
+  float: left;
+}
+
+#firefox-window .buttons div,
+#folder-window .buttons div,
+#top #top-left,
+#top #top-left #dash-control-buttons,
+.folder .folder-contents {
+  float: left;
+}
+
+#menu,
+#top #top-right div,
+.window-title,
+body {
+  overflow: hidden;
+}
+
+#menu .dash {
+  background-image: url(../img/menu/icon-dash.png);
+}
+
+#top #top-right #power {
+  padding-top: 2px;
 }
 
 #menu,
@@ -94,7 +152,6 @@ a {
   outline: 0;
   color: #DD4814;
   text-decoration: none;
-  cursor: pointer;
 }
 
 .window {
@@ -103,7 +160,6 @@ a {
   -moz-box-shadow: 0 0 10px #000;
   -webkit-box-shadow: 0 0 10px #000;
   box-shadow: 0 0 10px #000;
-  position: absolute;
   background: url(../img/folder/top-bg.jpg) repeat-x #f2f1f0;
   color: #4C4C4C;
   font-size: 14px;
@@ -113,7 +169,6 @@ a {
 #menu,
 #tooltip {
   z-index: 10;
-  position: absolute;
 }
 
 input:selection,
@@ -210,7 +265,6 @@ textarea {
 #menu ul {
   margin-top: 6px;
   padding-left: 5px;
-  position: absolute;
   top: 0;
   height: 100%;
 }
@@ -315,18 +369,10 @@ textarea {
   z-index: 11;
 }
 
-#top #top-left #dash-control-buttons {
-  float: left;
-}
-
 #top.dropShadow {
   -moz-box-shadow: 0 0 10px #000;
   -webkit-box-shadow: 0 0 10px #000;
   box-shadow: 0 0 10px #000;
-}
-
-#top #top-left {
-  float: left;
 }
 
 #top #top-right {
@@ -539,6 +585,12 @@ textarea {
   padding-top: 10px;
 }
 
+#email-window .buttons div:hover,
+#email-window .email-contents .email-body .message-header .email-buttons span:hover,
+.error-window .download {
+  cursor: pointer;
+}
+
 #top #top-right #speakers .slider-active {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
@@ -613,7 +665,6 @@ textarea {
   height: 500px;
   top: 200px;
   left: 600px;
-  display: none;
 }
 
 .control {
@@ -673,7 +724,6 @@ body {
   left: 640px;
   top: 240px;
   width: 900px;
-  display: none;
 }
 
 #email-window .email-get-mail,
@@ -705,10 +755,6 @@ body {
   background-position: 5px 10px;
   border: 1px solid transparent;
   padding: 9px 10px 10px 31px;
-}
-
-#email-window .buttons div:hover {
-  cursor: pointer;
 }
 
 #email-window .buttons .email-write:hover {
@@ -884,10 +930,6 @@ body {
   border: 1px solid #A9A9A9;
   border-radius: 5px;
   box-shadow: 0 0 10px -5px #ADAAAA;
-}
-
-#email-window .email-contents .email-body .message-header .email-buttons span:hover {
-  cursor: pointer;
 }
 
 #email-window .email-contents .email-body .message-header .email-buttons span:before {
@@ -1145,9 +1187,15 @@ body {
   font-size: 14px;
   text-decoration: none;
   border: 1px solid #c0b7b0;
-  cursor: pointer;
   background: url(../img/welcome/background-link-download.png) center center repeat-x;
   color: #fff;
+}
+
+#firefox-window .buttons div,
+#folder-window .buttons div,
+.folder .folder-contents,
+.folder .folder-list {
+  float: left;
 }
 
 #firefox-window .buttons .firefox-search input.fade-text {
@@ -1172,10 +1220,6 @@ body {
   width: 100%;
   height: 42px;
   margin-top: 6px;
-}
-
-#firefox-window .buttons div {
-  float: left;
 }
 
 #firefox-window .buttons .firefox-back {
@@ -1262,12 +1306,7 @@ body {
   border-bottom: 1px solid #d7d4d2;
 }
 
-#folder-window .buttons div {
-  float: left;
-}
-
 .folder .folder-list {
-  float: left;
   border-right: 1px solid #dad8d5;
 }
 
@@ -1332,10 +1371,6 @@ body {
   color: #fff;
   background-color: #ed7543;
   background-position: 20px -16px;
-}
-
-.folder .folder-contents {
-  float: left;
 }
 
 .folder .contents {
