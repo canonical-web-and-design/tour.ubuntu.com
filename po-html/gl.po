@@ -1332,7 +1332,7 @@ msgstr "Blender"
 #~ msgid "Unify you contacts across Desktop, Mobile and Web"
 #~ msgstr "Unifica os seus contactos entre o seu escritorio, móbil e web"
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "Felicidade"
 
 #~ msgid "Keep you firefox bookmarks and Tomboy notes synced"

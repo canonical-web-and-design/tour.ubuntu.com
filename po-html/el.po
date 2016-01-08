@@ -1354,7 +1354,7 @@ msgstr "Blender"
 #~ "Διατηρήστε τους σελιδοδείκτες σας στον firefox και τις σημειώσεις σας στο "
 #~ "Tomboy συγχρονισμένα"
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "Ευτυχία"
 
 #~ msgid "Unify you contacts across Desktop, Mobile and Web"

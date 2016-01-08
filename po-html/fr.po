@@ -1349,7 +1349,7 @@ msgstr "3,3 Mo"
 msgid "Blender"
 msgstr "Blender"
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "Bonheur"
 
 #~ msgid "Unify you contacts across Desktop, Mobile and Web"

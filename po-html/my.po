@@ -1245,5 +1245,5 @@ msgstr "၃.၃MB"
 msgid "Blender"
 msgstr "Blender"
 
-#~ msgid "Happyness"
-#~ msgstr "Happyness"
+#~ msgid "Happiness"
+#~ msgstr "Happiness"

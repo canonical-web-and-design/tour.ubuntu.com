@@ -1290,5 +1290,5 @@ msgstr "Blender"
 #~ msgid "Keep you firefox bookmarks and Tomboy notes synced"
 #~ msgstr "Håll dina firefox-bokmärken och Tomboy-anteckningar synkroniserade"
 
-#~ msgid "Happyness"
-#~ msgstr "Happyness"
+#~ msgid "Happiness"
+#~ msgstr "Happiness"

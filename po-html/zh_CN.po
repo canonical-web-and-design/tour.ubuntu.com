@@ -1254,7 +1254,7 @@ msgstr "Blender"
 #~ msgid "Keep you firefox bookmarks and Tomboy notes synced"
 #~ msgstr "同步您的 Firefox 书签和 Tomboy 笔记"
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "喜悦"
 
 #~ msgid "Unify you contacts across Desktop, Mobile and Web"

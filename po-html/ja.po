@@ -1287,8 +1287,8 @@ msgstr "Blender"
 #~ msgid "Keep you firefox bookmarks and Tomboy notes synced"
 #~ msgstr "Firefox のブックマークや Tomboy のメモを同期します"
 
-#~ msgid "Happyness"
-#~ msgstr "Happyness"
+#~ msgid "Happiness"
+#~ msgstr "Happiness"
 
 #~ msgid "Unify you contacts across Desktop, Mobile and Web"
 #~ msgstr "デスクトップやモバイル、ウェブを越えて連絡帳を一元管理します"

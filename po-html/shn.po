@@ -1378,7 +1378,7 @@ msgstr "3.3MB"
 msgid "Blender"
 msgstr "ပလႅၼ်ႇတႃႇ"
 
-#~ msgid "Happyness"
+#~ msgid "Happiness"
 #~ msgstr "ၵၼ်မူၼ်ႈသိူဝ်း"
 
 #~ msgid "Keep you firefox bookmarks and Tomboy notes synced"
