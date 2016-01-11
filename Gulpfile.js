@@ -5,6 +5,8 @@ var minifyCSS = require('gulp-minify-css');
 var rename = require('gulp-rename');
 var uncss = require('gulp-uncss');
 var uglify = require('gulp-uglify');
+var imagemin = require('gulp-imagemin');
+var pngquant = require('imagemin-pngquant');
 
 // css optimisation
 gulp.task('css', function(){
@@ -52,4 +54,15 @@ gulp.task('js', function(){
     .pipe(gulp.dest('js'));
 });
 
-gulp.task('default', ['css', 'js']);
+// img optimisation
+gulp.task('img-min', function(){
+   return gulp.src('img/**/*', {base: '.'})
+    .pipe(imagemin({
+        progressive: true,
+        svgoPlugins: [{removeViewBox: false}],
+        use: [pngquant()]
+    }))
+    .pipe(gulp.dest('.'));
+});
+
+gulp.task('default', ['css', 'js', 'img-min']);
