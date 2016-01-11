@@ -19,6 +19,14 @@ a {
   behavior: url(pie/PIE.htc);
 }
 
+#top #top-left #dash-control-buttons {
+  float: left;
+}
+
+#top #top-left {
+  float: left;
+}
+
 #top #top-right #bluetooth,
 #top #top-right #connection,
 #top #top-right #message,
@@ -47,6 +55,10 @@ a {
 }
 
 #folder-window .buttons div {
+  float: left;
+}
+
+.folder .folder-contents {
   float: left;
 }
 
@@ -87,14 +99,8 @@ a {
   background-position: 0 -32px;
 }
 
-#top #top-left,
-#top #top-left #dash-control-buttons {
-  float: left;
-}
-
 #firefox-window .buttons div,
-#folder-window .buttons div,
-.folder .folder-contents {
+#folder-window .buttons div {
   float: left;
 }
 
