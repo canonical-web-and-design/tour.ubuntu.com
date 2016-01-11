@@ -7,6 +7,7 @@ var uncss = require('gulp-uncss');
 var uglify = require('gulp-uglify');
 var imagemin = require('gulp-imagemin');
 var pngquant = require('imagemin-pngquant');
+var htmlmin = require('gulp-htmlmin');
 
 // css optimisation
 gulp.task('css', function(){
@@ -63,6 +64,13 @@ gulp.task('img-min', function(){
         use: [pngquant()]
     }))
     .pipe(gulp.dest('.'));
+});
+
+// html minification
+gulp.task('html-minify', function() {
+  return gulp.src('en/src/*.html')
+    .pipe(htmlmin({collapseWhitespace: true}))
+    .pipe(gulp.dest('en'))
 });
 
 gulp.task('default', ['css', 'js', 'img-min']);
