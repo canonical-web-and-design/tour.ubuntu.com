@@ -2,8 +2,7 @@
 var gulp = require('gulp');
 var concat = require('gulp-concat');
 var minifyCSS = require('gulp-minify-css');
-var rename = require('gulp-rename');
-var uncss = require('gulp-uncss');
+var rename = require('gulp-rename');  
 var uglify = require('gulp-uglify');
 var imagemin = require('gulp-imagemin');
 var pngquant = require('imagemin-pngquant');
@@ -11,12 +10,9 @@ var htmlmin = require('gulp-htmlmin');
 
 // css optimisation
 gulp.task('css', function(){
-  gulp.src('css/**/*.css')
+  gulp.src(['css/**/*.css', '!css/style.min.css'])
     .pipe(concat('style.css'))
     .pipe(minifyCSS())
-    .pipe(uncss({
-        html: ['en/index.html']
-    }))
     .pipe(rename('style.min.css'))
     .pipe(gulp.dest('css'))
 });
