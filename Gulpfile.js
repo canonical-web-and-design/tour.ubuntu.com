@@ -2,18 +2,17 @@
 var gulp = require('gulp');
 var concat = require('gulp-concat');
 var minifyCSS = require('gulp-minify-css');
-var rename = require('gulp-rename');
-var uncss = require('gulp-uncss');
+var rename = require('gulp-rename');  
 var uglify = require('gulp-uglify');
+var imagemin = require('gulp-imagemin');
+var pngquant = require('imagemin-pngquant');
+var htmlmin = require('gulp-htmlmin');
 
 // css optimisation
 gulp.task('css', function(){
-  gulp.src('css/**/*.css')
+  gulp.src(['css/**/*.css', '!css/style.min.css'])
     .pipe(concat('style.css'))
     .pipe(minifyCSS())
-    .pipe(uncss({
-        html: ['en/index.html']
-    }))
     .pipe(rename('style.min.css'))
     .pipe(gulp.dest('css'))
 });
@@ -52,4 +51,22 @@ gulp.task('js', function(){
     .pipe(gulp.dest('js'));
 });
 
-gulp.task('default', ['css', 'js']);
+// img optimisation
+gulp.task('img-min', function(){
+   return gulp.src('img/**/*', {base: '.'})
+    .pipe(imagemin({
+        progressive: true,
+        svgoPlugins: [{removeViewBox: false}],
+        use: [pngquant()]
+    }))
+    .pipe(gulp.dest('.'));
+});
+
+// html minification
+gulp.task('html-minify', function() {
+  return gulp.src('en/src/*.html')
+    .pipe(htmlmin({collapseWhitespace: true}))
+    .pipe(gulp.dest('en'))
+});
+
+gulp.task('default', ['css', 'js', 'img-min']);
