@@ -51,4 +51,35 @@ Options:
   -s, --test       Test mode: only effective in conjunction with Translate
                    mode. If set, untranslatable messages are translated as
                    reversed English, so that they are easy to spot.
- 
+
+# Optimisation
+
+To ensure the Online Tour is optimised for page weight doewnload and onload performance, 
+there is a Gulp task file included which peforms several tasks needed to run 
+the site.
+
+These are;
+
+* minify and concatenate the CSS
+* minify and concatenate the JS
+* compress the image files
+* minify the HTML
+
+To get started, install all the required node modules;
+
+```
+npm i
+```
+
+Then run Gulp to peform the tasks specified above;
+
+```
+gulp
+```
+
+When complete, the tour should be ready.
+
+
+
+
+
