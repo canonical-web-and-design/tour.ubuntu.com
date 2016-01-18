@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-01-05 05:43+0000\n"
-"X-Generator: Launchpad (build 17876)\n"
+"X-Launchpad-Export-Date: 2016-01-14 05:56+0000\n"
+"X-Generator: Launchpad (build 17886)\n"
 
 #: ../en/index.html
 msgid "Firefox Web Browser"
@@ -1254,7 +1254,7 @@ msgstr "Blender"
 #~ msgid "Keep you firefox bookmarks and Tomboy notes synced"
 #~ msgstr "同步您的 Firefox 书签和 Tomboy 笔记"
 
-#~ msgid "Happiness"
+#~ msgid "Happyness"
 #~ msgstr "喜悦"
 
 #~ msgid "Unify you contacts across Desktop, Mobile and Web"

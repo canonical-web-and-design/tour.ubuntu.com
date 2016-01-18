@@ -1,4 +1,4 @@
-/* 
+/*
  *  Loader CSS
  *  author: Anthony Dillon
  */
@@ -28,7 +28,7 @@
 	height:5px;
 		-moz-border-radius:5px 5px 5px 5px;
 		-webkit-border-radius:5px 5px 5px 5px;
-	border-radius:5px 5px 5px 5px;	
+	border-radius:5px 5px 5px 5px;
 		-moz-box-shadow: 0 0 1px 1px #FFFFFF;
 		-webkit-box-shadow: 0 0 1px 1px #FFFFFF;
 	box-shadow: 0 0 1px 1px #FFFFFF;
@@ -45,10 +45,11 @@
 }
 
 #loader noscript p{
-	margin-top:-170px;
+	margin-top:-250px;
 	margin-left:-30px;
 	border:1px solid #fff;
 	width:340px;
 	padding:20px;
+	font-size: 16px;
+	line-height: 1.5;
 }
-
