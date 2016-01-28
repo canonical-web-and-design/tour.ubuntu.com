@@ -1,6 +1,2407 @@
-<!DOCTYPE html><html lang="en" dir="ltr"><head><title>Ubuntu online tour</title><link rel="shortcut icon" href="../favicon.ico" type="image/x-icon"><meta charset="UTF-8"><meta name="description" content="Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Take Ubuntu for a test drive with our online tour and download when you're ready!"><meta name="keywords" content="ubuntu, ubuntu online, ubuntu tour"><link rel="stylesheet" href="../css/style.min.css" type="text/css"><!--[if IE 8]>
+<!DOCTYPE html><html lang="en" dir="ltr"><head><title>Ubuntu online tour</title><link rel="shortcut icon" href="../favicon.ico" type="image/x-icon"><meta charset="UTF-8"><meta name="description" content="Enjoy the simplicity of Ubuntu's stylish, intuitive interface. Take Ubuntu for a test drive with our online tour and download when you're ready!"><meta name="keywords" content="ubuntu, ubuntu online, ubuntu tour"><style type="text/css">body {
+  overflow: hidden;
+}
+
+#top #top-right div,
+body {
+  overflow: hidden;
+}
+
+#control-buttons,
+#top #top-right div .drop-down {
+  display: none;
+}
+
+body {
+  background: url(/img/background.jpg) center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: Ubuntu,"Ubuntu Beta",Ubuntu,UbuntuBeta!important;
+  color: #fff;
+  overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  font-family: Ubuntu,"Ubuntu Beta",Ubuntu,UbuntuBeta;
+}
+
+#top {
+  background-image: url(/img/top-bg.jpg);
+  background-repeat: repeat-x;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 24px;
+  color: #DFDBD2;
+  z-index: 11;
+}
+
+#top #top-left #dash-control-buttons {
+  float: left;
+}
+
+#top.dropShadow {
+  -moz-box-shadow: 0 0 10px #000;
+  -webkit-box-shadow: 0 0 10px #000;
+  box-shadow: 0 0 10px #000;
+}
+
+#top #top-left {
+  float: left;
+}
+
+#top #top-right {
+  float: right;
+  font-size: 15px;
+}
+
+#top-left #title {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+#top #top-right div {
+  float: left;
+  padding: 0 8px;
+}
+
+#top #top-right div .drop-down {
+  list-style-type: none;
+  background: #464641;
+  padding: 0 5px;
+  margin-top: 0;
+  -moz-box-shadow: -1px 1px 5px #000;
+  -webkit-box-shadow: -1px 1px 5px #000;
+  box-shadow: -1px 1px 5px #000;
+  position: absolute;
+  z-index: 10;
+}
+
+#top #top-right div .drop-down li.disabled {
+  color: #666;
+}
+
+#top #top-right div .drop-down li .key-combo {
+  float: right;
+  color: #666;
+  background-color: transparent;
+}
+
+#top #top-right #power .drop-down {
+  margin-left: -232px;
+  width: 247px;
+}
+
+#top #top-right #time .drop-down {
+  width: 300px;
+  margin-left: -233px;
+  margin-top: 3px;
+}
+
+#top #top-right #message .drop-down {
+  margin-left: -45px;
+  margin-top: 0;
+  padding: 0;
+}
+
+#top #top-right #message .system-message {
+  background: url(/img/top/chat.jpg) no-repeat;
+  width: 136px;
+  height: 146px;
+  padding: 0;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+#top #top-right #speakers .drop-down {
+  width: 255px;
+  margin-left: -152px;
+}
+
+#top #top-right #connection .drop-down {
+  width: 219px;
+  margin-left: -75px;
+}
+
+#top #top-right #bluetooth .drop-down {
+  width: 208px;
+  margin-left: -45px;
+}
+
+#top #top-right #time p {
+  margin: 0;
+}
+
+#top #top-right #time .system-calendar {
+  background: url(/img/top/calendar.jpg) no-repeat;
+  width: 291px;
+  height: 292px;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+#top #top-right div ul {
+  list-style-position: inside;
+}
+
+#top #top-right div ul li {
+  height: 18px;
+  padding: 3px 3px 3px 15px;
+}
+
+#top #top-right div ul li img {
+  margin-left: -10px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+#top #top-right div ul li.divider {
+  height: 1px;
+  background: #3d3c39;
+  border-bottom: 1px solid #484844;
+  padding: 0;
+  margin: 4px 0;
+}
+
+#top #top-right #bluetooth,
+#top #top-right #connection,
+#top #top-right #message,
+#top #top-right #speakers {
+  padding-top: 4px;
+}
+
+#top #top-right #power {
+  padding-top: 2px;
+}
+
+#top #top-right #time {
+  padding-top: 3px;
+}
+
+#top #top-right #speakers div {
+  float: left;
+}
+
+#top #top-right #speakers .small-icon {
+  background: url(/img/top/0slider.jpg) no-repeat;
+  height: 15px;
+  width: 7px;
+  margin-top: 12px;
+}
+
+#top #top-right #speakers .system-volume {
+  height: 37px;
+  padding: 3px;
+}
+
+#top #top-right #speakers .banshee {
+  height: 43px;
+  padding-left: 50px;
+}
+
+#top #top-right #speakers .banshee .banshee-rewind {
+  background: url(/img/top/banshee-rewind.png) center center no-repeat #43423f;
+  height: 29px;
+  width: 52px;
+  margin-top: 7px;
+  -moz-border-radius: 14px 0 0 14px;
+  -webkit-border-radius: 14px 0 0 14px;
+  border-radius: 14px 0 0 14px;
+  border-top: 1px solid #64625b;
+  border-bottom: 1px solid #393836;
+}
+
+#top #top-right #speakers .banshee .banshee-play {
+  background: url(/img/top/banshee-play.png) center center no-repeat #43423f;
+  height: 43px;
+  width: 37px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  border-radius: 25px;
+  border-top: 1px solid #64625b;
+  border-bottom: 1px solid #393836;
+  margin-left: -100px;
+}
+
+#top #top-right #speakers .banshee .banshee-forward {
+  background: url(/img/top/banshee-forward.png) center center no-repeat #43423f;
+  height: 29px;
+  width: 52px;
+  margin-top: 7px;
+  -moz-border-radius: 0 14px 14px 0;
+  -webkit-border-radius: 0 14px 14px 0;
+  border-radius: 0 14px 14px 0;
+  border-top: 1px solid #64625b;
+  border-bottom: 1px solid #393836;
+  margin-left: 30px;
+}
+
+#top #top-right #speakers .slider {
+  width: 185px;
+  height: 17px;
+  float: left;
+  overflow: visible;
+  margin-top: 5px;
+  padding-top: 10px;
+}
+
+#top #top-right #speakers .slider-active {
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background: #dd4814;
+  height: 5px;
+  width: 60px;
+  margin-left: 26px;
+  margin-top: -15px;
+  position: relative;
+  z-index: 1;
+  padding: 0;
+}
+
+#top #top-right #speakers .large-icon {
+  background: url(/img/top/100slider.jpg) no-repeat;
+  height: 15px;
+  width: 7px;
+  float: right;
+  margin-top: 12px;
+}
+
+#top-left #title {
+  float: left;
+  color: #DFDBD2;
+  margin-left: 10px;
+  margin-top: 2px;
+}
+
+#control-buttons {
+  margin-top: 2px;
+  margin-left: 8px;
+  float: left;
+}
+
+#control-buttons div {
+  width: 19px;
+  height: 19px;
+  background-repeat: no-repeat;
+  float: left;
+  margin-right: 2px;
+}
+
+#control-buttons #close {
+  background-image: url(/img/close-button.jpg);
+}
+
+#control-buttons #min {
+  background-image: url(/img/min-button.jpg);
+}
+
+#control-buttons #max {
+  background-image: url(/img/max-button.jpg);
+}
+
+body {
+  font-size: 62.5%;
+}
+
+.dropShadow {
+  behavior: url(/css/pie/PIE.htc);
+}
+
+#loader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1001;
+  background-color: #210819;
+}
+
+#loader #dot-container {
+  position: absolute;
+  background: url(/img/loader/ubuntu-loader.gif) no-repeat;
+  width: 300px;
+  height: 169px;
+  top: 40%;
+  left: 40%;
+}</style><style type="text/css">#menu,
+body {
+  overflow: hidden;
+}
+
+#menu,
+#top #top-right div,
+.window-title,
+body {
+  overflow: hidden;
+}
+
+#control-buttons,
+#menu .temp,
+#menu ul li img.open-arrow,
+#menu ul li span,
+#tooltip,
+#top #top-right div .drop-down {
+  display: none;
+}
+
+body {
+  background: url(/img/background.jpg) center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: Ubuntu,"Ubuntu Beta",Ubuntu,UbuntuBeta!important;
+  color: #fff;
+  overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  font-family: Ubuntu,"Ubuntu Beta",Ubuntu,UbuntuBeta;
+}
+
+a {
+  outline: 0;
+  color: #DD4814;
+  text-decoration: none;
+}
+
+.window {
+  -moz-border-radius: 4px 4px 0 0;
+  -webkit-border-radius: 4px 4px 0 0;
+  -moz-box-shadow: 0 0 10px #000;
+  -webkit-box-shadow: 0 0 10px #000;
+  box-shadow: 0 0 10px #000;
+  position: absolute;
+  background: url(/img/folder/top-bg.jpg) repeat-x #f2f1f0;
+  color: #4C4C4C;
+  font-size: 14px;
+  z-index: 1;
+}
+
+input::-webkit-selection {
+  background: #f07746;
+  color: #fff;
+}
+
+textarea::-webkit-selection {
+  background: #f07746;
+  color: #fff;
+}
+
+input,
+textarea {
+  background-color: #fff;
+  border: 1px solid #ada9a5;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  padding: 2px;
+  font-family: Ubuntu,"Ubuntu Beta",UbuntuBeta,Ubuntu;
+}
+
+#menu {
+  background: #782220;
+  width: 64px;
+  position: absolute;
+  left: 0;
+  top: 24px;
+  border-right: 1px solid rgba(255,255,255,.2);
+  z-index: 10;
+}
+
+#menu .dash,
+#systemOverlay .copyDash {
+  background-image: url(/img/menu/icon-dash.png);
+}
+
+#tooltip {
+  z-index: 10;
+  height: 20px;
+  border: 1px solid #4a3742;
+  border-left: none;
+  position: absolute;
+  left: 82px;
+  padding: 3px 10px 2px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  -moz-box-shadow: 0 0 5px #000;
+  -webkit-box-shadow: 0 0 5px #000;
+}
+
+#tooltip #tooltip-text {
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.arrow-right,
+.shadow-arrow {
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right: 10px solid #1f171a;
+  margin-left: -20px;
+  float: left;
+}
+
+.shadow-arrow {
+  border-right: 12px solid #4a3742;
+  border-top: 12px solid transparent;
+  border-bottom: 12px solid transparent;
+  margin-left: -22px;
+  margin-top: -2px;
+}
+
+#menu ul {
+  margin-top: 6px;
+  padding-left: 5px;
+  position: absolute;
+  top: 0;
+  height: 100%;
+}
+
+#menu ul li {
+  list-style: none;
+  height: 54px;
+  width: 54px;
+  color: transparent;
+  padding-top: 6px;
+  margin-bottom: -1px;
+  background-repeat: no-repeat;
+}
+
+#menu ul li img.open-arrow {
+  margin-left: -7px;
+  margin-top: 17px;
+}
+
+#menu ul li img.selected-window-arrow {
+  display: none;
+  float: right;
+  margin-right: -6px;
+  margin-top: 17px;
+  position: relative;
+}
+
+#systemOverlay .copyDash {
+  position: absolute;
+  top: 30px;
+  left: 5px;
+  background-repeat: no-repeat;
+  height: 52px;
+  width: 52px;
+}
+
+#menu .home {
+  background-image: url(/img/menu/icon-folder.png);
+}
+
+#menu .firefox {
+  background-image: url(/img/menu/icon-firefox.png);
+}
+
+#menu .movieplayer {
+  background-image: url(/img/menu/icon-movieplayer.png);
+}
+
+#menu .shotwell {
+  background-image: url(/img/menu/icon-shotwell.png);
+}
+
+#menu .writer {
+  background-image: url(/img/menu/icon-writer.png);
+}
+
+#menu .impress {
+  background-image: url(/img/menu/icon-impress.png);
+}
+
+#menu .calc {
+  background-image: url(/img/menu/icon-calc.png);
+}
+
+#menu .amazon {
+  background-image: url(/img/menu/icon-amazon.png);
+}
+
+#menu .software {
+  background-image: url(/img/menu/icon-software.png);
+}
+
+#menu .settings {
+  background-image: url(/img/menu/icon-systemsettings.png);
+}
+
+#menu .email {
+  background-image: url(/img/menu/icon-thunderbird.png);
+}
+
+#menu .rubbish {
+  background-image: url(/img/menu/icon-trashempty.png);
+  position: absolute;
+}
+
+#menu .bottom {
+  bottom: 6px;
+}
+
+#top {
+  background-image: url(/img/top-bg.jpg);
+  background-repeat: repeat-x;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 24px;
+  color: #DFDBD2;
+  z-index: 11;
+}
+
+#top #top-left #dash-control-buttons {
+  float: left;
+}
+
+#top.dropShadow {
+  -moz-box-shadow: 0 0 10px #000;
+  -webkit-box-shadow: 0 0 10px #000;
+  box-shadow: 0 0 10px #000;
+}
+
+#top #top-left {
+  float: left;
+}
+
+#top #top-right {
+  float: right;
+  font-size: 15px;
+}
+
+#top-left #title,
+.window-title {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+#top #top-right div {
+  float: left;
+  padding: 0 8px;
+}
+
+#top #top-right div .drop-down {
+  list-style-type: none;
+  background: #464641;
+  padding: 0 5px;
+  margin-top: 0;
+  -moz-box-shadow: -1px 1px 5px #000;
+  -webkit-box-shadow: -1px 1px 5px #000;
+  box-shadow: -1px 1px 5px #000;
+  position: absolute;
+  z-index: 10;
+}
+
+#top #top-right div .drop-down li.disabled {
+  color: #666;
+}
+
+#top #top-right div .drop-down li .key-combo {
+  float: right;
+  color: #666;
+  background-color: transparent;
+}
+
+#top #top-right #power .drop-down {
+  margin-left: -232px;
+  width: 247px;
+}
+
+#top #top-right #time .drop-down {
+  width: 300px;
+  margin-left: -233px;
+  margin-top: 3px;
+}
+
+#top #top-right #message .drop-down {
+  margin-left: -45px;
+  margin-top: 0;
+  padding: 0;
+}
+
+#top #top-right #message .system-message {
+  background: url(/img/top/chat.jpg) no-repeat;
+  width: 136px;
+  height: 146px;
+  padding: 0;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+#top #top-right #speakers .drop-down {
+  width: 255px;
+  margin-left: -152px;
+}
+
+#top #top-right #connection .drop-down {
+  width: 219px;
+  margin-left: -75px;
+}
+
+#top #top-right #bluetooth .drop-down {
+  width: 208px;
+  margin-left: -45px;
+}
+
+#top #top-right #time p {
+  margin: 0;
+}
+
+#top #top-right #time .system-calendar {
+  background: url(/img/top/calendar.jpg) no-repeat;
+  width: 291px;
+  height: 292px;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+#top #top-right div ul {
+  list-style-position: inside;
+}
+
+#top #top-right div ul li {
+  height: 18px;
+  padding: 3px 3px 3px 15px;
+}
+
+#top #top-right div ul li img {
+  margin-left: -10px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+#top #top-right div ul li.divider {
+  height: 1px;
+  background: #3d3c39;
+  border-bottom: 1px solid #484844;
+  padding: 0;
+  margin: 4px 0;
+}
+
+#top #top-right #bluetooth,
+#top #top-right #connection,
+#top #top-right #message,
+#top #top-right #speakers {
+  padding-top: 4px;
+}
+
+#top #top-right #power {
+  padding-top: 2px;
+}
+
+#top #top-right #time {
+  padding-top: 3px;
+}
+
+#top #top-right #speakers div {
+  float: left;
+}
+
+#top #top-right #speakers .small-icon {
+  background: url(/img/top/0slider.jpg) no-repeat;
+  height: 15px;
+  width: 7px;
+  margin-top: 12px;
+}
+
+#top #top-right #speakers .system-volume {
+  height: 37px;
+  padding: 3px;
+}
+
+#top #top-right #speakers .banshee {
+  height: 43px;
+  padding-left: 50px;
+}
+
+#top #top-right #speakers .banshee .banshee-rewind {
+  background: url(/img/top/banshee-rewind.png) center center no-repeat #43423f;
+  height: 29px;
+  width: 52px;
+  margin-top: 7px;
+  -moz-border-radius: 14px 0 0 14px;
+  -webkit-border-radius: 14px 0 0 14px;
+  border-radius: 14px 0 0 14px;
+  border-top: 1px solid #64625b;
+  border-bottom: 1px solid #393836;
+}
+
+#top #top-right #speakers .banshee .banshee-play {
+  background: url(/img/top/banshee-play.png) center center no-repeat #43423f;
+  height: 43px;
+  width: 37px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  border-radius: 25px;
+  border-top: 1px solid #64625b;
+  border-bottom: 1px solid #393836;
+  margin-left: -100px;
+}
+
+#top #top-right #speakers .banshee .banshee-forward {
+  background: url(/img/top/banshee-forward.png) center center no-repeat #43423f;
+  height: 29px;
+  width: 52px;
+  margin-top: 7px;
+  -moz-border-radius: 0 14px 14px 0;
+  -webkit-border-radius: 0 14px 14px 0;
+  border-radius: 0 14px 14px 0;
+  border-top: 1px solid #64625b;
+  border-bottom: 1px solid #393836;
+  margin-left: 30px;
+}
+
+#top #top-right #speakers .slider {
+  width: 185px;
+  height: 17px;
+  float: left;
+  overflow: visible;
+  margin-top: 5px;
+  padding-top: 10px;
+}
+
+#top #top-right #speakers .slider-active {
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background: #dd4814;
+  height: 5px;
+  width: 60px;
+  margin-left: 26px;
+  margin-top: -15px;
+  position: relative;
+  z-index: 1;
+  padding: 0;
+}
+
+#top #top-right #speakers .large-icon {
+  background: url(/img/top/100slider.jpg) no-repeat;
+  height: 15px;
+  width: 7px;
+  float: right;
+  margin-top: 12px;
+}
+
+#top-left #title {
+  float: left;
+  color: #DFDBD2;
+  margin-left: 10px;
+  margin-top: 2px;
+}
+
+#control-buttons {
+  margin-top: 2px;
+  margin-left: 8px;
+  float: left;
+}
+
+#control-buttons div {
+  width: 19px;
+  height: 19px;
+  background-repeat: no-repeat;
+  float: left;
+  margin-right: 2px;
+}
+
+#control-buttons #close {
+  background-image: url(/img/close-button.jpg);
+}
+
+#control-buttons #min {
+  background-image: url(/img/min-button.jpg);
+}
+
+#control-buttons #max {
+  background-image: url(/img/max-button.jpg);
+}
+
+.folder {
+  width: 730px;
+  height: 500px;
+  top: 200px;
+  left: 600px;
+  display: none;
+}
+
+.control {
+  height: 21px;
+  margin-left: 10px;
+  margin-top: 6px;
+}
+
+.control .close,
+.control .max,
+.control .min {
+  height: 19px;
+  float: left;
+}
+
+.control .close {
+  background: url(/img/folder/close.jpg) no-repeat;
+  width: 18px;
+}
+
+.control .min {
+  background: url(/img/folder/minimise.jpg) no-repeat;
+  width: 19px;
+}
+
+.control .max {
+  background: url(/img/folder/maximise.jpg) no-repeat;
+  width: 17px;
+}
+
+.window-title {
+  color: #807d78;
+  float: left;
+  height: 18px;
+  margin-left: 10px;
+  max-width: 90%;
+}
+
+body {
+  font-size: 62.5%;
+}
+
+#email-window .email-contents .email-body .message-header .subject dd {
+  font-weight: 700;
+}
+
+.buttons div {
+  box-sizing: border-box;
+}
+
+.email-window {
+  height: 600px;
+  left: 640px;
+  top: 240px;
+  width: 900px;
+  display: none;
+}
+
+#email-window .email-get-mail,
+#email-window .email-write {
+  height: auto;
+  display: inline-block;
+  overflow: hidden;
+  font-size: 15px;
+}
+
+#email-window .email-get-mail {
+  background: url(/img/email/icons/get-mail.png) 5px 10px no-repeat;
+  min-width: 77px;
+  margin-left: 10px;
+  border: 1px solid transparent;
+  padding: 10px 10px 10px 31px;
+}
+
+#email-window .email-write {
+  background-image: url(/img/email/icons/write.png);
+  background-repeat: no-repeat;
+  background-position: 5px 10px;
+  border: 1px solid transparent;
+  padding: 9px 10px 10px 31px;
+}
+
+#email-window .email-divider,
+#email-write .email-divider {
+  height: 35px;
+  width: 16px;
+  overflow: hidden;
+  background: url(/img/email/divider.png) 8px 7px no-repeat;
+}
+
+#email-window .buttons {
+  width: 100%;
+  height: 42px;
+  margin-top: 6px;
+  background-color: #F2F1F0;
+}
+
+#email-window .buttons div,
+#email-write .buttons div {
+  float: left;
+}
+
+#email-window .bottom-buttons {
+  margin: 5px;
+}
+
+#email-window .email-content {
+  border-top: 1px solid #b8b4b0;
+}
+
+#email-window .folder-list {
+  float: left;
+}
+
+#email-window .list {
+  height: 470px;
+  background-color: #fff;
+  border: 1px solid #c4c1bd;
+  width: 180px;
+  margin-right: 4px;
+}
+
+#email-window .bottom-buttons {
+  height: 17px;
+}
+
+#email-window .email-contents {
+  float: left;
+  border-top: 0;
+  width: 710px;
+}
+
+#email-window .email-contents .email-categories {
+  width: 100%;
+  height: 26px;
+  background: url(/img/email/header-bg.jpg) repeat-x;
+  border-bottom: 1px solid #c4c1bd;
+  border-left: 1px solid #c4c1bd;
+}
+
+#email-window .email-contents .email-categories .subject {
+  width: 38%;
+}
+
+.email-categories .date,
+.email-categories .from {
+  width: 15%;
+}
+
+#email-window .email-contents .email-categories div {
+  float: left;
+  min-width: 25px;
+  border-right: 1px solid #c4c1bd;
+  height: 22px;
+  padding: 2px 5px;
+}
+
+#email-window .email-contents .email-list {
+  background: #fff;
+  border: 1px solid #c4c1bd;
+  border-top: 0;
+  width: 100%;
+  height: 175px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+#email-window .folder-list .list div {
+  padding: 1px 10px;
+  height: 20px;
+  border: 1px dotted transparent;
+}
+
+#email-window .folder-list .list div img {
+  vertical-align: middle;
+}
+
+#email-window .folder-list .list .selected {
+  background: #f07746;
+  border: 1px dashed #f3d982;
+  color: #fff;
+}
+
+#email-window .email-contents .email-body {
+  background: #fff;
+  border: 1px solid #c4c1bd;
+  width: 100%;
+  margin-top: 5px;
+  height: 288px;
+}
+
+#email-window .email-contents .email-body div {
+  display: none;
+}
+
+#email-window .email-contents .message-body {
+  padding: 10px;
+  overflow: scroll;
+  overflow-x: hidden;
+  height: 169px;
+}
+
+#email-window .email-contents .email-body .message-header {
+  background: #F2F1F0;
+  border-bottom: 1px solid #c4c1bd;
+}
+
+#email-window .email-contents .email-body .message-header dl {
+  margin: 0 0 5px;
+  padding: 0;
+}
+
+#email-window .email-contents .email-body .message-header dt {
+  display: inline-block;
+  width: 50px;
+  text-align: right;
+  margin-right: 10px;
+  color: #999;
+}
+
+#email-window .email-contents .email-body .message-header dl dd {
+  display: inline;
+  padding: 2px 5px;
+  color: #4c4c4c;
+}
+
+#email-window .email-contents .email-body .message-header .email-buttons {
+  float: right;
+  margin-bottom: 5px;
+}
+
+#email-window .email-contents .email-body .message-header .email-buttons div span {
+  height: 24px;
+  float: left;
+  padding-left: 26px;
+  font-size: 15px;
+  padding-top: 5px;
+  padding-right: 10px;
+  margin: 4px 10px 0 0;
+  position: relative;
+  display: inline-block;
+  background: linear-gradient(180deg,#F0F0F0 40%,#D1CFCF 80%);
+  border: 1px solid #A9A9A9;
+  border-radius: 5px;
+  box-shadow: 0 0 10px -5px #ADAAAA;
+}
+
+#email-window .email-contents .email-body .message-header .email-buttons span:before {
+  position: absolute;
+  top: 6px;
+  left: 8px;
+}
+
+#email-window .email-contents .email-body .message-header .email-buttons .message-reply:before {
+  content: url(/img/email/icons/reply.png);
+}
+
+#email-window .email-contents .email-body .message-header .email-buttons .message-forward:before {
+  content: url(/img/email/icons/forward.png);
+}
+
+#email-window .email-contents .email-body .message-header .email-buttons .message-archive:before {
+  content: url(/img/email/icons/archive.png);
+}
+
+#email-window .email-contents .email-body .message-header .email-buttons .message-junk:before {
+  content: url(/img/email/icons/junk.png);
+}
+
+#email-window .email-contents .email-body .message-header .email-buttons .message-delete:before {
+  content: url(/img/email/icons/delete.png);
+}
+
+#email-window .email-contents .email-body .message-header .date {
+  margin: 30px 10px 0;
+  float: right;
+}
+
+#email-window .email-contents .junk-mail-banner {
+  height: 34px;
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  padding-top: 5px;
+}
+
+#email-window .email-contents .junk-mail-banner img {
+  vertical-align: bottom;
+  margin-left: 10px;
+}
+
+#email-window .email-contents .junk-mail-banner .not-junk {
+  float: right;
+  background: url(/img/email/not-junk.jpg) no-repeat;
+  width: 76px;
+  height: 23px;
+  overflow: hidden;
+  margin-right: 10px;
+  color: #4C4C4C;
+  padding: 6px 0 0 16px;
+}
+
+#email-window .emails-info {
+  background: url(/img/email/connection.jpg) 5px center no-repeat;
+  width: 100%;
+  height: 27px;
+}
+
+#email-window .emails-info div {
+  float: right;
+  margin: 4px 20px 0 0;
+}
+
+#email-window .emails-info div #details-unread {
+  margin-right: 20px;
+}
+
+#email-write {
+  background: url(/img/folder/top-bg.jpg) repeat-x #F2F1F0;
+  border-radius: 4px 4px 0 0;
+  box-shadow: 0 0 10px #000;
+  color: #666;
+  font-size: 14px;
+  height: 610px;
+  left: 140px;
+  position: absolute;
+  top: 40px;
+  width: 900px;
+  display: none;
+}
+
+#email-write .buttons {
+  margin-top: -40px;
+  background: #3C3B37;
+  width: 100%;
+  height: 42px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+
+#email-write #write-attach,
+#email-write #write-send {
+  margin-left: 10px;
+  display: inline-block;
+  color: #DFDBD2;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: 10px;
+  width: auto;
+  padding: 7px 10px 10px 30px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+#email-write #write-send:before {
+  content: url(/img/email/icons/write-send-light.png);
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+#email-write #write-attach:before {
+  content: url(/img/email/icons/attach-light.png);
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+#write-from,
+#write-subject,
+#write-to {
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+
+#write-from div,
+#write-subject div,
+#write-to div {
+  float: left;
+  width: 60px;
+  color: #333;
+  padding-top: 5px;
+}
+
+#write-from input,
+#write-subject input,
+#write-to input {
+  width: 90%;
+}
+
+#write-body textarea {
+  width: 894px;
+  height: 350px;
+  box-sizing: border-box;
+  padding: 0 20px;
+}
+
+#email-write input {
+  height: 20px;
+  background-color: #fff;
+  border: 1px solid #ada9a5;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  padding: 2px;
+}
+
+#email-write .loading-bar {
+  background: #e5e3e1;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  height: 14px;
+  width: 96px;
+  float: right;
+  margin: 7px 20px 0 0;
+  border-top: 1px solid #bab6b2;
+  border-bottom: 1px solid #fefefe;
+}
+
+#email-write .loading-bar .progress {
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  height: 14px;
+  width: 0;
+  background: #dd4814;
+}
+
+#email-write .control {
+  margin-left: 0;
+  padding-bottom: 43px;
+  padding-left: 10px;
+}
+
+.error-window {
+  left: 0;
+  width: 600px;
+  top: 0;
+  display: none;
+  position: absolute;
+}
+
+.error-window .error-container {
+  padding: 63px 20px 20px;
+  background: url(/img/error/background-download.png) 0 -20px no-repeat #efedec;
+  color: #4c4c4c;
+}
+
+.error-window .control .close {
+  background: url(/img/error/close-button.png) no-repeat;
+}
+
+.error-window h1 {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 400;
+  max-width: 380px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.error-window h2 {
+  padding: 10px 0;
+  font-size: 16px;
+  font-weight: 400;
+  width: 320px;
+  margin-top: 50px;
+}
+
+.error-window .download {
+  padding: 10px 20px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  display: block;
+  float: right;
+  margin-top: 50px;
+  font-size: 14px;
+  text-decoration: none;
+  border: 1px solid #c0b7b0;
+  background: url(/img/welcome/background-link-download.png) center center repeat-x;
+  color: #fff;
+}
+
+#firefox-window .buttons .firefox-search input.fade-text {
+  color: #666;
+  font-style: italic;
+}
+
+#firefox-window {
+  width: 900px;
+  height: 600px;
+  top: 100px;
+  left: 400px;
+  display: none;
+}
+
+#firefox-window .buttons {
+  width: 100%;
+  height: 42px;
+  margin-top: 6px;
+}
+
+#firefox-window .buttons div {
+  float: left;
+}
+
+#firefox-window .buttons .firefox-back {
+  height: 36px;
+  width: 35px;
+  overflow: hidden;
+  background: url(/img/firefox/backward-button.jpg) no-repeat;
+}
+
+#firefox-window .buttons .firefox-forward {
+  height: 36px;
+  width: 35px;
+  overflow: hidden;
+  background: url(/img/firefox/forward-button.jpg) no-repeat;
+}
+
+#firefox-window .buttons input {
+  margin-top: 5px;
+  height: 20px;
+  background-color: #fff;
+  border: 1px solid #ada9a5;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  padding: 2px;
+}
+
+#firefox-window .buttons .firefox-url input {
+  width: 420px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+#firefox-window .buttons .firefox-search input {
+  width: 200px;
+  background: url(/img/firefox/search_icon.jpg) center right no-repeat #fff;
+}
+
+#firefox-window .firefox-internet .theIframe {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 73px;
+  z-index: 7;
+}
+
+#firefox-window .firefox-internet .theIframe iframe {
+  border: 0;
+}
+
+#firefox-window .firefox-internet .web-overlay-tran {
+  z-index: 8;
+  width: 100%;
+  height: 200px;
+  position: absolute;
+  left: 0;
+  top: 73px;
+}
+
+#firefoxInternet {
+  width: 100%;
+  height: 100%;
+}
+
+#folder-window .buttons {
+  width: 85px;
+  height: 36px;
+  margin: 1px;
+  float: left;
+}
+
+#folder-window .bottom-buttons {
+  background: url(/img/folder/image-nautilus-background.png) repeat-x;
+  height: 37px;
+  width: 100%;
+  border-bottom: 1px solid #d7d4d2;
+}
+
+#folder-window .buttons div {
+  float: left;
+}
+
+.folder .folder-list {
+  float: left;
+  border-right: 1px solid #dad8d5;
+}
+
+.folder .list {
+  height: 418px;
+  min-width: 144px;
+  display: inline-block;
+}
+
+.folder .list p {
+  font-weight: 700;
+  margin: 10px 0 0 20px;
+}
+
+.folder .list ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 5px;
+}
+
+.folder .list ul li {
+  padding-left: 45px;
+  vertical-align: middle;
+  height: 23px;
+  padding-top: 4px;
+  padding-right: 10px;
+}
+
+.folder .list ul li.home {
+  background: url(/img/folder/home-icon.png) 20px 5px no-repeat;
+}
+
+.folder .list ul li.desktop {
+  background: url(/img/folder/desktop-icon.png) 20px 5px no-repeat;
+}
+
+.folder .list ul li.documents {
+  background: url(/img/folder/documents-icon.png) 20px 5px no-repeat;
+}
+
+.folder .list ul li.downloads {
+  background: url(/img/folder/downloads-icon.png) 20px 5px no-repeat;
+}
+
+.folder .list ul li.music {
+  background: url(/img/folder/music-icon.png) 20px 5px no-repeat;
+}
+
+.folder .list ul li.pictures {
+  background: url(/img/folder/pictures-icon.png) 20px 5px no-repeat;
+}
+
+.folder .list ul li.videos {
+  background: url(/img/folder/videos-icon.png) 20px 5px no-repeat;
+}
+
+.folder .list ul li.selected {
+  color: #fff;
+  background-color: #ed7543;
+  background-position: 20px -16px;
+}
+
+#folder-window .buttons .folder-back {
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+  background: url(/img/folder/image-nautilus-back.png) 0 -33px no-repeat;
+}
+
+#folder-window .buttons .folder-forward {
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+  background: url(/img/folder/image-nautilus-forward.png) 0 -33px no-repeat;
+}
+
+#folder-window.window {
+  background-color: #e7e5e4;
+}
+
+.folder-flex-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.window {
+  border-radius: 4px;
+  behavior: url(/css/pie/PIE.htc);
+}
+
+#tooltip {
+  background: url(/img/black-bg-40.png);
+  behavior: url(/css/pie/PIE.htc);
+  box-shadow: none;
+}
+
+#tooltip .arrow-right {
+  margin-left: -15px;
+}
+
+.dropShadow {
+  behavior: url(/css/pie/PIE.htc);
+}
+
+#libreoffice-calc-window {
+  left: 431px;
+  top: 88px;
+  display: none;
+}
+
+#libreoffice-calc-window .content {
+  background: url(/img/librecalc.jpg) no-repeat;
+  width: 795px;
+  height: 534px;
+}
+
+#libreoffice-writer-window {
+  left: 431px;
+  top: 88px;
+  display: none;
+}
+
+#libreoffice-writer-window .content {
+  background: url(/img/librewriter.jpg) no-repeat;
+  width: 793px;
+  height: 532px;
+}
+
+#libreoffice-impress-window {
+  left: 431px;
+  top: 88px;
+  display: none;
+}
+
+#libreoffice-impress-window .content {
+  background: url(/img/libreimpress.jpg) no-repeat;
+  width: 793px;
+  height: 527px;
+}
+
+#loader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1001;
+  background-color: #210819;
+}
+
+#loader #dot-container {
+  position: absolute;
+  background: url(/img/loader/ubuntu-loader.gif) no-repeat;
+  width: 300px;
+  height: 169px;
+  top: 40%;
+  left: 40%;
+}
+
+#movieplayer {
+  width: 700px;
+  left: 317px;
+  top: 57px;
+  font-size: 15px;
+  display: none;
+}
+
+#movieplayer .container {
+  background-color: #000;
+  height: 100%;
+}
+
+#movieplayer .container .video {
+  background: url(/img/movieplayer/splash.jpg) center center no-repeat #000;
+  width: 100%;
+  height: 494px;
+}
+
+#shotwell {
+  width: 800px;
+  height: 550px;
+  top: 200px;
+  left: 600px;
+  font-size: 15px;
+  display: none;
+}
+
+#shotwell .sidebar {
+  float: left;
+  width: 215px;
+  margin-right: 10px;
+}
+
+#shotwell .details,
+#shotwell .nav {
+  border: 1px solid #bdbab7;
+  width: 100%;
+}
+
+#shotwell .nav {
+  height: 379px;
+  padding: 1px;
+  margin-bottom: 6px;
+}
+
+#shotwell .nav ul {
+  list-style: none;
+  padding: 5px 0 5px 10px;
+  margin: 0;
+  background: #dfdddb;
+}
+
+#shotwell .nav .library {
+  background: url(/img/shotwell/library-icon.png) 0 2px no-repeat;
+  padding-left: 20px;
+}
+
+#shotwell .details {
+  height: 93px;
+  font-weight: 700;
+  padding: 35px 1px 1px;
+}
+
+#shotwell .details div {
+  margin-bottom: 5px;
+}
+
+#shotwell .details span {
+  font-weight: 400;
+}
+
+#shotwell .container {
+  float: left;
+  width: 572px;
+  border-left: 1px solid #bdbab7;
+  padding: 1px;
+}
+
+#shotwell .container .images {
+  background: #434343;
+  width: 100%;
+  height: 478px;
+  overflow: auto;
+}
+
+#shotwell .container .tools {
+  height: 40px;
+  width: 100%;
+}
+
+#shotwell .container .tools .slider-container {
+  width: 250px;
+  float: right;
+  height: 20px;
+}
+
+#shotwell .container .tools .slider-container .small-icon {
+  width: 14px;
+  height: 25px;
+  background: url(/img/shotwell/slider-small.jpg) 0 10px no-repeat;
+  float: left;
+}
+
+#shotwell .container .tools .slider-container .slider {
+  width: 195px;
+  height: 40px;
+  float: left;
+  margin-top: 15px;
+}
+
+#shotwell .container .tools .slider-container .slider-active {
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background: #dd4814;
+  height: 3px;
+  margin-left: 15px;
+  margin-top: 17px;
+  position: relative;
+  width: 53px;
+  z-index: 1;
+}
+
+#shotwell .container .tools .slider-container .large-icon {
+  width: 14px;
+  height: 40px;
+  margin-left: 211px;
+  margin-top: -54px;
+  background: url(/img/shotwell/slider-large.jpg) 0 10px no-repeat;
+  float: left;
+}
+
+#shotwell .container .tools .jump-image {
+  float: right;
+  margin: 2px 5px;
+}
+
+#shotwell .container .tools .jump-image .prev {
+  height: 36px;
+  width: 35px;
+  overflow: hidden;
+  background: url(/img/firefox/backward-button.jpg) no-repeat;
+  float: right;
+}
+
+#shotwell .container .tools .jump-image .next {
+  height: 36px;
+  width: 35px;
+  overflow: hidden;
+  background: url(/img/firefox/forward-button.jpg) no-repeat;
+  float: right;
+}
+
+#shutdown-window {
+  width: 349px;
+  min-height: 155px;
+  top: 100px;
+  left: 400px;
+  display: none;
+}
+
+#shutdown-window .control .close {
+  background: url(/img/error/close-button.png) no-repeat;
+}
+
+#shutdown-window .content img {
+  float: left;
+  margin: 20px 20px 0 10px;
+}
+
+#shutdown-window .content .message p {
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+#shutdown-window .content .message {
+  float: left;
+  width: 275px;
+  height: 100%;
+}
+
+#shutdown-window .content .shutdown-buttons {
+  margin-right: 7px;
+  clear: both;
+}
+
+#shutdown-window .content .shutdown-buttons div {
+  text-align: center;
+  float: right;
+  width: 85px;
+  height: 23px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  border: 1px solid #a6a6a6;
+  margin-right: 8px;
+  padding-top: 4px;
+  margin-top: 20px;
+  background: url(/img/error/button-fade.png) repeat-x #dfdfdf;
+}
+
+#shutdown-window .content .shutdown-buttons div.highlight {
+  background-color: #f8ab8b;
+  text-shadow: 0 1px #fff;
+}
+
+#software-centre {
+  width: 800px;
+  height: 555px;
+  top: 200px;
+  left: 600px;
+  display: none;
+}
+
+#software-centre .top-panel {
+  width: 100%;
+  height: 65px;
+  background: url(/img/software-centre/top-bg.jpg) repeat-x;
+  color: #DFDBD2;
+  text-align: center;
+}
+
+#software-centre .top-panel div {
+  float: left;
+}
+
+#software-centre .top-panel .back {
+  width: 37px;
+  margin-top: 15px;
+  margin-left: 20px;
+  height: 32px;
+  background: url(/img/software-centre/back.jpg) center center no-repeat;
+}
+
+#software-centre .top-panel .forward {
+  width: 37px;
+  height: 32px;
+  margin-top: 15px;
+  background: url(/img/software-centre/forward.jpg) no-repeat;
+}
+
+#software-centre .top-panel .disabled {
+  background-position: 0 -64px!important;
+}
+
+#software-centre .top-panel img {
+  display: block;
+  margin: 0 auto;
+}
+
+#software-centre .container {
+  height: 460px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#software-centre .top-panel .all-software {
+  padding-top: 10px;
+  min-width: 98px;
+  height: 64px;
+  margin-left: 15px;
+  border-right: 1px solid #373631;
+  box-sizing: border-box;
+  padding-right: 8px;
+  padding-left: 8px;
+}
+
+#software-centre .top-panel .history,
+#software-centre .top-panel .installed {
+  padding-top: 10px;
+  width: 98px;
+  height: 54px;
+  color: #666;
+  margin-right: 10px;
+}
+
+#software-centre .top-panel .installed {
+  border-right: 1px solid #373631;
+}
+
+#software-centre .top-panel .selected {
+  background: url(/img/software-centre/top-bg-selected.jpg) repeat-x;
+}
+
+#software-centre .header-image {
+  width: 100%;
+  background: url(/img/software-centre/header.jpg) no-repeat #FFF;
+  height: 188px;
+  -moz-box-shadow: 0 1px 2px #888;
+  -webkit-box-shadow: 0 1px 2px #888;
+  box-shadow: 0 1px 2px #888;
+}
+
+#software-centre .header-image span {
+  display: block;
+  position: relative;
+  left: 241px;
+  top: 63px;
+  color: #dd4814;
+  font-size: 28px;
+}
+
+#software-centre .header-image .header-title {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 7px;
+  display: inline-block;
+  max-width: 500px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#software-centre .navigation,
+#software-centre .whats-new {
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  font-size: 12px;
+  float: left;
+}
+
+#software-centre .header-image .header-subtitle {
+  max-width: 500px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#software-centre .navigation {
+  width: 144px;
+  background: #fff;
+  border-radius: 10px;
+  border: 1px solid #a9a5a7;
+  margin-left: 15px;
+  margin-top: 10px;
+  height: 348px;
+  margin-bottom: 10px;
+  -moz-box-shadow: 0 2px 3px #888;
+  -webkit-box-shadow: 0 2px 3px #888;
+  box-shadow: 0 2px 3px #888;
+}
+
+#software-centre .navigation ul {
+  padding-left: 10px;
+  margin-top: 5px;
+  list-style: none;
+}
+
+#software-centre .navigation ul li {
+  margin-bottom: 10px;
+  color: #999;
+}
+
+#software-centre .whats-new {
+  width: 602px;
+  border-radius: 10px;
+  border: 1px solid #a9a5a7;
+  padding-bottom: 5px;
+  margin: 10px 0 0 10px;
+  -moz-box-shadow: 0 2px 3px #888;
+  -webkit-box-shadow: 0 2px 3px #888;
+  box-shadow: 0 2px 3px #888;
+}
+
+#software-centre .whats-new h2 {
+  width: 100%;
+  padding: 5px 0 0 5px;
+  height: 26px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  font-size: 14px;
+  overflow: hidden;
+  margin: 0;
+}
+
+#software-centre .whats-new .app-container div {
+  float: left;
+  height: 65px;
+  border-top: 1px solid #e7e4e6;
+  border-left: 1px solid #e7e4e6;
+  padding-left: 80px;
+  width: 119px;
+}
+
+#software-centre .whats-new .app-container div h3 {
+  margin: 3px 0 0;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+#software-centre .whats-new .app-container div p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#software-centre .whats-new .app-container div p.cost {
+  color: #999;
+}
+
+#software-centre .whats-new .app-container .chromium {
+  background: url(/img/software-centre/logo-chromium.png) 10px 8px no-repeat #fff;
+}
+
+#software-centre .whats-new .app-container .beep {
+  background: url(/img/software-centre/logo-beep.png) 10px 8px no-repeat #fff;
+}
+
+#software-centre .whats-new .app-container .inkscape {
+  background: url(/img/software-centre/logo-inkscape.png) 10px 8px no-repeat #fff;
+}
+
+#software-centre .whats-new .app-container .worldofgoo {
+  background: url(/img/software-centre/logo-world-of-goo.png) 10px 8px no-repeat #fff;
+}
+
+#software-centre .whats-new .app-container .blender {
+  background: url(/img/software-centre/logo-blender.png) 10px 8px no-repeat #fff;
+}
+
+#software-centre .whats-new .app-container .braid {
+  background: url(/img/software-centre/logo-braid.png) 10px 8px no-repeat #fff;
+}
+
+#software-centre .detailed {
+  display: none;
+}
+
+#software-centre .detailed img.app-image {
+  float: left;
+  padding: 0 5px;
+}
+
+#software-centre .detailed .title {
+  height: 110px;
+  margin: 0 10px;
+}
+
+#software-centre .detailed .title h1 {
+  margin-bottom: 5px;
+}
+
+#software-centre .detailed .title p {
+  margin: 0;
+}
+
+#software-centre .detailed .title .rating {
+  color: #999;
+  margin-top: 10px;
+}
+
+#software-centre .detailed .title .rating img {
+  vertical-align: top;
+}
+
+#software-centre .detailed .price {
+  margin: 0 10px 20px;
+  background: #f7f5f7;
+  border-top: 1px dotted #999;
+  border-bottom: 1px dotted #999;
+  padding: 10px 0;
+}
+
+#software-centre .detailed .price .theprice {
+  font-weight: 700;
+}
+
+#software-centre .detailed .description {
+  margin: 0 10px;
+}
+
+#software-centre .detailed .description-container {
+  border-bottom: 1px dotted #999;
+}
+
+#software-centre .detailed .description-image {
+  float: right;
+  padding: 4px;
+  margin: 10px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  border: 1px solid #b4b2b3;
+}
+
+#software-centre .detailed .button {
+  float: right;
+  margin-right: 20px;
+  background: url(/img/software-centre/install-button.jpg) repeat-x;
+  padding: 3px;
+  color: #666;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  border: 1px solid #b9b9b9;
+  margin-top: -3px;
+}
+
+#software-centre .loading-bar {
+  background: #e5e3e1;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  height: 20px;
+  width: 150px;
+  float: right;
+  border-top: 1px solid #bab6b2;
+  border-bottom: 1px solid #fefefe;
+}
+
+#software-centre .loading-bar .progress {
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  height: 20px;
+  width: 0;
+  background: #dd4814;
+}
+
+#systemOverlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-color: rgba(96,22,19,.7);
+  top: 0;
+  left: 0;
+  z-index: 12;
+  display: none;
+  font-size: 17px;
+  color: #fff;
+}
+
+#systemOverlay input {
+  background: url(/img/overlay/search-logo.png) 10px center no-repeat;
+  position: relative;
+  width: 88%;
+  height: 40px;
+  left: 90px;
+  top: 30px;
+  color: #eee;
+  font-style: italic;
+  padding: 0 50px;
+  font-size: 18px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  border: 1px solid #fff;
+  background-color: rgba(0,0,0,.2);
+  outline-style: none;
+}
+
+#systemOverlay img {
+  vertical-align: text-top;
+  margin-right: 8px;
+}
+
+#systemOverlay .app-container {
+  display: none;
+  position: absolute;
+  left: 110px;
+  top: 100px;
+  width: 91%;
+}
+
+#systemOverlay #overlayContents {
+  margin-top: 10px;
+}
+
+#systemOverlay #overlayContents .message {
+  min-height: 100%;
+  height: auto;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#systemOverlay #overlayContents .bottom {
+  margin-bottom: 20px;
+}
+
+#systemOverlay .app-container .app-list {
+  width: 100%;
+  height: 110px;
+  margin: 10px 20px;
+  overflow: hidden;
+}
+
+#systemOverlay #dash-bottom-bar {
+  width: 100%;
+  height: 44px;
+  position: absolute;
+  background: url(/img/black-bg-30.png);
+  background-color: rgba(0,0,0,.3);
+  bottom: 0;
+}
+
+#systemOverlay #dash-bottom-bar .bottom-wrapper div {
+  width: 60px;
+  height: 44px;
+  float: left;
+}
+
+#systemOverlay #dash-bottom-bar .bottom-wrapper div.last {
+  margin-right: 0;
+}
+
+#systemOverlay #dash-bottom-bar .bottom-wrapper {
+  position: absolute;
+}
+
+#systemOverlay #dash-bottom-bar .home-icon {
+  background: url(/img/dash/dash-home.png) 0 -44px no-repeat;
+}
+
+#systemOverlay #dash-bottom-bar .applications-icon {
+  background: url(/img/dash/dash-applications.png) 0 -44px no-repeat;
+}
+
+#systemOverlay #dash-bottom-bar .music-icon {
+  background: url(/img/dash/dash-music.png) 0 -44px no-repeat;
+}
+
+#systemOverlay #dash-bottom-bar .files-icon {
+  background: url(/img/dash/dash-files.png) 0 -44px no-repeat;
+}
+
+#systemOverlay #dash-bottom-bar .video-icon {
+  background: url(/img/dash/dash-video.png) 0 -44px no-repeat;
+}
+
+#systemOverlay #dash-bottom-bar .photos-icon {
+  background: url(/img/dash/dash-photos.png) 0 -44px no-repeat;
+}
+
+#systemOverlay #dash-bottom-bar .chat-icon {
+  background: url(/img/dash/dash-chat.png) 0 -44px no-repeat;
+}
+
+#systemOverlay #dash-bottom-bar div.active {
+  background-position: 0 0;
+}
+
+#systemOverlay #preview {
+  width: 800px;
+  position: absolute;
+}
+
+#systemOverlay #preview .image {
+  width: 400px;
+  float: left;
+}
+
+#systemOverlay #preview .buttons,
+#systemOverlay #preview .info {
+  width: 380px;
+  float: left;
+  padding-left: 20px;
+}
+
+#systemOverlay #preview .buttons a {
+  margin: 0 10px 10px 0;
+  display: block;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  width: 175px;
+  float: left;
+  border: 1px solid #999;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  color: #fff;
+}
+
+#ubuntuone-window {
+  width: 738px;
+  height: 555px;
+  top: 200px;
+  left: 600px;
+  display: none;
+}
+
+#ubuntuone-window .control .close {
+  background: url(/img/error/close-button.png) no-repeat;
+}
+
+#ubuntuone-window .content .header {
+  background: url(/img/ubuntuone/header.jpg) no-repeat;
+  width: 738px;
+  height: 190px;
+}
+
+#ubuntuone-window .content .body h1 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 32px;
+  margin-top: 15px;
+}
+
+#ubuntuone-window .content .body .features {
+  margin-left: 12px;
+  width: 440px;
+  float: left;
+  margin-top: 10px;
+}
+
+#ubuntuone-window .content .body .features .logo {
+  float: left;
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+#ubuntuone-window .content .body .features .files-anywhere .logo {
+  background: url(/img/ubuntuone/files-anywhere.jpg) no-repeat;
+  margin-top: 8px;
+}
+
+#ubuntuone-window .content .body .features .rock-out .logo {
+  background: url(/img/ubuntuone/rock-out.jpg) no-repeat;
+}
+
+#ubuntuone-window .content .body .features .keep-connected .logo {
+  background: url(/img/ubuntuone/keep-connected.jpg) no-repeat;
+}
+
+#ubuntuone-window .content .body .features .stay-productive .logo {
+  background: url(/img/ubuntuone/stay-productive.jpg) no-repeat;
+  margin-top: 4px;
+}
+
+#ubuntuone-window .content .body .features .files-anywhere {
+  width: 260px;
+}
+
+#ubuntuone-window .content .body .features h3 {
+  font-size: 14px;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-weight: 400;
+}
+
+#ubuntuone-window .content .body .features p {
+  color: #888;
+  margin-top: 0;
+  margin-bottom: 7px;
+}
+
+#ubuntuone-window .content .body .features .keep-connected div {
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+
+#ubuntuone-window .content .body .features .stay-productive div {
+  padding-top: 12px;
+  padding-bottom: 5px;
+}
+
+#ubuntuone-window .content .body .features .rock-out {
+  width: 360px;
+}
+
+#ubuntuone-window .content .body .ubuntuone-buttons {
+  float: right;
+  margin-right: 38px;
+  width: 180px;
+  margin-top: 40px;
+  color: #888;
+}
+
+#ubuntuone-window .content .body .ubuntuone-buttons .learn-more {
+  width: 180px;
+  height: 70px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  border: 1px solid #bdbab7;
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 15px;
+  background: url(/img/ubuntuone/learn-more-bg.jpg) repeat-x;
+}
+
+#ubuntuone-window .content .body .ubuntuone-buttons .join-now {
+  height: 60px;
+  width: 180px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  border: 1px solid #bdbab7;
+  text-align: center;
+  margin-bottom: 15px;
+  background: url(/img/ubuntuone/join-now-bg.jpg) repeat-x;
+}
+
+#ubuntuone-window .content .body .ubuntuone-buttons .join-now h2 {
+  margin-bottom: 4px;
+  font-weight: 400;
+  margin-top: 15px;
+  color: #4C4C4C;
+  font-size: 26px;
+}
+
+#ubuntuone-window .content .body .ubuntuone-buttons .have-account {
+  color: #dd4814;
+  text-decoration: underline;
+  border: 1px solid #F2F1F0;
+  padding: 4px 8px;
+}</style><script id="loadcss">(function(u,s){!function(e){"use strict";var n=function(n,t,o){var l,r=e.document,i=r.createElement("link");if(t)l=t;else{var a=(r.body||r.getElementsByTagName("head")[0]).childNodes;l=a[a.length-1]}var d=r.styleSheets;i.rel="stylesheet",i.href=n,i.media="only x",l.parentNode.insertBefore(i,t?l:l.nextSibling);var f=function(e){for(var n=i.href,t=d.length;t--;)if(d[t].href===n)return e();setTimeout(function(){f(e)})};return i.onloadcssdefined=f,f(function(){i.media=o||"all"}),i};"undefined"!=typeof module?module.exports=n:e.loadCSS=n}("undefined"!=typeof global?global:this);for(var i in u){loadCSS(u[i],s);}}(['../css/style.min.css','http://fonts.googleapis.com/css?family=Ubuntu:400,700'],document.getElementById("loadcss")));</script><noscript><link rel="stylesheet" href="../css/style.min.css" type="text/css"><link href="http://fonts.googleapis.com/css?family=Ubuntu:400,700" rel="stylesheet" type="text/css"></noscript><!--[if IE 8]>
 		<link rel="stylesheet" href="../css/iefix.css" type="text/css" />
-		<![endif]--><link href="http://fonts.googleapis.com/css?family=Ubuntu:400,700" rel="stylesheet" type="text/css"></head><body><div id="loader"><div id="dot-container"><noscript><p>This demo uses JavaScript. Either your browser doesn't support JavaScript, or it's currently switched off.<br><br>Don't panic. We've got <a href="http://www.ubuntu.com/desktop/take-the-tour-gallery">a non-JavaScript version</a> of the online tour you can view instead. :)</p></noscript></div></div><div id="top" class="dropShadow"><div id="top-left"><div id="control-buttons"><div id="close"></div><div id="min"></div><div id="max"></div></div><div id="dash-control-buttons"><div class="close"></div><div class="min"></div><div class="max"></div></div><div id="title"></div></div><div id="top-right"><div id="connection"><img src="../img/top/connection.png" alt=""><ul class="drop-down"><li class="disabled">Auto eth0</li><li class="disabled">Disconnect</li><li class="divider"></li><!--<li class="disabled"><img src="../img/top/wireless-icon.png" alt=""/> My Wireless Connection</li>
+		<![endif]--></head><body><div id="loader"><div id="dot-container"><noscript><p>This demo uses JavaScript. Either your browser doesn't support JavaScript, or it's currently switched off.<br><br>Don't panic. We've got <a href="http://www.ubuntu.com/desktop/take-the-tour-gallery">a non-JavaScript version</a> of the online tour you can view instead. :)</p></noscript></div></div><div id="top" class="dropShadow"><div id="top-left"><div id="control-buttons"><div id="close"></div><div id="min"></div><div id="max"></div></div><div id="dash-control-buttons"><div class="close"></div><div class="min"></div><div class="max"></div></div><div id="title"></div></div><div id="top-right"><div id="connection"><img src="../img/top/connection.png" alt=""><ul class="drop-down"><li class="disabled">Auto eth0</li><li class="disabled">Disconnect</li><li class="divider"></li><!--<li class="disabled"><img src="../img/top/wireless-icon.png" alt=""/> My Wireless Connection</li>
 						<li class="disabled">Disconnect</li>
 						<li class="divider"></li>--><li class="disabled">Connection Information</li><li class="disabled">Edit Connections…</li></ul></div><div id="bluetooth"><img src="../img/top/bluetooth.png" alt=""><ul class="drop-down"><li class="disabled bluetooth">Bluetooth On</li><li>Turn Off Bluetooth</li><li class="divider"></li><li class="disabled BtOn">Visible</li><li class="divider BtOn"></li><li class="disabled BtOn">Send files to device…</li><li class="disabled BtOn">Browse files on device…</li><li class="divider"></li><li class="disabled BtOn">Setup new device…</li><li class="divider BtOn"></li><li class="disabled">Preferences</li></ul></div><div id="message"><img src="../img/top/nomessage.jpg" class="message-logo" alt=""><ul class="drop-down"><li class="system-message"></li></ul></div><div id="speakers"><img src="../img/top/speakers3.png" class="speakers-logo" alt=""><ul class="drop-down"><li>Mute</li><li class="system-volume"><div class="large-icon"></div><div class="small-icon"></div><div class="slider"></div><div class="slider-active"></div></li><li class="divider"></li><li class="disabled"><img src="../img/top/rhythmbox.png" alt=""> Rhythmbox</li><li class="banshee"><div class="banshee-rewind"></div><div class="banshee-forward"></div><div class="banshee-play"></div></li><li class="divider"></li><li class="disabled">Sound Settings…</li></ul></div><div id="time"><p></p><ul class="drop-down"><li class="system-calendar"></li></ul></div><div id="power"><img src="../img/top/power.png" alt=""><ul class="drop-down"><li class="disabled">About This Computer</li><li class="disabled">Ubuntu Help</li><li class="divider"></li><li class="disabled">System Settings&hellip;</li><li class="divider"></li><li class="disabled">Lock <span class="key-combo">Ctrl+Alt+L</span></li><li class="disabled user">Guest Session</li><li class="divider"></li><li class="disabled">Logout</li><li class="divider"></li><li class="disabled">Suspend</li><li class="disabled">Restart&hellip;</li><li>Shut Down…</li></ul></div></div></div><div id="tooltip"><div class="shadow-arrow"></div><div class="arrow-right"></div><div id="tooltip-text"></div></div><div id="menu"><ul><li class="dash"><span>Dash home</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><li class="home"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""><span>Home Folder</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><li class="firefox"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""><span>Firefox Web Browser</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><li class="writer"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""><span>LibreOffice Writer</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><li class="calc"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""><span>LibreOffice Calc</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><li class="impress"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""><span>LibreOffice Impress</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><li class="software"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""><span>Ubuntu Software Centre</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><li class="amazon"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""><span>Amazon</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><li class="settings"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""><span>System Settings</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><li class="email temp"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""><span>Thunderbird Mail</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><li class="shotwell temp"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""><span>Shotwell Photo Manager</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><li class="movieplayer temp"><img src="../img/menu/open-arrow.png" class="open-arrow" alt=""><span>Movie Player</span><img src="../img/menu/selected-arrow.png" class="selected-window-arrow" alt=""></li><!--<li class="workspace"><span>Workspace Switcher</span></li>--><li class="rubbish bottom"><span>Rubbish bin</span></li></ul></div><div id="systemOverlay"><div class="copyDash"></div><div id="overlayContents"><input type="text" name="search" value="Search your computer and online sources"><div id="display-home" class="app-container"><div class="recent-apps bottom"><img src="../img/overlay/recentapps.png" alt=""> Applications<div class="app-list"></div></div><div class="recent-files bottom"><img src="../img/overlay/recentfiles.png" alt=""> Files &amp; Folders<div class="app-list"></div></div></div><div id="display-apps" class="app-container"><div class="frequently bottom"><img src="../img/overlay/recentapps.png" alt=""> Recently Used<div class="app-list"></div></div><div class="installed"><img src="../img/overlay/installed.png" alt=""> Installed<div class="app-list"></div></div></div><div id="display-find-files" class="app-container"><div class="files bottom"><img src="../img/overlay/recentfiles.png" alt=""> Recent<div class="app-list"></div></div><div class="downloads bottom"><img src="../img/overlay/downloaded.png" alt=""> Downloads<div class="app-list"></div></div><div class="folders"><img src="../img/overlay/folders.png" alt=""> Folders<div class="app-list"></div></div></div><div id="display-find-music" class="app-container"><div class="songs bottom"><img src="../img/overlay/folders.png" alt=""> Songs<div class="app-list"></div></div><div class="albums"><img src="../img/overlay/folders.png" alt=""> Albums<div class="app-list"></div></div></div><div id="display-find-video" class="app-container"><div class="videos bottom"><img src="../img/overlay/folders.png" alt=""> Videos<div class="app-list"></div></div></div><div id="display-find-photos" class="app-container"><div class="photos bottom"><img src="../img/overlay/folders.png" alt=""> My photos<div class="app-list"></div></div></div><div id="display-chat" class="app-container"><div class="message"><p>Sorry, there is nothing that matches your search</p></div></div><div id="display-search" class="app-container"><div class="applications bottom"><img src="../img/overlay/search-apps-logo.jpg" alt=""> Applications<div class="app-list"></div></div><div class="files"><img src="../img/overlay/search-files-logo.jpg" alt=""> Files &amp; Folders<div class="app-list"></div></div></div></div><div id="dash-bottom-bar"><div class="bottom-wrapper"><div class="home-icon active"></div><div class="applications-icon"></div><div class="files-icon"></div><div class="music-icon"></div><div class="video-icon"></div><div class="photos-icon"></div><div class="chat-icon last"></div></div></div><div id="preview"><div class="image"></div><div class="info"></div><div class="buttons"><a class="email">E-mail</a> <a class="showInFolder">Show in Folder</a> <a class="open">Open</a></div></div></div><div id="ubuntuone-window" class="uone window"><div class="control"><div class="close"></div><div class="window-title">Ubuntu One Control Panel</div></div><div class="content"><div class="header"></div><div class="body"><h1>The Power of Your Personal Cloud</h1><div class="features"><div class="files-anywhere"><span class="logo"></span><div><h3>Files Anywhere</h3><p>Backup and access your files from Ubuntu, Windows, Web or Mobile</p></div></div><div class="rock-out"><span class="logo"></span><div><h3>Rock Out</h3><p>Your entire collection follows you around with music streaming to Android and iPhone</p></div></div><div class="keep-connected"><span class="logo"></span><div><h3>Keep Connected</h3><p>Unify your contacts across Desktop, Mobile and Web</p></div></div><div class="stay-productive"><span class="logo"></span><div><h3>Stay Productive</h3><p>Keep your Firefox bookmarks and Tomboy notes synced</p></div></div></div><div class="ubuntuone-buttons"><div class="learn-more"><img src="../img/ubuntuone/ubuntuone-logo.jpg" width="47" height="48" alt=""><div>Learn More</div></div><div class="join-now"><h2>Join now</h2></div><div class="have-account">I already have an account!</div></div></div></div></div><div id="libreoffice-calc-window" class="calc window"><div class="control"><div class="close"></div><div class="min"></div><div class="max"></div><div class="window-title">Untitled 1 - LibreOffice Calc</div></div><div class="content"></div></div><div id="libreoffice-writer-window" class="writer window"><div class="control"><div class="close"></div><div class="min"></div><div class="max"></div><div class="window-title">Untitled 1 - LibreOffice Writer</div></div><div class="content"></div></div><div id="libreoffice-impress-window" class="impress window"><div class="control"><div class="close"></div><div class="min"></div><div class="max"></div><div class="window-title">Untitled 1 - LibreOffice Impress</div></div><div class="content"></div></div><div class="error-window window"><div class="control"><div class="close"></div><div class="window-title"></div></div><div class="error-container"><h1>Thanks for exploring Ubuntu!</h1><a class="download" href="http://www.ubuntu.com/download/ubuntu/download?utm_source=tour&utm_medium=online&utm_campaign=tour" target="_blank">Download Ubuntu</a><h2>Remember, this is just a demo. You'll have to download it to enjoy the real thing!</h2></div></div><!--<div id="error-window" class="error-window window">
 		<div class="control">
@@ -47,4 +2448,4 @@
 				Files Details - Music
 			--><p class="_Happiness_title_">Happiness</p><p class="_music_size_">3.3MB</p><p class="_music_date_">Weds 14 October, 2010</p><!--
 				Error Container
-			--><p class="_download_cta_">Download Ubuntu</p></div><script type="text/javascript" src="../js/jquery.min.js"></script><script type="text/javascript" src="../js/jquery-ui.min.js"></script><script async type="text/javascript" src="../js/script.min.js"></script></body></html>
+			--><p class="_download_cta_">Download Ubuntu</p></div><script src="//code.jquery.com/jquery-1.6.2.min.js"></script><script type="text/javascript" src="../js/jquery-ui.min.js"></script><script async type="text/javascript" src="../js/script.min.js"></script></body></html>
