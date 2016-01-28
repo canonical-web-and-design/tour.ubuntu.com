@@ -37,7 +37,7 @@ Usage: translate-html {--extract|--translate} [options]
       po-html/zh_CN.po     <- translation done by translators
       po-html/ca.po        <- another translation, naming: <ISO 639-2 code>.po
 
-    
+
 
 Options:
   --version        show program's version number and exit
@@ -52,10 +52,10 @@ Options:
                    mode. If set, untranslatable messages are translated as
                    reversed English, so that they are easy to spot.
 
-# Optimisation
+# Running the site
 
-To ensure the Online Tour is optimised for page weight doewnload and onload performance, 
-there is a Gulp task file included which peforms several tasks needed to run 
+To ensure the Online Tour is optimised for page weight download and onload performance,
+there is a Gulp task file included which performs several tasks needed to run
 the site.
 
 These are;
@@ -64,6 +64,7 @@ These are;
 * minify and concatenate the JS
 * compress the image files
 * minify the HTML
+* revision the CSS & JS
 
 To get started, install all the required node modules;
 
@@ -71,15 +72,10 @@ To get started, install all the required node modules;
 npm i
 ```
 
-Then run Gulp to peform the tasks specified above;
+Then run Gulp to perform the tasks specified above;
 
 ```
 gulp
 ```
 
-When complete, the tour should be ready.
-
-
-
-
-
+When complete, the tour should be ready - load up `en/index.html`
