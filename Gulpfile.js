@@ -2,7 +2,7 @@
 var gulp = require('gulp');
 var concat = require('gulp-concat');
 var minifyCSS = require('gulp-minify-css');
-var rename = require('gulp-rename');  
+var rename = require('gulp-rename');
 var uglify = require('gulp-uglify');
 var imagemin = require('gulp-imagemin');
 var pngquant = require('imagemin-pngquant');
@@ -69,4 +69,4 @@ gulp.task('html-minify', function() {
     .pipe(gulp.dest('en'))
 });
 
-gulp.task('default', ['css', 'js', 'img-min']);
+gulp.task('default', ['css', 'js', 'html-minify', 'img-min']);
