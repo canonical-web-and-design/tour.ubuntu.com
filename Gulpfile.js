@@ -7,6 +7,7 @@ var uglify = require('gulp-uglify');
 var imagemin = require('gulp-imagemin');
 var pngquant = require('imagemin-pngquant');
 var htmlmin = require('gulp-htmlmin');
+var critical = require('critical').stream;
 
 // css optimisation
 gulp.task('css', function(){
@@ -69,4 +70,11 @@ gulp.task('html-minify', function() {
     .pipe(gulp.dest('en'))
 });
 
-gulp.task('default', ['css', 'js', 'html-minify', 'img-min']);
+// Generate & Inline Critical-path CSS
+gulp.task('critical', function () {
+  return gulp.src('en/src/index.html')
+      .pipe(critical({base: 'en/src', inline: true, css: ['css/style.min.css']}))
+      .pipe(gulp.dest('en/src'));
+});
+
+gulp.task('default', ['css', 'js', 'img-min', 'critical', 'html-minify']);
