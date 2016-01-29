@@ -73,7 +73,7 @@ gulp.task('img-min', function(){
 
 // html minification
 gulp.task('html-minify', function() {
-  return gulp.src('en/src/*.html')
+  return gulp.src('en/src/index.html')
     .pipe(htmlmin({collapseWhitespace: true}))
     .pipe(gulp.dest('en'))
 });
