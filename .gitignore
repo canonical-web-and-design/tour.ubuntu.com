@@ -3,3 +3,5 @@
 *..DS_Store
 *.DS_Store
 node_modules
+js/script-*.min.js
+css/style-*.min.css
