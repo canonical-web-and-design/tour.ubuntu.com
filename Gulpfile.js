@@ -9,7 +9,7 @@ var inlinesource = require('gulp-inline-source');
 // html minification and inlining
 gulp.task('compress-html', function() {
   return gulp.src('*/index.html', {base: '.'})
-    .pipe(inlinesource({swallowErrors: true}))
+    .pipe(inlinesource())
     .pipe(htmlmin({collapseWhitespace: true}))
     .pipe(gulp.dest('.'));
 });
