@@ -54,28 +54,35 @@ Options:
 
 # Running the site
 
+The site is just flat HTML pages, so running the site is as easy as
+opening `en/index.html` with a browser, or running a simple server, e.g.:
+
+``` bash
+python -m SimpleHTTPServer 8000
+```
+
+And visiting <http://localhost:8000>.
+
+# Compressing the site
+
 To ensure the Online Tour is optimised for page weight download and onload performance,
-there is a Gulp task file included which performs several tasks needed to run
-the site.
+there are some Gulp tasks available:
 
-These are;
+* `compress-html`: Minify CSS and JS, and bundle it in with the HTML
+* `compress-images`: Optimise image files to make them smaller
+* `compress-all`: Run both of the above actions
 
-* minify and concatenate the CSS
-* minify and concatenate the JS
-* compress the image files
-* minify the HTML
-* revision the CSS & JS
+*NB:* `compress-html` will modify HTML files in-place, so you may lose any changes.
 
 To get started, install all the required node modules;
 
 ```
-npm i
+npm install
 ```
 
 Then run Gulp to perform the tasks specified above;
 
 ```
-gulp
+gulp {action}
 ```
 
-When complete, the tour should be ready - load up `en/index.html`
