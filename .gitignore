@@ -1,6 +1,65 @@
+# App-specific
 .project
 .settings
+
+# OS specific
 *..DS_Store
 *.DS_Store
+
+# Cache files
+*.pyc
+
+# Local node packages
 node_modules
 
+# Extra translated directories
+ar/
+az/
+bg/
+bs/
+ca/
+cs/
+de/
+el/
+en-AU/
+en-GB/
+eo/
+es/
+fa/
+fi/
+fo/
+fr/
+gl/
+gu/
+he/
+hu/
+id/
+it/
+ja/
+km/
+ko/
+lt/
+lv/
+ml/
+ms/
+my/
+nb/
+nl/
+oc/
+pl/
+pt-BR/
+pt/
+ro/
+ru/
+shn/
+si/
+sl/
+sq/
+sr/
+sv/
+ta/
+te/
+tr/
+ug/
+uk/
+uz/
