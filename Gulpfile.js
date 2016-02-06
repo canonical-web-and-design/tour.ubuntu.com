@@ -27,5 +27,3 @@ gulp.task('compress-images', function(){
     }))
     .pipe(gulp.dest('.'));
 });
-
-gulp.task('compress-all', ['compress-html', 'compress-images']);
