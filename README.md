@@ -1,8 +1,7 @@
-# tour.ubuntu.com - The Ubuntu online tour
+# [tour.ubuntu.com](http://tour.ubuntu.com)
 
-This is the code for [tour.ubuntu.com](http://tour.ubuntu.com),
-an in-browser demonstration
-of [Ubuntu for desktops](http://www.ubuntu.com/desktop).
+An interactive web demo of the latest version of
+[Ubuntu for desktops](http://www.ubuntu.com/desktop).
 
 ## Run the site locally
 
@@ -13,7 +12,7 @@ opening `en/index.html` with a browser, or running a simple server, e.g.:
 python -m SimpleHTTPServer 8000
 ```
 
-And visiting <http://localhost:8000>.
+And visiting <http://localhost:8000/en/>.
 
 ## Translate into other languages
 
@@ -26,8 +25,7 @@ First, install [python polib](https://pypi.python.org/pypi/polib)
 translate-html/bin/translate-html -t
 ```
 
-This will generate a set of folders, one for each available language,
-ready to publish online.
+This will generate translated versions of the `en/` folder for each available language.
 
 For further help using the translator, run `translate-html/bin/translate-html --help`.
 
