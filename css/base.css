@@ -834,3 +834,7 @@ input{
   overflow: hidden;
   max-width:90%;
 }
+
+.hide {
+  display: none;
+}
