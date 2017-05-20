@@ -5,14 +5,15 @@ An interactive web demo of the latest version of
 
 ## Run the site locally
 
-The site is just flat HTML pages, so running the site is as easy as
-opening `en/index.html` with a browser, or running a simple server, e.g.:
+The site is just flat HTML pages, so running the site is as easy as opening `en/index.html` with a browser.
+
+However, if you want to run a local server, first [install Docker](https://docs.docker.com/engine/installation/) (on Linux you may need to [add your user to the `docker` group](https://docs.docker.com/engine/installation/linux/linux-postinstall/)), and then use the `./run` script:
 
 ``` bash
-python -m SimpleHTTPServer 8000
+./run
 ```
 
-And visiting <http://localhost:8000/en/>.
+Once the containers are setup, you can visit <http://127.0.0.1:8012/en/> in your browser.
 
 ## Translate into other languages
 
@@ -31,11 +32,8 @@ For further help using the translator, run `translate-html/bin/translate-html --
 
 ## Compress the site files
 
-To ensure the Online Tour has optimal download page weight
-and in-browser performance, the tour is optimised on publishing, using `gulp`:
+To ensure the Online Tour has optimal download page weight and in-browser performance. To do this, install Docker as mentioned above, and run:
 
 ``` bash
-npm install           # First install required node modules
-gulp compress-html    # Minify HTML and bundle in optimised CSS and JS. NB: compresses HTML in-place
-gulp compress-images  # Optimise image files to make them smaller
+./run build
 ```
