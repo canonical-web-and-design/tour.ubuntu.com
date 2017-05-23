@@ -1,16 +1,44 @@
-# App-specific
-.project
-.settings
-
-# OS specific
-*..DS_Store
+# [os] OS & editor files
+Desktop.ini
+Thumbs.db
+._*
 *.DS_Store
+*~
+\#*\#
+__*
+.AppleDouble
+.LSOverride
+.spelling
 
-# Cache files
+# [cache] Cache and backup
+*.bak
 *.pyc
+*-cache/
 
-# Local node packages
-node_modules
+# [data] Local data
+*.sqlite*
+*.log
+logs/
+pids
+*.pid
+*.seed
+.*-metadata
+
+# [deps] Local dependencies
+.bundle/
+node_modules/
+bower_components/
+vendor/
+
+# [build] Build files
+/build/
+_site/
+
+# [env] Local environment settings
+.docker-project
+.envrc
+env/
+env3/
 
 # Extra translated directories
 ar/

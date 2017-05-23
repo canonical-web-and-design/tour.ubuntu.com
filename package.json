@@ -1,20 +1,22 @@
 {
   "name": "ubuntu-online-tour",
-  "version": "1.0.0",
   "description": "An online tour guiding the user through the main features of Ubuntu.",
-  "main": "en/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "http-server",
+    "build": "gulp compress-html compress-images",
+    "clean": "rm -rf node_modules yarn-error.log *.log *.sqlite"
   },
   "author": "",
-  "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-htmlmin": "^1.3.0",
     "gulp-imagemin": "^2.4.0",
     "gulp-inline-source": "^2.1.0",
-    "imagemin-pngquant": "^4.2.0"
+    "imagemin-pngquant": "^4.2.0",
+    "node-sass": "^4.5.3",
+    "sass-lint": "^1.10.2"
   },
   "dependencies": {
+    "http-server": "^0.10.0"
   }
 }
