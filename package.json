@@ -4,7 +4,9 @@
   "scripts": {
     "serve": "http-server",
     "build": "gulp compress-html compress-images",
-    "clean": "rm -rf node_modules yarn-error.log *.log *.sqlite"
+    "clean": "rm -rf node_modules yarn-error.log *.log *.sqlite",
+    "watch": "node-sass --include-path node_modules --source-map true --watch static/sass --output static/css",
+    "test": "sass-lint css/*.css --verbose --no-exit"
   },
   "author": "",
   "devDependencies": {

@@ -30,15 +30,16 @@ node_modules/
 bower_components/
 vendor/
 
-# [build] Build files
+# [build] Built files
 /build/
 _site/
+*.*.map
 
 # [env] Local environment settings
 .docker-project
 .envrc
 env/
-env3/
+env[23]/
 
 # Extra translated directories
 ar/
