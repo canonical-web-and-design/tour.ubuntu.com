@@ -1,3 +1,11 @@
+# Archived
+
+This project has been discontinued, and will be archived. This project hasn't been updated since Ubuntu 14.04, and we have no future plans to keep it up to date with the latest Ubuntu versions.
+
+The project will be taken down from https://tour.ubuntu.com, and that domain will be redirected to https://www.ubuntu.com/desktop/features. The code will remain here for the foreseeable future for posterity.
+
+---
+
 # [tour.ubuntu.com](http://tour.ubuntu.com)
 
 An interactive web demo of the latest version of
